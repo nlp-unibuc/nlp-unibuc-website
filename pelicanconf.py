@@ -16,6 +16,11 @@ SITESUBTITLE = SITESUBTITLE_LOC[DEFAULT_LANG]
 
 TYPOGRIFY = True
 
+# Disable feeds
+FEED_ALL_ATOM = None
+CATEGORY_FEED_ATOM = None
+TRANSLATION_FEED_ATOM = None
+
 # Blogroll
 LINKS = (('Github repository', 'http://github.org/nlp-unibuc'),
          ('Vlad Niculae', 'http://vene.ro'))
