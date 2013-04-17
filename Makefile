@@ -44,6 +44,7 @@ $(OUTPUTDIR)/%.html:
 
 clean:
 	find $(OUTPUTDIR) -mindepth 1 -delete
+	echo "*\n\n!.gitignore" > $(OUTPUTDIR)/.gitignore
 
 regenerate: clean
 	$(PELICAN) -r $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS)
