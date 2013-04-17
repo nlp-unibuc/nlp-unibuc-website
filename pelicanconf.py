@@ -17,15 +17,19 @@ SITESUBTITLE = SITESUBTITLE_LOC[DEFAULT_LANG]
 TYPOGRIFY = True
 
 # Blogroll
-LINKS = ()
+LINKS = (('Github repository', 'http://github.org/nlp-unibuc'),
+         ('Vlad Niculae', 'http://vene.ro'))
 
 # Social widget
 SOCIAL = ()
 
-DEFAULT_PAGINATION = False
 
 THEME = 'themes/clc1.0'
 
+DIRECT_TEMPLATES=('index', 'blog')
+PAGINATED_DIRECT_TEMPLATES=('index', 'blog')
+
+DEFAULT_PAGINATION = False
 ARTICLE_DIR = 'blog'
 ARTICLE_EXCLUDES = ()
 
@@ -37,3 +41,11 @@ PAGE_URL = '{slug}.html'
 PAGE_SAVE_AS = '{slug}.html'
 PAGE_LANG_URL = '{slug}-{lang}.html'
 PAGE_LANG_SAVE_AS = '{slug}-{lang}.html'
+CATEGORY_URL = 'blog/category/{slug}.html'
+CATEGORY_SAVE_AS = 'blog/category/{slug}.html'
+TAG_URL = 'blog/tag/{slug}.html'
+TAG_SAVE_AS = 'blog/tag/{slug}.html'
+BLOG_SAVE_AS = 'blog/index.html'
+
+DISPLAY_CATEGORIES_ON_MENU = False
+MENUITEMS = (('Blog', SITEURL + '/blog/'),)

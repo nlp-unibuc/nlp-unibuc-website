@@ -34,7 +34,5 @@ nosetests.xml
 .project
 .pydevproject
 
+*.pid
 *.swp
-
-# Pelican specific
-output/*

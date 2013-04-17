@@ -1,3 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Center for Computational Linguistics</title><link href="/" rel="alternate"></link><link href="/feeds/misc.atom.xml" rel="self"></link><id>/</id><updated>2012-02-15T00:00:00+02:00</updated><entry><title>Hello, NLP world!</title><link href="/blog/hello-nlp-world.html" rel="alternate"></link><updated>2012-02-15T00:00:00+02:00</updated><author><name>Vlad Niculae</name></author><id>tag:,2012-02-15:blog/hello-nlp-world.html</id><summary type="html">&lt;p&gt;Are all articles constrained to the blog format?  Can Pelican be used for more
-flexible pages?  Let&amp;#8217;s find&amp;nbsp;out!&lt;/p&gt;</summary></entry></feed>
