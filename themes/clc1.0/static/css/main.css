@@ -224,7 +224,7 @@ img.left, figure.left {float: left; margin: 0 2em 2em 0;}
 	background: #fff;
 	margin-bottom: 2em;
 	overflow: hidden;
-	padding: 20px;
+	padding: 0 20px;
 	width: 760px;
 	
 	border-radius: 10px;
@@ -240,8 +240,9 @@ img.left, figure.left {float: left; margin: 0 2em 2em 0;}
 }
 #featured figure img {display: block; float: right;}
 
-#featured h2 {color: #C74451; font-size: 1.714em; margin-bottom: 0.333em;}
+/*#featured h2 {color: #C74451; font-size: 1.714em; margin-bottom: 0.333em;}
 #featured h3 {font-size: 1.429em; margin-bottom: .5em;}
+*/
 
 #featured h3 a:link, #featured h3 a:visited {color: #000305; text-decoration: none;}
 #featured h3 a:hover, #featured h3 a:active {color: #fff;}
@@ -263,17 +264,28 @@ img.left, figure.left {float: left; margin: 0 2em 2em 0;}
 /*
 	Extras
 *****************/
-#extras {margin: 0 auto 3em auto; overflow: hidden;}
+#extras {
+    background: #fff;
+    overflow: hidden;
+    padding: 0 20px;
+    margin: 2em auto; 
+    width: 760px;
+	border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+
+}
 
 #extras ul {list-style: none; margin: 0;}
 #extras li {border-bottom: 1px solid #fff;}
-#extras h2 {
+/*#extras h2 {
 	color: #C74350;
-	font-size: 1.429em;
-	margin-bottom: .25em;
+	font-size: 1.429em; 
+	margin-bottom: .25em; 
 	padding: 0 3px;
 }
-
+*/
+/*
 #extras a:link, #extras a:visited {
 	color: #444;
 	display: block;
@@ -283,15 +295,13 @@ img.left, figure.left {float: left; margin: 0 2em 2em 0;}
 }
 
 #extras a:hover, #extras a:active {color: #fff;}
-
+*/
 	/* Blogroll */
 	#extras .blogroll {
 		float: left;
 		width: 615px;
 	}
-	
 	#extras .blogroll li {float: left; margin: 0 20px 0 0; width: 185px;}
-	
 	/* Social */
 	#extras .social {
 		float: right;
