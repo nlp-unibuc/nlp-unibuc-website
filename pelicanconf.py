@@ -28,10 +28,14 @@ LINKS = (('Github repository', 'http://github.org/nlp-unibuc'),
 # Social widget
 SOCIAL = ()
 
+# Plugins
+PLUGIN_PATH = 'plugins/'
+PLUGINS = ['pelican-bibtex']
+PUBLICATIONS_SRC = 'content/pubs.bib'
 
 THEME = 'themes/clc1.0'
 
-DIRECT_TEMPLATES = ('index', 'blog')
+DIRECT_TEMPLATES = ('index', 'blog', 'publications')
 PAGINATED_DIRECT_TEMPLATES = ('index', 'blog')
 
 DEFAULT_PAGINATION = False
@@ -53,4 +57,5 @@ TAG_SAVE_AS = 'blog/tag/{slug}.html'
 BLOG_SAVE_AS = 'blog/index.html'
 
 DISPLAY_CATEGORIES_ON_MENU = False
-MENUITEMS = (('Blog', SITEURL + '/blog/'),)
+MENUITEMS = (('Publications', '/publications.html'),
+             ('Blog', SITEURL + '/blog/'))
