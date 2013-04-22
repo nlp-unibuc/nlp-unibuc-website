@@ -175,7 +175,7 @@ def main():
     run_import(args[0], opts.branch, opts.mesg)
 
     if opts.push:
-        sp.check_call(['git', 'push', '--force', opts.remote])
+        sp.check_call(['git', 'push', opts.remote])
 
 
 if __name__ == '__main__':
