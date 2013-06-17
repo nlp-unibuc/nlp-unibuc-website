@@ -10,6 +10,7 @@ SITEURL = ''
 
 TIMEZONE = 'Europe/Bucharest'
 
+LOCALE = u'en'
 DEFAULT_LANG = u'en'
 SITENAME = SITENAME_LOC[DEFAULT_LANG]
 SITESUBTITLE = SITESUBTITLE_LOC[DEFAULT_LANG]
@@ -35,7 +36,7 @@ PUBLICATIONS_SRC = 'content/pubs.bib'
 
 THEME = 'themes/clc1.0'
 
-DIRECT_TEMPLATES = ('index', 'blog', 'publications')
+DIRECT_TEMPLATES = ('blog', 'publications')
 PAGINATED_DIRECT_TEMPLATES = ('index', 'blog')
 
 DEFAULT_PAGINATION = False
