@@ -18,10 +18,12 @@
     <ul>
     {% for key, text, bibtex, pdf, slides, poster in publications %}
     <li id="{{ key }}">{{ text }}
+    <p>
     [&nbsp;<a href="javascript:disp('{{ bibtex|replace('\n', '\\n')|escape }}');">Bibtex</a>&nbsp;]
     {% for label, target in [('PDF', pdf), ('Slides', slides), ('Poster', poster)] %}
     {{ "[&nbsp;<a href=\"%s\">%s</a>&nbsp;]" % (target, label) if target }}
     {% endfor %}  
+    </p>
     </li>
     {% endfor %}
     </ul>
