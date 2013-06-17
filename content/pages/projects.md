@@ -53,4 +53,20 @@ Title: Projects
 
 ### Involving group members
 
+-  Realizarea unei infrastructuri pentru baze de cunostinte multilingve privind
+   corespondente lingvistice intre limba romana si limbile de circulatie
+   internationala (LINCOR). PNCDI2, 2007.
+
+-  Conceptia, proiectarea si implementarea unui pachet de aplicatii lingvistice
+   pentru analiza si prelucrarea textelor scrise in limba romana (PALIROM).
+   PNCDI2, 2007.
+
+-  Sisteme Paralele De Automate Comunicante Pentru Modelarea Dialogului.
+   CEEX-ET, MedC-ANCS, 2005-2007.
+
+-  Sistem de criptare cu arhitectura de calcul paralela si chei evolutive.
+   Agentia Spatiala Romana, programul Securitate, 2005.
+
+-  Specificarea si managementul scenariilor de utilizare pentru simulari ale
+   sistemelor socio-tehnice. O abordare bazata pe teoria situatiilor. CNCSIS. 2004.
 
