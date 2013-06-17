@@ -334,13 +334,14 @@ img.left, figure.left {float: left; margin: 0 2em 2em 0;}
 #about {
 	background: #fff;
 	font-style: normal;
-	margin-bottom: 2em;
+    font-size: 0.8em;
+	margin-bottom: 1em;
 	overflow: hidden;
-	padding: 20px;
+	padding: 0.5em 20px;
 	text-align: left;
 	width: 760px;
 	
-	border-radius: 10px;
+	border-radius: 10em;
 	-moz-border-radius: 10px;
 	-webkit-border-radius: 10px;
 }
