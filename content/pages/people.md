@@ -1,6 +1,10 @@
 Title: People
 
-- Prof. Emil Ionescu
-- Asst. prof. Liviu P. Dinu
-- Asst. prof. Anca Dinu
+- Ana-Maria Barbu
+- Alina Maria Ciobanu
+- Anca Dinu
+- Liviu P. Dinu
+- Emil Ionescu
+- Vlad Niculae
+- Octavia-Maria Șulea
 
