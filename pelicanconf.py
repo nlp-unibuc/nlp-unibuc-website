@@ -23,8 +23,9 @@ CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 
 # Blogroll
-LINKS = (('Github repository', 'http://github.org/nlp-unibuc'),
-         ('Vlad Niculae', 'http://vene.ro'))
+LINKS = None
+#LINKS = (('Github repository', 'http://github.org/nlp-unibuc'),
+#        ('Vlad Niculae', 'http://vene.ro'))
 
 # Social widget
 SOCIAL = ()
