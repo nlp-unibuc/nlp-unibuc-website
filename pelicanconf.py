@@ -63,4 +63,4 @@ MENUITEMS = (('Publications', '/publications.html'),
              ('Blog', SITEURL + '/blog/'))
 
 # "static" files
-STATIC_PATHS = ['CNAME', ]
+STATIC_PATHS = ['CNAME', 'papers/']
