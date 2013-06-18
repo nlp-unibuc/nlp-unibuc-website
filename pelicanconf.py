@@ -61,3 +61,6 @@ BLOG_SAVE_AS = 'blog/index.html'
 DISPLAY_CATEGORIES_ON_MENU = False
 MENUITEMS = (('Publications', '/publications.html'),
              ('Blog', SITEURL + '/blog/'))
+
+# "static" files
+STATIC_PATHS = ['CNAME', ]
