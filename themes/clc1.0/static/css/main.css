@@ -54,7 +54,6 @@ a {outline: 0;}
 a img {border: 0px; text-decoration: none;}
 a:link, a:visited {
 	color: #4350C7;
-	padding: 0 1px;
 	text-decoration: none;
 }
 a:hover, a:active {
@@ -85,13 +84,15 @@ ol {
 
 .post-info {
     float:right;
-    margin:10px;
-    padding:5px;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding:0;
+    width: 300px;
 }
 
-.post-info p{
+/*.post-info p{
     margin-bottom: 1px;
-}
+}*/
 
 .readmore { float: right }
 
@@ -103,7 +104,7 @@ pre{background-color:  rgb(238, 238, 238); padding: 10px; margin: 10px; overflow
 
 /* Quotes */
 blockquote {
-    margin: 20px;
+    margin: 2em;
     font-style: italic;
 }
 cite {}
