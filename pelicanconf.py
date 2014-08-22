@@ -42,7 +42,7 @@ PAGINATED_DIRECT_TEMPLATES = ('index', 'blog')
 
 DEFAULT_PAGINATION = False
 ARTICLE_DIR = 'blog'
-ARTICLE_EXCLUDES = ()
+ARTICLE_EXCLUDES = []
 
 ARTICLE_URL = 'blog/{slug}.html'
 ARTICLE_SAVE_AS = 'blog/{slug}.html'
