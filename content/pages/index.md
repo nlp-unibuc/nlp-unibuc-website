@@ -29,3 +29,7 @@ in our investigations.
 We are interested in developing national and international projects, with
 theoretical and practical impact and in sharing common expertise and resources.
 
+## Contact
+
+ * Liviu P. Dinu, PhD, Asst. prof., (executive director), ldinu@fmi.unibuc.ro, +40761146148
+ * Emil Ionescu, PhD., Prof. (director), emilionescu@unibuc.ro
