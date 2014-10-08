@@ -1,11 +1,11 @@
 Title: People
 
-- Ana-Maria Barbu
-- Alina Maria Ciobanu
-- Anca Dinu
-- Liviu P. Dinu
-- Maria Teodora Dinu
-- Emil Ionescu
-- Vlad Niculae
-- Octavia-Maria Șulea
+- Ana-Maria Barbu (senior researcher)
+- Alina Maria Ciobanu (PhD student)
+- Anca Dinu (senior lecturer)
+- Liviu P. Dinu (asst. professor)
+- Maria Teodora Dinu (zeroth grade)
+- Emil Ionescu (professor)
+- Vlad Niculae (PhD student)
+- Octavia-Maria Șulea (PhD student)
 
