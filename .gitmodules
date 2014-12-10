@@ -1,0 +1,3 @@
+[submodule "plugins/pelican-bibtex"]
+	path = plugins/pelican-bibtex
+	url = git://github.com/vene/pelican-bibtex.git
