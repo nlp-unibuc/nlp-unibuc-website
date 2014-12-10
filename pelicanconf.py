@@ -59,8 +59,14 @@ TAG_SAVE_AS = 'blog/tag/{slug}.html'
 BLOG_SAVE_AS = 'blog/index.html'
 
 DISPLAY_CATEGORIES_ON_MENU = False
-MENUITEMS = (('Publications', '/publications.html'),
-             ('News', SITEURL + '/blog/'))
+DISPLAY_PAGES_ON_MENU = False
+MENUITEMS = (
+    # ('News', SITEURL + '/blog/'),  # siteurl not needed?
+    ('News', '/blog/'),
+    ('People', '/people.html'),
+    ('Projects', '/projects.html'),
+    ('Publications', '/publications.html'),
+)
 
 # "static" files
 STATIC_PATHS = ['CNAME', 'papers/', 'resources/']
