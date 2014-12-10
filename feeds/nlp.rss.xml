@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Center for Computational Linguistics</title><link>/</link><description>University of Bucharest</description><atom:link href="/feeds%5Cnlp.rss.xml" rel="self"></atom:link><lastBuildDate>Mon, 28 Apr 2014 12:00:00 +0300</lastBuildDate><item><title>Best short paper award at EACL 2014 for Andrei Olariu</title><link>/blog/best-short-paper-award-at-eacl-2014-for-andrei-olariu.html</link><description>&lt;p&gt;&lt;a href="http://andrei.olariu.org"&gt;Andrei Olariu&lt;/a&gt;&amp;#8216;s paper,
+&lt;a href="http://webmining.olariu.org/online-summarization-of-microblogging-streams-my-paper-at-eacl-2014/"&gt;Efficient Online Summarization of Microblogging
+Streams&lt;/a&gt;,
+has been awarded the best short paper award at &lt;span class="caps"&gt;EACL&lt;/span&gt; 2014. Congratulations,&amp;nbsp;Andrei!&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">nlp</dc:creator><pubDate>Mon, 28 Apr 2014 12:00:00 +0300</pubDate><guid>tag:,2014-04-28:blog/best-short-paper-award-at-eacl-2014-for-andrei-olariu.html</guid><category>twitter summarization</category></item><item><title>Paper accepted at ACL 2014</title><link>/blog/paper-accepted-at-acl-2014.html</link><description>&lt;p&gt;Our paper, Automatic Detection of Cognates Using Orthographic Alignment, by
+Alina Maria Ciobanu and Liviu P. Dinu, has been accepted as a short paper in
+&lt;span class="caps"&gt;ACL&lt;/span&gt;&amp;nbsp;2014.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">nlp</dc:creator><pubDate>Fri, 18 Apr 2014 12:00:00 +0300</pubDate><guid>tag:,2014-04-18:blog/paper-accepted-at-acl-2014.html</guid><category>cognates</category><category>orthographic alignment</category></item><item><title>Four papers accepted at EACL 2014 and collocated workshops</title><link>/blog/four-papers-accepted-at-eacl-2014-and-collocated-workshops.html</link><description>&lt;p&gt;The following papers will be presented at &lt;span class="caps"&gt;EACL&lt;/span&gt;&amp;nbsp;2014:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Efficient Online Summarization of Microblogging Streams, by Andrei&amp;nbsp;Olariu&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Predicting Romanian Stress Assignment, by Alina Maria Ciobanu, Anca Dinu and
+   Liviu P.&amp;nbsp;Dinu&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Temporal Text Ranking and Automatic Dating of Texts, by Vlad Niculae,
+ Marcos Zampieri, Liviu P. Dinu and Alina Maria&amp;nbsp;Ciobanu&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;A Quantitative Insight into the Impact of Translation on Readability,
+ by Alina Maria Ciobanu and Liviu P. Dinu (&lt;span class="caps"&gt;PITR&lt;/span&gt;&amp;nbsp;workshop)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;On the Syllabic Structure of Aromanian, by Sergiu Nisioi (&lt;span class="caps"&gt;LATECH&lt;/span&gt;&amp;nbsp;workshop)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">nlp</dc:creator><pubDate>Sat, 01 Mar 2014 12:00:00 +0200</pubDate><guid>tag:,2014-03-01:blog/four-papers-accepted-at-eacl-2014-and-collocated-workshops.html</guid><category>syllabic structure</category><category>stress</category><category>aromanian</category><category>cognates</category><category>translation</category><category>readability</category></item><item><title>Four papers accepted at LREC 2014</title><link>/blog/four-papers-accepted-at-lrec-2014.html</link><description>&lt;p&gt;The following papers have been accepted at &lt;span class="caps"&gt;LREC&lt;/span&gt;&amp;nbsp;2014:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Building a Dataset of Multilingual Cognates for the Romanian Lexicon,
+ by Alina Maria Ciobanu and Liviu P.&amp;nbsp;Dinu&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;On the Romance Languages Mutual Intelligibility, by Alina Maria Ciobanu and
+   Liviu P.&amp;nbsp;Dinu&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Using a Machine Learning Model To Assess the Complexity of Stress Systems,
+ by Alina Maria Ciobanu, Liviu P. Dinu, Ioana Chițoran and Vlad&amp;nbsp;Niculae&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Aggregation Methods for Efficient Collocation Detection,
+ by Anca Dinu, Liviu P. Dinu and Ionuț&amp;nbsp;Sodoroc&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">nlp</dc:creator><pubDate>Mon, 27 Jan 2014 12:00:00 +0200</pubDate><guid>tag:,2014-01-27:blog/four-papers-accepted-at-lrec-2014.html</guid><category>corpora</category><category>resources</category><category>intelligibility</category><category>stress</category><category>collocations</category></item><item><title>Paper accepted at ECIR 2014</title><link>/blog/paper-accepted-at-ecir-2014.html</link><description>&lt;p&gt;The folowing paper has been accepted at &lt;a href="http://ecir2014.org/"&gt;&lt;span class="caps"&gt;ECIR&lt;/span&gt; 2014&lt;/a&gt;:&lt;/p&gt;
+&lt;p&gt;CiteSeerX: A Scholarly Big Dataset, by: Cornelia Caragea,  Jian Wu, Alina
+Ciobanu, Kyle Williams, Juan Fernandez-Ramirez, Hung-Hsuan Chen, Zhaohui Wu,
+and C. Lee&amp;nbsp;Giles&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">nlp</dc:creator><pubDate>Mon, 13 Jan 2014 12:00:00 +0200</pubDate><guid>tag:,2014-01-13:blog/paper-accepted-at-ecir-2014.html</guid></item><item><title>Two papers accepted at JSSP 2013</title><link>/blog/two-papers-accepted-at-jssp-2013.html</link><description>&lt;p&gt;The following papers have been accepted at &lt;a href="http://jssp2013.fbk.eu"&gt;&lt;span class="caps"&gt;JSSP&lt;/span&gt; 2013&lt;/a&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href="papers/ciobanu13b.pdf"&gt;Alternative Measures of Word Relatedness in Distributional Semantics&lt;/a&gt;, by
+ Alina Maria Ciobanu and Anca&amp;nbsp;Dinu&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href="papers/niculae13b.pdf"&gt;Comparison Pattern Matching and Creative Simile
+   Recognition&lt;/a&gt;, by
+ Vlad&amp;nbsp;Niculae&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">nlp</dc:creator><pubDate>Fri, 01 Nov 2013 12:00:00 +0200</pubDate><guid>tag:,2013-11-01:blog/two-papers-accepted-at-jssp-2013.html</guid><category>distributional semantics</category><category>word relatedness</category><category>comparisons</category><category>similes</category></item></channel></rss>
