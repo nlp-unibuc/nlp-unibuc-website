@@ -1,4 +1,4 @@
-Title: Liviu P. Dinu
+﻿Title: Liviu P. Dinu
 Slug: people/liviu
 
 ## Bio
@@ -7,6 +7,8 @@ Slug: people/liviu
 Bucharest.
 - Executive director, Center for Computational Linguistics, University of
 Bucharest
+- Habilitation (2014), Ph. D. (2003) and Bachelors (1994), Faculty of Mathematics
+ and Computer Science, University of Bucharest
 
 ## Recent publications
 (for more, visit our full [publications](/publications.html) list.)
