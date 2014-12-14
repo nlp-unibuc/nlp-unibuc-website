@@ -7,7 +7,7 @@ Slug: people/liviu
 Bucharest.
 - Executive director, Center for Computational Linguistics, University of
 Bucharest
-- Habilitation (2014), Ph. D. (2003) and Bachelors (1994), Faculty of Mathematics
+- Dr. habil. (2014), PhD. (2003, supervisor Solomon Marcus) and Bachelors (1994), Faculty of Mathematics
  and Computer Science, Computer Science Department, University of Bucharest.
 
 # Awards
@@ -16,20 +16,20 @@ Bucharest
 National Research Council for Higher Education, Romania, 2005.
 
 #Research interests
--Computational linguistics, natural language processing, information processing, aggregation and categorization methods, DNA similarity
+- Computational linguistics, natural language processing, information processing, aggregation and categorization methods, DNA similarity
 
 # Publications
 (for more, visit [dblp](http://www.informatik.uni-trier.de/~ley/pers/hd/d/Dinu:Liviu_P=), [scholar](http://scholar.google.ro/citations?user=2SHcMNAAAAAJ&hl=en&oi=ao) or our full [publications](/publications.html) list.)
 
 ## 2014
-1. Alina Maria Ciobanu, Liviu P. Dinu, 2014. An Etymological Approach to CrossLanguage
-Orthographic Similarity. Application on Romanian. In Proc. EMNLP 2014
+1. Alina Maria Ciobanu, Liviu P. Dinu, 2014. [An Etymological Approach to CrossLanguage
+Orthographic Similarity. Application on Romanian](http://aclweb.org/anthology/D/D14/D14-1112.pdf). In Proc. EMNLP 2014
 (Conference on Empirical Methods in Natural Language Processing), October 25–29,
-2014, Doha, Qatar.[paper](http://aclweb.org/anthology/D/D14/D14-1112.pdf), [presentation](http://emnlp2014.org/material/presentation-EMNLP2014112.pdf), [video](https://www.youtube.com/watch?v=AeaCcPUK4Qk&feature=youtu.be)
-1. Alina Maria Ciobanu, Liviu P. Dinu, 2014. Automatic Detection of Cognates Using
-Orthographic Alignment. In Proc. ACL (2) 2014 (the 52nd Annual Meeting of the 
+2014, Doha, Qatar.[[pdf]](http://aclweb.org/anthology/D/D14/D14-1112.pdf), [[slide]](http://emnlp2014.org/material/presentation-EMNLP2014112.pdf), [[video]](https://www.youtube.com/watch?v=AeaCcPUK4Qk&feature=youtu.be)
+1. Alina Maria Ciobanu, Liviu P. Dinu, 2014. [Automatic Detection of Cognates Using
+Orthographic Alignment](http://aclweb.org/anthology/P/P14/P14-2017.pdf). In Proc. ACL (2) 2014 (the 52nd Annual Meeting of the 
 Association for Computational Linguistics), June 22-27, 2014, Baltimore, MD, USA, p.
-99-105. [paper](http://aclweb.org/anthology/P/P14/P14-2017.pdf)
+99-105. [[pdf]](http://aclweb.org/anthology/P/P14/P14-2017.pdf)
 1. Alina Maria Ciobanu, Anca Dinu, and Liviu Dinu. Predicting romanian stress
   assignment. In Proceedings of the 14th Conference of the European Chapter of
   the Association for Computational Linguistics, volume 2: Short Papers, 64–68.
@@ -339,7 +339,7 @@ Detector Microstrip cu Siliciu pentru Electroni Rapizi la Fluente Mari. In Proc.
 Colocviu National de Fizica si Tehnologia Materialelor Cristaline si Amorfe, Iasi, 13-14
 iunie 1996, Romania, p.226-227.
 
-#Books and chapters in books:
+# Books and chapters in books:
 ## Books:
 1. Liviu P. Dinu, 2004. Metode Formale si de Clasificare in Lingvistica Matematica
 si Computationala. Editura Universitatii din Bucuresti, 2004, Romania (ISBN
@@ -366,7 +366,7 @@ Skiadas. Publisher: World Scientific Publishing Co Pte Ltd., (ISBN -13 978-
 981-270-968-4, ISBN-10 981-270-968-1), p. 521-529.
 
 
-#Funded research projects
+# Funded research projects
 ## Project manager:
 1. Euromobil 2. A multi-media language learning programme to support student mobility
 (FR,CH, PL, PT, FI, RO).Project 225825-CP-1-2005-1-FR-LINGUA-L2, funded by the

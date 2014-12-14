@@ -10,4 +10,6 @@
 - Octavia-Maria Șulea (PhD student)
 
 # External collaborators
-- [Cristian Danescu-Niculescu Mizil](http://www.mpi-sws.org/~cristian/)
+- [Cristian Danescu-Niculescu Mizil](http://www.mpi-sws.org/~cristian/) (Cornell University)
+- [Andera Sgarro](http://www.dmi.units.it/~sgarro/) (University of Trieste)
+- [Cornelia Caragea](http://www.cse.unt.edu/~ccaragea/research.html) (University of North Texas)
