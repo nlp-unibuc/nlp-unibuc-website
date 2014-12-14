@@ -11,5 +11,5 @@
 
 # External collaborators
 - [Cristian Danescu-Niculescu Mizil](http://www.mpi-sws.org/~cristian/) (Cornell University)
-- [Andera Sgarro](http://www.dmi.units.it/~sgarro/) (University of Trieste)
+- [Andrea Sgarro](http://www.dmi.units.it/~sgarro/) (University of Trieste)
 - [Cornelia Caragea](http://www.cse.unt.edu/~ccaragea/research.html) (University of North Texas)
