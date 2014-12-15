@@ -1,21 +1,23 @@
 ﻿Title: Liviu P. Dinu 
 Slug: people/liviu
 
+<a href="#FundedProjects">Funded Projects</a>
+
 # Bio
 
-- Associate professor, Faculty of Mathematics and Computer Science, Computer Science Department, University of
+- Associate professor, [Faculty of Mathematics and Computer Science](http://fmi.unibuc.ro/ro/), Computer Science Department, University of
 Bucharest.
-- Executive director, Center for Computational Linguistics, University of
+- Executive director, [Center for Computational Linguistics](http://nlp.unibuc.ro/), University of
 Bucharest
 - Dr. habil. (2014), PhD. (2003, supervisor Solomon Marcus) and Bachelors (1994), Faculty of Mathematics
  and Computer Science, Computer Science Department, University of Bucharest.
 
 # Awards
-- Grigore C. Moisil Prize, awarded by the Romanian Academy, Romania, 2007 (for 2005).
+- Grigore C. Moisil Prize, awarded by the [Romanian Academy](http://acad.ro/), Romania, 2007 (for 2005).
 - In Hoc Signo Vinces Prize (Magna Cum Laude), for research and publications awarded by the
 National Research Council for Higher Education, Romania, 2005.
 
-#Research interests
+# Research interests
 - Computational linguistics, natural language processing, information processing, aggregation and categorization methods, DNA similarity
 
 # Publications
@@ -30,16 +32,16 @@ Orthographic Similarity. Application on Romanian](http://aclweb.org/anthology/D/
 Orthographic Alignment](http://aclweb.org/anthology/P/P14/P14-2017.pdf). In Proc. ACL (2) 2014 (the 52nd Annual Meeting of the 
 Association for Computational Linguistics), June 22-27, 2014, Baltimore, MD, USA, p.
 99-105. [[pdf]](http://aclweb.org/anthology/P/P14/P14-2017.pdf)
-1. Alina Maria Ciobanu, Anca Dinu, and Liviu Dinu. Predicting romanian stress
-  assignment. In Proceedings of the 14th Conference of the European Chapter of
+1. Alina Maria Ciobanu, Anca Dinu, and Liviu Dinu. [Predicting romanian stress
+  assignment](http://aclweb.org/anthology/E/E14/E14-4013.pdf). In Proceedings of the 14th Conference of the European Chapter of
   the Association for Computational Linguistics, volume 2: Short Papers, 64–68.
   Gothenburg, Sweden, April 2014. Association for Computational Linguistics. 
 1. Alina Maria Ciobanu and Liviu Dinu. A quantitative insight into the impact of
   translation on readability. In Proceedings of the 3rd Workshop on Predicting
   and Improving Text Readability for Target Reader Populations (PITR), 104–113.
   Gothenburg, Sweden, April 2014. Association for Computational Linguistics. 
-1. Vlad Niculae, Marcos Zampieri, Liviu Dinu, and Alina Maria Ciobanu. Temporal
-  text ranking and automatic dating of texts. In Proceedings of the 14th
+1. Vlad Niculae, Marcos Zampieri, Liviu Dinu, and Alina Maria Ciobanu. [Temporal
+  text ranking and automatic dating of texts](http://aclweb.org/anthology/E/E14/E14-4004.pdf). In Proceedings of the 14th
   Conference of the European Chapter of the Association for Computational
   Linguistics, volume 2: Short Papers, 17–21. Gothenburg, Sweden, April 2014.
   Association for Computational Linguistics. 
@@ -48,21 +50,21 @@ Automata. Fundamenta Informaticae 131(3-4), p. 409-424 (2014)
 1. Liviu P. Dinu, Radu-Tudor Ionescu, 2014. Clustering based on median and closest string
 via rank distance with applications on DNA. Neural Computing and Applications
 24(1), p. 77-84 (2014)
-1. Liviu P. Dinu, Radu-Tudor Ionescu, Alexandru Tomescu, 2014. A Rank-Based Sequence
-Aligner with Applications in Phylogenetic Analysis. PLoS ONE 9(8): e104006.
+1. Liviu P. Dinu, Radu-Tudor Ionescu, Alexandru Tomescu, 2014. [A Rank-Based Sequence
+Aligner with Applications in Phylogenetic Analysis](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0104006#pone-0104006-g003). PLoS ONE 9(8): e104006.
 doi:10.1371/journal.pone.0104006
-1.  Anca Dinu, Liviu P. Dinu, Ionut Sorodoc, 2014. Aggregation methods for efficient
-collocation detection. In Proc. LREC 2014 ( 9th International Conference on Language
+1.  Anca Dinu, Liviu P. Dinu, Ionut Sorodoc, 2014. [Aggregation methods for efficient
+collocation detection](http://www.lrec-conf.org/proceedings/lrec2014/pdf/1184_Paper.pdf). In Proc. LREC 2014 ( 9th International Conference on Language
 Resources and Evaluation), Reykjavik, Iceland, 26-31 may 2014, p. 4041-4045
-1. Ioana Chitoran, Alina Ciobanu, Liviu P. Dinu, Vlad Niculae, 2014. Using a machine
-learning model to assess the complexity of stress systems. In Proc. LREC 2014 ( 9th
+1. Ioana Chitoran, Alina Ciobanu, Liviu P. Dinu, Vlad Niculae, 2014. [Using a machine
+learning model to assess the complexity of stress systems](http://www.lrec-conf.org/proceedings/lrec2014/pdf/1200_Paper.pdf). In Proc. LREC 2014 ( 9th
 International Conference on Language Resources and Evaluation), Reykjavik, Iceland,
 26-31 may 2014, p. 331-336.
-1. Alina Ciobanu, Liviu P. Dinu, 2014. On the Romance Languages Mutual Intelligibility.
+1. Alina Ciobanu, Liviu P. Dinu, 2014. [On the Romance Languages Mutual Intelligibility](http://www.lrec-conf.org/proceedings/lrec2014/pdf/1183_Paper.pdf).
 In Proc. LREC 2014 ( 9th International Conference on Language Resources and
 Evaluation), Reykjavik, Iceland, 26-31 may 2014, p. 3313-3318.
-1. Alina Ciobanu, Liviu P. Dinu, 2014. Building a Dataset of Multilingual Cognates for the
-Romanian Lexicon. In Proc. LREC 2014 ( 9th International Conference on Language
+1. Alina Ciobanu, Liviu P. Dinu, 2014. [Building a Dataset of Multilingual Cognates for the
+Romanian Lexicon](http://www.lrec-conf.org/proceedings/lrec2014/pdf/175_Paper.pdf). In Proc. LREC 2014 ( 9th International Conference on Language
 Resources and Evaluation), Reykjavik, Iceland, 26-31 may 2014, p. 1038-1043.
 
 ## 2013
@@ -366,7 +368,7 @@ Skiadas. Publisher: World Scientific Publishing Co Pte Ltd., (ISBN -13 978-
 981-270-968-4, ISBN-10 981-270-968-1), p. 521-529.
 
 
-# Funded research projects
+# <a name="FundedProjects"></a> Funded research projects
 ## Project manager:
 1. Euromobil 2. A multi-media language learning programme to support student mobility
 (FR,CH, PL, PT, FI, RO).Project 225825-CP-1-2005-1-FR-LINGUA-L2, funded by the
