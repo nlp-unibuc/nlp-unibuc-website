@@ -1,7 +1,7 @@
 ﻿Title: Liviu P. Dinu 
 Slug: people/liviu
 
-<a href="#FundedProjects">Funded Research Projects</a>   <a href="#Publications">Publications</a>   <a href="#Contact">Contact</a> 
+<a href="#FundedProjects">Funded Research Projects</a> &nbsp; &nbsp;  <a href="#Publications">Publications</a> &nbsp; &nbsp;  <a href="#Contact">Contact</a> 
 
 # Bio
 
