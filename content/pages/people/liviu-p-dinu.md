@@ -1,7 +1,7 @@
 ﻿Title: Liviu P. Dinu 
 Slug: people/liviu
 
-<a href="#FundedProjects">Funded Projects</a>
+<a href="#FundedProjects">Funded Research Projects</a>   <a href="#Publications">Publications</a>   <a href="#Contact">Contact</a> 
 
 # Bio
 
@@ -20,8 +20,13 @@ National Research Council for Higher Education, Romania, 2005.
 # Research interests
 - Computational linguistics, natural language processing, information processing, aggregation and categorization methods, DNA similarity
 
-# Publications
-(for more, visit [dblp](http://www.informatik.uni-trier.de/~ley/pers/hd/d/Dinu:Liviu_P=), [scholar](http://scholar.google.ro/citations?user=2SHcMNAAAAAJ&hl=en&oi=ao) or our full [publications](/publications.html) list.)
+# <a name="Publications"></a> Publications
+(<a href="#Papers">Papers</a>, 
+<a href="#Books and chapters in books">Books and chapters in books</a>;
+for more, visit [dblp](http://www.informatik.uni-trier.de/~ley/pers/hd/d/Dinu:Liviu_P=), [scholar](http://scholar.google.ro/citations?user=2SHcMNAAAAAJ&hl=en&oi=ao) or our full [publications](/publications.html) list.)
+
+
+# <a name="Papers"></a> Papers:
 
 ## 2014
 1. Alina Maria Ciobanu, Liviu P. Dinu, 2014. [An Etymological Approach to CrossLanguage
@@ -341,7 +346,8 @@ Detector Microstrip cu Siliciu pentru Electroni Rapizi la Fluente Mari. In Proc.
 Colocviu National de Fizica si Tehnologia Materialelor Cristaline si Amorfe, Iasi, 13-14
 iunie 1996, Romania, p.226-227.
 
-# Books and chapters in books:
+# <a name="Books and chapters in books"></a> Books and chapters in books:
+
 ## Books:
 1. Liviu P. Dinu, 2004. Metode Formale si de Clasificare in Lingvistica Matematica
 si Computationala. Editura Universitatii din Bucuresti, 2004, Romania (ISBN
@@ -414,7 +420,7 @@ Romanian Space Agency, Security Programme, 2005.
 situation-theory based approach. Project funded by CNCSIS in 2004, code 815A,
 commission 2.
 
+# <a name="Contact"></a> Contact:
 
-## Contact
 - Faculty of Mathematics and Computer Science, University of Bucharest, Academiei 14, 010014, Bucharest, Romania
 - email: ldinu@fmi.unibuc.ro
