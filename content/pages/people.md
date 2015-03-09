@@ -6,7 +6,9 @@
 - [Liviu P. Dinu (assoc. professor, Ph.D. supervisor)](/people/liviu.html)
 - [Maria Teodora Dinu (zeroth grade)](/people/maria.html)
 - Emil Ionescu (professor, Ph.D supervisor)
+- [Florentina Hristea (assoc. professor)](http://fmi.unibuc.ro/ro/florentina_hristea/)
 - [Vlad Niculae (PhD student)](http://vene.ro/)
+- Sergiu Nisioi
 - Octavia-Maria Șulea (PhD student)
 
 # External collaborators
