@@ -28,6 +28,10 @@ for more, visit [dblp](http://www.informatik.uni-trier.de/~ley/pers/hd/d/Dinu:Li
 
 # <a name="Papers"></a> Papers:
 
+## 2015
+1. Marcos Zampieri,  Alina Maria Ciobanu, Vlad Niculae, and Liviu Dinu. AMBRA: A Ranking Approach to Temporal Text Classification. In Proc. International Workshop on Semantic Evaluation (SemEval 2015), June 4-5, 2015 (co-located with NAACL-2015 in Denver, Colorado)
+
+
 ## 2014
 1. Alina Maria Ciobanu, Liviu P. Dinu, 2014. [An Etymological Approach to CrossLanguage
 Orthographic Similarity. Application on Romanian](http://aclweb.org/anthology/D/D14/D14-1112.pdf). In Proc. EMNLP 2014
