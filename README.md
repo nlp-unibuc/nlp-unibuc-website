@@ -3,7 +3,7 @@ nlp-unibuc website source
 
 Source code for generating our static website.
 
-You need [Pelican](http://blog.getpelican.com/) in order to generate the pages.
+You need [Pelican](http://blog.getpelican.com/) and [typogrify](https://pypi.python.org/pypi/typogrify) in order to generate the pages.
 In order to deploy the website, if you have commit rights to the organization,
 the easy way to set up is as follows:
 
