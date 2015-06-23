@@ -1,7 +1,7 @@
 ﻿Title: Liviu P. Dinu 
 Slug: people/liviu
 
-<a href="#FundedProjects">Funded Research Projects</a> &nbsp; &nbsp;  <a href="#Publications">Publications</a> &nbsp; &nbsp;  <a href="#Contact">Contact</a> 
+<a href="#FundedProjects">Funded Research Projects</a> &nbsp; &nbsp;  <a href="#Publications">Publications</a> &nbsp; &nbsp; <a href="#PhD Students">PhD Students</a> &nbsp; &nbsp; <a href="#Contact">Contact</a> 
 
 # Bio
 
@@ -29,6 +29,8 @@ for more, visit [dblp](http://www.informatik.uni-trier.de/~ley/pers/hd/d/Dinu:Li
 # <a name="Papers"></a> Papers:
 
 ## 2015
+1. Alina Maria Ciobanu, Liviu P. Dinu, 2014. Automatic Discrimination between Cognates and Borrowings. In Proc. ACL (2) 2015 (the 53nd Annual Meeting of the 
+Association for Computational Linguistics, joint with 7th IJCNLP), July 26-31, 2015, Beijing, China.
 1. Marcos Zampieri,  Alina Maria Ciobanu, Vlad Niculae, and Liviu Dinu. AMBRA: A Ranking Approach to Temporal Text Classification. In Proc. International Workshop on Semantic Evaluation (SemEval 2015), June 4-5, 2015 (co-located with NAACL-2015 in Denver, Colorado)
 
 
@@ -423,6 +425,11 @@ Romanian Space Agency, Security Programme, 2005.
 1. Specification and management of simulation scenorios of socio-technical systems. A
 situation-theory based approach. Project funded by CNCSIS in 2004, code 815A,
 commission 2.
+
+# <a name="PhD Students"></a> PhD Students:
+
+-Actual students:
+-Alina Maria Ciobanu, Maria Octavia Sulea.
 
 # <a name="Contact"></a> Contact:
 
