@@ -5,7 +5,7 @@ Slug: people/liviu
 
 # Bio
 
-- Associate professor, [Faculty of Mathematics and Computer Science](http://fmi.unibuc.ro/ro/), Computer Science Department, University of
+- Professor, [Faculty of Mathematics and Computer Science](http://fmi.unibuc.ro/ro/), Computer Science Department, University of
 Bucharest.
 - Executive director, [Center for Computational Linguistics](http://nlp.unibuc.ro/), University of
 Bucharest
@@ -31,7 +31,10 @@ for more, visit [dblp](http://www.informatik.uni-trier.de/~ley/pers/hd/d/Dinu:Li
 ## 2015
 1. Alina Maria Ciobanu, Liviu P. Dinu, 2015. Automatic Discrimination between Cognates and Borrowings. In Proc. ACL (2) 2015 (the 53nd Annual Meeting of the 
 Association for Computational Linguistics, joint with 7th IJCNLP), July 26-31, 2015, Beijing, China.
-1. Marcos Zampieri,  Alina Maria Ciobanu, Vlad Niculae, and Liviu Dinu, 2015. AMBRA: A Ranking Approach to Temporal Text Classification. In Proc. International Workshop on Semantic Evaluation (SemEval 2015), June 4-5, 2015 (co-located with NAACL-2015 in Denver, Colorado)
+1. Marcos Zampieri,  Alina Maria Ciobanu, Vlad Niculae, and Liviu Dinu, 2015. AMBRA: A Ranking Approach to Temporal Text Classification. In Proc. International Workshop on Semantic Evaluation (SemEval 2015), June 4-5, 2015 (co-located with NAACL-2015 in Denver, Colorado).
+1. Anca Dinu, Liviu P. Dinu,  Ana Sabina Uban, 2015. Cross lingual synonymy overlapping.  In Proc. RANLP 2015 (Recent Advances in Natural Language Processing), Hissar, Bulgaria, September 5-11, 2015. 
+1. Alina Maria Ciobanu, Liviu P. Dinu, Flaviu Pepelea, 2015.  Readability Assessment of Translated Texts. In Proc. RANLP 2015 (Recent Advances in Natural Language Processing), Hissar, Bulgaria, September 5-11 , 2015. 
+1. Liviu P. Dinu, Alexandra Pește, Octavia-Maria Șulea, 2015. Using NLP Specific Tools for non-NLP Specific Tasks. A Web Security Application. In Proc. 22nd International Conference on Neural Information Processing (ICONIP 2015),   November 9-12, 2015 Istanbul ,Turkey.  
 
 
 ## 2014
@@ -428,7 +431,7 @@ commission 2.
 
 # <a name="PhDStudents"></a> PhD Students:
 
--Current students: Alina Maria Ciobanu, Maria Octavia Sulea.
+-Current students: Alina Maria Ciobanu, Maria Octavia Sulea, Sergiu Nisioi, Ana Uban, Laura Franzoi.
 
 # <a name="Contact"></a> Contact:
 
