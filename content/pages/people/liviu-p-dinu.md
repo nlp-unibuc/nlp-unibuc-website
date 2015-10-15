@@ -6,7 +6,7 @@ Slug: people/liviu
 # Bio
 
 - Professor, [Faculty of Mathematics and Computer Science](http://fmi.unibuc.ro/ro/), Computer Science Department, University of
-Bucharest
+Bucharest.
 - Executive director, [Center for Computational Linguistics](http://nlp.unibuc.ro/), University of
 Bucharest
 - Dr. habil. (2014), PhD. (2003, supervisor Solomon Marcus) and Bachelors (1994), Faculty of Mathematics
