@@ -23,15 +23,15 @@ National Research Council for Higher Education, Romania, 2005.
 # <a name="Publications"></a> Publications
 (<a href="#Papers">Papers</a>, 
 <a href="#Books and chapters in books">Books and chapters in books</a>;
-for more, visit [dblp](http://www.informatik.uni-trier.de/~ley/pers/hd/d/Dinu:Liviu_P=), [scholar](http://scholar.google.ro/citations?user=2SHcMNAAAAAJ&hl=en&oi=ao) or our full [publications](/publications.html) list.)
+for more, visit [dblp](http://dblp.uni-trier.de/pers/hc/d/Dinu:Liviu_P=), [scholar](http://scholar.google.ro/citations?user=2SHcMNAAAAAJ&hl=en&oi=ao) or our full [publications](/publications.html) list.)
 
 
 # <a name="Papers"></a> Papers:
 
 ## 2015
-1. Alina Maria Ciobanu, Liviu P. Dinu, 2015. Automatic Discrimination between Cognates and Borrowings. In Proc. ACL (2) 2015 (the 53nd Annual Meeting of the 
+1. Alina Maria Ciobanu, Liviu P. Dinu, 2015. [Automatic Discrimination between Cognates and Borrowings](http://aclweb.org/anthology/P/P15/P15-2071.pdf). In Proc. ACL (2) 2015 (the 53nd Annual Meeting of the 
 Association for Computational Linguistics, joint with 7th IJCNLP), July 26-31, 2015, Beijing, China.
-1. Marcos Zampieri,  Alina Maria Ciobanu, Vlad Niculae, and Liviu Dinu, 2015. AMBRA: A Ranking Approach to Temporal Text Classification. In Proc. International Workshop on Semantic Evaluation (SemEval 2015), June 4-5, 2015 (co-located with NAACL-2015 in Denver, Colorado).
+1. Marcos Zampieri,  Alina Maria Ciobanu, Vlad Niculae, and Liviu Dinu, 2015. [AMBRA: A Ranking Approach to Temporal Text Classification](http://www.aclweb.org/anthology/S15-2144). In Proc. International Workshop on Semantic Evaluation (SemEval 2015), June 4-5, 2015 (co-located with NAACL-2015 in Denver, Colorado).
 1. Anca Dinu, Liviu P. Dinu,  Ana Sabina Uban, 2015. Cross lingual synonymy overlapping.  In Proc. RANLP 2015 (Recent Advances in Natural Language Processing), Hissar, Bulgaria, September 5-11, 2015. 
 1. Alina Maria Ciobanu, Liviu P. Dinu, Flaviu Pepelea, 2015.  Readability Assessment of Translated Texts. In Proc. RANLP 2015 (Recent Advances in Natural Language Processing), Hissar, Bulgaria, September 5-11 , 2015. 
 1. Liviu P. Dinu, Alexandra Pește, Octavia-Maria Șulea, 2015. Using NLP Specific Tools for non-NLP Specific Tasks. A Web Security Application. In Proc. 22nd International Conference on Neural Information Processing (ICONIP 2015),   November 9-12, 2015 Istanbul ,Turkey.  
@@ -430,8 +430,8 @@ situation-theory based approach. Project funded by CNCSIS in 2004, code 815A,
 commission 2.
 
 # <a name="PhDStudents"></a> PhD Students:
-
--Current students: Alina Maria Ciobanu, Maria Octavia Sulea, Sergiu Nisioi, Ana Uban, Laura Franzoi.
+-  Join me as a PhD student in computational linguistics, natural language processing, information processing, or in computer science.
+- Current students: Alina Maria Ciobanu, Laura Franzoi, Sergiu Nisioi, Maria Octavia Sulea,  Ana Uban.
 
 # <a name="Contact"></a> Contact:
 
