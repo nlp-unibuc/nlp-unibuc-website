@@ -10,12 +10,12 @@ SITEURL = ''
 
 TIMEZONE = 'Europe/Bucharest'
 
-LOCALE = u'en'
+#LOCALE = u'en'
 DEFAULT_LANG = u'en'
 SITENAME = SITENAME_LOC[DEFAULT_LANG]
 SITESUBTITLE = SITESUBTITLE_LOC[DEFAULT_LANG]
 
-TYPOGRIFY = True
+TYPOGRIFY = False
 
 # Disable feeds
 FEED_ALL_ATOM = None
@@ -65,6 +65,7 @@ MENUITEMS = (
     ('News', '/blog/'),
     ('People', '/people.html'),
     ('Projects', '/projects.html'),
+    ('Resources', '/resources.html'),
     ('Publications', '/publications.html'),
 )
 

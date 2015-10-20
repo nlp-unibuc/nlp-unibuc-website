@@ -13,7 +13,7 @@
 # Ph.D students
 - [Alina Maria Ciobanu](/people/alina.html)
 - Laura Franzoi (Trieste, Italy)
-- Sergiu Nisioi
+- [Sergiu Nisioi](/people/snisioi.html)
 - Octavia-Maria Șulea
 - Ana Sabina Uban
 
