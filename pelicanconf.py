@@ -18,9 +18,11 @@ SITESUBTITLE = SITESUBTITLE_LOC[DEFAULT_LANG]
 TYPOGRIFY = True
 
 # Disable feeds
-FEED_ALL_ATOM = None
+FEED_ATOM = None
 CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
+FEED_RSS = None
+CATEGORY_FEED_RSS = None
 
 # Blogroll
 LINKS = None
@@ -31,7 +33,7 @@ LINKS = None
 SOCIAL = ()
 
 # Plugins
-PLUGIN_PATH = 'plugins/'
+PLUGIN_PATHS = ['plugins/']
 PLUGINS = ['pelican-bibtex']
 PUBLICATIONS_SRC = 'content/pubs.bib'
 
@@ -41,7 +43,7 @@ DIRECT_TEMPLATES = ('blog', 'publications')
 PAGINATED_DIRECT_TEMPLATES = ('index', 'blog')
 
 DEFAULT_PAGINATION = False
-ARTICLE_DIR = 'blog'
+ARTICLE_PATHS = ['blog']
 ARTICLE_EXCLUDES = []
 
 ARTICLE_URL = 'blog/{slug}.html'
