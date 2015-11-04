@@ -2,11 +2,11 @@
 Slug: people/snisioi
 
 ## Bio
-- I am currently a PhD student within the Faculty of Mathematics and Computer Science, University of Bucharest
+- I am currently a PhD doctoral researcher within the Faculty of Mathematics and Computer Science, University of Bucharest
 
 ## Research interests
 
-- machine translation and translation studies, second language acquisition, RNNs for NLP, low resourced languages, deep learning and general machine learning
+- machine translation, translation studies, second language acquisition, RNNs for NLP, low resource languages, deep learning and general machine learning
 
 ## Relevant publications
 
