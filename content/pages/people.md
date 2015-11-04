@@ -24,4 +24,4 @@
 - Tudor Barbu (Australian National University)
 - [Cornelia Caragea](http://www.cse.unt.edu/~ccaragea/research.html) (University of North Texas) 
 - [Cristian Danescu-Niculescu Mizil](http://www.mpi-sws.org/~cristian/) (Cornell University)
-- [Vlad Niculae](http://vene.ro/)((PhD student, Cornell University)
+- [Vlad Niculae](http://vene.ro/) (PhD student, Cornell University)
