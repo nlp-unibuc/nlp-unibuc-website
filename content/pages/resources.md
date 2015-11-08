@@ -18,6 +18,8 @@
 ## [Degrees of Similarity Between Romanian and Related Languages](/resources/rosim.pdf)
 - see also Ciobanu, A.M. and Dinu, L.P.,  An Etymological Approach to Cross-Language Orthographic Similarity. Application on Romanian [PDF](http://emnlp2014.org/papers/pdf/EMNLP2014112.pdf)
 
+## [Cross-lingual Named Entity Recognition](https://github.com/senisioi/clwe-ner)
+- this resource is an annotated parallel corpus of named entities, currently a work in progress
 
 
 
