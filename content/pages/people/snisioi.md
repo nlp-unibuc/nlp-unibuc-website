@@ -1,12 +1,14 @@
-﻿Title: Sergiu Nisioi
+﻿Title: Sergiu Nisioi 
 Slug: people/snisioi
 
-## Bio
+## Bio 
+
 - I am currently a PhD doctoral researcher within the Faculty of Mathematics and Computer Science, University of Bucharest
 
 ## Research interests
 
-- machine translation, translation studies, second language acquisition, RNNs for NLP, low resource languages, deep learning and general machine learning
+- machine translation, translation studies, second language acquisition, speech processing, recurrent neural networks, low resource languages, deep learning and general machine learning
+
 
 ## Relevant publications
 
@@ -16,4 +18,7 @@ Slug: people/snisioi
 - Nisioi, S., Dinu, L.P.: A clustering approach for translationese identification. [PDF](http://www.aclweb.org/anthology/R13-1070)
 
 
+## Contact details
+- Faculty of Mathematics and Computer Science, University of Bucharest, 14 Academiei Street, Sector 1, 010014, Bucharest, Romania
+- email: [sergiu nisioi at fmi . unibuc . ro](mailto:sergiu.nisioi@fmi.unibuc.ro)
 
