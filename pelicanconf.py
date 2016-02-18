@@ -74,4 +74,4 @@ MENUITEMS = (
 )
 
 # "static" files
-STATIC_PATHS = ['CNAME', 'papers/', 'resources/']
+STATIC_PATHS = ['CNAME', 'papers/', 'resources/', 'courses/']
