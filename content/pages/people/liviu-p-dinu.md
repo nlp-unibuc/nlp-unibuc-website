@@ -1,7 +1,7 @@
 ﻿Title: Liviu P. Dinu 
 Slug: people/liviu
 
-<a href="#FundedProjects">Funded Research Projects</a> &nbsp; &nbsp;  <a href="#Publications">Publications</a> &nbsp; &nbsp; <a href="#PhDStudents">PhD Students</a> &nbsp; &nbsp; <a href="#Contact">Contact</a> 
+<a href="#FundedProjects">Funded Research Projects</a> &nbsp; &nbsp;  <a href="#Publications">Publications</a> &nbsp; &nbsp; <a href="#PhDStudents">PhD Students</a> &nbsp; &nbsp; <a href="#Courses">Courses</a>  &nbsp; &nbsp; <a href="#Contact">Contact</a> 
 
 # Bio
 
@@ -432,6 +432,14 @@ commission 2.
 # <a name="PhDStudents"></a> PhD Students:
 -  Join me as a PhD student in computational linguistics, natural language processing, information processing, or in computer science.
 - Current students: Alina Maria Ciobanu, Laura Franzoi, Sergiu Nisioi, Maria Octavia Sulea,  Ana Uban.
+
+# <a name="Courses"></a> Courses:
+Prezentări pentru cursuri:
+
+- Rețele de Calculatoare (an 2 licență) [pdf](/courses/RdC.pdf)
+- Lingvistică Matematică și Computațională (master IA, an 2) [pdf](/courses/LMC.pdf)
+- Programare procedurală (ID, an 1) [pdf](/courses/PP.pdf)
+- Limbaje formale (ID, an 2) [pdf](/courses/LFA.pdf)
 
 # <a name="Contact"></a> Contact:
 
