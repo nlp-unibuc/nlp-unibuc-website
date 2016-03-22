@@ -1,7 +1,8 @@
 ﻿Title: Resources
 
 ## [Europarl Corpus of Native, Non-native and Translated Texts - ENNTT](http://nlp.unibuc.ro/resources/ENNTT.tar.gz)
-- For the experiments in the (forthcoming) paper, we used the dataset available [here](/resources/LREC2016_experiment.tar.gz)
+- A complete description of this resource is available in Nisioi, S., Rabinovich, E., Dinu, L. P., and Wintner, S.: **A Corpus of Native, Non-native and Translated Texts**, accepted at LREC 2016
+- For the experiments described in the paper, we used the dataset available [here](/resources/LREC2016_experiment.tar.gz)
 - This is a monolingual English corpus of native, non-native and (human) translated texts extracted from the [European Parliament](http://www.statmt.org/europarl/). The translated texts from different source languages represent a subset of the [Haifa Corpus of Translationese](http://arxiv.org/abs/1509.03611). We preserved the same annotation style and included an ID and the EU state that each member of the European Parliament represents.
 - We hope this dataset will facilitate a unified comparative study of translations and language produced by highly fluent non-native speakers, two closely-related phenomena that have only been studied in isolation so far.
 - For updates, please check the [official repository](https://github.com/senisioi/enntt-release)
