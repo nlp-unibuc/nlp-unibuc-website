@@ -12,10 +12,14 @@ Slug: people/snisioi
 
 ## Relevant publications
 
-- Nisioi, S.: Unsupervised classification of translated texts. [preprint](/papers/nisioi15b.pdf)
-- Nisioi, S.: Feature analysis for native language identification. [preprint](/papers/nisioi15a.pdf)
-- Nisioi, S.: On the syllabic structures of Aromanian. [PDF](https://www.aclweb.org/anthology/W/W14/W14-0616.pdf)
-- Nisioi, S., Dinu, L.P.: A clustering approach for translationese identification. [PDF](http://www.aclweb.org/anthology/R13-1070)
+
+- Nisioi, S., Rabinovich, E., Dinu, L. P., and Wintner, S.: **A Corpus of Native, Non-native and Translated Texts**, LREC, 2016
+- Nisioi, S.: **Comparing Speech and Text Classification on ICNALE**, LREC, 2016
+- Şulea, O. M., Nisioi, S., and Dinu, L. P.,: **Using Word Embeddings to Translate Named Entities**, LREC, 2016
+- Nisioi, S.: **Unsupervised classification of translated texts**, NLDB, 2015 [preprint](/papers/nisioi15b.pdf)
+- Nisioi, S.: **Feature analysis for native language identification**, CICLing, 2015, [preprint](/papers/nisioi15a.pdf)
+- Nisioi, S.: **On the syllabic structures of Aromanian**, LaTeCH, 2014, [PDF](https://www.aclweb.org/anthology/W/W14/W14-0616.pdf)
+- Nisioi, S., Dinu, L.P.: **A clustering approach for translationese identification**, RANLP, 2013, [PDF](http://www.aclweb.org/anthology/R13-1070)
 
 
 ## Contact details
