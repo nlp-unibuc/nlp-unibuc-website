@@ -20,8 +20,10 @@
 
 
 # External collaborators
-
 - Tudor Barbu (Australian National University)
+- [Adriana Birlutiu](http://adrianabirlutiu.uab.ro/index.html) (University of Alba Iulia)
 - [Cornelia Caragea](http://www.cse.unt.edu/~ccaragea/research.html) (University of North Texas) 
 - [Cristian Danescu-Niculescu Mizil](http://www.mpi-sws.org/~cristian/) (Cornell University)
+- [Rada Mihalcea](http://web.eecs.umich.edu/~mihalcea/) (University of Michigan)
 - [Vlad Niculae](http://vene.ro/) (PhD student, Cornell University)
+- [Andrea Sgarro](http://www.dmi.units.it/~sgarro/) (University of Trieste)

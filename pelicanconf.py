@@ -4,8 +4,13 @@
 AUTHOR = u'nlp'
 SITENAME_LOC = dict(en=u'Center for Computational Linguistics',
                     ro=u'Centrul pentru Lingvistică Computațională')
+
 SITESUBTITLE_LOC = dict(en=u'University of Bucharest',
                         ro=u'Universitatea din București')
+
+SITESUBSUBTITLE_LOC = dict(en=u'in honour of Solomon Marcus',
+                        ro=u'în onorea lui Solomon Marcus')
+
 SITEURL = ''
 
 TIMEZONE = 'Europe/Bucharest'
@@ -16,6 +21,7 @@ GOOGLE_ANALYTICS='UA-69680045-1'
 DEFAULT_LANG = u'en'
 SITENAME = SITENAME_LOC[DEFAULT_LANG]
 SITESUBTITLE = SITESUBTITLE_LOC[DEFAULT_LANG]
+SITESUBSUBTITLE = SITESUBSUBTITLE_LOC[DEFAULT_LANG]
 
 TYPOGRIFY = True
 
