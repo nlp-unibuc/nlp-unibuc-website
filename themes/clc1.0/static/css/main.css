@@ -143,7 +143,7 @@ aside, nav, article, figure {
 }
 
 /***** Layout *****/
-.body {clear: both; margin: 0 auto; width: 900px;}
+.body {clear: both; margin: 0 auto; width: 1000px;}
 img.right, figure.right {float: right; margin: 0 0 2em 2em;}
 img.left, figure.left {float: left; margin: 0 2em 2em 0;}
 
@@ -160,7 +160,7 @@ img.left, figure.left {float: left; margin: 0 2em 2em 0;}
 	#banner h1 {
         margin: 0.877em 0 0 0 !important;
         font-size: 2.2em; 
-        line-height: 0.7em;}
+        line-height: 1em;}
 	#banner h1 a:link, #banner h1 a:visited {
 		color: #3F4152;
 		display: block;
@@ -188,14 +188,14 @@ img.left, figure.left {float: left; margin: 0 2em 2em 0;}
 		margin: 1.1112em auto 1.5556em auto;
 		padding: 0;
 		text-align: center;
-		width: 900px;
+		width: 1000px;
 		
 		border-radius: 5px;
 		-moz-border-radius: 5px;
 		-webkit-border-radius: 5px;
 	}
 	
-	#banner nav ul {list-style: none; margin: 0 auto; width: 900px;}
+	#banner nav ul {list-style: none; margin: 0 auto; width: 1000px;}
 	#banner nav li {float: left; display: inline; margin: 0;}
 	
 	#banner nav a:link, #banner nav a:visited {
@@ -231,7 +231,7 @@ img.left, figure.left {float: left; margin: 0 2em 2em 0;}
 	margin-bottom: 2em;
 	overflow: hidden;
 	padding: 0 20px;
-	width: 860px;
+	width: 960px;
 	
 	border-radius: 10px;
 	-moz-border-radius: 10px;
@@ -260,7 +260,7 @@ img.left, figure.left {float: left; margin: 0 2em 2em 0;}
 	background: #fff;
 	overflow: hidden;
 	padding: 0 20px;
-	width: 860px;
+	width: 960px;
 	
 	border-radius: 10px;
 	-moz-border-radius: 10px;
@@ -275,7 +275,7 @@ img.left, figure.left {float: left; margin: 0 2em 2em 0;}
     overflow: hidden;
     padding: 0 20px;
     margin: 2em auto; 
-    width: 860px;
+    width: 960px;
 	border-radius: 10px;
 	-moz-border-radius: 10px;
 	-webkit-border-radius: 10px;
@@ -345,7 +345,7 @@ img.left, figure.left {float: left; margin: 0 2em 2em 0;}
 	overflow: hidden;
 	padding: 0.5em 20px;
 	text-align: left;
-	width: 860px;
+	width: 960px;
 	
 	border-radius: 10em;
 	-moz-border-radius: 10px;

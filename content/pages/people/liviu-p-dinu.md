@@ -28,6 +28,13 @@ for more, visit [dblp](http://dblp.uni-trier.de/pers/hc/d/Dinu:Liviu_P=), [schol
 
 # <a name="Papers"></a> Papers:
 
+## 2016
+1. Gabriel Istrate, Cosmin Bonchis, Liviu P. Dinu: [The Minimum Entropy Submodular Set Cover Problem.](http://link.springer.com/chapter/10.1007%2F978-3-319-30000-9_23) Language and Automata Theory and Applications, Volume 9618 of the series Lecture Notes in Computer Science, pp 295-306
+1. Alina Maria Ciobanu and Liviu P. Dinu, A Computational Perspective on the Romanian Dialects, LREC 2016
+1. Octavia-Maria Şulea, Sergiu Nisioi and Liviu P. Dinu, Using Word Embeddings to Translate Named Entities, LREC 2016
+1. Sergiu Nisioi, Ella Rabinovich, Liviu P. Dinu and Shuly Wintner, A Corpus of Native, Non-native and Translated Texts, LREC 2016
+1. Traian Florin Serbanuta and Liviu P. Dinu Maximally Parallel Contextual String Rewriting, WRLA 2016, Eindhoven, The Netherlands
+
 ## 2015
 1. Alina Maria Ciobanu, Liviu P. Dinu, 2015. [Automatic Discrimination between Cognates and Borrowings](http://aclweb.org/anthology/P/P15/P15-2071.pdf). In Proc. ACL (2) 2015 (the 53nd Annual Meeting of the 
 Association for Computational Linguistics, joint with 7th IJCNLP), July 26-31, 2015, Beijing, China.
@@ -35,7 +42,7 @@ Association for Computational Linguistics, joint with 7th IJCNLP), July 26-31, 2
 1. Anca Dinu, Liviu P. Dinu,  Ana Sabina Uban, 2015. Cross lingual synonymy overlapping.  In Proc. RANLP 2015 (Recent Advances in Natural Language Processing), Hissar, Bulgaria, September 5-11, 2015. 
 1. Alina Maria Ciobanu, Liviu P. Dinu, Flaviu Pepelea, 2015.  Readability Assessment of Translated Texts. In Proc. RANLP 2015 (Recent Advances in Natural Language Processing), Hissar, Bulgaria, September 5-11 , 2015. 
 1. Liviu P. Dinu, Alexandra Pește, Octavia-Maria Șulea, 2015. Using NLP Specific Tools for non-NLP Specific Tasks. A Web Security Application. In Proc. 22nd International Conference on Neural Information Processing (ICONIP 2015),   November 9-12, 2015 Istanbul ,Turkey.  
-
+1. Luca Bortolussi, Liviu P. Dinu, Laura Franzoi, Andrea Sgarro: Coding Theory: A General Framework and Two Inverse Problems. Fundam. Inform. 141(4): 297-310 (2015)
 
 ## 2014
 1. Alina Maria Ciobanu, Liviu P. Dinu, 2014. [An Etymological Approach to CrossLanguage

@@ -31,5 +31,5 @@ theoretical and practical impact and in sharing common expertise and resources.
 
 ## Contact
 
- * Liviu P. Dinu, PhD, Assoc. prof., (executive director), ldinu@fmi.unibuc.ro, +40761146148
- * Emil Ionescu, PhD., Prof. (director), emilionescu@unibuc.ro
+ * Liviu P. Dinu, Professor (executive director), ldinu@fmi.unibuc.ro, +40761146148
+ * Emil Ionescu, Professor (director), emilionescu@unibuc.ro
