@@ -12,7 +12,7 @@ Slug: people/snisioi
 
 ## Relevant publications
 
-
+- Ella Rabinovich, Sergiu Nisioi, Noam Ordan and Shuly Wintner:, **On the Similarities Between Native, Non-native and Translated Texts**, ACL, 2016
 - Nisioi, S., Rabinovich, E., Dinu, L. P., and Wintner, S.: **A Corpus of Native, Non-native and Translated Texts**, LREC, 2016, [git](https://github.com/senisioi/enntt-release), [pdf](http://www.lrec-conf.org/proceedings/lrec2016/pdf/902_Paper.pdf])
 - Nisioi, S.: **Comparing Speech and Text Classification on ICNALE**, LREC, 2016, [git](https://github.com/senisioi/speech-text-features), [pdf](http://www.lrec-conf.org/proceedings/lrec2016/pdf/1159_Paper.pdf)
 - Şulea, O. M., Nisioi, S., and Dinu, L. P.,: **Using Word Embeddings to Translate Named Entities**, LREC, 2016, [git](https://github.com/senisioi/clwe-ner), [pdf](http://www.lrec-conf.org/proceedings/lrec2016/pdf/1167_Paper.pdf)
