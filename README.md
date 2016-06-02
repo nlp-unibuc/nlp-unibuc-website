@@ -7,6 +7,7 @@ You need [Pelican](http://blog.getpelican.com/) and [typogrify](https://pypi.pyt
 In order to deploy the website, if you have commit rights to the organization,
 the easy way to set up is as follows:
 
+TODO: change this
 1. Do this step once:
 
    ```bash
