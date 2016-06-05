@@ -16,17 +16,19 @@ the easy way to set up is as follows:
    git remote add deploy https://github.com/nlp-unibuc/nlp-unibuc.github.io.git
    git config remote.deploy.push deploy:master
    ```
-2. Make changes to files and inspect locally:
+2. Make changes to files and add changes:
+   ```
+   git status - to see the files
+   git add $FILE - to add the changes
+   ```
+   Generate the website locally:
    ```
    pelican content/ -o output/ -s pelican.py
-
    ```
    The output directory contains the generated website.
 
 3. Push the changes in the source repo
    ```
-   git status - to see the files
-   git add $FILE - to add the changes
    git commit -m "Add a message to describe your changes"
    git push origin master
    ```
