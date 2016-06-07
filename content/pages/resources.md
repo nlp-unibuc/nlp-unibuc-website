@@ -1,12 +1,14 @@
 ﻿Title: Resources
 
-## [Europarl Corpus of Native, Non-native and Translated Texts - ENNTT](http://nlp.unibuc.ro/resources/ENNTT.tar.gz)
-- A complete description of this resource is available in Nisioi, S., Rabinovich, E., Dinu, L. P., and Wintner, S., **A Corpus of Native, Non-native and Translated Texts**, accepted at LREC 2016
-- For the experiments described in the paper, we used the dataset available [here](/resources/LREC2016_experiment.tar.gz)
+## [Europarl Corpus of Native, Non-native and Translated Texts - ENNTT]()
+- A complete description of this resource is available [here](http://www.lrec-conf.org/proceedings/lrec2016/summaries/902.html): **A Corpus of Native, Non-native and Translated Texts**, LREC, 2016, [PDF](http://www.lrec-conf.org/proceedings/lrec2016/pdf/902_Paper.pdf)
+- For the raw corpus, please check the dataset available [here](http://nlp.unibuc.ro/resources/ENNTT.tar.gz)
+- For the experiments presented in the ACL 2016 paper, please check the dataset available [here](https://github.com/nlp-unibuc/nlp-unibuc-website/releases/download/v2.0/ACL2016.tar.gz)
+- For the experiments presented in the [LREC 2016](http://www.lrec-conf.org/proceedings/lrec2016/summaries/902.html) paper, please check the dataset available [here](https://github.com/nlp-unibuc/nlp-unibuc-website/releases/download/v1.2/LREC2016_experiment.tar.gz)
+### Short description:
 - This is a monolingual English corpus of native, non-native and (human) translated texts extracted from the [European Parliament](http://www.statmt.org/europarl/). The translated texts from different source languages represent a subset of the [Haifa Corpus of Translationese](http://arxiv.org/abs/1509.03611). We preserved the same annotation style and included an ID and the EU state that each member of the European Parliament represents.
 - We hope this dataset will facilitate a unified comparative study of translations and language produced by highly fluent non-native speakers, two closely-related phenomena that have only been studied in isolation so far.
-- For updates, please check the [official repository](https://github.com/senisioi/enntt-release)
-
+- More details available on the [git repository](https://github.com/senisioi/enntt-release)
 
 
 ## [Comparing Speech and Text Classification of Native and Non-native English](https://github.com/senisioi/speech-text-features)
