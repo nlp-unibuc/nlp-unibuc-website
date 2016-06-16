@@ -8,6 +8,7 @@
 - [Maria Teodora Dinu (1st class)](/people/maria.html)
 - Emil Ionescu (Professor, Ph.D)
 - [Florentina Hristea (Assoc. Professor, Ph.D)](http://fmi.unibuc.ro/en/cv.php/cs/hristea_florentina_en)
+- Monica-Mihaela Rizea, Ph.D
 
 
 # Ph.D students
