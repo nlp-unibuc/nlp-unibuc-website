@@ -3,21 +3,17 @@ Status: hidden
 URL: 
 save_as: index.html
 
-The Center of Computational Linguistics is a multi-disciplinary research area
+The Solomon Marcus Center of Computational Linguistics is a multi-disciplinary research area
 that addresses the automatic processing of human language for a range of tasks.
 We are a high-level research center inside the University of Bucharest, with
 our members having gained experience (as graduates, PhD, master students, or
-full employees) from the Faculty of Letters, the Faculty of Foreign Languages
-and Literatures, and the Faculty of Mathematics and Computer Science.
+full employees) from the [Faculty of Letters](http://litere.ro/), [Faculty of Foreign Languages
+and Literatures](http://lls.unibuc.ro/), and the [Faculty of Mathematics and Computer Science](http://fmi.unibuc.ro/ro/).
 
-We have a long and robust tradition in Computational Linguistics, the current
-members of the Center being former students of the main Romanian researchers in
-NLP (in fact, students of the initiators of Computational Linguistics in
-Romania): Solomon Marcus (member of the Romanian Academy), Emanuel Vasiliu,
-Alexandra Cornilescu.
-
-We have results and we are currently interested  but not limited  to the
-following fields: natural languages similarity, lexical similarity, languages
+We have a long and robust tradition in Computational Linguistics that roots from
+the initiators of Computational Linguistics in Romania: Solomon Marcus, Emanuel Vasiliu and
+Alexandra Cornilescu. In our work, we are currently interested  but not limited  to the
+following fields: language acquisition, natural languages similarity, lexical similarity, languages
 intelligibility, readability,  phono-morpho-syntactic analysis of natural
 languages, formal and distributional semantics, (automatic) cognates
 identification, authorship identification and pastiche detection, temporality

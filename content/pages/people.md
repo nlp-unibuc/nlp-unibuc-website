@@ -12,11 +12,13 @@
 
 
 # Ph.D students
+- Anca Bucur
 - [Alina Maria Ciobanu](/people/alina.html)
 - Laura Franzoi (Trieste, Italy)
 - [Sergiu Nisioi](/people/snisioi.html)
 - Octavia-Maria Șulea
 - Ana Sabina Uban
+- Ioana Vlad
 
 
 

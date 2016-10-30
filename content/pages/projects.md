@@ -4,6 +4,8 @@ Title: Projects
 
 ### Involving group members
 
+- [SIGAR](/projects/sigar.html):  Sistem inteligent de generare automata a raspunsurilor (Intelligent Systems for Automatic Response Generation). Project 53BG ⁄ 2016, funded by  Romanian National Authority for Scientific Research and Innovation, CNCS/CCCDI – UEFISCDI, PNCDI III (Programul 2 - Creşterea competitivităţii economiei româneşti prin cercetare, dezvoltare şi inovare. Transfer de cunoaștere la agentul economic "Bridge Grant")
+
 - The Structure and Interpretation of the Romanian Nominal Phrase in Discourse
   Representation Theory: The Determiners. Head: Alexandra Cornilescu. 2011.
   
@@ -11,6 +13,7 @@ Title: Projects
 ## Completed projects
 
 ### Lead by group members
+
 
 - Algoritmi pentru identificarea structurii în grafuri masive: aplicații în
   lingvistica computațională, și în modelarea matematică a dinamicii sociale.

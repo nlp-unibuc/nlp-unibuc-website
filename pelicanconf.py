@@ -5,7 +5,7 @@ AUTHOR = u'nlp'
 SITENAME_LOC = dict(en=u'Solomon Marcus Center for Computational Linguistics',
                     ro=u'Centrul "Solomon Marcus" pentru Lingvistică Computațională')
 
-SITESUBTITLE_LOC = dict(en=u'University of Bucharest',
+SITESUBTITLE_LOC = dict(en=u'Faculty of Letters, University of Bucharest',
                         ro=u'Universitatea din București')
 
 # SITESUBSUBTITLE_LOC = dict(en=u'in honour of Solomon Marcus',
@@ -51,7 +51,7 @@ DIRECT_TEMPLATES = ('blog', 'publications')
 PAGINATED_DIRECT_TEMPLATES = ('index', 'blog')
 
 DEFAULT_PAGINATION = False
-ARTICLE_PATHS = ['blog']
+ARTICLE_PATHS = ['blog','events']
 ARTICLE_EXCLUDES = []
 
 ARTICLE_URL = 'blog/{slug}.html'
@@ -73,6 +73,7 @@ DISPLAY_PAGES_ON_MENU = False
 MENUITEMS = (
     # ('News', SITEURL + '/blog/'),  # siteurl not needed?
     ('News', '/blog/'),
+    ('Events', '/events.html'),
     ('People', '/people.html'),
     ('Projects', '/projects.html'),
     ('Resources', '/resources.html'),
