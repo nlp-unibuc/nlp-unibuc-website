@@ -5,7 +5,7 @@
 - Ana-Maria Barbu (Senior Researcher, Ph.D)
 - [Anca Dinu (Senior Lecturer, Ph.D)](/people/anca.html)
 - [Liviu P. Dinu (Professor, Dr. habil.)](/people/liviu.html)
-- [Maria Teodora Dinu (1st class)](/people/maria.html)
+- [Maria Teodora Dinu (2nd grade)](/people/maria.html)
 - Emil Ionescu (Professor, Ph.D)
 - [Florentina Hristea (Assoc. Professor, Ph.D)](http://fmi.unibuc.ro/en/cv.php/cs/hristea_florentina_en)
 - Monica-Mihaela Rizea (Researcher, Ph.D)
