@@ -1,12 +1,5 @@
-Title: Invited talks!
-Date: 2016-10-30 13:00
-Category: conferences
-Tags: nlp, linguistics
-
-We are delighted to have hosted two recent talks, one from Traian Rebedea on question answering systems and one from Mihaela Balint on rythm and discourse parsing.
-
-For future events, please subscribe to [this](http://eepurl.com/cmk06v) list.
-
+﻿Title: Events hosted by us 
+Slug: subscribe
 
 <!-- Begin MailChimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
