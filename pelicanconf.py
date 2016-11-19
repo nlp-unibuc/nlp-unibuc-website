@@ -72,7 +72,7 @@ DISPLAY_CATEGORIES_ON_MENU = False
 DISPLAY_PAGES_ON_MENU = False
 MENUITEMS = (
     # ('News', SITEURL + '/blog/'),  # siteurl not needed?
-    ('News', '/blog/'),
+    ('News', '/blog/index.html'),
     ('Subscribe', '/subscribe.html'),
     ('People', '/people.html'),
     ('Projects', '/projects.html'),
