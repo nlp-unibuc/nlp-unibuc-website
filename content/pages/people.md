@@ -16,7 +16,7 @@
 - [Alina Maria Ciobanu](/people/alina.html)
 - Laura Franzoi (Trieste, Italy)
 - [Sergiu Nisioi](/people/snisioi.html)
-- Octavia-Maria Șulea
+- [Octavia-Maria Șulea] (/people/omsulea.html)
 - Ana Sabina Uban
 - Ioana Vlad
 
