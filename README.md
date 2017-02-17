@@ -13,11 +13,11 @@ the easy way to set up is as follows:
 
 1. Do this step once:
    ```
-   bash
-   git submodule init
-   git submodule update
-   git remote add deploy https://github.com/nlp-unibuc/nlp-unibuc.github.io.git
-   git config remote.deploy.push deploy:master
+      bash
+      git submodule init
+      git submodule update
+      git remote add deploy https://github.com/nlp-unibuc/nlp-unibuc.github.io.git
+      git config remote.deploy.push deploy:master
    ```
 2. Make changes to files and add changes:
    ```
