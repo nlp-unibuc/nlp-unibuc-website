@@ -13,7 +13,7 @@ In Proc. KES 2016: 664-671
 
 - Marcos Zampieri, Shervin Malmasi, Octavia-Maria Sulea and Liviu P. Dinu. 
 A Computational Approach to the Study of Portuguese Newspapers Published in Macau. In Proc 
-IJCAI 2016
+IJCAI 2016.
 
 - Octavia-Maria Sulea, Sergiu Nisioi, Liviu P. Dinu. Using Word Embeddings to Translate 
 Named Entities. In Proc. LREC 2016
