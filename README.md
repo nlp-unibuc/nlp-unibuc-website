@@ -12,6 +12,7 @@ In order to deploy the website, if you have commit rights to the organization,
 the easy way to set up is as follows:
 
 1. Do this step once:
+
    ```
       bash
       git submodule init
