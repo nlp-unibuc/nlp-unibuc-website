@@ -11,7 +11,7 @@ Slug: people/snisioi
 
 
 ## Relevant publications
-
+- Anca Bucur and Sergiu Nisioi: **A Visual Representation of Wittgenstein’s Tractatus Logico-Philosophicus**, LT4DH-COLING, 2016, [pdf](https://www.clarin-d.de/images/lt4dh/pdf/LT4DH10.pdf), [git](https://gitlab.com/tractatus/tractatus.gitlab.io), [demo](http://tractatus.gitlab.io/)
 - Ella Rabinovich, Sergiu Nisioi, Noam Ordan and Shuly Wintner: **On the Similarities Between Native, Non-native and Translated Texts**, ACL, 2016
 - Nisioi, S., Rabinovich, E., Dinu, L. P., and Wintner, S.: **A Corpus of Native, Non-native and Translated Texts**, LREC, 2016, [git](https://github.com/senisioi/enntt-release), [pdf](http://www.lrec-conf.org/proceedings/lrec2016/pdf/902_Paper.pdf)
 - Nisioi, S.: **Comparing Speech and Text Classification on ICNALE**, LREC, 2016, [git](https://github.com/senisioi/speech-text-features), [pdf](http://www.lrec-conf.org/proceedings/lrec2016/pdf/1159_Paper.pdf)

@@ -33,25 +33,8 @@ Title: Projects
   mobility (FR, CH, PL, PT, FI, RO). Head: Liviu P. Dinu.  European Commission,
   Socrates LINGUA.  2005-2007.
 
-- Bază de date sintactico-semantică în format XML.  Head: Ana-Maria Barbu.
-  CNCSIS.  2004-2007.
-
-- Contribuții la memoria culturală electronică prin crearea și investigarea
-  unui corpus de texte literare de secolul XVI.  Head: Ana-Maria Barbu.
-  INFOSOC/MCT.  2004-2006.
-
 - Despărțirea automată a cuvintelor din limba română.  Aplicații în construcția
   bazei de date a silabelor limbii române.   Head: Liviu P. Dinu. CNCSIS.  2004-2005.
-
-- Dicționarul morfologic în format electronic al limbii române comtemporane.
-  Head: Emil Ionescu.  CNCSIS.  2002-2005.
-
-- Understanding Romanian Negation.  Head: Emil Ionescu.  Romanian Government
-  and World Bank. 2002-2004.
-
-- Dezvoltarea componentei de lingvistică computațională în cadrul masteratului
-  de lingvistică teoretică.  Head: Emil Ionescu, Romanian Government and World
-  Bank.  2000-2002.
 
 
 ### Involving group members
