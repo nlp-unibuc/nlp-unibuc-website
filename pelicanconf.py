@@ -73,11 +73,12 @@ DISPLAY_PAGES_ON_MENU = False
 MENUITEMS = (
     # ('News', SITEURL + '/blog/'),  # siteurl not needed?
     ('News', '/blog/index.html'),
-    ('Subscribe', '/subscribe.html'),
+    ('Events', '/events.html'),
     ('People', '/people.html'),
     ('Projects', '/projects.html'),
     ('Resources', '/resources.html'),
     ('Publications', '/publications.html'),
+    ('Subscribe', '/subscribe.html')
 )
 
 # "static" files
