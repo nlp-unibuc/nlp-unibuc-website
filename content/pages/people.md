@@ -28,3 +28,5 @@
 - [Cristian Danescu-Niculescu Mizil](http://www.mpi-sws.org/~cristian/) (Cornell University)
 - [Rada Mihalcea](http://web.eecs.umich.edu/~mihalcea/) (University of Michigan)
 - [Vlad Niculae](http://vene.ro/) (PhD student, Cornell University)
+- Ella Rabinovich (University of Haifa)
+- [Shuly Wintner](http://cs.haifa.ac.il/~shuly/Shuly_Wintner/Home.html) (University of Haifa)
