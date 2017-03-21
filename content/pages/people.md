@@ -1,14 +1,14 @@
 ﻿Title: People
 
 # Members
-- [Alina Maria Ciobanu](/people/alina.html)
+- [Alina Maria Ciobanu (Teaching Assistant, Ph.D st.)](/people/alina.html)
 - [Anca Dinu (Senior Lecturer, Ph.D)](/people/anca.html)
 - [Liviu P. Dinu (Professor, Dr. habil.)](/people/liviu.html)
 - [Maria Teodora Dinu (2nd grade)](/people/maria.html)
 - [Florentina Hristea (Assoc. Professor, Ph.D)](http://fmi.unibuc.ro/en/cv.php/cs/hristea_florentina_en)
 - [Radu Ionescu (Assoc. Professor, Ph.D)](http://raduionescu.herokuapp.com/)
-- [Sergiu Nisioi](/people/snisioi.html)
-- [Marius Popescu (Lecturer, Ph.D)](http://fmi.unibuc.ro/ro/popescu_marius)
+- [Sergiu Nisioi (Teaching Assistant, Ph.D st.)](/people/snisioi.html)
+- [Marius Popescu (Assoc. Professor, Ph.D)](http://fmi.unibuc.ro/ro/popescu_marius)
 - [Andrea Sgarro (Professor, Ph.D)](http://www.dmi.units.it/~sgarro/) (University of Trieste)
 - [Alin Stefanescu (Assoc. Professor, Ph.D)](http://alin.stefanescu.eu/)
 

@@ -1,4 +1,4 @@
-Title: Human Language Technologies Research Center!
+Title: Human Language Technologies Research Center
 Status: hidden
 URL: 
 save_as: index.html
