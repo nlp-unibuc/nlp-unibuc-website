@@ -1,6 +1,6 @@
 Title: Events
 
-## Solomon Marcus seminar in Computational Linguitics
+## Solomon Marcus seminar in Computational Linguistics
 
 - 15 March, 2017. Traian Rebedea (UPB): Question Answering @ University Politehnica of Bucharest (part 2)
 
