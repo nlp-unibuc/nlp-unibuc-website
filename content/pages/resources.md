@@ -10,6 +10,10 @@
 - We hope this dataset will facilitate a unified comparative study of translations and language produced by highly fluent non-native speakers, two closely-related phenomena that have only been studied in isolation so far.
 - More details available on the [git repository](https://github.com/senisioi/enntt-release)
 
+## [A Visual Representation of Wittgenstein's Tractatus Logico-Philosophicus](www.gitxiv.com/posts/rNgtXTaiLWDE4HK6n)
+- This work is the result of our collaboration with Anca Bucur, Ph.D. candidate, from the [Center of Excellence in Image Study](http://cesi.ro/fr/info/general.htm).
+- We compile a multilingual parallel corpus from different versions of Wittgenstein's Tractatus Logico-Philosophicus, including the original in German and translations into English, Spanish, French, and Russian. Using this corpus, we compute a similarity measure between propositions and render [a visual network of relations](http://tractatus.gitlab.io/) for different languages.
+
 
 ## [Comparing Speech and Text Classification of Native and Non-native English](https://github.com/senisioi/speech-text-features)
 - We provide a comparison of speech and text classification of native and non-native English using a subset of the International Corpus Network of Asian Learners of English ([ICNALE](http://language.sakura.ne.jp/icnale/))
