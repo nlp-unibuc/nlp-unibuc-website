@@ -14,6 +14,8 @@ Title: Projects
 
 ### Lead by group members
 
+- Dezambiguizarea automată a sensului cuvintelor (DASC) - Proiect PN2-IDEI.  Head: Florentina Hristea, 2009-2011.
+
 
 - Algoritmi pentru identificarea structurii în grafuri masive: aplicații în
   lingvistica computațională, și în modelarea matematică a dinamicii sociale.
