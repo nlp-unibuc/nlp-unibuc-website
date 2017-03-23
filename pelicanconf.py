@@ -51,7 +51,7 @@ DIRECT_TEMPLATES = ('blog', 'publications')
 PAGINATED_DIRECT_TEMPLATES = ('index', 'blog')
 
 DEFAULT_PAGINATION = False
-ARTICLE_PATHS = ['blog','events']
+ARTICLE_PATHS = ['blog']
 ARTICLE_EXCLUDES = []
 
 ARTICLE_URL = 'blog/{slug}.html'

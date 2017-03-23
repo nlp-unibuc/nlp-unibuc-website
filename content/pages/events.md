@@ -1,5 +1,8 @@
 Title: Events
 
+## 1st Conference on Recent Advances in Artificial Intelligence (RAAI)
+Access [here](/events/raai2017.html) the [call for papers](/events/raai2017.html) for the first RAAI conference (19-20 June 2017).
+
 ## Solomon Marcus seminar in Computational Linguistics
 
 - 15 March 2017. Traian Rebedea (UPB): Question Answering @ University Politehnica of Bucharest (part 2)
