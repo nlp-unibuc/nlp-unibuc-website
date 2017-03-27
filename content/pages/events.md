@@ -5,6 +5,9 @@ Access [here](/events/raai2017.html) the [call for papers](/events/raai2017.html
 
 ## Solomon Marcus seminar in Computational Linguistics
 
+
+- **29 March 2017**. Mihai Dascalu (UPB): ReaderBench - A Multi-lingual Discourse Processing Tool
+
 - 15 March 2017. Traian Rebedea (UPB): Question Answering @ University Politehnica of Bucharest (part 2)
 
 - 1 March 2017. Mihai Dinu, Radu Gramatovici, Monica Tataram. Messages: Andreea Calude, Walter von Hahn, Andrea Sgarro, , Lavinia Spandonide. Talks dedicated to Solomon Marcus's birthday. 
