@@ -26,8 +26,11 @@
 <body id="index" class="home">
 {% include 'github.html' %}
         <header id="banner" class="body">
-                <h1>  <a href="{{ SITEURL }}/">{{ SITENAME }} {% if SITESUBTITLE %} <br> <strong> {{ SITESUBTITLE }} {{ SITESUBSUBTITLE }}  </strong>{% endif %}</a></h1>
-                <nav><ul>
+                <h1>
+                <img src="theme/images/logo.png" alt="HLT"> 
+                 <a href="{{ SITEURL }}/">{{ SITENAME }} {% if SITESUBTITLE %} <br> 
+                 <strong>  {{ SITESUBTITLE }} {{ SITESUBSUBTITLE }}  </strong>{% endif %}</a></h1>
+                 <nav><ul>
                 {% if DISPLAY_PAGES_ON_MENU %}
                 {% for page in PAGES %}
                     <li><a href="{{ SITEURL }}/{{ page.url }}">{{ page.title }}</a></li>

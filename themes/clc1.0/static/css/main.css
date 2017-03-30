@@ -158,7 +158,7 @@ img.left, figure.left {float: left; margin: 0 2em 2em 0;}
 
 	/* Banner */
 	#banner h1 {
-        margin: 0.877em 0 0 0 !important;
+		margin: 0.877em 0 0 0 !important;
         font-size: 2em; 
         line-height: 1em;}
 	#banner h1 a:link, #banner h1 a:visited {
@@ -176,7 +176,13 @@ img.left, figure.left {float: left; margin: 0 2em 2em 0;}
 	}
 	
 	#banner h1 strong {clear: both; font-size: 0.5em; font-weight: normal; }
-	
+
+	#banner h1 img {
+	  float: left;
+	  width: 180px;
+	  height: 110px;
+	  margin: -0.877em 0 0 -1em !important;
+	}	
 	
 	/* Main Nav */
 	#banner nav {
