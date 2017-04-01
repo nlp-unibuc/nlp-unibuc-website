@@ -23,5 +23,3 @@ in our investigations.
 We are interested in developing national and international research projects, with
 theoretical and practical impact and in sharing common expertise and resources.
 
-## Contact
- * Liviu P. Dinu, Professor (director), ldinu@fmi.unibuc.ro, +40 761 146 148, Faculty of Mathematics and Computer Science, University of Bucharest, Academiei 14, 010014, Bucharest

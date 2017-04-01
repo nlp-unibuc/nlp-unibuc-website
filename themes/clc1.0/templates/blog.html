@@ -7,6 +7,7 @@
         {# First item #}
         {% if loop.first and not articles_page.has_previous() %}
             <aside id="featured" class="body">
+                <h4>To stay up to date with our work, please <a href="{{ SITEURL }}/subscribe.html">subscribe to our newsletter.</a></h4>
                 <article>
                     <h1 class="entry-title"><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></h1> 
                     {% include 'article_infos.html' %}{{ article.content }}{% include 'comments.html' %}

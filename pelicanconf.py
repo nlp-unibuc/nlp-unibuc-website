@@ -78,7 +78,7 @@ MENUITEMS = (
     ('Projects', '/projects.html'),
     ('Resources', '/resources.html'),
     ('Publications', '/publications.html'),
-    ('Subscribe', '/subscribe.html')
+    ('Contact', '/contact.html')
 )
 
 # "static" files
