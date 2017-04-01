@@ -13,7 +13,7 @@
 - [Alin Stefanescu (Assoc. Professor, Ph.D)](http://alin.stefanescu.eu/)
 
 # Ph.D students
-- Anca Bucur
+- [Anca Bucur](/people/ancabucur.html)
 - Andrei Butnaru
 - Laura Franzoi (Trieste, Italy)
 - [Octavia-Maria Șulea](/people/omsulea.html)
