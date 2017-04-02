@@ -5,7 +5,7 @@ AUTHOR = u'nlp'
 SITENAME_LOC = dict(en=u'Human Language Technologies Research Center',
                     ro=u'Centrul de Cercetare în Tehnologiile Limbajului')
 
-SITESUBTITLE_LOC = dict(en=u'University of Bucharest',
+SITESUBTITLE_LOC = dict(en=u'Faculty of Mathematics and Computer Science, University of Bucharest',
                         ro=u'Universitatea din București')
 
 # SITESUBSUBTITLE_LOC = dict(en=u'in honour of Solomon Marcus',
