@@ -15,7 +15,7 @@
 - In our collaboration with [Sanja Štajner](http://dws.informatik.uni-mannheim.de/en/people/researchers/dr-sanja-stajner/), we present the first attempt at using sequence to sequence neural networks to model text simplification (TS). Unlike the previously proposed automated methods, our neural text simplification (NTS) systems are able to simultaneously perform lexical simplification and content reduction. An extensive human evaluation of the output has shown that NTS systems achieve good grammaticality and meaning preservation of output sentences and higher level of simplification than the state-of-the-art automated TS systems.
 - Follow the steps, in order to generate simplified text:
 
-	1. Checkout our repository including the submodules: `git clone --recursive https://github.com/senisioi/NeuralTextSimplification.git`
+	1. Checkout [our repository](https://github.com/senisioi/NeuralTextSimplification) including the submodules: `git clone --recursive https://github.com/senisioi/NeuralTextSimplification.git`
 	2. Download the pre-trained released models [NTS](https://drive.google.com/open?id=0B_pjS_ZjPfT9dEtrbV85UXhSelU) and [NTS-w2v](https://drive.google.com/open?id=0B_pjS_ZjPfT9ZTRfSFp4Ql92U0E) (this may take a while): `python src/download_models.py ./models`
 	3. Run translate.sh from the scripts dir: `cd src/scripts && ./translate.sh`
 
@@ -37,8 +37,8 @@
 -------
 
 <a name="Wittgenstein"></a>
-## [A Visual Representation of Wittgenstein's Tractatus Logico-Philosophicus](www.gitxiv.com/posts/rNgtXTaiLWDE4HK6n)
-- This work is the result of our collaboration with Anca Bucur, Ph.D. candidate, from the [Center of Excellence in Image Study](http://cesi.ro/fr/info/general.htm).
+## [A Visual Representation of Wittgenstein's Tractatus Logico-Philosophicus](http://tractatus.gitlab.io/)
+- [This work](http://www.gitxiv.com/posts/rNgtXTaiLWDE4HK6n) is the result of our collaboration with Anca Bucur, Ph.D. candidate, from the [Center of Excellence in Image Study](http://cesi.ro/fr/info/general.htm).
 - We compile a multilingual parallel corpus from different versions of Wittgenstein's Tractatus Logico-Philosophicus, including the original in German and translations into English, Spanish, French, and Russian. Using this corpus, we compute a similarity measure between propositions and render [a visual network of relations](http://tractatus.gitlab.io/) for different languages.
 
 -------
