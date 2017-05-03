@@ -12,7 +12,7 @@
 
 <a name="NeuralTS"></a>
 ## [Neural Text Simplification Models](https://github.com/senisioi/NeuralTextSimplification)
-- In our collaboration with [Sanja Štajner](http://dws.informatik.uni-mannheim.de/en/people/researchers/dr-sanja-stajner/), we present the first attempt at using sequence to sequence neural networks to model text simplification (TS). Unlike the previously proposed automated methods, our neural text simplification (NTS) systems are able to simultaneously perform lexical simplification and content reduction. An extensive human evaluation of the output has shown that NTS systems achieve good grammaticality and meaning preservation of output sentences and higher level of simplification than the state-of-the-art automated TS systems.
+- A great collaboration with [Sanja Štajner](http://dws.informatik.uni-mannheim.de/en/people/researchers/dr-sanja-stajner/) on text simplification. We present the first attempt at using sequence to sequence neural networks to model text simplification (TS). Unlike the previously proposed automated methods, our neural text simplification (NTS) systems are able to simultaneously perform lexical simplification and content reduction. An extensive human evaluation of the output has shown that NTS systems achieve good grammaticality and meaning preservation of output sentences and higher level of simplification than the state-of-the-art automated TS systems.
 - Follow the steps, in order to generate simplified text:
 
 	1. Checkout [our repository](https://github.com/senisioi/NeuralTextSimplification) including the submodules: `git clone --recursive https://github.com/senisioi/NeuralTextSimplification.git`
