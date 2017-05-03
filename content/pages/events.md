@@ -7,7 +7,9 @@ Access [here](/events/raai2017.html) the [call for papers](/events/raai2017.html
 
 ##### To get updates on future events, please [subscribe to our newsletter](/subscribe.html).
 
-- **29 March 2017**. Mihai Dascalu (UPB): ReaderBench - A Multi-lingual Discourse Processing Tool
+- **3 May 2017.** Mihai Dascalu (UPB): ReaderBench - A Multi-lingual Discourse Processing Tool (Part 2)
+
+- 29 March 2017. Mihai Dascalu (UPB): ReaderBench - A Multi-lingual Discourse Processing Tool
 
 - 15 March 2017. Traian Rebedea (UPB): Question Answering @ University Politehnica of Bucharest (part 2)
 
