@@ -1,7 +1,7 @@
 ﻿Title: Liviu P. Dinu 
 Slug: people/liviu
 
-<a href="#FundedProjects">Funded Research Projects</a> &nbsp; &nbsp;  <a href="#Publications">Publications</a> &nbsp; &nbsp; <a href="#PhDStudents">PhD Students</a> &nbsp; &nbsp; <a href="#Courses">Courses</a>  &nbsp; &nbsp; <a href="#Contact">Contact</a> 
+<a href="#FundedProjects">Funded Research Projects</a> &nbsp; &nbsp;  <a href="#Publications">Publications</a> &nbsp; &nbsp; <a href="#PhDStudents">PhD Students</a> &nbsp; &nbsp; <a href="#Courses">Courses</a>  &nbsp; &nbsp; <a href="#Contact">Contact</a> <img src="/images/marcus_liviu.jpg" alt="Solomon Marcus and Liviu Dinu" style="width: 200px;float: right;"/>
 
 # Bio
 
@@ -28,12 +28,21 @@ for more, visit [dblp](http://dblp.uni-trier.de/pers/hc/d/Dinu:Liviu_P=), [schol
 
 # <a name="Papers"></a> Papers:
 
+1. Sergiu Nisioi, Sanja Štajner, Simone Paolo Ponzetto and Liviu P. Dinu, 2017.  Exploring Neural Text Simplification Models, In Proc. ACL 2017, Vancouver, Canada, 2017
+1. Liviu P. Dinu, Ana Sabina Uban, 2017. Finding a Character’s Voice: Stylome Classification on Literary Characters. In Proc. Joint SIGHUM Workshop on Computational Linguistics for Cultural Heritage, Social Sciences, Humanities and Literature (co-located with ACL 2017), Vancouver, Canada, 2017
+1. Alina Ciobanu, Liviu P. Dinu, and Andrea Sgarro, 2017. Towards a Map of the Syntactic Similarity of Languages. In Proc. CICLing 2017, Budapest, Hungary, 2017
+1. Alina Maria Ciobanu, Liviu P. Dinu, 2017. Romanian Word Production: an Orthographic Approach Based on Sequence Labeling, In Proc. CICLing 2017, Budapest, Hungary, 2017 
+ 
+
 ## 2016
 1. Gabriel Istrate, Cosmin Bonchis, Liviu P. Dinu: [The Minimum Entropy Submodular Set Cover Problem.](http://link.springer.com/chapter/10.1007%2F978-3-319-30000-9_23) Language and Automata Theory and Applications, Volume 9618 of the series Lecture Notes in Computer Science, pp 295-306
 1. Alina Maria Ciobanu and Liviu P. Dinu, A Computational Perspective on the Romanian Dialects, LREC 2016
 1. Octavia-Maria Şulea, Sergiu Nisioi and Liviu P. Dinu, Using Word Embeddings to Translate Named Entities, LREC 2016
 1. Sergiu Nisioi, Ella Rabinovich, Liviu P. Dinu and Shuly Wintner, A Corpus of Native, Non-native and Translated Texts, LREC 2016
 1. Traian Florin Serbanuta and Liviu P. Dinu Maximally Parallel Contextual String Rewriting, WRLA 2016, Eindhoven, The Netherlands
+1. Liviu P. Dinu, Ana Sabina Uban, Ion Resceanu, 2016. Light: a Multilingual Distributional Analysis in Religious and Political Texts. In ed. St Bratosin, M. Tudor, RELIGION(S), LAÏCITÉ(S) ET SOCIÉTÉ(S) AU TOURNANT DES HUMANITÉS NUMÉRIQUES (actes du 3e colloque Comsymbol 2016), Montpellier, France, 9-10 novembre 2016
+1. Marcos Zampieri, Shervin Malmasi, Octavia-Maria Sulea, Liviu P. Dinu, 2016.  A Computational Approach to the Study of Portuguese Newspapers Published in Macau. Proceedings of the Workshop on Natural Language Processing Meets Journalism (NLPMJ), co-located with IJCAI. New York, United States, 10th July 2016.
+
 
 ## 2015
 1. Alina Maria Ciobanu, Liviu P. Dinu, 2015. [Automatic Discrimination between Cognates and Borrowings](http://aclweb.org/anthology/P/P15/P15-2071.pdf). In Proc. ACL (2) 2015 (the 53nd Annual Meeting of the 
