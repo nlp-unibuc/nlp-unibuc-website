@@ -8,7 +8,7 @@ Slug: people/alina
 
 ## Research interests
 
-- NLP, language similarity, multilinguality, cross-language methods, machine lerning
+- NLP, language similarity, cross-language methods, machine learning
 
 ## Selected publications
 
