@@ -1,7 +1,7 @@
 Title: Events 
 
 # Solomon Marcus seminar in Computational Linguistics 2018
-- 7 Marc 2018. Sergiu Nisioi (Univ. of Bucharest): Exploring Neural Text Simplification Models
+- 7 March 2018. Sergiu Nisioi (Univ. of Bucharest): Exploring Neural Text Simplification Models
 
 # 1st Conference on Recent Advances in Artificial Intelligence (RAAI)
 Access [here](/events/raai2017.html) the [call for papers](/events/raai2017.html) for the first RAAI conference (19-20 June 2017).
