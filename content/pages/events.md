@@ -1,5 +1,8 @@
 Title: Events 
 
+# Solomon Marcus seminar in Computational Linguistics 2018
+- 7 Marc 2018. Sergiu Nisioi (Univ. of Bucharest): Exploring Neural Text Simplification Models
+
 # 1st Conference on Recent Advances in Artificial Intelligence (RAAI)
 Access [here](/events/raai2017.html) the [call for papers](/events/raai2017.html) for the first RAAI conference (19-20 June 2017).
 
@@ -7,7 +10,7 @@ Access [here](/events/raai2017.html) the [call for papers](/events/raai2017.html
 
 ##### To get updates on future events, please [subscribe to our newsletter](/subscribe.html).
 
-- **3 May 2017.** Mihai Dascalu (UPB): ReaderBench - A Multi-lingual Discourse Processing Tool (Part 2)
+- 3 May 2017. Mihai Dascalu (UPB): ReaderBench - A Multi-lingual Discourse Processing Tool (Part 2)
 
 - 29 March 2017. Mihai Dascalu (UPB): ReaderBench - A Multi-lingual Discourse Processing Tool
 
