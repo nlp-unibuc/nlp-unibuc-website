@@ -1,9 +1,13 @@
 Title: Events 
 
+# 2nd International Conference on Recent Advances in Artificial Intelligence (RAAI)
+Access [here](/events/raai2018.html) the [call for papers](/events/raai2018.html) for the second RAAI conference (25-26 June 2018).
+
+
 # Solomon Marcus seminar in Computational Linguistics 2018
 - 7 March 2018. Sergiu Nisioi (Univ. of Bucharest): Exploring Neural Text Simplification Models (18:30, Stoilow amphitheater, first floor, Faculty of Mathematics and Computer Science, University of Bucharest)
 
-# 1st Conference on Recent Advances in Artificial Intelligence (RAAI)
+# 1st International Conference on Recent Advances in Artificial Intelligence (RAAI)
 Access [here](/events/raai2017.html) the [call for papers](/events/raai2017.html) for the first RAAI conference (19-20 June 2017).
 
 # Solomon Marcus seminar in Computational Linguistics
