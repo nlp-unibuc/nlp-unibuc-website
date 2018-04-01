@@ -1,0 +1,10 @@
+version: '2.1'
+
+services:
+    nlp:
+        build:
+            context: docker
+            dockerfile: Dockerfile
+        volumes:
+            - .:/elocal
+        tty: true
