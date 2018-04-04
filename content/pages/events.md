@@ -1,7 +1,7 @@
 Title: Events 
 
-# 2nd International Conference on Recent Advances in Artificial Intelligence (RAAI)
-Access [here](/events/raai2018.html) the [call for papers](/events/raai2018.html) for the second RAAI conference (25-26 June 2018).
+# 2nd International Conference on Recent Advances in Artificial Intelligence (RAAI) 2018
+Access [here](/events/raai2018.html) the [call for papers](/events/raai2018.html) for the second RAAI conference (25-27 June 2018).
 
 
 # Solomon Marcus seminar in Computational Linguistics 2018

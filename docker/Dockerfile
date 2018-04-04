@@ -1,4 +1,4 @@
-FROM ubuntu:16.05
+FROM ubuntu:16.04
 
 MAINTAINER Sergiu Nisioi <sergiu.nisioi@fmi.unibuc.ro>
 
