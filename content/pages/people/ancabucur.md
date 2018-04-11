@@ -9,6 +9,7 @@ Slug: people/ancabucur
 - philosophy of language, conceptual and digital art, posthumanism, history and theory of art, digital humanities, nomadology, poetics, biotechnology
 
 ## Publications
+- **Posthumanism, Technology, and Monstrous Life Forms**, [ISEA 2018](http://www.isea-international.org/isea2018/), Durban, South Africa 
 - **A Visual Representation of Wittgenstein's Tractatus Logico-Philosophicus**, COLING 2016, LT for DH: Language Technology Resources and Tools for Digital Humanities, [pdf](https://www.clarin-d.de/images/lt4dh/pdf/LT4DH10.pdf), [git](https://gitlab.com/tractatus/tractatus.gitlab.io), [demo](http://tractatus.gitlab.io/)
 - **(re)capitulări: Sfârșitul artei. Arta după filosofie**, InterRe:Act, no.1/ 2016
 - **O regândire a conceptului de comunitate. Despre comunitatea nomadă**, published in _Călători și călătorii. A privi, a descoperi_, Editura Universității din București, 2016
