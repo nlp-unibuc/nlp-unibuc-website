@@ -6,6 +6,7 @@ USER root
 
 RUN apt-get update 
 RUN apt-get install -y build-essential git python python-pip
+RUN pip install pybtex
 RUN pip install pelican
 RUN pip install typogrify
 
