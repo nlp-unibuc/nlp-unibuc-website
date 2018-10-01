@@ -7,6 +7,7 @@ Slug: people/liviu
 
 - Professor, [Faculty of Mathematics and Computer Science](http://fmi.unibuc.ro/ro/), Computer Science Department, University of
 Bucharest.
+- Honorarry president of Romanian Linguistics Olympics „Solomon Marcus”
 - Director, [Human Language Technologies Research Center](http://nlp.unibuc.ro/), University of
 Bucharest
 - Dr. habil. (2014), PhD. (2003, supervisor Solomon Marcus) and Bachelors (1994), Faculty of Mathematics
@@ -28,10 +29,30 @@ for more, visit [dblp](http://dblp.uni-trier.de/pers/hc/d/Dinu:Liviu_P=), [schol
 
 # <a name="Papers"></a> Papers:
 
+## 2018
+
+1. Cornelia Caragea, Liviu P. Dinu, Bogdan Dumitru, 2018. Exploring Optimism and Pessimism in Twitter Using Deep Learning. In Proc. EMNLP 2018, Brussels, Belgium, 2018 (to appear)
+2. Sergiu Nisioi, Anca Bucur, Liviu P Dinu, 2018. LexicalAnalysis and Content Extraction from Customer-Agent Interactions. Proceedings of the 2018 EMNLP Workshop W-NUT: The 4th Workshop on Noisy User-generated Text, pages 132–136 Brussels, Belgium, 2018.
+3. Alina Maria Ciobanu, Shervin Malmasi, Liviu P. Dinu, 2018. German Dialect Identification Using Classifier Ensembles. Proceedings of the Fifth Workshop on NLP for Similar Languages, Varieties and Dialects (VarDial 2018, co-located with COLING 2018), pages 288–294 Santa Fe, New Mexico, USA, August 20, 2018.
+4. Alina Maria Ciobanu , Marcos Zampieri, Shervin Malmasi, Santanu Pal, Liviu P. Dinu, 2018. Discriminating between Indo-Aryan Languages Using SVM Ensembles. Proceedings of the Fifth Workshop on NLP for Similar Languages, Varieties and Dialects (VarDial 2018, co-located with COLING 2018), pages 178–184, Santa Fe, New Mexico, USA, August 20, 2018.
+5. Alina Ciobanu, Liviu P.  Dinu, 2018.  Ab Initio: Latin Proto-word Reconstruction. In Proc. COLING 2018 (main conference), p. 1604-1614, Santa Fe, USA, 2018 .
+6. Alina Ciobanu, Liviu P.  Dinu, 2018.  Simulating Language Evolution: A Tool for Historical Linguistics. In Proc.COLING 2018 (demo section), pp68-72, Santa Fe, USA, 2018 
+7. Bogdan Dumitru, Alina Ciobanu, Liviu P Dinu, 2018.  ALB at SemEval-2018 Task 10: A System for Capturing Discriminative Attributes.  In Proc SemEval 2018, task 10. New Orleans, USA, 2018
+8. Anca Dinu, Liviu P. Dinu, Laura Franzoi and Andrea Sgarro, 2018. Steinhaus transforms of fuzzy string distances in computational linguistics, IPMU 2018, p 171-182, Cadiz, Spain.
+1. Maria Sulea, Bogdan Dumitru, Liviu P. Dinu. Full Inflection Learning Using Deep Neural Networks, CICLing 2018, Hanoi, Vietnam, 2018
+1. Liviu P Dinu, Ana Uban, 2018. Analyzing Stylistic Variation across Different Political Regimes, CICLing 2018, Hanoi, Vietnam, 2018
+
+
+
+## 2017
+
 1. Sergiu Nisioi, Sanja Štajner, Simone Paolo Ponzetto and Liviu P. Dinu, 2017.  Exploring Neural Text Simplification Models, In Proc. ACL 2017, Vancouver, Canada, 2017
 1. Liviu P. Dinu, Ana Sabina Uban, 2017. Finding a Character’s Voice: Stylome Classification on Literary Characters. In Proc. Joint SIGHUM Workshop on Computational Linguistics for Cultural Heritage, Social Sciences, Humanities and Literature (co-located with ACL 2017), Vancouver, Canada, 2017
 1. Alina Ciobanu, Liviu P. Dinu, and Andrea Sgarro, 2017. Towards a Map of the Syntactic Similarity of Languages. In Proc. CICLing 2017, Budapest, Hungary, 2017
 1. Alina Maria Ciobanu, Liviu P. Dinu, 2017. Romanian Word Production: an Orthographic Approach Based on Sequence Labeling, In Proc. CICLing 2017, Budapest, Hungary, 2017 
+1. Alina Maria Ciobanu, Marcos Zampieri, Shervin Malmasi, Liviu P. Dinu, 2017. Including Dialects and Language Varieties in Author Profiling. CLEF (Working Notes) 2017, Dublin, Ireland, 2017
+1. Marcos Zampieri, Alina Maria Ciobanu, Liviu P. Dinu, 2017. Native Language Identification on Text and Speech. BEA@EMNLP 2017:, p.398-404. Copenhagen, Denmark, 2017
+1. Anca Dinu, Liviu P. Dinu, Bogdan Dumitru, 2017. On the stylistic evolution from communism to democracy: Solomon Marcus study case.RANLP 2017, p 201-207. Varna, Bulgaria.
  
 
 ## 2016
@@ -447,7 +468,7 @@ commission 2.
 
 # <a name="PhDStudents"></a> PhD Students:
 -  Join me as a PhD student in computational linguistics, natural language processing, information processing, or in computer science.
-- Current students: Alina Maria Ciobanu, Laura Franzoi, Sergiu Nisioi, Maria Octavia Sulea,  Ana Uban.
+- Current students: Alina Maria Ciobanu, Laura Franzoi, Sergiu Nisioi, Maria Octavia Sulea, Ana Uban, Bogdan Dumitru, Andrei Butnaru, Daniela Onita, Ioana Vlad.
 
 # <a name="Courses"></a> Courses:
 Prezentări pentru cursuri:
