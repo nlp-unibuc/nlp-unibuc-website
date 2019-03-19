@@ -1,5 +1,9 @@
 Title: Events 
 
+# Solomon Marcus seminar in Computational Linguistics 2019
+- 19 March 2019. Eugen Istodor (Universitatea din București, Facultatea de Litere): **Despre Caragiale și analiza computațională a umorului** (orele 17.00, amfiteatrul Titeica, etajul 3), Facultatea de Matematică și Informatică, Universitatea din București.
+
+
 # Solomon Marcus seminar in Computational Linguistics 2018
 - 20 November 2018. Stefan Ruseti (UPB): **Recursive Neural Networks using Dependency Masks** (18:00, Spiru Haret amphitheather, ground floor, Faculty of Mathematics and Computer Science, University of Bucharest) 
 - 7 March 2018. Sergiu Nisioi (Univ. of Bucharest): Exploring Neural Text Simplification Models (18:30, Stoilow amphitheater, first floor, Faculty of Mathematics and Computer Science, University of Bucharest)
