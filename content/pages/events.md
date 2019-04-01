@@ -4,6 +4,8 @@ Title: Events
 Access [here](/events/raai2019.html) the [call for papers](/events/raai2019.html) for the third RAAI conference (24-25 June 2019).
 
 # Solomon Marcus seminar in Computational Linguistics 2019
+- 3 April 2019. Catalin Stoean (University of Craiova): **Machine learning for classification: from medical applications to text processing** (orele 14.30, sala 220, etajul 2), Facultatea de Matematică și Informatică, Universitatea din București.
+
 - 19 March 2019. Eugen Istodor (Universitatea din București, Facultatea de Litere): **Despre Caragiale și analiza computațională a umorului** (orele 17.00, amfiteatrul Titeica, etajul 3), Facultatea de Matematică și Informatică, Universitatea din București.
 
 # Solomon Marcus seminar in Computational Linguistics 2018
