@@ -4,18 +4,14 @@ Slug: people/snisioi
 ## About
 
 - I am currently working as a researcher within the HLT Center, Faculty of Mathematics and Computer Science, University of Bucharest
-- you may checkout some git repositories [here](https://github.com/senisioi)
-- my interests cover sound art, algorithmic compositions, hacking sound devices, and modular synthesizers
-- part of godwana sound project, producing [tectonic noise](https://soundcloud.com/godwana_noise)
-- packet crafting using docker and scapy, lab materials [here](https://github.com/senisioi/computer-networks)
-
-## Research interests
-
-- psycholinguistics, computational learning theory, machine translation, translation studies, second language acquisition, speech processing, low resource languages, cybersecurity, digital signal processing
+- my research covers roughly psycholinguistics, computational learning theory, machine translation, translation studies, speech processing, low resource languages, cybersecurity, and digital signal processing
+- I'm interested in sound art, algorithmic compositions, and modular synthesizers, thus producing *tectonic noise* as part of [godwana sound project](https://soundcloud.com/godwana_noise)
+- part of the [ODD collective](https://www.oddweb.org/)
+- teaching includes some lab materials created to do packet crafting and learn computer networks using docker and scapy, check them out [here](https://github.com/senisioi/computer-networks)
 
 
 
-## Relevant publications
+### Relevant publications
 - S Nisioi, S Štajner, SP Ponzetto, LP Dinu: **Exploring Neural Text Simplification Models**, ACL 2017, [pdf](https://www.aclweb.org/anthology/papers/P/P17/P17-2014/), [git](https://github.com/senisioi/NeuralTextSimplification)
 - Anca Bucur and Sergiu Nisioi: **A Visual Representation of Wittgenstein’s Tractatus Logico-Philosophicus**, LT4DH-COLING, 2016, [pdf](https://www.clarin-d.de/images/lt4dh/pdf/LT4DH10.pdf), [git](https://gitlab.com/tractatus/tractatus.gitlab.io), [demo](http://tractatus.gitlab.io/)
 - Ella Rabinovich, Sergiu Nisioi, Noam Ordan and Shuly Wintner: **On the Similarities Between Native, Non-native and Translated Texts**, ACL, 2016
