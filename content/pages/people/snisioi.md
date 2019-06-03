@@ -1,14 +1,12 @@
-﻿Title: Sergiu Nisioi 
+Title: Sergiu Nisioi 
 Slug: people/snisioi
 
 ## About
 
 - I am currently working as a researcher within the HLT Center, Faculty of Mathematics and Computer Science, University of Bucharest
-- my research covers roughly psycholinguistics, computational learning theory, machine translation, translation studies, speech processing, low resource languages, cybersecurity, and digital signal processing
-- I'm interested in sound art, algorithmic compositions, and modular synthesizers, thus producing *tectonic noise* as part of [godwana sound project](https://soundcloud.com/godwana_noise)
+- my research covers psycholinguistics, computational learning theory, machine translation, translation studies, speech processing, low resource languages, cybersecurity, and digital signal processing
+- I'm also interested in sound art, algorithmic compositions, and modular synthesizers; producing *tectonic noise*  as part of [godwana sound project](https://soundcloud.com/godwana_noise)
 - part of the [ODD collective](https://www.oddweb.org/)
-- teaching includes some lab materials created to do packet crafting and learn computer networks using docker and scapy, check them out [here](https://github.com/senisioi/computer-networks)
-
 
 
 ### Relevant publications
@@ -25,6 +23,7 @@ Slug: people/snisioi
 - Nisioi, S. and Dinu, L.P.: **A clustering approach for translationese identification**, RANLP, 2013, [pdf](http://www.aclweb.org/anthology/R13-1070)
 
 ## Teaching activities
+- Computer Networks lab materials using docker and scapy, check them out [here](https://github.com/senisioi/computer-networks)
 - Computer Networks, [course](/courses/RdC.pdf)
 - Advanced Object Oriented Programming Lab, [link](http://aoop.github.io/)
 
