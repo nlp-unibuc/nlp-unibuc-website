@@ -1,6 +1,6 @@
 ﻿Title: Resources
 
-- <a href="#HistLing">Resources and Tools for Computational Historical Linguistics</a> 
+- <a href="#HistoricalLinguistics">Resources and Tools for Computational Historical Linguistics</a> 
 - <a href="#NeuralTS">Neural Text Simplification Models</a> 
 - <a href="#ENNTT">Europarl Corpus of Native, Non-native and Translated Texts - ENNTT</a> 
 - <a href="#Wittgenstein">A Visual Representation of Wittgenstein's Tractatus Logico-Philosophicus</a> 
@@ -11,7 +11,7 @@
 
 -------
 
-<a name="HistLing"></a>
+<a name="HistoricalLinguistics"></a>
 ## [Resources and Tools for Computational Historical Linguistics]()
 - TBA
 
