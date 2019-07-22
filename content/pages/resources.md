@@ -1,5 +1,6 @@
 ﻿Title: Resources
 
+- <a href="#HistLing">Resources and Tools for Computational Historical Linguistics</a> 
 - <a href="#NeuralTS">Neural Text Simplification Models</a> 
 - <a href="#ENNTT">Europarl Corpus of Native, Non-native and Translated Texts - ENNTT</a> 
 - <a href="#Wittgenstein">A Visual Representation of Wittgenstein's Tractatus Logico-Philosophicus</a> 
@@ -7,6 +8,12 @@
 - <a href="#SpeechText">Comparing Speech and Text Classification of Native and Non-native English</a>
 - <a href="#LangSim">Degrees of Similarity Between Romanian and Related Languages</a>
 - <a href="#NER">Cross-lingual Named Entity Recognition</a> 
+
+-------
+
+<a name="HistLing"></a>
+## [Resources and Tools for Computational Historical Linguistics]()
+- TBA
 
 -------
 
