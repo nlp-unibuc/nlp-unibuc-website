@@ -13,7 +13,8 @@
 
 <a name="HistoricalLinguistics"></a>
 ## [Resources and Tools for Computational Historical Linguistics]()
-- TBA
+- The Java code for automatically identifying and producing related words for historical linguistics: [link](https://github.com/alinaciobanu/cognates).
+- The translations used for dictionary-based identification of cognates: [link](https://drive.google.com/file/d/1wzUHAOfew-erprHblYFNqwwupUslZiG3/view).
 
 -------
 
