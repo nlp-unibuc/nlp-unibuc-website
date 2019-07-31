@@ -15,6 +15,7 @@
 ## [Resources and Tools for Computational Historical Linguistics]()
 - The Java code for automatically identifying and producing related words for historical linguistics: [link](https://github.com/alinaciobanu/cognates).
 - The translations used for dictionary-based identification of cognates: [link](https://drive.google.com/file/d/1wzUHAOfew-erprHblYFNqwwupUslZiG3/view).
+- The input and output files for experiments on identification and production of relate words: [link](https://drive.google.com/file/d/1jXvzmbcLjP0ZhVhQIXFpuQ5XqUXrJQDb/view).
 
 -------
 
