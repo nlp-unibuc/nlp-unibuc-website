@@ -5,8 +5,7 @@ Slug: people/snisioi
 
 - I am currently working as a researcher within the HLT Center, Faculty of Mathematics and Computer Science, University of Bucharest
 - my research covers psycholinguistics, computational learning theory, machine translation, translation studies, speech processing, low resource languages, cybersecurity, and digital signal processing
-- I'm also interested in sound art, algorithmic compositions, and modular synthesizers; producing *tectonic noise*  as part of [godwana sound project](https://soundcloud.com/godwana_noise)
-- part of the [ODD collective](https://www.oddweb.org/)
+- I'm also interested in sound art, algorithmic compositions, and modular synthesizers; producing *tectonic noise* as part of [godwana sound project](https://soundcloud.com/godwana_noise)
 
 
 ### Relevant publications
