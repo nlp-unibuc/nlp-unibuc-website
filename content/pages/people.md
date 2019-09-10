@@ -1,7 +1,7 @@
 ﻿Title: People
 
 # Members and researchers
-- [Anca Bucur (Ph.D st.)](/people/ancabucur.html) (CESI)
+- [Anca Bucur (Resarch)](/people/ancabucur.html)
 - Andrei Butnaru (Ph.D st.)
 - [Alina Maria Ciobanu (Teaching Assistant, Ph.D st.)](/people/alina.html)
 - [Anca Dinu (Senior Lecturer, Ph.D)](/people/anca.html)
