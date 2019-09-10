@@ -3,9 +3,9 @@ Status: hidden
 URL: 
 save_as: index.html
 
-Welcome! We are a team of researchers working
-in different multi-disciplinary areas related to natural language processing, digital humanities, machine learning, digital culture, computational linguistics, and general artificial intelligence. 
-Our [team](/people.html) is based in Bucharest, Romania, and consists of people from the [Faculty of Mathematics and Computer Science](http://fmi.unibuc.ro/ro/), Center of Excellence in Image Study [CESI](http://cesi.ro/fr/info/general.htm), and the [Faculty of Foreign Languages and Literatures](http://lls.unibuc.ro/), 
+Welcome! We are a group of researchers working
+in different multi-disciplinary areas related to natural language processing, digital humanities, machine learning, digital culture, computational linguistics, arts, and general artificial intelligence. 
+Our [team](/people.html) is based in Bucharest, Romania and our backgrounds come from [computer science](http://fmi.unibuc.ro/ro/), arts, [linguistics and literature](http://lls.unibuc.ro/), 
 
 
 We have a long and robust tradition in Computational Linguistics that roots from
