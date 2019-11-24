@@ -1,7 +1,7 @@
 Title: Events 
 
 # Solomon Marcus seminar in Computational Linguistics 2019-2020
-- 25 November. Dan Dediu (Laboratoire Dynamique Du Langage (DDL) and Université Lumière Lyon 2,  Lyon, France, https://bitsaying.wordpress.com/): **Metode cantitative aplicate la studiul diversității lingvistice** (orele 18.00, amfiteatrul Spiru Haret, parter), Facultatea de Matematică și Informatică, Universitatea din București. Această întâlnire este realizată împreună cu ICUB, secția Digital Humanities (https://irhunibuc.wordpress.com/). [Mai multe detalii aici]()
+- 25 November. Dan Dediu (Laboratoire Dynamique Du Langage (DDL) and Université Lumière Lyon 2,  Lyon, France, https://bitsaying.wordpress.com/): **Metode cantitative aplicate la studiul diversității lingvistice** (orele 18.00, amfiteatrul Spiru Haret, parter), Facultatea de Matematică și Informatică, Universitatea din București. Această întâlnire este realizată împreună cu ICUB, secția Digital Humanities (https://irhunibuc.wordpress.com/). [Mai multe detalii aici](http://nlp.unibuc.ro/events/dandediu.html)
 
 
 # 3rd International Conference on Recent Advances in Artificial Intelligence (RAAI) 2019
