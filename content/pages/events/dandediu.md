@@ -7,6 +7,10 @@ Sunt toate aspectele structurale ale limbajului la fel de (in)stabile?
 Există constrângeri extra-lingvistice asupra răspândirii familiilor lingvistice? 
 In ce fel este diversitatea lingvistică influențată de genetica, biologia și cultura populațiilor umane? 
 
+## Slides
+- Some quantitative and data-driven approaches to studying linguistic diversity and the processes that shape it [pdf](https://github.com/nlp-unibuc/nlp-unibuc-website/releases/download/1.0/dediu-icub-2019-1.pdf)
+- Language and speech in their wider environment: ecological, physical and biological influences on linguistic diversity [pdf](https://github.com/nlp-unibuc/nlp-unibuc-website/releases/download/1.0/dediu-icub-2019-2.pdf)
+
 ## Invitat:
 Dan Dediu (Laboratoire Dynamique Du Langage (DDL) and Université Lumière Lyon 2,  Lyon, France, https://bitsaying.wordpress.com/)
 
