@@ -16,7 +16,7 @@ Pluriva SRL este o companie de produse și servicii informatice înființată ac
 
 ## Obiective
 
-### [Faza 1]('nlp.unibuc.ro/reports/raport-sigar-16.pdf')
+### [Faza 1](/reports/raport-sigar-16.pdf)
 
 ##### Activitate 1.1: accesarea și pre-procesarea datelor. 
 În scopul realizarii acestei activități următoarele acțiuni au fost planificate și realizate:
@@ -27,7 +27,7 @@ Pluriva SRL este o companie de produse și servicii informatice înființată ac
 Principala acțiune desfășurată în cadrul acestei activități a fost analiza inițială și evaluarea unui algoritm de topic modelling
 
 
-### [Faza 2]('nlp.unibuc.ro/reports/raport-sigar-17.pdf')
+### [Faza 2](/reports/raport-sigar-17.pdf)
 
 #### Activitate 2.1: Adnotarea datelor. 
 În scopul realizarii acestei activități următoarele acțiuni au fost planificate și realizate:
@@ -53,7 +53,7 @@ Principalele acțiuni desfășurate în cadrul acestei activități au fost anal
 Principalele acțiuni desfășurate în cadrul acestei activități au fost analiza, testarea, evaluare retelei precum si integrarea retelei in agregator.
 
 
-### [Faza 3]('nlp.unibuc.ro/reports/raport-sigar-18.pdf')
+### [Faza 3](/reports/raport-sigar-18.pdf)
  Dezvoltarea modulului de limba română,testarea și evaluarea metodelor proiectate în etapele anterioare. Pentru îndeplinirea acestui obiectiv, au fost planificate următoarele activități:
 
 #### Activitate 3.1: Dezvoltarea de resurse specifice proiectului pentru limba română. În scopul realizării acestei activități următoarele acțiuni au fost planificate și realizate:
