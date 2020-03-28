@@ -9,12 +9,11 @@ Masteratul se bazează pe un puternic și modern corp profesoral, cu prezențe c
 
 ## **Cuprins**
 - [Cursuri](#cursuri)
-- [Cursuri opționale](#optionale)
-- [Industrial/Research Practice](#practica)
+- [Cursuri opționale și alte activități](#optionale)
+- [Practica de cercetare sau industrială](#practica)
 - [După terminarea studiilor](#dupa_master)
 - [Contact](#contact)
 - [Structura cursurilor](#structura)
-
 
 ### Domeniul de încadrare a programului de studii: **Informatică**
 ### Titlul programului de studii: **Natural Language Processing**
@@ -37,9 +36,9 @@ Masteratul se bazează pe un puternic și modern corp profesoral, cu prezențe c
 - Special Topics in NLP and HLT 
 
 <a name="optionale"></a> 
-## **Cursuri opționale**
-- Vor fi invitați periodic cercetători din străinătate și din țară pentru a asigura atât prelegeri complementare programei, cât și pentru a realiza colaborari concrete cu alte centre de cercetare.
-- Vor fi incurajate colaborările cu studenții și profesorii de la masteratele complementare din Universitatea din București (ex.: Masteratul de Digital Humanities - Facultatea de Limbi și Literaturi Străine, Masteratul Cognitive Sciences and Philosophy of Mind - Facultatea de Filosofie, etc.) sau de la alte centre universitare din țară și străinatate.
+## **Cursuri opționale și alte activități**
+- Vor fi invitați periodic cercetători din țară și din străinătate pentru a asigura atât prelegeri complementare programei, cât și pentru a realiza colaborari concrete cu alte centre de cercetare.
+- Vor fi încurajate colaborările cu studenții și profesorii de la masteratele complementare din Universitatea din București (ex.: Masteratul de Digital Humanities - Facultatea de Limbi și Literaturi Străine, Masteratul Cognitive Sciences and Philosophy of Mind - Facultatea de Filosofie, etc.) sau de la alte centre universitare.
 
 ### **Alegerea cursurilor opționale**
 Lista cursurilor opționale pentru fiecare semestru va fi stabilită anual, pe baza cursurilor existente și a opțiunilor studenților (la cerere, și in limita posibilităților, vor fi asigurate și cursuri care nu se găsesc acum în programă). Pentru alegerea cursulurilor opționale fiecare student prezintă opţiunea sa nominalizând, în ordinea descrescătoare a preferinţelor sale, [dintr-o listă de cursuri](http://fmi.unibuc.ro/ro/pdf/2019/optionale/Cerere_optionale_master_info_I_2019-2020.pdf).
@@ -62,21 +61,21 @@ Acest modul poate fi ales de către studenți dintr-o multitudine de optiuni:
 
 <a name="dupa_master"></a> 
 ## **După terminarea studiilor**
-- Posibilități de cercetare avansată (doctorat) în:
-    - două școli doctorale ale Universitatii din Bucuresti: **Scoala Doctorală de Informatică**, Facultatea de Matematică și Informatică, **Scoala Doctorală Interdisciplinară** a Universității din București (grupurile Mind, Language and Cognition și Sisteme Complexe)
+- posibilități de cercetare avansată (doctorat) în:
+    - două școli doctorale ale Universitătii din București: [Școala Doctorală de Informatică](http://fmi.unibuc.ro/ro/scoala_doctorala_info/despre_sdi/), Facultatea de Matematică și Informatică sau [Școala Doctorală Interdisciplinară](https://doctorat.unibuc.ro/scoala-interdisciplinara-de-studii-doctorale-a-universitatii-din-bucuresti/) a Universității din București (grupurile Mind, Language and Cognition și Sisteme Complexe)
     - școlile doctorale ale Academiei Române (RACAI), ale Universității Politehnica din București, ale Universității AI Cuza Iasi, ale Universității Babes-Bolyai Cluj, etc
-- Cercetare avansată în străinatate prin partenerii noștri din cadrul unor școli doctorale și
-centre de cercetare din Spania (Valencia, Barcelona), Italia (Trento, Pavia, Torino, Trieste, Roma, Pisa), Germania (Hamburg, Saarbrucken, Stuttgart), Marea Britanie (Wolverhampton, Sheffield, Bristol, Edinburgh), Elveția (Laussane, Zurrich), Franța (Paris, Lyon, Marsilia), USA (Chicago, Cornell, NY, Michigan) etc.
-- Oportunități majore de continuare în industrie în cadrul colectivelor de NLP și AI ale unui număr considerabil de firme din țara ți strainatate (IBM, Google, Oracle, UiPath, etc)
-- Posibilități de dezvoltare a propriilor proiecte finanțate în cadrul Human Language Technologies Research Center
+- cercetare avansată în străinatate prin partenerii noștri din cadrul unor școli doctorale și
+centre de cercetare din Spania, Italia, Germania, Marea Britanie, Elveția, Franța sau USA.
+- oportunități majore de continuare în industrie în cadrul grupurilor de NLP și AI ale unui număr considerabil de firme (IBM, Google, Oracle, UiPath, dailight.ai etc)
+- posibilități de dezvoltare a propriilor proiecte finanțate în cadrul Human Language Technologies Research Center
 
-
+---
 <a name="contact"></a> 
 ## **Contact**
-- Prof. dr. habil. [Liviu P. Dinu](http://nlp.unibuc.ro/people/liviu.html)) email: liviu.p.dinu @ gmail.com, tel. +40 761 146 148
+- Prof. dr. habil. [Liviu P. Dinu](http://nlp.unibuc.ro/people/liviu.html) email: liviu.p.dinu @ gmail.com, tel. +40 761 146 148
 - Prof. dr. [Florentina Hristea](http://fmi.unibuc.ro/en/cv.php/cs/hristea_florentina_en) email: fhristea @ fmi.unibuc.ro
-- Asist. Drd. [Sergiu Nisioi](http://nlp.unibuc.ro/people/snisioi.html)) email: sergiu.nisioi @ unibuc.ro
-
+- Asist. Drd. [Sergiu Nisioi](http://nlp.unibuc.ro/people/snisioi.html) email: sergiu.nisioi @ unibuc.ro
+---
 
 <a name="structura"></a> 
 ## **Anul universitar 2020-2021 (anul I) – 60 ECTS**
@@ -97,7 +96,6 @@ centre de cercetare din Spania (Valencia, Barcelona), Italia (Trento, Pavia, Tor
 
 C = curs; S = seminar/laborator; Ob.xx = obligatoriu; Op.xx = opțional;
 EV = evaluare; E = examen; V = verificare; ECTS = număr de credite europene transferabile;
-
 
 ## **Anul universitar 2021-2022 (anul II) – 60 ECTS**
 | Nr. | Cursuri obligatorii | C | S/L | E/V | ECTS | C | S/L | E/V | ECTS |
