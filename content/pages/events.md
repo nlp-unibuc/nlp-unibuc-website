@@ -1,5 +1,8 @@
 Title: Events 
 
+### To get updates on future events, please [subscribe to our newsletter](/subscribe.html).
+
+
 # Solomon Marcus seminar in Computational Linguistics 2019-2020
 - 3 March. Florin Brad, Traian Rebedea (UPB): **Exploring transformer-based models** (orele 18.00, Amfiteatrul Stoilow, etajul 2), Facultatea de Matematică și Informatică, Universitatea din București.
 In cadrul prezentării, vom discuta despre modelele neurale de tip transformator și vom analiza de ce acestea aduc beneficii importante pentru o gamă largă de aplicații din lingvistica computațională.
@@ -26,8 +29,6 @@ Access [here](/events/raai2018.html) the [call for papers](/events/raai2018.html
 Access [here](/events/raai2017.html) the [call for papers](/events/raai2017.html) for the first RAAI conference (19-20 June 2017).
 
 # Solomon Marcus seminar in Computational Linguistics
-
-##### To get updates on future events, please [subscribe to our newsletter](/subscribe.html).
 
 - 3 May 2017. Mihai Dascalu (UPB): ReaderBench - A Multi-lingual Discourse Processing Tool (Part 2)
 
