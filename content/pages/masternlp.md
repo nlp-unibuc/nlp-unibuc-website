@@ -1,0 +1,118 @@
+Title: Natural Language Processing Master Studies
+Slug: masternlp
+
+### English version soon
+
+## Facultatea de Matematică şi Informatică, Universitatea din Bucureşti
+
+Masteratul se bazează pe un puternic și modern corp profesoral, cu prezențe constante în jurnalele și conferințele de referință din domeniu. Masteratul va promova o atmosferă modernă, deschisă și colegială, bazată pe respectul și recunoasterea reciprocă a fiecărui membru al comunității. Masteratul se adresează tuturor membrilor interesați de procesarea limbajului natural și de lingvistica computațională, va promova egalitatea de gen, și nu va tolera nicio discriminare, indiferent de natura ei (de sex, religie, rasă, etnie, vârstă, etc).
+
+## **Cuprins**
+- [Cursuri](#cursuri)
+- [Cursuri opționale](#optionale)
+- [Industrial/Research Practice](#practica)
+- [După terminarea studiilor](#dupa_master)
+- [Contact](#contact)
+- [Structura cursurilor](#structura)
+
+
+### Domeniul de încadrare a programului de studii: **Informatică**
+### Titlul programului de studii: **Natural Language Processing**
+### Tipul programului de studii: **masterat de cercetare, zi**
+### Durata programului de studii: **4 semestre / 120 ECTS**
+### Anul în care urmează să devină operaţional: **2020-2021**
+### Admitere: Iulie &amp; Septembrie 2020: **30 locuri buget**
+
+<a name="cursuri"></a> 
+## **Cursuri**
+- Linguistics for Computer Science 
+- Practical Machine Learning 
+- Natural Language Processing
+- Advanced Machine Learning 
+- Cognitive Computing (in collaboration with IBM) 
+- Information Retrieval and Text Mining 
+- Machine Translation 
+- Special Topics in Computational Linguistics 
+- Bio-NLP 
+- Special Topics in NLP and HLT 
+
+<a name="optionale"></a> 
+## **Cursuri opționale**
+- Vor fi invitați periodic cercetători din străinătate și din țară pentru a asigura atât prelegeri complementare programei, cât și pentru a realiza colaborari concrete cu alte centre de cercetare.
+- Vor fi incurajate colaborările cu studenții și profesorii de la masteratele complementare din Universitatea din București (ex.: Masteratul de Digital Humanities - Facultatea de Limbi și Literaturi Străine, Masteratul Cognitive Sciences and Philosophy of Mind - Facultatea de Filosofie, etc.) sau de la alte centre universitare din țară și străinatate.
+
+### **Alegerea cursurilor opționale**
+Lista cursurilor opționale pentru fiecare semestru va fi stabilită anual, pe baza cursurilor existente și a opțiunilor studenților (la cerere, și in limita posibilităților, vor fi asigurate și cursuri care nu se găsesc acum în programă). Pentru alegerea cursulurilor opționale fiecare student prezintă opţiunea sa nominalizând, în ordinea descrescătoare a preferinţelor sale, [dintr-o listă de cursuri](http://fmi.unibuc.ro/ro/pdf/2019/optionale/Cerere_optionale_master_info_I_2019-2020.pdf).
+
+1. Exemple de opțiuni pentru alegerea cursului opțional Op.14 din semestrul I: **Knowledge Representation and Reasoning**, **Logic for Computer Science** sau alte cursuri din planul de învățământ al celorlalte mastere din facultate.
+1. Exemple de opțiuni pentru alegerea cursului opțional Op.24 din semestrul II: **Big Data**, **Statistics for Data Science** sau alte cursuri din planul de învățământ al celorlalte mastere din facultate.
+1. Exemple de optiuni pentru alegerea cursului opțional Op.34 din semestrul III: **Deep Learning**, **Modern Technologies for Information Security** sau alte cursuri din planul de învățământ al celorlalte mastere din facultate.
+1. Exemple de optiuni pentru alegerea cursului opțional Op.43 din semestrul IV: **Information Visualization**, **Special Topics in Artificial Intelligence** sau alte cursuri din planul de învățământ al celorlalte mastere din facultate.
+
+<a name="practica"></a> 
+## **Practica (Industrial/Research Practice)**
+Acest modul poate fi ales de către studenți dintr-o multitudine de optiuni:
+
+- în cadrul unor firme partenere cu masteratul care dezvolta aplicatii de NLP (IBM, UiPath, Oracle, etc);
+- în cadrul unor proiecte de cercetare dezvoltate de centrul Human Language Technologies Research Center sau a altor centre partenere
+- în cadrul unor echipe de cercetare care lucrează la diverse articole/acțiuni de cercetare (activitati de adnotare, realizare de studii de caz, etc)
+- participare la școli de vară (ESSLLI, etc), workshop-uri, tutoriale, schimburi de experiență, etc.
+- alte activități specifice domeniului (Olimpiada de Lingvistica, etc)
+
+
+<a name="dupa_master"></a> 
+## **După terminarea studiilor**
+- Posibilități de cercetare avansată (doctorat) în:
+    - două școli doctorale ale Universitatii din Bucuresti: **Scoala Doctorală de Informatică**, Facultatea de Matematică și Informatică, **Scoala Doctorală Interdisciplinară** a Universității din București (grupurile Mind, Language and Cognition și Sisteme Complexe)
+    - școlile doctorale ale Academiei Române (RACAI), ale Universității Politehnica din București, ale Universității AI Cuza Iasi, ale Universității Babes-Bolyai Cluj, etc
+- Cercetare avansată în străinatate prin partenerii noștri din cadrul unor școli doctorale și
+centre de cercetare din Spania (Valencia, Barcelona), Italia (Trento, Pavia, Torino, Trieste, Roma, Pisa), Germania (Hamburg, Saarbrucken, Stuttgart), Marea Britanie (Wolverhampton, Sheffield, Bristol, Edinburgh), Elveția (Laussane, Zurrich), Franța (Paris, Lyon, Marsilia), USA (Chicago, Cornell, NY, Michigan) etc.
+- Oportunități majore de continuare în industrie în cadrul colectivelor de NLP și AI ale unui număr considerabil de firme din țara ți strainatate (IBM, Google, Oracle, UiPath, etc)
+- Posibilități de dezvoltare a propriilor proiecte finanțate în cadrul Human Language Technologies Research Center
+
+
+<a name="contact"></a> 
+## **Contact**
+- Prof. dr. habil. [Liviu P. Dinu](http://nlp.unibuc.ro/people/liviu.html)) email: liviu.p.dinu @ gmail.com, tel. +40 761 146 148
+- Prof. dr. [Florentina Hristea](http://fmi.unibuc.ro/en/cv.php/cs/hristea_florentina_en) email: fhristea @ fmi.unibuc.ro
+- Asist. Drd. [Sergiu Nisioi](http://nlp.unibuc.ro/people/snisioi.html)) email: sergiu.nisioi @ unibuc.ro
+
+
+<a name="structura"></a> 
+## **Anul universitar 2020-2021 (anul I) – 60 ECTS**
+| Nr. | Cursuri obligatorii | C | S/L | E/V | ECTS | C | S/L | E/V | ECTS |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| | | <td colspan=4> Sem. I (14 săpt.) <td colspan=4> Sem. II (14 săpt.) |
+| 1 | Ob.11 Linguistics for Computer Science | 2 | 1 | E | 6 | - | - | - | - |
+| 2 | Ob.12 Practical Machine Learning | 2 | 1 | E | 6 | - | - | - | - |
+| 3 | Ob.13 Natural Language Processing 1 | 2 | 1 | E | 6 | - | - | - | - |
+| 4 | Op.14 Opțional | 2 | 1 | E | 6 | - | - | - | - |
+| 5 | Ob.15 Industrial/Research Practice | - | 2 | V | 6 | - | - | - | - |
+| 6 | Ob.21 Advanced Machine Learning | - | - | - | - | 2 | 1 | E | 6 |
+| 7 | Ob.22 Natural Language Processing 2 | - | - | - | - | 2 | 1 | E | 6 |
+| 8 | Ob.23 Cognitive Computing (in collaboration with IBM) | - | - | - | - | 1 | 2 | E | 6 |
+| 9 | Op.24 Opțional |   |   |   |   | 2 | 1 | E | 6 |
+| 10 | Ob.25 Industrial/Research Practice | - | - | - | - | - | 2 | V | 6 |
+| **TOTAL** | **8** | **6** | **4E1V** | **30** | **7** | **7** | **4E1V** | **30** |
+
+C = curs; S = seminar/laborator; Ob.xx = obligatoriu; Op.xx = opțional;
+EV = evaluare; E = examen; V = verificare; ECTS = număr de credite europene transferabile;
+
+
+## **Anul universitar 2021-2022 (anul II) – 60 ECTS**
+| Nr. | Cursuri obligatorii | C | S/L | E/V | ECTS | C | S/L | E/V | ECTS |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| | | <td colspan=4> Sem. I (14 săpt.) <td colspan=4> Sem. II (14 săpt.) |
+| 1 | Ob.31 Information Retrieval and Text Mining | 2 | 1 | E | 6 | - | - | - | - |
+| 2 | Ob.32 Machine Translation | 2 | 1 | E | 6 | - | - | - | - |
+| 3 | Ob.33 Special Topics in Computational Linguistics | 2 | 1 | E | 6 | - | - | - | - |
+| 4 | Op.34 Opțional | 2 | 1 | E | 6 | - | - | - | - |
+| 5 | Ob.35 Disertation Research | - | 2 | V | 6 | - | - | - | - |
+| 6 | Ob.41 Bio-NLP | - | - | - | - | 1 | 2 | E | 6 |
+| 7 | Ob.42 Special Topics in NLP and HLT | - | - | - | - | 2 | 1 | E | 6 |
+| 8 | Op.43 Opțional | - | - | - | - | 2 | 1 | E | 6 |
+| 9 | Ob.44 Disertation Research | - | - | - | - | - | 5 | V | 12 |
+| **TOTAL** | **8** | **6** | **4E1V** | **30** | **5** | **9** | **3E1V** | **30** |
+
+- **NB1.** Ultimele două săptămâni din semestrul IV vor fi dedicate finalizării lucrării de disertație, fiind normate cu 14 ore fiecare săptămână.
+- **NB2.** Cursurile opționale vor fi alese dintre cursurile obligatorii ale celorlalte programe de mastere ale Facultății de Matematică și Informatică.
