@@ -1,5 +1,5 @@
-Title: Natural Language Processing Master Studies
-Slug: masternlp
+Title: Master's Program in Natural Language Processing
+Slug: master
 
 ### English version soon
 
@@ -73,7 +73,7 @@ centre de cercetare din Spania, Italia, Germania, Marea Britanie, Elveția, Fran
 <a name="contact"></a> 
 ## **Contact**
 - Prof. dr. habil. [Liviu P. Dinu](http://nlp.unibuc.ro/people/liviu.html) email: liviu.p.dinu @ gmail.com, tel. +40 761 146 148
-- Prof. dr. [Florentina Hristea](http://fmi.unibuc.ro/en/cv.php/cs/hristea_florentina_en) email: fhristea @ fmi.unibuc.ro
+- Prof. dr. habil. [Florentina Hristea](http://fmi.unibuc.ro/en/cv.php/cs/hristea_florentina_en) email: fhristea @ fmi.unibuc.ro
 - Asist. Drd. [Sergiu Nisioi](http://nlp.unibuc.ro/people/snisioi.html) email: sergiu.nisioi @ unibuc.ro
 ---
 
