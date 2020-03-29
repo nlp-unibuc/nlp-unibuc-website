@@ -1,19 +1,27 @@
 Title: Master's Program in Natural Language Processing
 Slug: master
 
-### English version soon
-
-## Facultatea de Matematică şi Informatică, Universitatea din Bucureşti
-
-Masteratul se bazează pe un puternic și modern corp profesoral, cu prezențe constante în jurnalele și conferințele de referință din domeniu. Masteratul va promova o atmosferă modernă, deschisă și colegială, bazată pe respectul și recunoasterea reciprocă a fiecărui membru al comunității. Masteratul se adresează tuturor membrilor interesați de procesarea limbajului natural și de lingvistica computațională, va promova egalitatea de gen, și nu va tolera nicio discriminare, indiferent de natura ei (de sex, religie, rasă, etnie, vârstă, etc).
+### [English version](https://nlp.unibuc.ro/master_en)
 
 ## **Cuprins**
+- [Introducere](#introducere)
 - [Cursuri](#cursuri)
 - [Cursuri opționale și alte activități](#optionale)
 - [Practica de cercetare sau industrială](#practica)
 - [După terminarea studiilor](#dupa_master)
 - [Contact](#contact)
 - [Structura cursurilor](#structura)
+
+
+<a name="introducere"></a>
+## **Introducere**
+
+Masterul în Procesarea Limbajului Natural (NLP) este primul de acest fel în România și se desfășoară în limba engleză, în cadrul [Facultății de Matematică și Informatică](http://fmi.unibuc.ro), Universitatea din București. Principalele obiective ale programului de master sunt să formeze specialiști cu cunoștințe solide în domeniul procesării limbajului natural și al lingvisticii computaționale, să asigure o pregătire vastă atât teoretică cât și practică absolvenților, să îi ajute pe aceștia să integreze în activitățile lor de cercetare și industriale cele mai recente evoluții din domeniu.
+
+Programul de învățământ din primul an conține 6 discipline fundamentale, pregătitoare pentru cursurile ulterioare din program. Programul din anul al doilea conține 5 discipline avansate și specializate, îndrumându-i pe studenți către o pregătire complexă și interdisciplinară, fiind orientat atât către cercetare, cât și către industrie. Programul fiecărui an este completat de cursuri opționale pentru a oferi studentilor  atât cunoștințe suplimentare și complementare despre subiecte de NLP și lingvistică computațională, cât și din domenii conexe de informatică. Lista cursurilor opționale va fi actualizată anual în funcție de dinamica domeniului, de programele de masterat existente în facultate și de interacțiunea cu firmele interesate să ofere pregătire practică specializată în cadrul masterului.
+
+Masteratul se bazează pe un puternic și modern corp profesoral, cu prezențe constante în jurnalele și conferințele de referință din domeniu. Masteratul va promova o atmosferă modernă, deschisă și colegială, bazată pe respectul și recunoasterea reciprocă a fiecărui membru al comunității. Masteratul se adresează tuturor membrilor interesați de procesarea limbajului natural și de lingvistica computațională, va promova egalitatea de gen, și nu va tolera nicio discriminare, indiferent de natura ei (de sex, religie, rasă, etnie, vârstă, etc).
+
 
 ### Domeniul de încadrare a programului de studii: **Informatică**
 ### Titlul programului de studii: **Natural Language Processing**
@@ -43,10 +51,10 @@ Masteratul se bazează pe un puternic și modern corp profesoral, cu prezențe c
 ### **Alegerea cursurilor opționale**
 Lista cursurilor opționale pentru fiecare semestru va fi stabilită anual, pe baza cursurilor existente și a opțiunilor studenților (la cerere, și in limita posibilităților, vor fi asigurate și cursuri care nu se găsesc acum în programă). Pentru alegerea cursulurilor opționale fiecare student prezintă opţiunea sa nominalizând, în ordinea descrescătoare a preferinţelor sale, [dintr-o listă de cursuri](http://fmi.unibuc.ro/ro/pdf/2019/optionale/Cerere_optionale_master_info_I_2019-2020.pdf).
 
-1. Exemple de opțiuni pentru alegerea cursului opțional Op.14 din semestrul I: **Knowledge Representation and Reasoning**, **Logic for Computer Science** sau alte cursuri din planul de învățământ al celorlalte mastere din facultate.
-1. Exemple de opțiuni pentru alegerea cursului opțional Op.24 din semestrul II: **Big Data**, **Statistics for Data Science** sau alte cursuri din planul de învățământ al celorlalte mastere din facultate.
-1. Exemple de optiuni pentru alegerea cursului opțional Op.34 din semestrul III: **Deep Learning**, **Modern Technologies for Information Security** sau alte cursuri din planul de învățământ al celorlalte mastere din facultate.
-1. Exemple de optiuni pentru alegerea cursului opțional Op.43 din semestrul IV: **Information Visualization**, **Special Topics in Artificial Intelligence** sau alte cursuri din planul de învățământ al celorlalte mastere din facultate.
+1. Exemple de opțiuni pentru alegerea cursului opțional din semestrul I: **Knowledge Representation and Reasoning**, **Logic for Computer Science** sau alte cursuri din planul de învățământ al celorlalte mastere din facultate.
+1. Exemple de opțiuni pentru alegerea cursului opțional din semestrul II: **Big Data**, **Statistics for Data Science** sau alte cursuri din planul de învățământ al celorlalte mastere din facultate.
+1. Exemple de optiuni pentru alegerea cursului opțional din semestrul III: **Deep Learning**, **Modern Technologies for Information Security** sau alte cursuri din planul de învățământ al celorlalte mastere din facultate.
+1. Exemple de optiuni pentru alegerea cursului opțional din semestrul IV: **Information Visualization**, **Special Topics in Artificial Intelligence** sau alte cursuri din planul de învățământ al celorlalte mastere din facultate.
 
 <a name="practica"></a> 
 ## **Practica (Industrial/Research Practice)**
@@ -82,16 +90,16 @@ centre de cercetare din Spania, Italia, Germania, Marea Britanie, Elveția, Fran
 | Nr. | Cursuri obligatorii | C | S/L | E/V | ECTS | C | S/L | E/V | ECTS |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | | | <td colspan=4> Sem. I (14 săpt.) <td colspan=4> Sem. II (14 săpt.) |
-| 1 | Ob.11 Linguistics for Computer Science | 2 | 1 | E | 6 | - | - | - | - |
-| 2 | Ob.12 Practical Machine Learning | 2 | 1 | E | 6 | - | - | - | - |
-| 3 | Ob.13 Natural Language Processing 1 | 2 | 1 | E | 6 | - | - | - | - |
-| 4 | Op.14 Opțional | 2 | 1 | E | 6 | - | - | - | - |
-| 5 | Ob.15 Industrial/Research Practice | - | 2 | V | 6 | - | - | - | - |
-| 6 | Ob.21 Advanced Machine Learning | - | - | - | - | 2 | 1 | E | 6 |
-| 7 | Ob.22 Natural Language Processing 2 | - | - | - | - | 2 | 1 | E | 6 |
-| 8 | Ob.23 Cognitive Computing (in collaboration with IBM) | - | - | - | - | 1 | 2 | E | 6 |
-| 9 | Op.24 Opțional |   |   |   |   | 2 | 1 | E | 6 |
-| 10 | Ob.25 Industrial/Research Practice | - | - | - | - | - | 2 | V | 6 |
+| 1 | Linguistics for Computer Science | 2 | 1 | E | 6 | - | - | - | - |
+| 2 | Practical Machine Learning | 2 | 1 | E | 6 | - | - | - | - |
+| 3 | Natural Language Processing 1 | 2 | 1 | E | 6 | - | - | - | - |
+| 4 | Opțional | 2 | 1 | E | 6 | - | - | - | - |
+| 5 | Industrial/Research Practice | - | 2 | V | 6 | - | - | - | - |
+| 6 | Advanced Machine Learning | - | - | - | - | 2 | 1 | E | 6 |
+| 7 | Natural Language Processing 2 | - | - | - | - | 2 | 1 | E | 6 |
+| 8 | Cognitive Computing (in collaboration with IBM) | - | - | - | - | 1 | 2 | E | 6 |
+| 9 | Opțional |   |   |   |   | 2 | 1 | E | 6 |
+| 10 | Industrial/Research Practice | - | - | - | - | - | 2 | V | 6 |
 | **TOTAL** | **8** | **6** | **4E1V** | **30** | **7** | **7** | **4E1V** | **30** |
 
 C = curs; S = seminar/laborator; Ob.xx = obligatoriu; Op.xx = opțional;
@@ -101,15 +109,15 @@ EV = evaluare; E = examen; V = verificare; ECTS = număr de credite europene tra
 | Nr. | Cursuri obligatorii | C | S/L | E/V | ECTS | C | S/L | E/V | ECTS |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | | | <td colspan=4> Sem. I (14 săpt.) <td colspan=4> Sem. II (14 săpt.) |
-| 1 | Ob.31 Information Retrieval and Text Mining | 2 | 1 | E | 6 | - | - | - | - |
-| 2 | Ob.32 Machine Translation | 2 | 1 | E | 6 | - | - | - | - |
-| 3 | Ob.33 Special Topics in Computational Linguistics | 2 | 1 | E | 6 | - | - | - | - |
-| 4 | Op.34 Opțional | 2 | 1 | E | 6 | - | - | - | - |
-| 5 | Ob.35 Disertation Research | - | 2 | V | 6 | - | - | - | - |
-| 6 | Ob.41 Bio-NLP | - | - | - | - | 1 | 2 | E | 6 |
-| 7 | Ob.42 Special Topics in NLP and HLT | - | - | - | - | 2 | 1 | E | 6 |
-| 8 | Op.43 Opțional | - | - | - | - | 2 | 1 | E | 6 |
-| 9 | Ob.44 Disertation Research | - | - | - | - | - | 5 | V | 12 |
+| 1 | Information Retrieval and Text Mining | 2 | 1 | E | 6 | - | - | - | - |
+| 2 | Machine Translation | 2 | 1 | E | 6 | - | - | - | - |
+| 3 | Special Topics in Computational Linguistics | 2 | 1 | E | 6 | - | - | - | - |
+| 4 | Opțional | 2 | 1 | E | 6 | - | - | - | - |
+| 5 | Disertation Research | - | 2 | V | 6 | - | - | - | - |
+| 6 | Bio-NLP | - | - | - | - | 1 | 2 | E | 6 |
+| 7 | Special Topics in NLP and HLT | - | - | - | - | 2 | 1 | E | 6 |
+| 8 | Opțional | - | - | - | - | 2 | 1 | E | 6 |
+| 9 | Disertation Research | - | - | - | - | - | 5 | V | 12 |
 | **TOTAL** | **8** | **6** | **4E1V** | **30** | **5** | **9** | **3E1V** | **30** |
 
 - **NB1.** Ultimele două săptămâni din semestrul IV vor fi dedicate finalizării lucrării de disertație, fiind normate cu 14 ore fiecare săptămână.
