@@ -5,11 +5,11 @@ Slug: master
 
 ## **Cuprins**
 - [Introducere](#introducere)
+- [Contact](#contact)
 - [Cursuri](#cursuri)
 - [Cursuri opționale și alte activități](#optionale)
 - [Practica de cercetare sau industrială](#practica)
 - [După terminarea studiilor](#dupa_master)
-- [Contact](#contact)
 - [Structura cursurilor](#structura)
 
 

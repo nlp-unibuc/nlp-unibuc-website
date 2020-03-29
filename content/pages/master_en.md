@@ -5,11 +5,11 @@ Slug: master_en
 
 ## **Contents**
 - [Introduction](#introducere)
+- [Contact](#contact)
 - [Courses](#cursuri)
 - [Optional Courses](#optionale)
 - [Industrial/Research Practice](#practica)
 - [After graduation](#dupa_master)
-- [Contact](#contact)
 - [Structure](#structura)
 
 
