@@ -16,7 +16,9 @@ Slug: master
 <a name="introducere"></a>
 ## **Introducere**
 
-Masterul în Procesarea Limbajului Natural (NLP) este primul de acest fel în România și se desfășoară în limba engleză, în cadrul [Facultății de Matematică și Informatică](http://fmi.unibuc.ro), Universitatea din București. Principalele obiective ale programului de master sunt să formeze specialiști cu cunoștințe solide în domeniul procesării limbajului natural și al lingvisticii computaționale, să asigure o pregătire vastă atât teoretică cât și practică absolvenților, să îi ajute pe aceștia să integreze în activitățile lor de cercetare și industriale cele mai recente evoluții din domeniu.
+Masterul în Procesarea Limbajului Natural (NLP) este unul din primele de acest fel în România și se desfășoară în limba engleză, în cadrul [Facultății de Matematică și Informatică](http://fmi.unibuc.ro), Universitatea din București. 
+Programul se bazează pe o tradiție lungă și robustă, începând cu cercetarile de pionierat în lingvistica matematică și computațională ale lui Solomon Marcus din anii '60 continuate remarcabil de acesta și de scoala lui ajungând până în prezent la nume de prestigiu binecunoscute in comunitatea de cercetare. 
+Principalele obiective ale programului de master sunt să formeze specialiști cu cunoștințe solide în domeniul procesării limbajului natural și al lingvisticii computaționale, să asigure o pregătire vastă atât teoretică cât și practică absolvenților, să îi ajute pe aceștia să integreze în activitățile lor de cercetare și industriale cele mai recente evoluții din domeniu.
 
 Programul de învățământ din primul an conține 6 discipline fundamentale, pregătitoare pentru cursurile ulterioare din program. Programul din anul al doilea conține 5 discipline avansate și specializate, îndrumându-i pe studenți către o pregătire complexă și interdisciplinară, fiind orientat atât către cercetare, cât și către industrie. Programul fiecărui an este completat de cursuri opționale pentru a oferi studentilor  atât cunoștințe suplimentare și complementare despre subiecte de NLP și lingvistică computațională, cât și din domenii conexe de informatică. Lista cursurilor opționale va fi actualizată anual în funcție de dinamica domeniului, de programele de masterat existente în facultate și de interacțiunea cu firmele interesate să ofere pregătire practică specializată în cadrul masterului.
 
@@ -29,6 +31,14 @@ Masteratul se bazează pe un puternic și modern corp profesoral, cu prezențe c
 ### Durata programului de studii: **4 semestre / 120 ECTS**
 ### Anul în care urmează să devină operaţional: **2020-2021**
 ### Admitere: Iulie &amp; Septembrie 2020: **30 locuri buget**
+
+---
+<a name="contact"></a> 
+## **Contact**
+- **Coordonator**: Prof. dr. habil. [Liviu P. Dinu](http://nlp.unibuc.ro/people/liviu.html) email: liviu.p.dinu @ gmail.com, tel. +40 761 146 148
+- Prof. dr. habil. [Florentina Hristea](http://fmi.unibuc.ro/en/cv.php/cs/hristea_florentina_en) email: fhristea @ fmi.unibuc.ro
+- Asist. Drd. [Sergiu Nisioi](http://nlp.unibuc.ro/people/snisioi.html) email: sergiu.nisioi @ unibuc.ro
+---
 
 <a name="cursuri"></a> 
 ## **Cursuri**
@@ -77,13 +87,6 @@ centre de cercetare din Spania, Italia, Germania, Marea Britanie, Elveția, Fran
 - oportunități majore de continuare în industrie în cadrul grupurilor de NLP și AI ale unui număr considerabil de firme (IBM, Google, Oracle, UiPath, dailight.ai etc)
 - posibilități de dezvoltare a propriilor proiecte finanțate în cadrul Human Language Technologies Research Center
 
----
-<a name="contact"></a> 
-## **Contact**
-- Prof. dr. habil. [Liviu P. Dinu](http://nlp.unibuc.ro/people/liviu.html) email: liviu.p.dinu @ gmail.com, tel. +40 761 146 148
-- Prof. dr. habil. [Florentina Hristea](http://fmi.unibuc.ro/en/cv.php/cs/hristea_florentina_en) email: fhristea @ fmi.unibuc.ro
-- Asist. Drd. [Sergiu Nisioi](http://nlp.unibuc.ro/people/snisioi.html) email: sergiu.nisioi @ unibuc.ro
----
 
 <a name="structura"></a> 
 ## **Anul universitar 2020-2021 (anul I) – 60 ECTS**

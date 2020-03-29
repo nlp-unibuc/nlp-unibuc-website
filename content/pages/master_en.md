@@ -16,7 +16,7 @@ Slug: master_en
 <a name="introducere"></a>
 ## **Introduction**
 
-The Natural Language Processing (NLP) master program is a research master program held in English within the Faculty of Mathematics and Computer Science, at the University of Bucharest. The NLP master program is the first of its kind in Romania, and it is based on a long and robust tradition, starting with the pioneering work in mathematical and computational linguistics of Solomon Marcus from the "60’s which is continued to the present day by well known researchers names in NLP. 
+The Natural Language Processing (NLP) master program is a research program held in English within the Faculty of Mathematics and Computer Science, at the University of Bucharest. The NLP master program is one of the first of its kind in Romania, and it is based on a long and robust tradition, starting with the pioneering work in mathematical and computational linguistics of Solomon Marcus from the "60’s which is continued to the present day by well known researchers names in NLP. 
 
 The main objectives of the master's program are to train specialists with solid knowledge in the field of Natural Language Processing and Information Processing, to provide a vast theoretical and practical training for graduates combined with the latest developments in the field.
 
@@ -24,13 +24,21 @@ We also expect and encourage that part of the graduates of this program will con
 
 The first year curriculum contains 6 fundamental disciplines, preparatory for the subsequent courses within the program. The second year curriculum contains 5 advanced and specialized disciplines, guiding students towards gaining a complex and interdisciplinary training, being oriented both to research and industry.  Each year's program is supplemented by optional courses to complement students’ knowledge about NLP and Computational Linguistics topics or connex computer science fields. 
 
-The master's degree is based on a powerful and modern teaching staff, with constant presence in the main NLP journals and conferences. We will promote a modern, open and collegial atmosphere, based on the mutual respect and recognition of each member of the community. The Master's program is addressed to all members interested in Natural Language Processing and Computational Linguistics, will promote gender equality, and will not tolerate any discrimination, regardless of its nature (gender, religion, race, ethnicity, age, etc.).
+The master's program is based on a powerful and modern teaching staff, with constant presence in the main NLP journals and conferences. We will promote a modern, open and collegial atmosphere, based on the mutual respect and recognition of each member of the community. The Master's program is addressed to all members interested in Natural Language Processing and Computational Linguistics, will promote gender equality, and will not tolerate any discrimination, regardless of its nature (gender, religion, race, ethnicity, age, etc.).
 
 ### Main Domain: **Computer Science**
 ### Type of program: **full time research master**
 ### Schedule: **4 semesters / 120 ECTS**
 ### Academic year: **2020-2021**
 ### Admission: July &amp; September 2020: **30 state-sponsored grants**
+
+---
+<a name="contact"></a> 
+## **Contact**
+- **Course Director**: Prof. dr. habil. [Liviu P. Dinu](http://nlp.unibuc.ro/people/liviu.html) email: liviu.p.dinu @ gmail.com, tel. +40 761 146 148
+- Prof. dr. habil. [Florentina Hristea](http://fmi.unibuc.ro/en/cv.php/cs/hristea_florentina_en) email: fhristea @ fmi.unibuc.ro
+- Asist. Drd. [Sergiu Nisioi](http://nlp.unibuc.ro/people/snisioi.html) email: sergiu.nisioi @ unibuc.ro
+---
 
 <a name="cursuri"></a> 
 ## **Courses**
@@ -75,13 +83,6 @@ This module can be done within:
 - major opportunities to develop a career in industry (IBM, Google, Oracle, UiPath, dailight.ai etc)
 - possibility to develop your own research project within the Human Language Technologies Research Center
 
----
-<a name="contact"></a> 
-## **Contact**
-- Prof. dr. habil. [Liviu P. Dinu](http://nlp.unibuc.ro/people/liviu.html) email: liviu.p.dinu @ gmail.com, tel. +40 761 146 148
-- Prof. dr. habil. [Florentina Hristea](http://fmi.unibuc.ro/en/cv.php/cs/hristea_florentina_en) email: fhristea @ fmi.unibuc.ro
-- Asist. Drd. [Sergiu Nisioi](http://nlp.unibuc.ro/people/snisioi.html) email: sergiu.nisioi @ unibuc.ro
----
 
 <a name="structura"></a> 
 ## **Academic Year 2020-2021 (first year) – 60 ECTS**
