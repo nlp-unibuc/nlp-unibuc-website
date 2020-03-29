@@ -1,4 +1,4 @@
-Title: Master's Program in Natural Language Processing
+Title: Program de master în Procesarea Limbajului Natural (NLP)
 Slug: master
 
 ### [English version](https://nlp.unibuc.ro/master_en)
