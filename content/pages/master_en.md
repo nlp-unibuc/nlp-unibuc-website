@@ -54,6 +54,7 @@ Based on the Acceptance Letter, applicants will receive the study visa from the 
 
 ### **Step 3: The Enrollment at the Office for International Relations and Foreign Students.**
 The registration is possible only in person. Upon your arrival in Romania, for registration to the University of Bucharest you need to present the following documents:
+
 - letter of acceptance (original);
 - proof of payment (original) for the paying students;
 - school certificate (mentioned above), in original;
