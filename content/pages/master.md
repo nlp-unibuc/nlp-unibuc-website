@@ -2,6 +2,7 @@ Title: Program de master în Procesarea Limbajului Natural (NLP)
 Slug: master
 
 ### [English version](https://nlp.unibuc.ro/master_en)
+### [Informații admitere](http://fmi.unibuc.ro/ro/admitere_master/master_2020/)
 
 ## **Cuprins**
 - [Introducere](#introducere)

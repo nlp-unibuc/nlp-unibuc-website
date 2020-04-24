@@ -5,6 +5,7 @@ Slug: master_en
 
 ## **Contents**
 - [Introduction](#introducere)
+- [Admission](#admission)
 - [Contact](#contact)
 - [Courses](#cursuri)
 - [Optional Courses](#optionale)
@@ -32,12 +33,47 @@ The master's program is based on a powerful and modern teaching staff, with cons
 ### Academic year: **2020-2021**
 ### Admission: July &amp; September 2020: **30 state-sponsored grants**
 
+<a name="admission"></a>
+## **Admission**
+The admission process has two steps: 1) application review and 2) individual interview. The interview can be conducted online regardless of the current crisis.
+An English language Certificate is requiered in order to attend a Master Program in English.
+
+More info will be available on the [Computer Science Department page](http://fmi.unibuc.ro/ro/admitere_master/master_2020/)
+
+A general guide and information for international students is available [here](https://unibuc.ro/international/studenti-internationali/admitere-studenti-internationali/?lang=en) and copied below:
+
+
+### **Step 1: Obtaining the Letter of Acceptance**
+As a rule, the request for admission to study at the University of Bucharest has to be sent to our University in order to get the Letter of Acceptance. Please check the [minimum academic requierements](https://drive.google.com/open?id=0B-WydKlC-sxCS1NHMUU2N1RYTms) for each country. On this page you may find [the documents that have to be sent](https://unibuc.ro/international/studenti-internationali/admitere-studenti-internationali/?lang=en#1553074937903-41f6f10f-88e91555321438877).
+
+The application file has to be sent by post between April, 15 – July, 26, 2020 to the following address: **36-46 Mihail Kogalniceanu Bdv., district 5, 050107, Bucharest, Romania Office for International Relations and Foreign Students, University of Bucharest**.
+
+
+### **Step 2: Obtaining the Student Visa**
+Based on the Acceptance Letter, applicants will receive the study visa from the Romanian Embassy in their country or the closest Romanian diplomatic mission. For information regarding visa application please check [visa instructions](/resources/visa-instructions_info.pdf).
+
+### **Step 3: The Enrollment at the Office for International Relations and Foreign Students.**
+The registration is possible only in person. Upon your arrival in Romania, for registration to the University of Bucharest you need to present the following documents:
+- letter of acceptance (original);
+- proof of payment (original) for the paying students;
+- school certificate (mentioned above), in original;
+- passport and student visa;
+- a photo-copy of your birth certificate, translated and officially endorsed;
+- health certificate (translation in Romanian, French or English);
+- 3 photos ¾ cm;
+- an envelope dossier;
+
 ---
 <a name="contact"></a> 
 ## **Contact**
 - **Course Director**: Prof. dr. habil. [Liviu P. Dinu](http://nlp.unibuc.ro/people/liviu.html) email: liviu.p.dinu @ gmail.com, tel. +40 761 146 148
 - Prof. dr. habil. [Florentina Hristea](http://fmi.unibuc.ro/en/cv.php/cs/hristea_florentina_en) email: fhristea @ fmi.unibuc.ro
 - Asist. Drd. [Sergiu Nisioi](http://nlp.unibuc.ro/people/snisioi.html) email: sergiu.nisioi @ unibuc.ro
+
+### International Relations and Foreign Students Office
+Telephone: +4021 305.46.42 +4021 305.46.41
+E-mail: contact@externe.unibuc.ro
+Schedule: Monday - Thursday: 11:00 – 13:00 EE(S)T
 ---
 
 <a name="cursuri"></a> 
