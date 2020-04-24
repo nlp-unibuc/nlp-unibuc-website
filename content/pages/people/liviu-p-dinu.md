@@ -29,9 +29,30 @@ for more, visit [dblp](http://dblp.uni-trier.de/pers/hc/d/Dinu:Liviu_P=), [schol
 
 # <a name="Papers"></a> Papers:
 
+
+## 2020
+
+1. Laura Franzoi, Andrea Sgarro, Anca Dinu, Liviu P. Dinu, 2020. Random Steinhaus distances for robust classification of partially inconsistent linguistic data.  In Proc. IPMU 2020, Lisbon, Portugal, June 15-20 2020.
+2. Alina Ciobanu, Liviu P. Dinu, Laurentiu Zoicas, 2020. Automatic Reconstruction of Missing Romanian Cognates and Unattested Latin Words. In Proc. LREC 2020 (12th International Conference on Language Resources and Evaluation), Marseille, France, 11-16 may, 2020.
+3. Ana Uban, Liviu P Dinu, 2020. Automatically Building a Multilingual Lexicon of False Friends With No Supervision. In Proc. LREC 2020 (12th International Conference on Language Resources and Evaluation), Marseille, France, 11-16 may, 2020.
+
+
+## 2019
+
+1. Alina Ciobanu, Liviu P. Dinu, 2019. Automatic Identification and Production of Related Words for Historical Linguistics. Computational Linguistics, vol. 45, No. 4, pp 667-704, december  2019.
+2. Cornelia Caragea, Ana Uban, Liviu P. Dinu, 2019. The Myth of Blind Review Revisited: Experiments on ACL vs. EMNLP. In Proc. EMNLP 2019, pp. 2317–2327, Hong Kong, China, nov. 3–7, 2019
+3. Daniela Onita, Liviu P. Dinu and Adriana Birlutiu, 2019.  From Image to Text in Sentiment Analysis via Regression and Deep Learning. In Proc. RANLP 2019, Varna, Bulgaria
+4. Laura Franzoi, Andrea Sgarro, Anca Dinu and Liviu P. Dinu, 2019. Linguistic classification: dealing jointly with irrelevance and inconsistency. In Proc. RANLP 2019, Varna, Bulgaria
+5. Ana Uban, Alina Ciobanu, Liviu P. Dinu, 2019. Studying Laws of Semantic Divergence across Languages using Cognate Sets. In Proc. 1st International Workshop on Computational Approaches to Historical Language Change 2019 (co-locatted with ACL 2019), Firenze, Italy, August 2, 2019.
+6. Ana Uban, Liviu P. Dinu, 2019.  On Transfer Learning for Detecting Abusive Language Online. In Proc. IWANN 2019, Gran Canaria, Spain, June 12-14, 2019, LNCS, vol.11506,  p. 688-700, 2019.
+7. Ana Uban, Alina Ciobanu, Liviu P. Dinu, 2019. A Computational Approach to Measuring the Semantic Divergence of Cognates. In Proc. CICLING 2019, La Rochelle, France
+8. Octavia-Maria Sulea, Steve Young, Liviu P. Dinu, 2019. MorphoGen: Full Inflection GenerationUsing Recurrent Neural Networks. In Proc. CICLING 2019, La Rochelle, France
+9. Liviu P. Dinu, Bogdan Dumitru, Alex Popa, 2019. Algorithms for closed and farthest string problems via rank distance. In Proc. TAMC 2019 (Theory and Applications of Models of Computation), Springer LNCS Volume Number 11436, ,Kitakyushu, Japan, April 13-16, 2019.
+
+
 ## 2018
 
-1. Cornelia Caragea, Liviu P. Dinu, Bogdan Dumitru, 2018. Exploring Optimism and Pessimism in Twitter Using Deep Learning. In Proc. EMNLP 2018, Brussels, Belgium, 2018 (to appear)
+1. Cornelia Caragea, Liviu P. Dinu, Bogdan Dumitru, 2018. Exploring Optimism and Pessimism in Twitter Using Deep Learning. In Proc. EMNLP 2018, Brussels, Belgium, 2018.
 2. Sergiu Nisioi, Anca Bucur, Liviu P Dinu, 2018. LexicalAnalysis and Content Extraction from Customer-Agent Interactions. Proceedings of the 2018 EMNLP Workshop W-NUT: The 4th Workshop on Noisy User-generated Text, pages 132–136 Brussels, Belgium, 2018.
 3. Alina Maria Ciobanu, Shervin Malmasi, Liviu P. Dinu, 2018. German Dialect Identification Using Classifier Ensembles. Proceedings of the Fifth Workshop on NLP for Similar Languages, Varieties and Dialects (VarDial 2018, co-located with COLING 2018), pages 288–294 Santa Fe, New Mexico, USA, August 20, 2018.
 4. Alina Maria Ciobanu , Marcos Zampieri, Shervin Malmasi, Santanu Pal, Liviu P. Dinu, 2018. Discriminating between Indo-Aryan Languages Using SVM Ensembles. Proceedings of the Fifth Workshop on NLP for Similar Languages, Varieties and Dialects (VarDial 2018, co-located with COLING 2018), pages 178–184, Santa Fe, New Mexico, USA, August 20, 2018.
