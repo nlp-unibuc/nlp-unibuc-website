@@ -1,4 +1,4 @@
-Title: Natural Language Processing Master Studies
+Title: Natural Language Processing Master's Degree
 Slug: master_en
 
 ### [versiune în română](https://nlp.unibuc.ro/master)
@@ -17,15 +17,15 @@ Slug: master_en
 <a name="introducere"></a>
 ## **Introduction**
 
-The Natural Language Processing (NLP) master program is a research program held in English within the Faculty of Mathematics and Computer Science, at the University of Bucharest. The NLP master program is one of the first of its kind in Romania, and it is based on a long and robust tradition, starting with the pioneering work in mathematical and computational linguistics of Solomon Marcus from the "60’s which is continued to the present day by well known researchers names in NLP. 
+The Natural Language Processing (NLP) Master's Degree is a research program held in English within the Faculty of Mathematics and Computer Science, at the University of Bucharest. The NLP program is one of the first of its kind in Romania, and it is based on a long and robust tradition, starting with the pioneering work in mathematical and computational linguistics of Solomon Marcus from the "60’s which is continued to the present day by well known researchers names in NLP. 
 
-The main objectives of the master's program are to train specialists with solid knowledge in the field of Natural Language Processing and Information Processing, to provide a vast theoretical and practical training for graduates combined with the latest developments in the field.
+The main objectives of the Master's Degree are to train specialists with solid knowledge in the field of Natural Language Processing and Information Processing, to provide a vast theoretical and practical training for graduates combined with the latest developments in the field.
 
 We also expect and encourage that part of the graduates of this program will continue to enhance their expertize by pursuing doctoral studies, either at University of Bucharest (within the Computer Science Doctoral School, or at the Interdisciplinary Doctoral School), or abroad, within the institutions of our worldwide partners.
 
 The first year curriculum contains 6 fundamental disciplines, preparatory for the subsequent courses within the program. The second year curriculum contains 5 advanced and specialized disciplines, guiding students towards gaining a complex and interdisciplinary training, being oriented both to research and industry.  Each year's program is supplemented by optional courses to complement students’ knowledge about NLP and Computational Linguistics topics or connex computer science fields. 
 
-The master's program is based on a powerful and modern teaching staff, with constant presence in the main NLP journals and conferences. We will promote a modern, open and collegial atmosphere, based on the mutual respect and recognition of each member of the community. The Master's program is addressed to all members interested in Natural Language Processing and Computational Linguistics, will promote gender equality, and will not tolerate any discrimination, regardless of its nature (gender, religion, race, ethnicity, age, etc.).
+The program is based on a powerful and modern teaching staff, with constant presence in the main NLP journals and conferences. We will promote a modern, open and collegial atmosphere, based on the mutual respect and recognition of each member of the community. The Master's Degree is addressed to all members interested in Natural Language Processing and Computational Linguistics, will promote gender equality, and will not tolerate any discrimination, regardless of its nature (gender, religion, race, ethnicity, age, etc.).
 
 ### Main Domain: **Computer Science**
 ### Type of program: **full time research master**
@@ -36,7 +36,7 @@ The master's program is based on a powerful and modern teaching staff, with cons
 <a name="admission"></a>
 ## **Admission**
 The admission process has two steps: 1) application review and 2) individual interview. The interview can be conducted online regardless of the current crisis.
-An English language Certificate is requiered in order to attend a Master Program in English.
+An English language Certificate is requiered in order to attend a Master's Degree in English.
 
 More info will be available on the [Computer Science Department page](http://fmi.unibuc.ro/ro/admitere_master/master_2020/)
 
@@ -149,12 +149,12 @@ E = exam; V = test; ECTS = European Credit Transfer and Accumulation System;
 | 2 | Machine Translation | 2 | 1 | E | 6 | - | - | - | - |
 | 3 | Special Topics in Computational Linguistics | 2 | 1 | E | 6 | - | - | - | - |
 | 4 | Optional | 2 | 1 | E | 6 | - | - | - | - |
-| 5 | Disertation Research | - | 2 | V | 6 | - | - | - | - |
+| 5 | Dissertation Research | - | 2 | V | 6 | - | - | - | - |
 | 6 | Bio-NLP | - | - | - | - | 1 | 2 | E | 6 |
 | 7 | Special Topics in NLP and HLT | - | - | - | - | 2 | 1 | E | 6 |
 | 8 | Optional | - | - | - | - | 2 | 1 | E | 6 |
-| 9 | Disertation Research | - | - | - | - | - | 5 | V | 12 |
+| 9 | Dissertation Research | - | - | - | - | - | 5 | V | 12 |
 | **TOTAL** | **8** | **6** | **4E1V** | **30** | **5** | **9** | **3E1V** | **30** |
 
-- **NB1.** The last two weeks of semester IV will be dedicated to finalize the disertation.
-- **NB2.** Optional courses will be chosen from a list of available course from other master's programmes within the Faculty of Mathematics and Computer Science.
+- **NB1.** The last two weeks of semester IV will be dedicated to finalize the dissertation.
+- **NB2.** Optional courses will be chosen from a list of available courses from other master's programmes within the Faculty of Mathematics and Computer Science.
