@@ -2,10 +2,10 @@ Title: Program de master în Procesarea Limbajului Natural (NLP)
 Slug: master
 
 ### [English version](https://nlp.unibuc.ro/master_en)
-### [Informații admitere](http://fmi.unibuc.ro/ro/admitere_master/master_2020/)
 
 ## **Cuprins**
 - [Introducere](#introducere)
+- [Admitere](#admission)
 - [Contact](#contact)
 - [Cursuri](#cursuri)
 - [Cursuri opționale și alte activități](#optionale)
@@ -32,6 +32,21 @@ Masteratul se bazează pe un puternic și modern corp profesoral, cu prezențe c
 ### Durata programului de studii: **4 semestre / 120 ECTS**
 ### Anul în care urmează să devină operaţional: **2020-2021**
 ### Admitere: Iulie &amp; Septembrie 2020: **30 locuri buget**
+
+
+## **Admitere**
+Probele de concurs sunt: 
+
+1. analiza dosarului 
+2. interviu individual pe baza lucrării de licență. 
+
+Candidații a căror lucrare de licență nu se încadrează în domeniile Informatică, Matematică, Calculatoare și Tehnologia Informației, vor pregăti o listă de 4 subiecte din domeniul masterului. 
+
+Candidații trebuie să dețină un certificat de competență lingvistică pentru limba engleza eliberat de către instituțiile abilitate. Aceste certificate pot fi eliberate si de [Centrul de Limbi Străine al Universității din București](https://unibuc.ro/studii/centre-de-limbi-straine/centrul-de-limbi-straine-al-universitatii-din-bucuresti/). Daca doriți să sustineti examenul online în perioada crizei, o puteți contacta pe [Dna. Prof. Diana Ioniță](https://unibuc.ro/studii/centre-de-limbi-straine/centrul-de-limbi-straine-al-universitatii-din-bucuresti/).
+
+Pentru mai multe informații consultati pagina facultății: [Computer Science Department page](http://fmi.unibuc.ro/ro/admitere_master/master_2020/).
+
+Informații pentru studenții străini pot fi găsite [aici](https://unibuc.ro/international/studenti-internationali/admitere-studenti-internationali/?lang=en).
 
 ---
 <a name="contact"></a> 
