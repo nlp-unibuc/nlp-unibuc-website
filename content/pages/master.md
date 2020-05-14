@@ -33,7 +33,7 @@ Masteratul se bazează pe un puternic și modern corp profesoral, cu prezențe c
 ### Anul în care urmează să devină operaţional: **2020-2021**
 ### Admitere: Iulie &amp; Septembrie 2020: **30 locuri buget**
 
-
+<a name="admission"></a>
 ## **Admitere**
 Probele de concurs sunt: 
 
