@@ -3,15 +3,33 @@ Slug: people/alina
 
 ## Bio
 
-- Ph.D. student, Faculty of Mathematics
- and Computer Science, University of Bucharest
+- Ph.D. @ Faculty of Mathematics and Computer Science, University of Bucharest.
+- Research Assistant, Software Engineer.
 
-## Research interests
+## Research Interests
 
-- NLP, language similarity, cross-language methods, machine learning
+- NLP, language similarity, cross-language methods, machine learning.
 
-## Selected publications
+## News
 
+- I was awarded the University of Bucharest Senate Award for the best Ph.D. thesis in exact sciences and engineering for 2019 (December 2019).
+- Our article "Automatic Identification and Production of Related Words for Historical Linguistics" was accepted for publication in Computational Linguistics (December 2019).
+- I defended my Ph.D. thesis entitled "Problems of Similarity in Computational Linguistics" (March 2019).
+
+## Selected Publications
+
+- **Alina Maria Ciobanu**, Liviu P. Dinu, Laurentiu Zoicas. 2020.
+  Automatic Reconstruction of Missing Romanian Cognates and Unattested Latin Words.
+  In Proceedings of LREC 2020.
+- **Alina Maria Ciobanu**, Liviu P. Dinu. 2019.
+  Automatic Identification and Production of Related Words for Historical Linguistics.
+  In Computational Linguistics, 45(4), 667–704.
+- **Alina Maria Ciobanu**, Liviu P. Dinu. 2018.
+  Ab Initio: Automatic Latin Proto-word Reconstruction.
+  In Proceedings of COLING 2018, 1604-1614.
+- **Alina Maria Ciobanu**, Liviu P. Dinu. 2018.
+  Simulating Language Evolution: A Tool for Historical Linguistics.
+  In Proceedings of COLING 2018 System Demonstrations, 68-72.
 - **Alina Maria Ciobanu**, Liviu P. Dinu, Andrea Sgarro. 2017.
   Towards a Map of the Syntactic Similarity of Languages.
   In Proceedings of CICLing 2017.
@@ -52,5 +70,5 @@ Slug: people/alina
 
 ## Teaching
 
-- Teaching Assistant - Artificial Intelligence (1st semester 2016-2017)
+- Teaching Assistant - Artificial Intelligence (1st semester 2016-2017).
 
