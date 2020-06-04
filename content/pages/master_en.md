@@ -9,7 +9,7 @@ Slug: master_en
 - [Contact](#contact)
 - [Courses](#cursuri)
 - [Optional Courses](#optionale)
-- [Industrial/Research Practice](#practica)
+- [Industry/Research Practice](#practica)
 - [After graduation](#dupa_master)
 - [Structure](#structura)
 
@@ -38,7 +38,7 @@ The program is based on a powerful and modern teaching staff, with constant pres
 The admission process has two steps: 1) application review and 2) individual interview. The interview can be conducted online regardless of the current crisis.
 An English language Certificate is requiered in order to attend a Master's Degree in English.
 
-More info will be available on the [Computer Science Department page](http://fmi.unibuc.ro/ro/admitere_master/master_2020/)
+More info will be available on the [Computer Science Department page](https://fmi.unibuc.ro/admitere/admitere-master/)
 
 A general guide and information for international students is available [here](https://unibuc.ro/international/studenti-internationali/admitere-studenti-internationali/?lang=en).
 
@@ -82,7 +82,7 @@ The list of the optional courses will be updated annually according to the dynam
 1. Example Optional courses for smester IV: **Information Visualization**, **Special Topics in Artificial Intelligence**.
 
 <a name="practica"></a> 
-## **Industrial/Research Practice**
+## **Industry/Research Practice**
 This module can be done within:
 
 - NLP groups from local or international companies (IBM, UiPath, Oracle, etc);
@@ -108,12 +108,12 @@ This module can be done within:
 | 2 | Practical Machine Learning | 2 | 1 | E | 6 | - | - | - | - |
 | 3 | Natural Language Processing 1 | 2 | 1 | E | 6 | - | - | - | - |
 | 4 | Optional | 2 | 1 | E | 6 | - | - | - | - |
-| 5 | Industrial/Research Practice | - | 2 | V | 6 | - | - | - | - |
+| 5 | Industry/Research Practice | - | 2 | V | 6 | - | - | - | - |
 | 6 | Advanced Machine Learning | - | - | - | - | 2 | 1 | E | 6 |
 | 7 | Natural Language Processing 2 | - | - | - | - | 2 | 1 | E | 6 |
 | 8 | Cognitive Computing (in collaboration with IBM) | - | - | - | - | 1 | 2 | E | 6 |
 | 9 | Optional |   |   |   |   | 2 | 1 | E | 6 |
-| 10 | Industrial/Research Practice | - | - | - | - | - | 2 | V | 6 |
+| 10 | Industry/Research Practice | - | - | - | - | - | 2 | V | 6 |
 | **TOTAL** | **8** | **6** | **4E1V** | **30** | **7** | **7** | **4E1V** | **30** |
 
 C = course; S = seminar/lab; Ob.xx = mandatory course; Op.xx = mandatory course to be chosen from a list;

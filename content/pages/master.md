@@ -44,7 +44,7 @@ Candidații a căror lucrare de licență nu se încadrează în domeniile Infor
 
 Candidații trebuie să dețină un certificat de competență lingvistică pentru limba engleza eliberat de către instituțiile abilitate. Aceste certificate pot fi eliberate si de [Centrul de Limbi Străine al Universității din București](https://unibuc.ro/studii/centre-de-limbi-straine/centrul-de-limbi-straine-al-universitatii-din-bucuresti/). Daca doriți să sustineti examenul online în perioada crizei, o puteți contacta pe [Dna. Prof. Diana Ioniță](https://unibuc.ro/studii/centre-de-limbi-straine/centrul-de-limbi-straine-al-universitatii-din-bucuresti/).
 
-Pentru mai multe informații consultati pagina facultății: [Computer Science Department page](http://fmi.unibuc.ro/ro/admitere_master/master_2020/).
+Pentru mai multe informații [consultati pagina facultății](https://fmi.unibuc.ro/admitere/admitere-master/).
 
 Informații pentru studenții străini pot fi găsite [aici](https://unibuc.ro/international/studenti-internationali/admitere-studenti-internationali/?lang=en).
 
@@ -83,7 +83,7 @@ Lista cursurilor opționale pentru fiecare semestru va fi stabilită anual, pe b
 1. Exemple de optiuni pentru alegerea cursului opțional din semestrul IV: **Information Visualization**, **Special Topics in Artificial Intelligence** sau alte cursuri din planul de învățământ al celorlalte mastere din facultate.
 
 <a name="practica"></a> 
-## **Practica (Industrial/Research Practice)**
+## **Practica (Industry/Research Practice)**
 Acest modul poate fi ales de către studenți dintr-o multitudine de optiuni:
 
 - în cadrul unor firme partenere cu masteratul care dezvolta aplicatii de NLP (IBM, UiPath, Oracle, etc);
@@ -113,12 +113,12 @@ centre de cercetare din Spania, Italia, Germania, Marea Britanie, Elveția, Fran
 | 2 | Practical Machine Learning | 2 | 1 | E | 6 | - | - | - | - |
 | 3 | Natural Language Processing 1 | 2 | 1 | E | 6 | - | - | - | - |
 | 4 | Opțional | 2 | 1 | E | 6 | - | - | - | - |
-| 5 | Industrial/Research Practice | - | 2 | V | 6 | - | - | - | - |
+| 5 | Industry/Research Practice | - | 2 | V | 6 | - | - | - | - |
 | 6 | Advanced Machine Learning | - | - | - | - | 2 | 1 | E | 6 |
 | 7 | Natural Language Processing 2 | - | - | - | - | 2 | 1 | E | 6 |
 | 8 | Cognitive Computing (in collaboration with IBM) | - | - | - | - | 1 | 2 | E | 6 |
 | 9 | Opțional |   |   |   |   | 2 | 1 | E | 6 |
-| 10 | Industrial/Research Practice | - | - | - | - | - | 2 | V | 6 |
+| 10 | Industry/Research Practice | - | - | - | - | - | 2 | V | 6 |
 | **TOTAL** | **8** | **6** | **4E1V** | **30** | **7** | **7** | **4E1V** | **30** |
 
 C = curs; S = seminar/laborator; Ob.xx = obligatoriu; Op.xx = opțional;

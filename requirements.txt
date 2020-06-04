@@ -1,0 +1,5 @@
+pelican==4.2.0
+Markdown
+typogrify
+pybtex
+ghp-import

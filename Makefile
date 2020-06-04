@@ -1,4 +1,4 @@
-PELICAN=pelican
+PELICAN=python3 -m pelican
 PELICANOPTS=
 
 BASEDIR=$(CURDIR)
@@ -50,7 +50,7 @@ regenerate: clean
 	$(PELICAN) -r $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS)
 
 serve:
-	cd $(OUTPUTDIR) && python -m SimpleHTTPServer
+	cd $(OUTPUTDIR) && python3 -m http.server
 
 devserver:
 	$(BASEDIR)/develop_server.sh restart
