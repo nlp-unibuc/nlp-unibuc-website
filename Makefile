@@ -71,7 +71,7 @@ ftp_upload: publish
 	lftp ftp://$(FTP_USER)@$(FTP_HOST) -e "mirror -R $(OUTPUTDIR) $(FTP_TARGET_DIR) ; quit"
 
 github: publish
-	./ghp-import -r deploy -b deploy -p $(OUTPUTDIR)
+	python3 -m ghp_import -r deploy -b deploy -p $(OUTPUTDIR)
 	echo "*\n\n!.gitignore" > $(OUTPUTDIR)/.gitignore
 
 .PHONY: html help clean regenerate serve devserver publish ssh_upload rsync_upload dropbox_upload ftp_upload github

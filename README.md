@@ -18,33 +18,44 @@ the easy way to set up is as follows:
    git remote add deploy https://github.com/nlp-unibuc/nlp-unibuc.github.io.git
    git config remote.deploy.push deploy:master
 ```
-2. Make changes to files and add changes:
-```
-   git status - to see the files
-   git add $FILE - to add the changes
-```
 
-Generate the website locally:
+2. Generate the website locally:
+
 ```bash
    python3 -m pelican content/ -o output/ -s pelican.py
+
+   # or if make is available:
+   make html
 ```
 The output directory contains the generated website.
 
-3. Push the changes in the source repo
+3. Check your changes on localhost:8000
+
 ```bash
-   git commit -m "Add a message to describe your changes"
-   git push origin master
+   cd output && python3 -m http.server
+
+   # or if make is available:
+   make serve
 ```
 
-4. Push the changes online:
+
+4. Push the changes in the source repo
+
 ```bash
+   git status               # to see the files
+   git add $FILE            # to add the changes
+   git commit -m "done!"    # add some pretty message
+   git push origin master   # push to master branch
+```
+
+5. Push the changes online:
+
+```bash
+   python3 -m ghp_import -r deploy -b master -p output/
+
+   # if make is available
    make github
 ```
-or, if `make` is not available:
 
-```bash
-   ./ghp-import -r deploy -b master -p output/
-```
-
-5. Visit http://nlp-unibuc.github.io and enjoy your new changes!
+6. Visit http://nlp-unibuc.github.io and enjoy your new changes!
 
