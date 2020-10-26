@@ -1,21 +1,21 @@
 ﻿Title: People
 
 # Members and researchers
-- [Anca Bucur (Resarch)](/people/ancabucur.html)
-- Andrei Butnaru (Ph.D st.)
-- [Alina Maria Ciobanu (Research Assistant, Ph.D)](/people/alina.html)
+- [Anca Bucur (Resarcher)](/people/ancabucur.html)
+- Andrei Butnaru (Ph.D)
+- [Alina Maria Ciobanu (Researcher, Ph.D)](/people/alina.html)
 - [Anca Dinu (Senior Lecturer, Ph.D)](/people/anca.html)
 - [Liviu P. Dinu (Professor, Dr. habil.)](/people/liviu.html)
 - [Maria Teodora Dinu (2nd grade)](/people/maria.html)
-- Laura Franzoi (Ph.D st.) (Trieste, Italy)
+- Laura Franzoi (Ph.D) (Trieste, Italy)
 - [Florentina Hristea (Assoc. Professor, Ph.D)](http://fmi.unibuc.ro/en/cv.php/cs/hristea_florentina_en)
 - [Radu Ionescu (Assoc. Professor, Ph.D)](http://raduionescu.herokuapp.com/)
-- [Sergiu Nisioi (Teaching Assistant, Ph.D st.)](/people/snisioi.html)
+- [Sergiu Nisioi (Assist. Professor, Ph.D)](/people/snisioi.html)
 - [Marius Popescu (Assoc. Professor, Ph.D)](http://fmi.unibuc.ro/ro/popescu_marius)
 - [Andrea Sgarro (Professor, Ph.D)](http://www.dmi.units.it/~sgarro/) (University of Trieste)
 - [Alin Stefanescu (Assoc. Professor, Ph.D)](http://alin.stefanescu.eu/)
-- [Octavia-Maria Șulea (Ph.D st.)](/people/omsulea.html)
-- [Ana Sabina Uban (Ph.D st.)](/people/anauban.html)
+- [Octavia-Maria Șulea (Ph.D)](/people/omsulea.html)
+- [Ana Sabina Uban (Ph.D)](/people/anauban.html)
 - Ioana Vlad (Ph.D st.)
 
 # External collaborators
