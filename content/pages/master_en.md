@@ -4,6 +4,7 @@ Slug: master_en
 ### [versiune în română](https://nlp.unibuc.ro/master)
 
 ## **Contents**
+- [News](#news)
 - [Introduction](#introducere)
 - [Admission](#admission)
 - [Contact](#contact)
@@ -13,6 +14,13 @@ Slug: master_en
 - [After graduation](#dupa_master)
 - [Structure](#structura)
 
+---
+<a name="news"></a>
+## **News**
+
+- [Invited speakers and special guests](master_speakers.html) presenting their latest research at our master's programme.
+
+---
 
 <a name="introducere"></a>
 ## **Introduction**
@@ -32,6 +40,8 @@ The program is based on a powerful and modern teaching staff, with constant pres
 ### Schedule: **4 semesters / 120 ECTS**
 ### Academic year: **2020-2021**
 ### Admission: July &amp; September 2020: **30 state-sponsored grants**
+
+---
 
 <a name="admission"></a>
 ## **Admission**
@@ -91,6 +101,7 @@ This module can be done within:
 - summer schools (ESSLLI), workshops, exchanges etc.
 - or other related activities 
 
+---
 
 <a name="dupa_master"></a> 
 ## **After Graduation**
@@ -98,6 +109,7 @@ This module can be done within:
 - major opportunities to develop a career in industry (IBM, Google, Oracle, UiPath, dailight.ai etc)
 - possibility to develop your own research project within the Human Language Technologies Research Center
 
+---
 
 <a name="structura"></a> 
 ## **Academic Year 2020-2021 (first year) – 60 ECTS**

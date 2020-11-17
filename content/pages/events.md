@@ -5,7 +5,7 @@ Title: Events
 
 # Solomon Marcus seminar in Computational Linguistics 2019-2020
 
-- 26 November, 2020, 16:00-17:30. [Cristian Danescu-Niculescu-Mizil](http://www.cs.cornell.edu/~cristian/) (Cornell University): **Towards an artificial intuition: Conversational markers of (anti)social dynamics**
+- 26 November, 2020, 16:00-17:30. [Cristian Danescu-Niculescu-Mizil](http://www.cs.cornell.edu/~cristian/) (Cornell University): **Towards an artificial intuition: Conversational markers of (anti)social dynamics**.
 
 **URL:** TBA
 
