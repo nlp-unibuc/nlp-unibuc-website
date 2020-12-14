@@ -4,7 +4,9 @@ Title: Events
 
 # Invited speakers and special guests at the master's programme.
 
-- December, 9, 2020, 16:00.  [Tsvetomila Mihaylova](https://tsvm.github.io/) (Instituto de Telecomunicações, Lisbon, Portugal) and [Vlad Niculae](http://vene.ro/) (University of Amsterdam): **Tutorial on Latent Structure Models for Natural Language Processing**
+- December, 16, 2020, 16:00.  [Tsvetomila Mihaylova](https://tsvm.github.io/) (Instituto de Telecomunicações, Lisbon, Portugal) and [Vlad Niculae](http://vene.ro/) (University of Amsterdam): **Tutorial on Latent Structure Models for Natural Language Processing part II**
+
+- December, 9, 2020, 16:00.  [Tsvetomila Mihaylova](https://tsvm.github.io/) (Instituto de Telecomunicações, Lisbon, Portugal) and [Vlad Niculae](http://vene.ro/) (University of Amsterdam): **Tutorial on Latent Structure Models for Natural Language Processing part I**
 
 - November, 26, 2020, 16:00-17:30. [Cristian Danescu-Niculescu-Mizil](http://www.cs.cornell.edu/~cristian/) (Cornell University): **Towards an artificial intuition: Conversational markers of (anti)social dynamics**
 

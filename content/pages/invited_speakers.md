@@ -3,9 +3,11 @@ Slug: master_speakers
 
 ## **Invited Speakers**
 
-- 9 December, 2020, 16:00.  [Tsvetomila Mihaylova]() (Instituto de Telecomunicações, Lisbon, Portugal) and [Vlad Niculae]() (University of Amsterdam): **Tutorial on Latent Structure Models for Natural Language Processing**.
+- 16 December (part two), 2020, 16:00.  [Tsvetomila Mihaylova](https://tsvm.github.io/) (Instituto de Telecomunicações, Lisbon, Portugal) and [Vlad Niculae](http://vene.ro/) (University of Amsterdam): **Tutorial on Latent Structure Models for Natural Language Processing part II**.
 
-**[Register here for the talk.](https://forms.gle/PkTGiosBwVYY1tKZ6)**
+- 9 December (part one), 2020, 16:00.  [Tsvetomila Mihaylova](https://tsvm.github.io/) (Instituto de Telecomunicações, Lisbon, Portugal) and [Vlad Niculae](http://vene.ro/) (University of Amsterdam): **Tutorial on Latent Structure Models for Natural Language Processing part I**.
+
+**[Register here for both talks.](https://forms.gle/PkTGiosBwVYY1tKZ6)**
 
 **Abstract:** Latent structure models are a powerful tool for modelling compositional data, discovering linguistic structure, and building NLP pipelines. They are appealing for two main reasons: they allow incorporating structural bias during training, leading to more accurate models; and they allow discovering hidden linguistic structure, which provides better interpretability, translation, and semantic parsing.
 
