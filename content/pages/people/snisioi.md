@@ -3,12 +3,12 @@ Slug: people/snisioi
 
 ## About
 
-- I am currently working as a researcher within the HLT Center, Faculty of Mathematics and Computer Science, University of Bucharest
-- my research covers psycholinguistics, computational learning theory, machine translation, translation studies, speech processing, low resource languages, cybersecurity, and digital signal processing
-- I'm also interested in sound art, algorithmic compositions, and modular synthesizers; producing *tectonic noise* as part of [godwana sound project](https://soundcloud.com/godwana_noise)
+- I am currently an Assistan Professor within the Faculty of Mathematics and Computer Science, University of Bucharest
+- my research seeks to understand human language through computational processes, covering topics from psycholinguistics, computational learning theory, machine translation, and text simplification.
+- I'm also interested in sound art, algorithmic compositions, DSP, and modular synthesizers; producing *tectonic noise* as part of [godwana sound project](https://soundcloud.com/godwana_noise)
 
 
-### Relevant publications
+### Selected publications
 - S Nisioi, S Štajner, SP Ponzetto, LP Dinu: **Exploring Neural Text Simplification Models**, ACL 2017, [pdf](https://www.aclweb.org/anthology/papers/P/P17/P17-2014/), [git](https://github.com/senisioi/NeuralTextSimplification)
 - Anca Bucur and Sergiu Nisioi: **A Visual Representation of Wittgenstein’s Tractatus Logico-Philosophicus**, LT4DH-COLING, 2016, [pdf](https://www.clarin-d.de/images/lt4dh/pdf/LT4DH10.pdf), [git](https://gitlab.com/tractatus/tractatus.gitlab.io), [demo](http://tractatus.gitlab.io/)
 - Ella Rabinovich, Sergiu Nisioi, Noam Ordan and Shuly Wintner: **On the Similarities Between Native, Non-native and Translated Texts**, ACL, 2016
@@ -23,8 +23,7 @@ Slug: people/snisioi
 
 ## Teaching activities
 - Computer Networks lab materials using docker and scapy, check them out [here](https://github.com/senisioi/computer-networks)
-- Computer Networks, [course](/courses/RdC.pdf)
-- Advanced Object Oriented Programming Lab, [link](http://aoop.github.io/)
+
 
 ## Contact details
 - Faculty of Mathematics and Computer Science, University of Bucharest, 14 Academiei Street, Sector 1, 010014, Bucharest, Romania
