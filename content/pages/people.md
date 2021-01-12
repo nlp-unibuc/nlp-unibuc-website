@@ -3,7 +3,7 @@
 # Members and researchers
 - [Anca Bucur (Resarcher)](/people/ancabucur.html)
 - Andrei Butnaru (Ph.D)
-- [Alina Maria Ciobanu (Researcher, Ph.D)](/people/alina.html)
+- [Alina Maria Cristea (Researcher, Ph.D)](/people/alina.html)
 - [Anca Dinu (Senior Lecturer, Ph.D)](/people/anca.html)
 - [Liviu P. Dinu (Professor, Dr. habil.)](/people/liviu.html)
 - [Maria Teodora Dinu (2nd grade)](/people/maria.html)

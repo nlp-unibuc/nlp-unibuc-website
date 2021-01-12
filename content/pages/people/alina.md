@@ -1,4 +1,4 @@
-﻿Title: Alina Maria Ciobanu
+﻿Title: Alina Maria Cristea (Ciobanu)
 Slug: people/alina
 
 ## Bio
