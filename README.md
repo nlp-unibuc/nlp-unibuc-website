@@ -51,7 +51,7 @@ The output directory contains the generated website.
 5. Push the changes online:
 
 ```bash
-   python3 -m ghp_import -r deploy -b master -p output/
+   python3 -m ghp_import -r deploy -b gh-pages --force -p output/
 
    # if make is available
    make github
