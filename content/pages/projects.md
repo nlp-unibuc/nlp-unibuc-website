@@ -2,17 +2,15 @@ Title: Projects
 
 ## Current projects
 
-### Involving group members
+### Lead by group members
 
-- [SIGAR](/projects/sigar.html):  Sistem inteligent de generare automata a raspunsurilor (Intelligent Systems for Automatic Response Generation). Project 53BG ⁄ 2016, funded by  Romanian National Authority for Scientific Research and Innovation, CNCS/CCCDI – UEFISCDI, PNCDI III (Programul 2 - Creşterea competitivităţii economiei româneşti prin cercetare, dezvoltare şi inovare. Transfer de cunoaștere la agentul economic "Bridge Grant")
+- CoToHiLi: Computational Tools for Historical Linguistics (Dezvoltarea de Sisteme Automate Suport pentru Lingvistica Istorică). Project PN-III-P4-ID-PCE-2020-1544, funded by the Romanian National Authority for Scientific Research and Innovation, UEFISCDI.
 
-- The Structure and Interpretation of the Romanian Nominal Phrase in Discourse
-  Representation Theory: The Determiners. Head: Alexandra Cornilescu. 2011.
-  
-- Genomewide Study of Bipolar I Disorder and Guide for Assessing the Genetic Risk for Bipolar I Disorder in the Romanian Population.  Head: Maria Șerbănescu. 2012.
 ## Completed projects
 
 ### Lead by group members
+
+- [SIGAR](/projects/sigar.html):  Sistem inteligent de generare automata a raspunsurilor (Intelligent Systems for Automatic Response Generation). Head: Liviu P. Dinu. Project 53BG ⁄ 2016, funded by  Romanian National Authority for Scientific Research and Innovation, CNCS/CCCDI – UEFISCDI, PNCDI III (Programul 2 - Creşterea competitivităţii economiei româneşti prin cercetare, dezvoltare şi inovare. Transfer de cunoaștere la agentul economic "Bridge Grant"). 2016-2018.
 
 - Dezambiguizarea automată a sensului cuvintelor (DASC) - Proiect PN2-IDEI.  Head: Florentina Hristea, 2009-2011.
 
@@ -40,6 +38,11 @@ Title: Projects
 
 
 ### Involving group members
+  
+- Genomewide Study of Bipolar I Disorder and Guide for Assessing the Genetic Risk for Bipolar I Disorder in the Romanian Population.  Head: Maria Șerbănescu. 2012.
+
+- The Structure and Interpretation of the Romanian Nominal Phrase in Discourse
+  Representation Theory: The Determiners. Head: Alexandra Cornilescu. 2011.
 
 -  Realizarea unei infrastructuri pentru baze de cunostinte multilingve privind
    corespondente lingvistice intre limba romana si limbile de circulatie
