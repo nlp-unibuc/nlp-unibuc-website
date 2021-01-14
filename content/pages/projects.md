@@ -4,14 +4,16 @@ Title: Projects
 
 ### Lead by group members
 
-- CoToHiLi: Computational Tools for Historical Linguistics (Dezvoltarea de Sisteme Automate Suport pentru Lingvistica Istorică). Project PN-III-P4-ID-PCE-2020-1544, funded by the Romanian National Authority for Scientific Research and Innovation, UEFISCDI.
+- [CoToHiLi](/projects/cotohili.html): Computational Tools for Historical Linguistics (Dezvoltarea de Sisteme Automate Suport pentru Lingvistica Istorică). Project PN-III-P4-ID-PCE-2020-1544, funded by the Romanian National Authority for Scientific Research and Innovation, UEFISCDI.
 
 ## Completed projects
 
 ### Lead by group members
 
-- [SIGAR](/projects/sigar.html):  Sistem inteligent de generare automata a raspunsurilor (Intelligent Systems for Automatic Response Generation). Head: Liviu P. Dinu. Project 53BG ⁄ 2016, funded by  Romanian National Authority for Scientific Research and Innovation, CNCS/CCCDI – UEFISCDI, PNCDI III (Programul 2 - Creşterea competitivităţii economiei româneşti prin cercetare, dezvoltare şi inovare. Transfer de cunoaștere la agentul economic "Bridge Grant"). 2016-2018.
-
+- [SIGAR](/projects/sigar.html):  Sistem inteligent de generare automata a raspunsurilor (Intelligent Systems for Automatic Response Generation).
+  Head: Liviu P. Dinu.
+  Project 53BG ⁄ 2016, funded by  Romanian National Authority for Scientific Research and Innovation, CNCS/CCCDI – UEFISCDI, PNCDI III (Programul 2 - Creşterea competitivităţii economiei româneşti prin cercetare, dezvoltare şi inovare. Transfer de cunoaștere la agentul economic "Bridge Grant"). 2016-2018.
+  
 - Dezambiguizarea automată a sensului cuvintelor (DASC) - Proiect PN2-IDEI.  Head: Florentina Hristea, 2009-2011.
 
 
