@@ -6,6 +6,9 @@ Title: Projects
 
 - [CoToHiLi](/projects/cotohili.html): Computational Tools for Historical Linguistics (Dezvoltarea de Sisteme Automate Suport pentru Lingvistica Istorică). Project PN-III-P4-ID-PCE-2020-1544, funded by the Romanian National Authority for Scientific Research and Innovation, UEFISCDI.
 
+- [Area Gramma](/projects/langtherapy.html): Automatic Romanian Text Simplification Resources
+
+
 ## Completed projects
 
 ### Lead by group members
