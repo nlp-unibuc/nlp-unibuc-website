@@ -1,4 +1,4 @@
-Title: Automatic Romanian Text Simplification Resources
+Title: Area Gramma: Automatic Romanian Text Simplification Resources
 Slug: projects/langtherapy
 
 
