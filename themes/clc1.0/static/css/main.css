@@ -19,7 +19,7 @@ body {
     background-image: url("../images/fabric_plaid/fabric_plaid.png");
     color: #3F4152; 
     font-size: 112.5%; /* Base font size: 18px */
-    font-family: 'Cardo', Georgia, serif;
+    font-family: 'Cardo', Georgia;
     line-height: 1.5556em; /* 28px */
     margin: 0;
     padding: 0;
@@ -42,7 +42,7 @@ h6 {font-size: 1em}		/* 20px */
 
 h1, h2, h3, h4, h5, h6 {
 	font-weight: 400;
-    font-family: 'Forum', Georgia, serif;
+    font-family: 'Forum', Georgia;
 }
 
 h3, h4, h5, h6 { margin-top: .8em; }
