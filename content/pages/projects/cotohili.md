@@ -43,3 +43,7 @@ reconstruction and semantic divergence. The goal of the project is twofold: 1) t
 
 <sub><sup>*</sup>Published before the beginning of the project</sub>
 
+# Talks
+
+- Liviu P. Dinu. March 1, 2021. From Classical to Computational Approaches in Historical Linguistics. Iasi.
+- Liviu P. Dinu. March 4, 2021. Cu un kil de carne de vaca nu mori de foame, cu un litru de vin nu mori de sete. Bucharest, ISDS - University of Bucharest.
