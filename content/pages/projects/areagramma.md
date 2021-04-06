@@ -3,7 +3,7 @@ Slug: projects/langtherapy
 
 
 # Our Goal
-To build resources for Romanian Text Simplification with the purpose of aiding people with cognitive impairments. For more info, contact [sergiu.nisioi](mailto:sergiu.nisioi@unibuc.ro).
+To build resources for Text Simplification in Romanian with the purpose of aiding people with cognitive impairments. For more info, contact [sergiu.nisioi](mailto:sergiu.nisioi@unibuc.ro).
 
 
 ## Student Practice Team
@@ -26,7 +26,6 @@ To build resources for Romanian Text Simplification with the purpose of aiding p
 - Lida Ghadamiyan
 - Liviu Eduard Toader
 - Mihai Cristian Ionescu
-- Mircea Ioan Oprea
 - Samer Valentine El-abassi
 - Sebastian Mihai Caragui
 - Sergiu Nisioi
