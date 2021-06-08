@@ -500,8 +500,8 @@ situation-theory based approach. Project funded by CNCSIS in 2004, code 815A,
 commission 2.
 
 # <a name="PhDStudents"></a> PhD Students:
--  Join me as a PhD student in computational linguistics, natural language processing, information processing, or in computer science.
-- Current students: Alina Maria Ciobanu, Laura Franzoi, Sergiu Nisioi, Maria Octavia Sulea, Ana Uban, Bogdan Dumitru, Andrei Butnaru, Daniela Onita, Ioana Vlad.
+- Join me as a PhD student in computational linguistics, natural language processing, information processing, or in computer science.
+- 7 PhD (Alina Maria Cristea (Ciobanu), Laura Franzoi, Sergiu Nisioi, Maria Octavia Sulea, Ana Uban, Bogdan Dumitru, Andrei Butnaru), 3 ongoing PhD students (Cristina Moise, Daniela Onita, Ana-Maria Bucur).
 
 # <a name="Courses"></a> Courses:
 Prezentări pentru cursuri:

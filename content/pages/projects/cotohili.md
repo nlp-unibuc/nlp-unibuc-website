@@ -24,7 +24,10 @@ reconstruction and semantic divergence. The goal of the project is twofold: 1) t
 
 - Ana Sabina Uban, Alina Maria Cristea, Anca Dinu, Liviu P. Dinu, Simona Georgescu, Laurențiu Zoicaș. 2021.
   Tracking Semantic Change in Cognate Sets for English and Romance Languages.
-  In Proceedings of the 2nd International Workshop on Computational Approaches to Historical Language Change 2021 (LChange @ ACL-IJCNLP 2021).
+  In Proceedings of the 2nd International Workshop on Computational Approaches to Historical Language Change (LChange @ ACL-IJCNLP 2021).
+- Ana Sabina Uban, Alina Maria Ciobanu, and Liviu P Dinu. 2021.
+  Cross-lingual Laws of Semantic Change.
+  In Nina Tahmasebi, Lars Borin, Adam Jatowt, Yang Xu, and Simon Hengchen, editors, Computational Approaches to Semantic Change. Berlin: Language Science Press, 2021.
 - Ana Uban, Liviu P Dinu. 2020.
   Automatically Building a Multilingual Lexicon of False Friends With No Supervision.<sup>*</sup>
   In Proceedings of LREC 2020.
@@ -48,5 +51,6 @@ reconstruction and semantic divergence. The goal of the project is twofold: 1) t
 
 # Talks
 
-- Liviu P. Dinu. March 1, 2021. From Classical to Computational Approaches in Historical Linguistics. Iasi.
+- Liviu P. Dinu. May 13-14, 2021. Timpul și cuvintele. Conceptualizări ale timpului în practica cercetării științifice. Dialoguri interdisciplinare. University of Bucharest.
 - Liviu P. Dinu. March 4, 2021. Cu un kil de carne de vaca nu mori de foame, cu un litru de vin nu mori de sete. Bucharest, ISDS - University of Bucharest.
+- Liviu P. Dinu. March 1, 2021. From Classical to Computational Approaches in Historical Linguistics. Iasi.
