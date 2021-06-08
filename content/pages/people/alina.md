@@ -12,13 +12,17 @@ Slug: people/alina
 
 ## News
 
-- I was awarded the University of Bucharest Senate Award for the best Ph.D. thesis in exact sciences and engineering for 2019 (December 2019).
+- I joined the editorial board of Frontiers in ArtificiaI Intelligence as a review editor on Language and Computation (July 2020).
+- I was awarded the University of Bucharest Senate Award for the best Ph.D. thesis in exact sciences and engineering (December 2019).
 - Our article "Automatic Identification and Production of Related Words for Historical Linguistics" was accepted for publication in Computational Linguistics (December 2019).
 - I defended my Ph.D. thesis entitled "Problems of Similarity in Computational Linguistics" (March 2019).
 
 ## Selected Publications
 
-- **Alina Maria Ciobanu**, Liviu P. Dinu, Laurentiu Zoicas. 2020.
+- Ana Sabina Uban, **Alina Maria Cristea**, Anca Dinu, Liviu P. Dinu, Simona Georgescu, Laurențiu Zoicaș. 2021.
+  Tracking Semantic Change in Cognate Sets for English and Romance Languages.
+  In Proceedings of LChange @ ACL-IJCNLP 2021.
+- **Alina Maria Ciobanu**, Liviu P. Dinu, Laurențiu Zoicaș. 2020.
   Automatic Reconstruction of Missing Romanian Cognates and Unattested Latin Words.
   In Proceedings of LREC 2020.
 - **Alina Maria Ciobanu**, Liviu P. Dinu. 2019.

@@ -22,24 +22,27 @@ reconstruction and semantic divergence. The goal of the project is twofold: 1) t
 
 # Publications
 
+- Ana Sabina Uban, Alina Maria Cristea, Anca Dinu, Liviu P. Dinu, Simona Georgescu, Laurențiu Zoicaș. 2021.
+  Tracking Semantic Change in Cognate Sets for English and Romance Languages.
+  In Proceedings of the 2nd International Workshop on Computational Approaches to Historical Language Change 2021 (LChange @ ACL-IJCNLP 2021).
 - Ana Uban, Liviu P Dinu. 2020.
   Automatically Building a Multilingual Lexicon of False Friends With No Supervision.<sup>*</sup>
   In Proceedings of LREC 2020.
-- Alina Maria Ciobanu, Liviu P. Dinu, Laurentiu Zoicas. 2020.
+- Alina Maria Ciobanu, Liviu P. Dinu, Laurențiu Zoicaș. 2020.
   Automatic Reconstruction of Missing Romanian Cognates and Unattested Latin Words.<sup>*</sup>
   In Proceedings of LREC 2020.
 - Alina Maria Ciobanu, Liviu P. Dinu. 2019.
   Automatic Identification and Production of Related Words for Historical Linguistics.<sup>*</sup>
   In Computational Linguistics, 45(4), 667–704.
-- Alina Maria Ciobanu, Liviu P. Dinu. 2018.
-  Ab Initio: Automatic Latin Proto-word Reconstruction.<sup>*</sup>
-  In Proceedings of COLING 2018, 1604-1614.
 - Ana Uban, Alina Maria Ciobanu, Liviu P. Dinu. 2019.
   Studying Laws of Semantic Divergence across Languages using Cognate Sets.<sup>*</sup>
   In Proceedings of the 1st International Workshop on Computational Approaches to Historical Language Change (LChange @ ACL 2019).
-- Ana Uban, Alina Ciobanu, Liviu P. Dinu. 2019.
+- Ana Uban, Alina Maria Ciobanu, Liviu P. Dinu. 2019.
   A Computational Approach to Measuring the Semantic Divergence of Cognates.<sup>*</sup>
   In Proceedings of CICLING 2019.
+- Alina Maria Ciobanu, Liviu P. Dinu. 2018.
+  Ab Initio: Automatic Latin Proto-word Reconstruction.<sup>*</sup>
+  In Proceedings of COLING 2018, 1604-1614.
 
 <sub><sup>*</sup>Published before the beginning of the project</sub>
 
