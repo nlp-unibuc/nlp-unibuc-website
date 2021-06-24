@@ -30,11 +30,23 @@ for more, visit [dblp](http://dblp.uni-trier.de/pers/hc/d/Dinu:Liviu_P=), [schol
 # <a name="Papers"></a> Papers:
 
 
+## 2021
+
+1. Ana Sabina Uban, Alina Maria Ciobanu, and Liviu P Dinu. 2021. Cross-lingual Laws of Semantic Change. In
+Nina Tahmasebi, Lars Borin, Adam Jatowt, Yang Xu, and Simon Hengchen, editors, Computational
+Approaches to Semantic Change. Berlin: Language Science Press, 2021.
+2. Ana-Maria Bucur, Adrian Cosma and Liviu Dinu, 2021. Early Risk Detection of Pathological Gambling, Self-Harm and Depression Using BERT. In Proc. CLEF 2021, Online.
+3. Ana Sabina Uban, Alina Maria Cristea, Anca Dinu, Liviu P. Dinu, Simona Georgescu, Laurentiu Zoicas, 2021. Tracking Semantic Change in Cognate Sets for English and Romance Languages. In Proc. 2nd International Workshop on Computational Approaches to Historical Language Change 2021 (co-locatted with ACL-IJCNLP 2021), Online.
+4. Ana-Maria Bucur, Marcos Zampieri and Liviu P. Dinu, 2021. An Exploratory Analysis of the Relation between Offensive Language and Mental Health. In Proc. of The Joint Conference of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing: Findings (ACL-IJCNLP Findings 2021), Online.
+5. Ana Sabina Uban, Cornelia Caragea, and Liviu Dinu. 2021. Studying the Evolution of Scientific Topics and their Relationships. In: Proceedings of The Joint Conference of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing: Findings (ACL-IJCNLP Findings 2021), Online.
+
 ## 2020
 
-1. Laura Franzoi, Andrea Sgarro, Anca Dinu, Liviu P. Dinu, 2020. Random Steinhaus distances for robust classification of partially inconsistent linguistic data.  In Proc. IPMU 2020, Lisbon, Portugal, June 15-20 2020.
-2. Alina Ciobanu, Liviu P. Dinu, Laurentiu Zoicas, 2020. Automatic Reconstruction of Missing Romanian Cognates and Unattested Latin Words. In Proc. LREC 2020 (12th International Conference on Language Resources and Evaluation), Marseille, France, 11-16 may, 2020.
-3. Ana Uban, Liviu P Dinu, 2020. Automatically Building a Multilingual Lexicon of False Friends With No Supervision. In Proc. LREC 2020 (12th International Conference on Language Resources and Evaluation), Marseille, France, 11-16 may, 2020.
+1. Ana-Maria Bucur, Liviu P. Dinu, 2020. Detecting Early Onset of Depression from Social Media Text using Learned Confidence Scores. In Proc. Seventh Italian Conference on Computational Linguistics, CLiC-it 2020, Online.
+2. Dani  Onita, Adriana Birlutiu, Liviu P Dinu, 2020. Towards Mapping Images to Text Using Deep-Learning Architectures. Mathematics 8(9), 2020.
+3. Laura Franzoi, Andrea Sgarro, Anca Dinu, Liviu P. Dinu, 2020. Random Steinhaus distances for robust classification of partially inconsistent linguistic data.  In Proc. IPMU 2020, Lisbon, Portugal, June 15-20 2020.
+4. Alina Ciobanu, Liviu P. Dinu, Laurentiu Zoicas, 2020. Automatic Reconstruction of Missing Romanian Cognates and Unattested Latin Words. In Proc. LREC 2020 (12th International Conference on Language Resources and Evaluation), Marseille, France, 11-16 may, 2020.
+5. Ana Uban, Liviu P Dinu, 2020. Automatically Building a Multilingual Lexicon of False Friends With No Supervision. In Proc. LREC 2020 (12th International Conference on Language Resources and Evaluation), Marseille, France, 11-16 may, 2020.
 
 
 ## 2019
@@ -488,8 +500,8 @@ situation-theory based approach. Project funded by CNCSIS in 2004, code 815A,
 commission 2.
 
 # <a name="PhDStudents"></a> PhD Students:
--  Join me as a PhD student in computational linguistics, natural language processing, information processing, or in computer science.
-- Current students: Alina Maria Ciobanu, Laura Franzoi, Sergiu Nisioi, Maria Octavia Sulea, Ana Uban, Bogdan Dumitru, Andrei Butnaru, Daniela Onita, Ioana Vlad.
+- Join me as a PhD student in computational linguistics, natural language processing, information processing, or in computer science.
+- 7 PhD (Alina Maria Cristea (Ciobanu), Laura Franzoi, Sergiu Nisioi, Maria Octavia Sulea, Ana Uban, Bogdan Dumitru, Andrei Butnaru), 3 ongoing PhD students (Cristina Moise, Daniela Onita, Ana-Maria Bucur).
 
 # <a name="Courses"></a> Courses:
 Prezentări pentru cursuri:
