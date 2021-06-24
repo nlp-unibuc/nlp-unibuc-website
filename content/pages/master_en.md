@@ -112,38 +112,38 @@ This module can be done within:
 ---
 
 <a name="structura"></a> 
-## **Academic Year 2020-2021 (first year) – 60 ECTS**
-| Nr. | Courses | C | S/L | E/V | ECTS | C | S/L | E/V | ECTS |
+## **Anul universitar 2020-2021 (anul I) – 60 ECTS**
+| Nr. | Cursuri obligatorii | C | S/L | E/V | ECTS | C | S/L | E/V | ECTS |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | | | <td colspan=4> Sem. I (14 săpt.) <td colspan=4> Sem. II (14 săpt.) |
 | 1 | Linguistics for Computer Science | 2 | 1 | E | 6 | - | - | - | - |
 | 2 | Practical Machine Learning | 2 | 1 | E | 6 | - | - | - | - |
-| 3 | Natural Language Processing 1 | 2 | 1 | E | 6 | - | - | - | - |
-| 4 | Optional | 2 | 1 | E | 6 | - | - | - | - |
+| 3 | Foundations of Natural Language Processing 1 | 2 | 1 | E | 6 | - | - | - | - |
+| 4 | Opțional | 2 | 1 | E | 6 | - | - | - | - |
 | 5 | Industry/Research Practice | - | 2 | V | 6 | - | - | - | - |
 | 6 | Advanced Machine Learning | - | - | - | - | 2 | 1 | E | 6 |
-| 7 | Natural Language Processing 2 | - | - | - | - | 2 | 1 | E | 6 |
+| 7 | Natural Language Processing 1 | - | - | - | - | 2 | 1 | E | 6 |
 | 8 | Cognitive Computing (in collaboration with IBM) | - | - | - | - | 1 | 2 | E | 6 |
-| 9 | Optional |   |   |   |   | 2 | 1 | E | 6 |
+| 9 | Opțional |   |   |   |   | 2 | 1 | E | 6 |
 | 10 | Industry/Research Practice | - | - | - | - | - | 2 | V | 6 |
 | **TOTAL** | **8** | **6** | **4E1V** | **30** | **7** | **7** | **4E1V** | **30** |
 
-C = course; S = seminar/lab; Ob.xx = mandatory course; Op.xx = mandatory course to be chosen from a list;
-E = exam; V = test; ECTS = European Credit Transfer and Accumulation System;
+C = curs; S = seminar/laborator; Ob.xx = obligatoriu; Op.xx = opțional;
+EV = evaluare; E = examen; V = verificare; ECTS = număr de credite europene transferabile;
 
-## **Academic Year 2021-2022 (second year) – 60 ECTS**
-| Nr. | Courses | C | S/L | E/V | ECTS | C | S/L | E/V | ECTS |
+## **Anul universitar 2021-2022 (anul II) – 60 ECTS**
+| Nr. | Cursuri obligatorii | C | S/L | E/V | ECTS | C | S/L | E/V | ECTS |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | | | <td colspan=4> Sem. I (14 săpt.) <td colspan=4> Sem. II (14 săpt.) |
 | 1 | Information Retrieval and Text Mining | 2 | 1 | E | 6 | - | - | - | - |
 | 2 | Machine Translation | 2 | 1 | E | 6 | - | - | - | - |
 | 3 | Special Topics in Computational Linguistics | 2 | 1 | E | 6 | - | - | - | - |
-| 4 | Optional | 2 | 1 | E | 6 | - | - | - | - |
-| 5 | Dissertation Research | - | 2 | V | 6 | - | - | - | - |
-| 6 | Bio-NLP | - | - | - | - | 1 | 2 | E | 6 |
+| 4 | Opțional | 2 | 1 | E | 6 | - | - | - | - |
+| 5 | Disertation Research | - | 2 | V | 6 | - | - | - | - |
+| 6 | Bio-medical NLP | - | - | - | - | 1 | 2 | E | 6 |
 | 7 | Special Topics in NLP and HLT | - | - | - | - | 2 | 1 | E | 6 |
-| 8 | Optional | - | - | - | - | 2 | 1 | E | 6 |
-| 9 | Dissertation Research | - | - | - | - | - | 5 | V | 12 |
+| 8 | Opțional | - | - | - | - | 2 | 1 | E | 6 |
+| 9 | Disertation Research | - | - | - | - | - | 5 | V | 12 |
 | **TOTAL** | **8** | **6** | **4E1V** | **30** | **5** | **9** | **3E1V** | **30** |
 
 - **NB1.** The last two weeks of semester IV will be dedicated to finalize the dissertation.

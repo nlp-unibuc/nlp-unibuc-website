@@ -111,11 +111,11 @@ centre de cercetare din Spania, Italia, Germania, Marea Britanie, Elveția, Fran
 | | | <td colspan=4> Sem. I (14 săpt.) <td colspan=4> Sem. II (14 săpt.) |
 | 1 | Linguistics for Computer Science | 2 | 1 | E | 6 | - | - | - | - |
 | 2 | Practical Machine Learning | 2 | 1 | E | 6 | - | - | - | - |
-| 3 | Natural Language Processing 1 | 2 | 1 | E | 6 | - | - | - | - |
+| 3 | Foundations of Natural Language Processing 1 | 2 | 1 | E | 6 | - | - | - | - |
 | 4 | Opțional | 2 | 1 | E | 6 | - | - | - | - |
 | 5 | Industry/Research Practice | - | 2 | V | 6 | - | - | - | - |
 | 6 | Advanced Machine Learning | - | - | - | - | 2 | 1 | E | 6 |
-| 7 | Natural Language Processing 2 | - | - | - | - | 2 | 1 | E | 6 |
+| 7 | Natural Language Processing 1 | - | - | - | - | 2 | 1 | E | 6 |
 | 8 | Cognitive Computing (in collaboration with IBM) | - | - | - | - | 1 | 2 | E | 6 |
 | 9 | Opțional |   |   |   |   | 2 | 1 | E | 6 |
 | 10 | Industry/Research Practice | - | - | - | - | - | 2 | V | 6 |
@@ -133,7 +133,7 @@ EV = evaluare; E = examen; V = verificare; ECTS = număr de credite europene tra
 | 3 | Special Topics in Computational Linguistics | 2 | 1 | E | 6 | - | - | - | - |
 | 4 | Opțional | 2 | 1 | E | 6 | - | - | - | - |
 | 5 | Disertation Research | - | 2 | V | 6 | - | - | - | - |
-| 6 | Bio-NLP | - | - | - | - | 1 | 2 | E | 6 |
+| 6 | Bio-medical NLP | - | - | - | - | 1 | 2 | E | 6 |
 | 7 | Special Topics in NLP and HLT | - | - | - | - | 2 | 1 | E | 6 |
 | 8 | Opțional | - | - | - | - | 2 | 1 | E | 6 |
 | 9 | Disertation Research | - | - | - | - | - | 5 | V | 12 |
