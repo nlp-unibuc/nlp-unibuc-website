@@ -3,9 +3,9 @@ Slug: people/snisioi
 
 ## About
 
-- I am currently an Assistan Professor within the Faculty of Mathematics and Computer Science, University of Bucharest
+- I am currently an Assistant Professor within the Faculty of Mathematics and Computer Science, University of Bucharest
 - my research seeks to understand human language through computational processes, covering topics from psycholinguistics, computational learning theory, machine translation, and text simplification.
-- I'm also interested in sound art, algorithmic compositions, DSP, and modular synthesizers; generating *tectonic noise* as part of [godwana sound project](https://soundcloud.com/godwana_noise)
+- I'm also interested in sound art, algorithmic compositions, DSP, and modular synthesizers: noize maker as part of [godwana sound project](https://soundcloud.com/godwana_noise), diy ecological research for [chlorophylla.live]( https://chlorophylla.live), and part of [HYPHA.ro](https://hypha.ro/).
 
 
 ### Selected publications
