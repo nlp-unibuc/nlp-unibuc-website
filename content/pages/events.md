@@ -4,6 +4,10 @@ Title: Events
 
 # Invited speakers and special guests at the master's programme.
 
+- 24 November, 2021, 18:00.  [Rada Mihalcea])(https://web.eecs.umich.edu/~mihalcea/) (University of Michigan): **TBA**, [Online access here](https://zoom.us/j/7765926114).
+
+- 17 November, 2021, 18:00.  [Diana Inkpen])(https://www.site.uottawa.ca/~diana/) (University of Ottawa): **Detecting Signs of Mental Health Issues and Suicide Ideation from Social Media**, [Online access here](https://zoom.us/j/7765926114).
+
 - December, 16, 2020, 16:00.  [Tsvetomila Mihaylova](https://tsvm.github.io/) (Instituto de Telecomunicações, Lisbon, Portugal) and [Vlad Niculae](http://vene.ro/) (University of Amsterdam): **Tutorial on Latent Structure Models for Natural Language Processing part II**
 
 - December, 9, 2020, 16:00.  [Tsvetomila Mihaylova](https://tsvm.github.io/) (Instituto de Telecomunicações, Lisbon, Portugal) and [Vlad Niculae](http://vene.ro/) (University of Amsterdam): **Tutorial on Latent Structure Models for Natural Language Processing part I**
