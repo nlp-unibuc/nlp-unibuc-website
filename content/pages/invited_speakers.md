@@ -3,7 +3,12 @@ Slug: master_speakers
 
 ## **Invited Speakers**
 
-- 24 November, 2021, 18:00.  [Rada Mihalcea])(https://web.eecs.umich.edu/~mihalcea/) (University of Michigan): **TBA**, [Online access here](https://zoom.us/j/7765926114).
+- 24 November, 2021, 18:00.  [Rada Mihalcea](https://web.eecs.umich.edu/~mihalcea/) (University of Michigan): **The Ups and Downs of Word Embeddings**, [Online access here](https://zoom.us/j/7765926114).
+
+**Abstract**: Word embeddings have largely been a "success story" in our field. They have enabled progress in numerous language processing applications, and have facilitated the application of large-scale language analyses in other domains, such as social sciences and humanities.  While less talked about, word embeddings also have many shortcomings -- instability, lack of transparency, biases, and more. In this talk, I will review the "ups" and "downs" of word embeddings, discuss tradeoffs, and chart potential future research directions to address some of the downsides of these word representations. 
+
+**About Rada Mihalcea:** is the Janice M. Jenkins Collegiate Professor of Computer Science and Engineering at the University of Michigan and the Director of the Michigan Artificial Intelligence Lab. Her research interests are in computational linguistics, with a focus on lexical semantics, computational social sciences, and multimodal language processing. She serves or has served on the editorial boards of the Journals of Computational Linguistics, Language Resources and Evaluations, Natural Language Engineering, Journal of Artificial Intelligence Research, IEEE Transactions on Affective Computing, and Transactions of the Association for Computational Linguistics. She was a program co-chair for EMNLP 2009 and ACL 2011, and a general chair for North American ACL 2015 and SEM 2019. She directs multiple diversity and mentorship initiatives, including Girls Encoded and the ACL Year-Round Mentorship program. She currently serves as ACL President. She is the recipient of a Presidential Early Career Award for Scientists and Engineers awarded by President Obama (2009), and was named an ACM Fellow (2019) and an AAAI Fellow (2021). In 2013, she was made an honorary citizen of her hometown of Cluj-Napoca, Romania.
+
 
 - 17 November, 2021, 18:00.  [Diana Inkpen])(https://www.site.uottawa.ca/~diana/) (University of Ottawa): **Detecting Signs of Mental Health Issues and Suicide Ideation from Social Media**, [Online access here](https://zoom.us/j/7765926114).
 
