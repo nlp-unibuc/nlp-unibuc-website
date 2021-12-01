@@ -20,6 +20,37 @@ reconstruction and semantic divergence. The goal of the project is twofold: 1) t
 - Ana Sabina Uban, PhD
 - Laurențiu Zoicaș, PhD
 
+#Project objective for 2021: Related word analysis#
+
+To achieve this goal, the following activities were planned and executed:
+
+**Activity 1.1: Analysis and inspection of existing cognate resources in Romance languages ​​(Ro, It, Es, Fr, It, Pt)**
+
+- Study on previous resources
+- Harmonization of identified resources
+- Dissemination
+
+**Activity 1.2: Design and construction of the database of cognate pairs for Romance languages**
+
+- Design for the database of cognate pairs
+- Identification of cognate pairs
+- Linguistic analysis of the obtained data, noise removal
+- Obtaining the phonetic form of the cognate pairs for the It, Es, Ro
+- Dissemination
+
+**Activity 1.3: Analysis, design and development of computer-assisted tools for detecting cognate pairs**
+
+- Analysis and design of appropriate methods
+- Identification of optimal parameters
+- Testing, evaluation, improvement of results
+- Dissemination
+
+**Activity 1.4: Analysis and inspection of borrowed word resources and their harmonization**
+
+- Study on previous resources
+- Harmonization of identified resources
+- Dissemination
+
 # Articles
 
 1. Alina Maria Cristea, Liviu P. Dinu, Simona Georgescu, Mihnea-Lucian Mihai, Ana Sabina Uban, 2021.
@@ -36,6 +67,7 @@ reconstruction and semantic divergence. The goal of the project is twofold: 1) t
 4. Alina Maria Cristea, Anca Dinu, Liviu P. Dinu, Simona Georgescu, Ana Sabina Uban, Laurentiu Zoicas, 2021.
    Towards an Etymological Map of Romanian.
    In Proceedings of Recent Advances in Natural Language Processing (RANLP 2021), pages 315-324, September 1–3, 2021.
+   [[PDF](https://aclanthology.org/2021.ranlp-main.37.pdf)]
 5. Anca Dinu, Andreea-Codrina Moldovan, 2021.
    Automatic Detection and Classification of Mental Illnesses from General Social Media Texts.
    In Proceedings of Recent Advances in Natural Language Processing (RANLP 2021), pages 358–366, September 1–3, 2021.
