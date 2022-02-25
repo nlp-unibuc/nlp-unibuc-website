@@ -8,6 +8,7 @@
 - <a href="#SpeechText">Comparing Speech and Text Classification of Native and Non-native English</a>
 - <a href="#LangSim">Degrees of Similarity Between Romanian and Related Languages</a>
 - <a href="#NER">Cross-lingual Named Entity Recognition</a> 
+- <a href="#pejor">A Computational Exploration of Pejorative Language in Social Media</a> 
 
 -------
 
@@ -77,6 +78,13 @@
 ## [Cross-lingual Named Entity Recognition](https://github.com/senisioi/clwe-ner)
 - Experiments on named entity translation using word embeddings are described in Şulea, O. M., Nisioi, S., and Dinu, L. P.,:, **Using Word Embeddings to Translate Named Entities**, LREC2016
 - This resource is an annotated parallel corpus of named entities, currently work in progress
+
+-------
+
+<a name="pejor"></a>
+## [A Computational Exploration of Pejorative Language in Social Media](https://aclanthology.org/2021.findings-emnlp.296/)
+- More details about this resource can be found in Dinu, L. P., Iordache, I. B., Uban, A. S., Zampieri, M.: **A Computational Exploration of Pejorative Language in Social Media**, Findings of the Association for Computational Linguistics: EMNLP 2021.
+- the dataset can be downloaded via this [link](https://drive.google.com/file/d/1ArQLZCbCpb9eHudqetapCv3oN0nA5Tc_).
 
 
 
