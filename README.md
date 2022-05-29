@@ -15,7 +15,7 @@ the easy way to set up is as follows:
 ```bash
    git submodule init
    git submodule update
-   git remote add deploy https://github.com/nlp-unibuc/nlp-unibuc.github.io.git
+   git remote add deploy git@github.com:nlp-unibuc/nlp-unibuc.github.io.git
    git config remote.deploy.push deploy:master
 ```
 

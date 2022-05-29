@@ -1,7 +1,6 @@
 ﻿Title: People
 
 # Members and researchers
-- [Anca Bucur (Resarcher)](/people/ancabucur.html)
 - Andrei Butnaru (Ph.D)
 - [Alina Maria Cristea (Researcher, Ph.D)](/people/alina.html)
 - [Anca Dinu (Senior Lecturer, Ph.D)](/people/anca.html)
