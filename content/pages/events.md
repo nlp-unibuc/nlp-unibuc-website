@@ -4,6 +4,10 @@ Title: Events
 
 # Invited speakers and special guests at the master's programme.
 
+- 6 October, 2022, 18:00, room 220, 2nd floor [Bogdan Iordache]: **On the Influence of Financial News on the Stock Market Trend**
+
+
+
 - 24 November, 2021, 18:00.  [Rada Mihalcea](https://web.eecs.umich.edu/~mihalcea/) (University of Michigan): **The Ups and Downs of Word Embeddings**, [Online access here](https://zoom.us/j/7765926114).
 
 **Abstract**: Word embeddings have largely been a "success story" in our field. They have enabled progress in numerous language processing applications, and have facilitated the application of large-scale language analyses in other domains, such as social sciences and humanities.  While less talked about, word embeddings also have many shortcomings -- instability, lack of transparency, biases, and more. In this talk, I will review the "ups" and "downs" of word embeddings, discuss tradeoffs, and chart potential future research directions to address some of the downsides of these word representations. 
