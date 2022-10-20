@@ -9,10 +9,10 @@ Slug: people/snisioi
 
 
 ### Selected publications
-- S Štajner, S Nisioi, I Hulpuș, **CoCo: A tool for automatically assessing conceptual complexity of texts**, LREC, 2020, [git](https://github.com/ioanahulpus/cocospa/)
-- S El Abassi, S Nisioi, **MDD@ AMI: Vanilla Classifiers for Misogyny Identification**, EVALITA 2020, [pdf](http://ceur-ws.org/Vol-2765/paper149.pdf)
-- S Štajner, S Nisioi, **A detailed evaluation of neural sequence-to-sequence models for in-domain and cross-domain text simplification**, LREC, 2018, [pdf](https://www.aclweb.org/anthology/L18-1479.pdf)
-- S Nisioi, S Štajner, SP Ponzetto, LP Dinu: **Exploring Neural Text Simplification Models**, ACL 2017, [pdf](https://www.aclweb.org/anthology/papers/P/P17/P17-2014/), [git](https://github.com/senisioi/NeuralTextSimplification)
+- Štajner S, Nisioi S, Hulpuș I, **CoCo: A tool for automatically assessing conceptual complexity of texts**, LREC, 2020, [git](https://github.com/ioanahulpus/cocospa/)
+- Abassi S El, Nisioi S, **MDD@ AMI: Vanilla Classifiers for Misogyny Identification**, EVALITA 2020, [pdf](http://ceur-ws.org/Vol-2765/paper149.pdf)
+- Štajner S, Nisioi S, **A detailed evaluation of neural sequence-to-sequence models for in-domain and cross-domain text simplification**, LREC, 2018, [pdf](https://www.aclweb.org/anthology/L18-1479.pdf)
+- Nisioi S, Štajner S, Ponzetto SP, Dinu LP: **Exploring Neural Text Simplification Models**, ACL 2017, [pdf](https://www.aclweb.org/anthology/papers/P/P17/P17-2014/), [git](https://github.com/senisioi/NeuralTextSimplification)
 - Anca Bucur and Sergiu Nisioi: **A Visual Representation of Wittgenstein’s Tractatus Logico-Philosophicus**, LT4DH-COLING, 2016, [pdf](https://www.clarin-d.de/images/lt4dh/pdf/LT4DH10.pdf), [git](https://gitlab.com/tractatus/tractatus.gitlab.io), [demo](http://tractatus.gitlab.io/)
 - Ella Rabinovich, Sergiu Nisioi, Noam Ordan and Shuly Wintner: **On the Similarities Between Native, Non-native and Translated Texts**, ACL, 2016
 - Nisioi, S., Rabinovich, E., Dinu, L. P., and Wintner, S.: **A Corpus of Native, Non-native and Translated Texts**, LREC, 2016, [git](https://github.com/senisioi/enntt-release), [pdf](http://www.lrec-conf.org/proceedings/lrec2016/pdf/902_Paper.pdf)
