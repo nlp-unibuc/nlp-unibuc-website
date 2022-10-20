@@ -7,7 +7,7 @@ Slug: machine_translation
 
 # Academic year 2022-2023
 
-\\[ P(e|f) = \arg \max_{e} P(e)P(f|e) \\]
+\\[ T(f \rightarrow e) = \arg \max_{e} P(e)P(f|e) \\]
 
 <style>
 tr:nth-child(even) {
