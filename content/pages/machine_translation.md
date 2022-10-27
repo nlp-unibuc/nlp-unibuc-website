@@ -40,10 +40,10 @@ tr:nth-child(even) {
 |03| 21. Oct. 2022 | Teaching         |  [reading](#eval)<br />[MT metrics(video)](https://slideslive.com/38924201/1-metrics-of-mt-quality)                |                                                            | 
 |04| 28. Oct. 2022 | Teaching         |                      |                                                            |
 |05|  4. Nov. 2022 | Teaching         |                      |                                                            |
-|06| 11. Nov. 2022 |  Human and<br />Automatic Evaluation<br />Metrics     |           TBA           |     Rebeca Oprea (engineer),<br />Teodor Dumitrescu (author),<br />Chiruț Veronica (reviewer)                                                       |     
+|06| 11. Nov. 2022 |  Human and<br />Automatic Evaluation<br />Metrics     |           [**🤔 main paper**](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00437/108866/Experts-Errors-and-Context-A-Large-Scale-Study-of)<br />additional readings<br />[BERTScore](https://arxiv.org/pdf/1904.09675.pdf),<br />[WMT2020 Metrics](https://aclanthology.org/2020.wmt-1.77.pdf),<br />[Significance](https://aclanthology.org/D14-1020.pdf)         |     Rebeca Oprea (engineer),<br />Teodor Dumitrescu (author),<br />Chiruț Veronica (reviewer)                                                       |     
 |07| 18. Nov. 2022 |  Data Acquisition            |          TBA            | 	Ahmad Wali (engineer),<br />Daniel Sava (author),<br />Iordăchescu Anca (reviwer)                                                       |
 |08| 25. Nov. 2022 |  Language and Translation Models,<br />Smoothing,<br />Beam Search            |         TBA             |     Stan Flavius (author),<br />Bazavan Cristian (engineer),<br />Blăgescu Alex (reviewer),<br /> Stegarescu Ana (visionary)                                                       |
-|09|  <del>2.</del> 8. Dec. 2022 |  Neural MT,<br />Vocabulary,<br />Attention,<br />Multilingualilty |          TBA            |     Ranete Cristian (reviewer),<br />Nedelcu Mihai (visionary),<br />Ilicea Anca (author),<br />Mărilă Mircea (engineer)                                                       |
+|09|  <del>2.</del> 8. Dec. 2022 |  Neural MT,<br />Vocabulary,<br />Attention,<br />Multilingualilty |          TBA           |     Ranete Cristian (reviewer),<br />Nedelcu Mihai (visionary),<br />Ilicea Anca (author),<br />Mărilă Mircea (engineer)                                                       |
 |10|  9. Dec. 2022 |  Tokenizers,<br />Transformers,<br />T5,<br />Multilinguality                |      TBA                |     Bleoţiu Eugen (visionary),<br />Antal Mihaela (reviewer),<br />Istrati Lucian (engineer),<br />Dăscălescu Dana (author)                                                      |
 |11| 16. Dec. 2022 |  Diffusion Models<br />(tentative)                |         TBA             |     Zăvelcă Miruna (engineer),<br />Lazăr Dorian (author),<br />Creanga Claudiu (reviewer),<br />Aldea Gabriela (visionary)                                                       |
 |12| 23. Dec. 2022 | Projects 🌲      |                      |                                                            |
@@ -124,25 +124,40 @@ Stay tuned, will be announced shortly...
 <a name="eval"></a>
 ## Evaluation
 - [BLEU, Papineni et al, 2002](https://aclanthology.org/P02-1040.pdf)
+- [A Call for Clarity in Reporting BLEU Scores](https://aclanthology.org/W18-6319/), [sacre bleu](https://github.com/mjpost/sacrebleu)
 - [BERTScore, 2020](https://arxiv.org/pdf/1904.09675.pdf)
-- [Statistical significance tests of models' correlation](https://aclanthology.org/D14-1020.pdf)
-- [Comparison of metrics, Formicheva & Specia, 2018](https://aclanthology.org/J19-3004.pdf)
+- [Statistical significance tests](https://aclanthology.org/W04-3250.pdf), 2004
+- [Statistical significance tests of models' correlation](https://aclanthology.org/D14-1020.pdf), 2014
+- [Comparison of metrics, Formicheva & Specia](https://aclanthology.org/J19-3004.pdf), 2018
 
 
 <a name="data"></a>
-## Data Collection
-- [TBA]()
+## Data Collection, Alignment
+- [bitextor](https://github.com/bitextor/bitextor)
+- [Parallel corpora for medium density languages](https://catalog.ldc.upenn.edu/docs/LDC2008T01/ranlp05.pdf), 2005 [hunalign](https://github.com/danielvarga/hunalign)
+- [Word Alignment with Markov Chain Monte Carlo](https://ufal.mff.cuni.cz/pbml/106/art-ostling-tiedemann.pdf), 2016, [efmaral](https://github.com/robertostling/efmaral)
+- [Word Alignments Without Parallel Training Data](https://aclanthology.org/2020.findings-emnlp.147.pdf), 2020, [SimAlign](https://github.com/cisnlp/simalign)
+- [Aligned segments from unclean parallel data](http://nl.ijs.si/jtdh20/pdf/JT-DH_2020_Popovic-et-al_Extracting-correctly-aligned-segments-from-unclean-parallel-data-using-character-n-gram-matching.pdf), 2020
+- [Comparison of GIZA++ vs. Neural Word Alignment](https://aclanthology.org/2020.acl-main.146.pdf), 2020
+- [Mining Using Distilled Sentence](https://arxiv.org/abs/2205.12654), 2022, [LASER](https://github.com/facebookresearch/LASER)
+
 
 <a name="neural"></a>
 ## Neural MT with RNNs & CNNs
-- [TBA]()
+- [\*Seq2seq Models With Attention](https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/)
+- [\*Different attention types](https://lilianweng.github.io/posts/2018-06-24-attention/)
+- [\*Code Tutorial](https://pytorch.org/tutorials/intermediate/seq2seq_translation_tutorial.html)
+- [Seq2seq learning with NNs](https://proceedings.neurips.cc/paper/2014/file/a14ac55a4f27472c5d894ec1c3c743d2-Paper.pdf), 2014
+- [RNN Encoder-Decoder](http://emnlp2014.org/papers/pdf/EMNLP2014179.pdf), 2014
+- [Seq2seq with Attention](https://arxiv.org/abs/1409.0473), 2015
+- [More Types of Attention](https://arxiv.org/abs/1508.04025), 2015
 
 <a name="trans"></a>
 ## Neural MT with Transformers
 - [Attention is all you Need, 2017](https://arxiv.org/pdf/1706.03762.pdf)
 - [\*Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
 - [\*Huggingface Transformers Tutorial](https://huggingface.co/course/chapter0/1)
-
+- [TBA]()
 
 
 <a name="diffusion"></a>
@@ -152,6 +167,7 @@ Stay tuned, will be announced shortly...
 
 <a name="soviet"></a>
 ## Back to the future
+- [Shannon's Autoregressive Language Models](https://sci-hub.se/10.1002/j.1538-7305.1951.tb01366.x), 1950
 - [The Future of MT, seen from 1985](https://aclanthology.org/J85-1001.pdf)
 - [MT in the USSR, 1984](https://www.jstor.org/stable/30199988?seq=1#metadata_info_tab_contents)
 - [Soviet MT overview, Gordin, 2020](https://static1.squarespace.com/static/5275adb7e4b0298e6ac6bc86/t/5ef3eb6693fc2660294da7e2/1593043815386/Gordin-SovietMT.pdf)
