@@ -113,13 +113,14 @@ Stay tuned, will be announced shortly...
 
 <a name="smt"></a>
 ## Statistical Machine Translation & Language Models
-- [Och's PhD thesis, 2002](https://publications.rwth-aachen.de/record/58741/files/58741.pdf#page=22)
+- [\*Bayes from Scratch](https://allendowney.github.io/ThinkBayes2/)
 - [\*Kevin Knight's Workbook](https://kevincrawfordknight.github.io/papers/wkbk.pdf)
-- [Mathematics of SMT](https://aclanthology.org/J93-2003.pdf)
 - [Koehn's SMT book](https://3lib.net/book/1271436/711d48) (probabilities from scratch)
+- [Och's PhD thesis, 2002](https://publications.rwth-aachen.de/record/58741/files/58741.pdf#page=22)
+- [Mathematics of SMT](https://aclanthology.org/J93-2003.pdf)
 - [Knesser-Ney smoothing, 1995](https://sci-hub.se/10.1109/ICASSP.1995.479394)
 - [N-gram Language Models, Jurafsky, SLP](https://web.stanford.edu/~jurafsky/slp3/3.pdf)
-- [\*Bayes from Scratch](https://allendowney.github.io/ThinkBayes2/)
+
 
 <a name="eval"></a>
 ## Evaluation
@@ -129,7 +130,8 @@ Stay tuned, will be announced shortly...
 - [Statistical significance tests](https://aclanthology.org/W04-3250.pdf), 2004
 - [Statistical significance tests of models' correlation](https://aclanthology.org/D14-1020.pdf), 2014
 - [Comparison of metrics, Formicheva & Specia](https://aclanthology.org/J19-3004.pdf), 2018
-- [**Colab Notebook**](https://colab.research.google.com/drive/1ZdILLE7kituJlZA-AVUOgq1pM0Ub5kTy?usp=sharing)
+- [**Lab Notebook**](https://colab.research.google.com/drive/1ZdILLE7kituJlZA-AVUOgq1pM0Ub5kTy?usp=sharing)
+
 
 <a name="data"></a>
 ## Data Collection, Alignment
@@ -146,12 +148,15 @@ Stay tuned, will be announced shortly...
 ## Neural MT with RNNs & CNNs
 - [\*Seq2seq Models With Attention](https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/)
 - [\*Different attention types](https://lilianweng.github.io/posts/2018-06-24-attention/)
-- [\*Code Tutorial](https://pytorch.org/tutorials/intermediate/seq2seq_translation_tutorial.html)
-- [Neural Probabilisitc Language Model](https://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf), 2003
+- [Learning Long-term Dependencies are Difficult](https://sci-hub.se/10.1109/72.279181), 1994
+- [LSTM](http://www.bioinf.jku.at/publications/older/2604.pdf), 1997
+- [Neural Probabilisitc Language Model](https://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf), 2003, also [here](https://www.researchgate.net/profile/Y-Bengio/publication/244436420_New_distributed_probabilistic_language_models/links/546b702c0cf2f5eb18091df1/New-distributed-probabilistic-language-models.pdf)
 - [Seq2seq learning with NNs](https://proceedings.neurips.cc/paper/2014/file/a14ac55a4f27472c5d894ec1c3c743d2-Paper.pdf), 2014
 - [RNN Encoder-Decoder](http://emnlp2014.org/papers/pdf/EMNLP2014179.pdf), 2014
 - [Seq2seq with Attention](https://arxiv.org/abs/1409.0473), 2015
 - [More Types of Attention](https://arxiv.org/abs/1508.04025), 2015
+- [\*Lab Tutorial](https://colab.research.google.com/github/pytorch/tutorials/blob/gh-pages/_downloads/seq2seq_translation_tutorial.ipynb)
+
 
 <a name="trans"></a>
 ## Neural MT with Transformers
