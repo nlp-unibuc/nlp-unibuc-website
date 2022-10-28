@@ -129,7 +129,7 @@ Stay tuned, will be announced shortly...
 - [Statistical significance tests](https://aclanthology.org/W04-3250.pdf), 2004
 - [Statistical significance tests of models' correlation](https://aclanthology.org/D14-1020.pdf), 2014
 - [Comparison of metrics, Formicheva & Specia](https://aclanthology.org/J19-3004.pdf), 2018
-
+- [**Colab Notebook**](https://colab.research.google.com/drive/1ZdILLE7kituJlZA-AVUOgq1pM0Ub5kTy?usp=sharing)
 
 <a name="data"></a>
 ## Data Collection, Alignment
@@ -147,6 +147,7 @@ Stay tuned, will be announced shortly...
 - [\*Seq2seq Models With Attention](https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/)
 - [\*Different attention types](https://lilianweng.github.io/posts/2018-06-24-attention/)
 - [\*Code Tutorial](https://pytorch.org/tutorials/intermediate/seq2seq_translation_tutorial.html)
+- [Neural Probabilisitc Language Model](https://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf), 2003
 - [Seq2seq learning with NNs](https://proceedings.neurips.cc/paper/2014/file/a14ac55a4f27472c5d894ec1c3c743d2-Paper.pdf), 2014
 - [RNN Encoder-Decoder](http://emnlp2014.org/papers/pdf/EMNLP2014179.pdf), 2014
 - [Seq2seq with Attention](https://arxiv.org/abs/1409.0473), 2015
