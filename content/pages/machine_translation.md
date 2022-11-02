@@ -30,7 +30,7 @@ tr:nth-child(even) {
 
 
 <a name="schedule"></a>
-# Schedule of MT classes 2022
+# **Schedule of MT classes 2022**
 
 
 |Week |    **Date**   |     **Topic**    | **Materials** |                       **Presenters**                       |
@@ -38,7 +38,7 @@ tr:nth-child(even) {
 |01|  7. Oct. 2022 | Teaching         |      [slides](https://unibucro0.sharepoint.com/:b:/r/sites/MachineTranslation2022/Shared%20Documents/General/Course1_structure.pdf?csf=1&web=1&e=ewkb3A)                |                                                            | 
 |02| 14. Oct. 2022 | Teaching         |      [reading](#smt)               |                                                            | 
 |03| 21. Oct. 2022 | Teaching         |  [reading](#eval)<br />[MT metrics(video)](https://slideslive.com/38924201/1-metrics-of-mt-quality)                |                                                            | 
-|04| 28. Oct. 2022 | Teaching         |                      |                                                            |
+|04| 28. Oct. 2022 | Teaching         |  [reading](#neural)<br />[\*Seq2seq Models Tutorial](https://lena-voita.github.io/nlp_course/seq2seq_and_attention.html)                    |                                                            |
 |05|  4. Nov. 2022 | Teaching         |                      |                                                            |
 |06| 11. Nov. 2022 |  Human and<br />Automatic Evaluation<br />Metrics     |           [**🤔 main paper**](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00437/108866/Experts-Errors-and-Context-A-Large-Scale-Study-of)<br />additional readings<br />[BERTScore](https://arxiv.org/pdf/1904.09675.pdf),<br />[WMT2020 Metrics](https://aclanthology.org/2020.wmt-1.77.pdf),<br />[Significance](https://aclanthology.org/D14-1020.pdf)         |     Rebeca Oprea (engineer),<br />Teodor Dumitrescu (author),<br />Chiruț Veronica (reviewer)                                                       |     
 |07| 18. Nov. 2022 |  Data Acquisition            |          TBA            | 	Ahmad Wali (engineer),<br />Daniel Sava (author),<br />Iordăchescu Anca (reviwer)                                                       |
@@ -51,7 +51,7 @@ tr:nth-child(even) {
 |14| 20. Jan. 2023 | Projects         |                      |                                                            |
 
 <a name="roles"></a>
-# Roles
+# **Roles**
 
 Each person is assigned a role (almost randomly) and must prepare the reading from the **Materials** 
 column from the row where their name is added. Materials will be announced shortly.
@@ -59,7 +59,7 @@ Consider taking these roles seriously as they account for half of your grade.
 Since December, 2 is during a public holiday, we can postpone the presentations for Thursday, December, 8.
 
 <a name="role_aut"></a>
-## Author
+## **Author**
 Pretend you are the main author of the papers, prepare a presentation and talk about:
 
 - Problem definition: present what problems the authors intend to solve and present the context and necessity of why it is important to adress the problems.
@@ -68,7 +68,7 @@ Pretend you are the main author of the papers, prepare a presentation and talk a
 - Get into as many details as possible; the appendices in the paper should also be covered.
 
 <a name="role_sci"></a>
-## Scientific reviewer
+## **Scientific reviewer**
 You must make a critical evaluation of the paper, not necessarily negative; read the guidelines  and examples from [NIPS](https://neurips.cc/Conferences/2020/PaperInformation/ReviewerGuidelines#Examples)
 
 - Summary and contributions: Briefly summarize the paper and its contributions
@@ -80,7 +80,7 @@ You must make a critical evaluation of the paper, not necessarily negative; read
 - Overall score
 
 <a name="role_ing"></a>
-## Engineer
+## **Engineer**
 Implement something related to the paper either on the same dataset or on a new one;  prepare to share the code and some empirical intuition behind the paper.
 
 - Reproducibility: If the original authors already provide the code, try to run it on a new dataset.
@@ -88,7 +88,7 @@ Implement something related to the paper either on the same dataset or on a new 
 - Efficiency: Measure the time it takes to run the code, provide an assement of how suitable the approach is for being run at scale.
 
 <a name="role_vis"></a>
-## Visionary
+## **Visionary**
 Propose a follow-up research project or a new application; take into account the previous work and existing work being done; take into account ethics and the socio-economic impact:
 
 - Relation to prior work: Is it clearly discussed how this work differs from previous contributions?
@@ -96,18 +96,18 @@ Propose a follow-up research project or a new application; take into account the
 - Does the submission raise potential ethical concerns? This includes methods, applications, or data that create or reinforce unfair bias or that have a primary purpose of harm or injury. If so, please explain briefly.
 
 <a name="role_att"></a>
-## Attendees
+## **Attendees**
 Everyone must ask a question at the end of the presentations to qualify as being present.
 Being present at all the presentations will account for 1 bonus point at the end.
 
 
 <a name="projects"></a>
-# Project ideas
+# **Project ideas**
 Stay tuned, will be announced shortly...
 
 
 <a name="bibliography"></a>
-# MT Bibliography (expanding...)
+# **MT Bibliography (expanding...)**
 
 \* blog posts, tutorials, visual explanations 
 
@@ -116,21 +116,22 @@ Stay tuned, will be announced shortly...
 - [\*Bayes from Scratch](https://allendowney.github.io/ThinkBayes2/)
 - [\*Kevin Knight's Workbook](https://kevincrawfordknight.github.io/papers/wkbk.pdf)
 - [Koehn's SMT book](https://3lib.net/book/1271436/711d48) (probabilities from scratch)
-- [Och's PhD thesis, 2002](https://publications.rwth-aachen.de/record/58741/files/58741.pdf#page=22)
+- [Och's PhD thesis](https://publications.rwth-aachen.de/record/58741/files/58741.pdf#page=22), 2002
 - [Mathematics of SMT](https://aclanthology.org/J93-2003.pdf)
 - [Knesser-Ney smoothing, 1995](https://sci-hub.se/10.1109/ICASSP.1995.479394)
 - [N-gram Language Models, Jurafsky, SLP](https://web.stanford.edu/~jurafsky/slp3/3.pdf)
-
+<!-- [**Lab Notebook:** IBM Model 1]() -->
 
 <a name="eval"></a>
 ## Evaluation
 - [BLEU, Papineni et al, 2002](https://aclanthology.org/P02-1040.pdf)
-- [A Call for Clarity in Reporting BLEU Scores](https://aclanthology.org/W18-6319/), [sacre bleu](https://github.com/mjpost/sacrebleu)
-- [BERTScore, 2020](https://arxiv.org/pdf/1904.09675.pdf)
 - [Statistical significance tests](https://aclanthology.org/W04-3250.pdf), 2004
 - [Statistical significance tests of models' correlation](https://aclanthology.org/D14-1020.pdf), 2014
 - [Comparison of metrics, Formicheva & Specia](https://aclanthology.org/J19-3004.pdf), 2018
-- [**Lab Notebook**](https://colab.research.google.com/drive/1ZdILLE7kituJlZA-AVUOgq1pM0Ub5kTy?usp=sharing)
+- [A Call for Clarity in Reporting BLEU Scores](https://aclanthology.org/W18-6319/), [sacre bleu](https://github.com/mjpost/sacrebleu)
+- [BERTScore](https://arxiv.org/pdf/1904.09675.pdf), 2020
+- [COMET](https://aclanthology.org/2020.emnlp-main.213/), [more recent paper](https://arxiv.org/abs/2202.05148) 2022 
+- [**Lab Notebook:** MT Evaluation](https://colab.research.google.com/drive/1ZdILLE7kituJlZA-AVUOgq1pM0Ub5kTy?usp=sharing)
 
 
 <a name="data"></a>
@@ -142,12 +143,16 @@ Stay tuned, will be announced shortly...
 - [Aligned segments from unclean parallel data](http://nl.ijs.si/jtdh20/pdf/JT-DH_2020_Popovic-et-al_Extracting-correctly-aligned-segments-from-unclean-parallel-data-using-character-n-gram-matching.pdf), 2020
 - [Comparison of GIZA++ vs. Neural Word Alignment](https://aclanthology.org/2020.acl-main.146.pdf), 2020
 - [Mining Using Distilled Sentence](https://arxiv.org/abs/2205.12654), 2022, [LASER](https://github.com/facebookresearch/LASER)
+- [**Lab Notebook:** Using LASER](https://colab.research.google.com/drive/1UP-LxZdaAii7WrUw13GGblhMfas-WRLL?usp=sharing)
 
 
 <a name="neural"></a>
-## Neural MT with RNNs & CNNs
+## Neural MT with RNNs
 - [\*Seq2seq Models With Attention](https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/)
+- [\*Seq2seq Models Tutorial](https://lena-voita.github.io/nlp_course/seq2seq_and_attention.html)
+- [\*Another tutorial](https://lorenlugosch.github.io/posts/2019/02/seq2seq/)
 - [\*Different attention types](https://lilianweng.github.io/posts/2018-06-24-attention/)
+- [\*Tutorial on training RNNs](https://www.ai.rug.nl/minds/uploads/ESNTutorialRev.pdf), 2002-2013
 - [Learning Long-term Dependencies are Difficult](https://sci-hub.se/10.1109/72.279181), 1994
 - [LSTM](http://www.bioinf.jku.at/publications/older/2604.pdf), 1997
 - [Neural Probabilisitc Language Model](https://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf), 2003, also [here](https://www.researchgate.net/profile/Y-Bengio/publication/244436420_New_distributed_probabilistic_language_models/links/546b702c0cf2f5eb18091df1/New-distributed-probabilistic-language-models.pdf)
@@ -155,15 +160,71 @@ Stay tuned, will be announced shortly...
 - [RNN Encoder-Decoder](http://emnlp2014.org/papers/pdf/EMNLP2014179.pdf), 2014
 - [Seq2seq with Attention](https://arxiv.org/abs/1409.0473), 2015
 - [More Types of Attention](https://arxiv.org/abs/1508.04025), 2015
-- [\*Lab Tutorial](https://colab.research.google.com/github/pytorch/tutorials/blob/gh-pages/_downloads/seq2seq_translation_tutorial.ipynb)
+- [**Lab Tutorial:** Training an RNN seq2seq](https://colab.research.google.com/drive/1SI4N_-qwM-aWjyKf6kKgVPnp0R6jf-2g?usp=sharing)
+
+
+<a name="neural_cnn"></a>
+## Neural MT with CNNs
+- [Convolutional Sequence to Sequence Learning](https://sci-hub.se/10.1109/72.279181), 2017
+- [\*Tutorial with code](https://charon.me/posts/pytorch/pytorch_seq2seq_5/)
+- [**Lab Tutorial:** Training a CNN seq2seq](https://colab.research.google.com/github/bentrevett/pytorch-seq2seq/blob/master/5%20-%20Convolutional%20Sequence%20to%20Sequence%20Learning.ipynb)
+
+<a name="tokenizers"></a>
+## Tokenizers
+- [\*Byte Pair Encoding](https://leimao.github.io/blog/Byte-Pair-Encoding/)
+- [\*Tokenizers](https://blog.floydhub.com/tokenization-nlp/)
+- [\*Understanding Sentencepiece](https://jacky2wong.medium.com/understanding-sentencepiece-under-standing-sentence-piece-ac8da59f6b08)
+- [Sentence Piece](https://aclanthology.org/D18-2012.pdf), 2018
+- [Subword units](https://aclanthology.org/P18-1007/), 2018
 
 
 <a name="trans"></a>
 ## Neural MT with Transformers
-- [Attention is all you Need, 2017](https://arxiv.org/pdf/1706.03762.pdf)
+### Tutorials
 - [\*Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
+- [\*Illustrated BERT](https://jalammar.github.io/illustrated-bert/)
+- [\*Illustrated GPT-2](https://jalammar.github.io/illustrated-gpt2/)
 - [\*Huggingface Transformers Tutorial](https://huggingface.co/course/chapter0/1)
-- [TBA]()
+- [\*The Annotated Transformer](http://nlp.seas.harvard.edu/annotated-transformer/)
+- [\*Peter Bloem's Tutorial](http://peterbloem.nl/blog/transformers)
+- [\*Annotated GPT-2](https://amaarora.github.io/2020/02/18/annotatedGPT2.html)
+- [\*Transformer for people outside NLP](https://data-science-blog.com/blog/2020/12/30/transformer/)
+- [\*E2ML School Tutorial](https://e2eml.school/transformers.html)
+
+### Essential Readings
+- [Attention is all you Need](https://arxiv.org/pdf/1706.03762.pdf), 2017
+- [BERT](https://aclanthology.org/N19-1423.pdf), 2019
+- [GPT-2](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf), 2019
+- [WMT2021 Baselines and Models](https://aclanthology.org/2021.wmt-1.1.pdf#page=34), 2021
+- [**\*Models in huggingface**](https://huggingface.co/docs/transformers/index)
+
+### Extra Readings on Transformers
+- [GPT-3](https://papers.nips.cc/paper/2020/hash/1457c0d6bfcb4967418bfb8ac142f64a-Abstract.html), 2020
+- [RoBERTa](https://aclanthology.org/2021.ccl-1.108/), 2021
+- [BART](https://aclanthology.org/2020.acl-main.703/), 2020
+- [mBART](https://aclanthology.org/2020.tacl-1.47.pdf), 2020
+- [\*Reformer](https://ai.googleblog.com/2020/01/reformer-efficient-transformer.html), 2020
+- [What Works Best for Zero-Shot](https://proceedings.mlr.press/v162/wang22u/wang22u.pdf), 2022
+- [T5](https://jmlr.org/papers/v21/20-074.html), 2020
+- [M2M-100](https://jmlr.csail.mit.edu/papers/volume22/20-1307/20-1307.pdf), 2021, [model](https://huggingface.co/facebook/m2m100_1.2B)
+- [**Lab Tutorial:** T5](https://goo.gle/t5-colab)
+
+### Machine Translation Frameworks
+- [Marian MT](https://aclanthology.org/P18-4020/), 2018
+- [OpenNMT](https://opennmt.net/publications/), 2017
+- [fairseq](https://aclanthology.org/N19-4009.pdf), 2019
+- [JoeyNMT](https://aclanthology.org/D19-3019v1.pdf), 2019
+- [Huggingface](https://huggingface.co/docs/transformers/main/en/model_summary#sequencetosequence-models)
+
+### Extra Readings in Machine Translation
+- [Synchronous Bidirectional Beam Search](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00256/43504/Synchronous-Bidirectional-Neural-Machine), 2019 
+- [Specialized Heads Do the Heavy Lifting](https://aclanthology.org/P19-1580/), [code](https://github.com/lena-voita/the-story-of-heads) 2019
+- [Gender Bias in MT](https://aclanthology.org/P19-1164/), 2019
+- [MT Domain Robustness](https://aclanthology.org/2020.amta-research.14/), 2019
+- [Fixed Encoder Self-Attention Patterns](https://aclanthology.org/2020.findings-emnlp.49.pdf), 2020
+- [Translationese](https://aclanthology.org/2020.acl-main.691.pdf), 2020
+- [Character-level NMT](https://aclanthology.org/2020.acl-main.145.pdf), 2021
+- [Why Beam Search Works](https://aclanthology.org/2020.emnlp-main.170/), 2021
 
 
 <a name="diffusion"></a>
