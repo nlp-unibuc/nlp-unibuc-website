@@ -115,21 +115,21 @@ Stay tuned, will be announced shortly...
 ## Statistical Machine Translation & Language Models
 - [\*Bayes from Scratch](https://allendowney.github.io/ThinkBayes2/)
 - [\*Kevin Knight's Workbook](https://kevincrawfordknight.github.io/papers/wkbk.pdf)
-- [Koehn's SMT book](https://3lib.net/book/1271436/711d48) (probabilities from scratch)
+- [Koehn's SMT book](https://3lib.net/book/1271436/711d48) (SMT from scratch)
+- [Knesser-Ney smoothing](https://sci-hub.se/10.1109/ICASSP.1995.479394), 1995
 - [Och's PhD thesis](https://publications.rwth-aachen.de/record/58741/files/58741.pdf#page=22), 2002
-- [Mathematics of SMT](https://aclanthology.org/J93-2003.pdf)
-- [Knesser-Ney smoothing, 1995](https://sci-hub.se/10.1109/ICASSP.1995.479394)
+- [Mathematics of SMT](https://aclanthology.org/J93-2003.pdf), 2003
 - [N-gram Language Models, Jurafsky, SLP](https://web.stanford.edu/~jurafsky/slp3/3.pdf)
 <!-- [**Lab Notebook:** IBM Model 1]() -->
 
 <a name="eval"></a>
 ## Evaluation
-- [BLEU, Papineni et al, 2002](https://aclanthology.org/P02-1040.pdf)
+- [BLEU, Papineni et al.](https://aclanthology.org/P02-1040.pdf), 2002
 - [Statistical significance tests](https://aclanthology.org/W04-3250.pdf), 2004
 - [Statistical significance tests of models' correlation](https://aclanthology.org/D14-1020.pdf), 2014
 - [chrF++](https://aclanthology.org/W15-3049/), 2015
 - [Comparison of metrics, Formicheva & Specia](https://aclanthology.org/J19-3004.pdf), 2018
-- [A Call for Clarity in Reporting BLEU Scores](https://aclanthology.org/W18-6319/), [sacre bleu](https://github.com/mjpost/sacrebleu)
+- [A Call for Clarity in Reporting BLEU Scores](https://aclanthology.org/W18-6319/), 2018, [sacre bleu](https://github.com/mjpost/sacrebleu)
 - [BERTScore](https://arxiv.org/pdf/1904.09675.pdf), 2020
 - [COMET](https://aclanthology.org/2020.emnlp-main.213/), [more recent paper](https://arxiv.org/abs/2202.05148) 2022 
 - [**Lab Notebook:** MT Evaluation](https://colab.research.google.com/drive/1ZdILLE7kituJlZA-AVUOgq1pM0Ub5kTy?usp=sharing)
@@ -137,7 +137,7 @@ Stay tuned, will be announced shortly...
 
 <a name="data"></a>
 ## Data Collection, Alignment
-- [bitextor](https://github.com/bitextor/bitextor)
+- [\*bitextor](https://github.com/bitextor/bitextor)
 - [Parallel corpora for medium density languages](https://catalog.ldc.upenn.edu/docs/LDC2008T01/ranlp05.pdf), 2005 [hunalign](https://github.com/danielvarga/hunalign)
 - [Word Alignment with Markov Chain Monte Carlo](https://ufal.mff.cuni.cz/pbml/106/art-ostling-tiedemann.pdf), 2016, [efmaral](https://github.com/robertostling/efmaral)
 - [Word Alignments Without Parallel Training Data](https://aclanthology.org/2020.findings-emnlp.147.pdf), 2020, [SimAlign](https://github.com/cisnlp/simalign)
@@ -216,7 +216,7 @@ Stay tuned, will be announced shortly...
 - [OpenNMT](https://opennmt.net/publications/), 2017
 - [fairseq](https://aclanthology.org/N19-4009.pdf), 2019
 - [JoeyNMT](https://aclanthology.org/D19-3019v1.pdf), 2019
-- [Huggingface](https://huggingface.co/docs/transformers/main/en/model_summary#sequencetosequence-models)
+- [Huggingface seq2seq](https://huggingface.co/docs/transformers/main/en/model_summary#sequencetosequence-models)
 
 ### Extra Readings in Machine Translation
 - [Synchronous Bidirectional Beam Search](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00256/43504/Synchronous-Bidirectional-Neural-Machine), 2019 
@@ -231,8 +231,9 @@ Stay tuned, will be announced shortly...
 
 <a name="diffusion"></a>
 ## Neural MT with Diffusion Models
-- [TBA]()
-
+- [Translation with DM](https://arxiv.org/abs/2111.01471), 2021
+- [Text Generation](https://openreview.net/pdf?id=T0GpzBQ1Fg6), 2021
+- [DiffuSeq](https://arxiv.org/abs/2210.08933), 2022
 
 <a name="soviet"></a>
 ## Back to the future
