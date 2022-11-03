@@ -127,6 +127,7 @@ Stay tuned, will be announced shortly...
 - [BLEU, Papineni et al, 2002](https://aclanthology.org/P02-1040.pdf)
 - [Statistical significance tests](https://aclanthology.org/W04-3250.pdf), 2004
 - [Statistical significance tests of models' correlation](https://aclanthology.org/D14-1020.pdf), 2014
+- [chrF++](https://aclanthology.org/W15-3049/), 2015
 - [Comparison of metrics, Formicheva & Specia](https://aclanthology.org/J19-3004.pdf), 2018
 - [A Call for Clarity in Reporting BLEU Scores](https://aclanthology.org/W18-6319/), [sacre bleu](https://github.com/mjpost/sacrebleu)
 - [BERTScore](https://arxiv.org/pdf/1904.09675.pdf), 2020
@@ -180,16 +181,17 @@ Stay tuned, will be announced shortly...
 
 <a name="trans"></a>
 ## Neural MT with Transformers
-### Tutorials
-- [\*Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
-- [\*Illustrated BERT](https://jalammar.github.io/illustrated-bert/)
-- [\*Illustrated GPT-2](https://jalammar.github.io/illustrated-gpt2/)
-- [\*Huggingface Transformers Tutorial](https://huggingface.co/course/chapter0/1)
-- [\*The Annotated Transformer](http://nlp.seas.harvard.edu/annotated-transformer/)
-- [\*Peter Bloem's Tutorial](http://peterbloem.nl/blog/transformers)
-- [\*Annotated GPT-2](https://amaarora.github.io/2020/02/18/annotatedGPT2.html)
-- [\*Transformer for people outside NLP](https://data-science-blog.com/blog/2020/12/30/transformer/)
-- [\*E2ML School Tutorial](https://e2eml.school/transformers.html)
+### \*Tutorials
+- [Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
+- [Lena Voita's Tutorial](https://lena-voita.github.io/nlp_course/seq2seq_and_attention.html#transformer_intro)
+- [The Annotated Transformer](http://nlp.seas.harvard.edu/annotated-transformer/)
+- [Peter Bloem's Tutorial](http://peterbloem.nl/blog/transformers)
+- [Illustrated BERT](https://jalammar.github.io/illustrated-bert/)
+- [Illustrated GPT-2](https://jalammar.github.io/illustrated-gpt2/)
+- [Huggingface Transformers Tutorial](https://huggingface.co/course/chapter0/1)
+- [Annotated GPT-2](https://amaarora.github.io/2020/02/18/annotatedGPT2.html)
+- [Transformer for people outside NLP](https://data-science-blog.com/blog/2020/12/30/transformer/)
+- [E2ML School Tutorial](https://e2eml.school/transformers.html)
 
 ### Essential Readings
 - [Attention is all you Need](https://arxiv.org/pdf/1706.03762.pdf), 2017
