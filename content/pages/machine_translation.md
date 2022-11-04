@@ -41,7 +41,7 @@ tr:nth-child(even) {
 |04| 28. Oct. 2022 | Teaching         |  [reading](#neural)<br />[\*Seq2seq Models Tutorial](https://lena-voita.github.io/nlp_course/seq2seq_and_attention.html)                    |                                                            |
 |05|  4. Nov. 2022 | Teaching         |                      |                                                            |
 |06| 11. Nov. 2022 |  Human and<br />Automatic Evaluation<br />Metrics     |           [**🤔 main paper**](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00437/108866/Experts-Errors-and-Context-A-Large-Scale-Study-of)<br />additional readings<br />[BERTScore](https://arxiv.org/pdf/1904.09675.pdf),<br />[WMT2020 Metrics](https://aclanthology.org/2020.wmt-1.77.pdf),<br />[Significance](https://aclanthology.org/D14-1020.pdf)         |     Rebeca Oprea (engineer),<br />Teodor Dumitrescu (author),<br />Chiruț Veronica (reviewer)                                                       |     
-|07| 18. Nov. 2022 |  Data Acquisition            |          TBA            | 	Ahmad Wali (engineer),<br />Daniel Sava (author),<br />Iordăchescu Anca (reviwer)                                                       |
+|07| <del>18.</del> ? Nov. 2022 |  Data Acquisition            |          TBA            | 	Ahmad Wali (engineer),<br />Daniel Sava (author),<br />Iordăchescu Anca (reviwer)                                                       |
 |08| 25. Nov. 2022 |  Language and Translation Models,<br />Smoothing,<br />Beam Search            |         TBA             |     Stan Flavius (author),<br />Bazavan Cristian (engineer),<br />Blăgescu Alex (reviewer),<br /> Stegarescu Ana (visionary)                                                       |
 |09|  <del>2.</del> 8. Dec. 2022 |  Neural MT,<br />Vocabulary,<br />Attention,<br />Multilingualilty |          TBA           |     Ranete Cristian (reviewer),<br />Nedelcu Mihai (visionary),<br />Ilicea Anca (author),<br />Mărilă Mircea (engineer)                                                       |
 |10|  9. Dec. 2022 |  Tokenizers,<br />Transformers,<br />T5,<br />Multilinguality                |      TBA                |     Bleoţiu Eugen (visionary),<br />Antal Mihaela (reviewer),<br />Istrati Lucian (engineer),<br />Dăscălescu Dana (author)                                                      |
@@ -166,7 +166,8 @@ Stay tuned, will be announced shortly...
 
 <a name="neural_cnn"></a>
 ## Neural MT with CNNs
-- [Convolutional Sequence to Sequence Learning](https://sci-hub.se/10.1109/72.279181), 2017
+- [Language Modeling with Gated Convolutional Networks](https://arxiv.org/abs/1612.08083v3), 2016
+- [Convolutional Sequence to Sequence Learning](https://proceedings.mlr.press/v70/gehring17a/gehring17a.pdf), 2017
 - [\*Tutorial with code](https://charon.me/posts/pytorch/pytorch_seq2seq_5/)
 - [**Lab Tutorial:** Training a CNN seq2seq](https://colab.research.google.com/github/bentrevett/pytorch-seq2seq/blob/master/5%20-%20Convolutional%20Sequence%20to%20Sequence%20Learning.ipynb)
 
