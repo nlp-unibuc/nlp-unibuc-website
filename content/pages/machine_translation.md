@@ -24,8 +24,9 @@ tr:nth-child(even) {
     - [Engineer](#role_ing)
     - [Visionary](#role_vis)
     - [Attendees](#role_att)
-- [Project ideas](#projects)
-    - [TBA shortly]()
+- [Lab Projects](#projects)
+    - [Project ideas](https://cryptpad.fr/kanban/#/2/kanban/view/L8OSOIlxNvs+FEt0AIcnISNJClOk436hOQxZJb6zYD8/embed/)
+    - [Project template](https://www.overleaf.com/read/zbfqccgqcbrx)
 - [Bibliography](#bibliography)
 
 
@@ -102,8 +103,19 @@ Being present at all the presentations will account for 1 bonus point at the end
 
 
 <a name="projects"></a>
-# **Project ideas**
-Stay tuned, will be announced shortly...
+# **Lab Projects**
+1. gather some colleagues and make a team of **maximum 3 people**
+2. choose an MT topic that you would like to research (see [the project list on the website](https://cryptpad.fr/kanban/#/2/kanban/view/L8OSOIlxNvs+FEt0AIcnISNJClOk436hOQxZJb6zYD8/embed/) or propose your own)
+3. make sure your topic does not overlap with other topics that are in progress and that have been chosen by your colleagues
+4. email sergiu to announce your team, your proposal and to discuss how to approach it
+5. after you obtain the approval, mark it as being in progress on the kanban list and start working on it
+6. prepare the project, a presentation, and a report [using this template](https://www.overleaf.com/read/zbfqccgqcbrx)
+7. place everything in a digital storage space somewhere: a git repo, a drive, some file on a server etc.; don't send large files by email, send only URLs
+8. current deadlines are **December 23, January 13, and January 20**
+
+
+
+
 
 
 <a name="bibliography"></a>
@@ -131,6 +143,7 @@ Stay tuned, will be announced shortly...
 - [Comparison of metrics, Formicheva & Specia](https://aclanthology.org/J19-3004.pdf), 2018
 - [A Call for Clarity in Reporting BLEU Scores](https://aclanthology.org/W18-6319/), 2018, [sacre bleu](https://github.com/mjpost/sacrebleu)
 - [BERTScore](https://arxiv.org/pdf/1904.09675.pdf), 2020
+- [Scientific Credibility](https://arxiv.org/pdf/2106.15195.pdf), 2021
 - [COMET](https://aclanthology.org/2020.emnlp-main.213/), [more recent paper](https://arxiv.org/abs/2202.05148) 2022 
 - [**Lab Notebook:** MT Evaluation](https://colab.research.google.com/drive/1ZdILLE7kituJlZA-AVUOgq1pM0Ub5kTy?usp=sharing)
 
@@ -140,6 +153,7 @@ Stay tuned, will be announced shortly...
 - [\*bitextor](https://github.com/bitextor/bitextor)
 - [Parallel corpora for medium density languages](https://catalog.ldc.upenn.edu/docs/LDC2008T01/ranlp05.pdf), 2005 [hunalign](https://github.com/danielvarga/hunalign)
 - [Word Alignment with Markov Chain Monte Carlo](https://ufal.mff.cuni.cz/pbml/106/art-ostling-tiedemann.pdf), 2016, [efmaral](https://github.com/robertostling/efmaral)
+- [Backtranslation](https://aclanthology.org/P16-1009/), 2015
 - [Word Alignments Without Parallel Training Data](https://aclanthology.org/2020.findings-emnlp.147.pdf), 2020, [SimAlign](https://github.com/cisnlp/simalign)
 - [Aligned segments from unclean parallel data](http://nl.ijs.si/jtdh20/pdf/JT-DH_2020_Popovic-et-al_Extracting-correctly-aligned-segments-from-unclean-parallel-data-using-character-n-gram-matching.pdf), 2020
 - [Comparison of GIZA++ vs. Neural Word Alignment](https://aclanthology.org/2020.acl-main.146.pdf), 2020
@@ -176,8 +190,9 @@ Stay tuned, will be announced shortly...
 - [\*Byte Pair Encoding](https://leimao.github.io/blog/Byte-Pair-Encoding/)
 - [\*Tokenizers](https://blog.floydhub.com/tokenization-nlp/)
 - [\*Understanding Sentencepiece](https://jacky2wong.medium.com/understanding-sentencepiece-under-standing-sentence-piece-ac8da59f6b08)
+- [Byte-Pair Encoding](https://aclanthology.org/P16-1162/), 2015
 - [Sentence Piece](https://aclanthology.org/D18-2012.pdf), 2018
-- [Subword units](https://aclanthology.org/P18-1007/), 2018
+- [Subword Regularization](https://aclanthology.org/P18-1007/), 2018
 
 
 <a name="trans"></a>
