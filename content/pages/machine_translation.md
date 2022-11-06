@@ -40,8 +40,8 @@ tr:nth-child(even) {
 |03| 21. Oct. 2022 | Teaching         |  [reading](#eval)<br />[MT metrics(video)](https://slideslive.com/38924201/1-metrics-of-mt-quality)                |                                                            | 
 |04| 28. Oct. 2022 | Teaching         |  [reading](#neural)<br />[\*Seq2seq Models Tutorial](https://lena-voita.github.io/nlp_course/seq2seq_and_attention.html)                    |                                                            |
 |05|  4. Nov. 2022 | Teaching         |                      |                                                            |
-|06| 11. Nov. 2022 |  Human and<br />Automatic Evaluation<br />Metrics     |           [**🤔 main paper**](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00437/108866/Experts-Errors-and-Context-A-Large-Scale-Study-of)<br />additional readings<br />[BERTScore](https://arxiv.org/pdf/1904.09675.pdf),<br />[WMT2020 Metrics](https://aclanthology.org/2020.wmt-1.77.pdf),<br />[Significance](https://aclanthology.org/D14-1020.pdf)         |     Rebeca Oprea (engineer),<br />Teodor Dumitrescu (author),<br />Chiruț Veronica (reviewer)                                                       |     
-|07| <del>18.</del> ? Nov. 2022 |  Data Acquisition            |          TBA            | 	Ahmad Wali (engineer),<br />Daniel Sava (author),<br />Iordăchescu Anca (reviwer)                                                       |
+|06| 11. Nov. 2022 |  Human and<br />Automatic Evaluation<br />Metrics     |           [🤔**main paper**](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00437/108866/Experts-Errors-and-Context-A-Large-Scale-Study-of)<br />additional readings<br />[BERTScore](https://arxiv.org/pdf/1904.09675.pdf),<br />[WMT2020 Metrics](https://aclanthology.org/2020.wmt-1.77.pdf),<br />[Significance](https://aclanthology.org/D14-1020.pdf)         |     Rebeca Oprea (engineer),<br />Teodor Dumitrescu (author),<br />Chiruț Veronica (reviewer)                                                       |     
+|07| <del>18.</del> ? ?Nov. 2022 |  Data Acquisition            |          [🤔**main paper**](https://arxiv.org/abs/2205.12654)<br />[additional readings](#data)            | 	Ahmad Wali (engineer),<br />Daniel Sava (author),<br />Iordăchescu Anca (reviwer)                                                       |
 |08| 25. Nov. 2022 |  Language and Translation Models,<br />Smoothing,<br />Beam Search            |         TBA             |     Stan Flavius (author),<br />Bazavan Cristian (engineer),<br />Blăgescu Alex (reviewer),<br /> Stegarescu Ana (visionary)                                                       |
 |09|  <del>2.</del> 8. Dec. 2022 |  Neural MT,<br />Vocabulary,<br />Attention,<br />Multilingualilty |          TBA           |     Ranete Cristian (reviewer),<br />Nedelcu Mihai (visionary),<br />Ilicea Anca (author),<br />Mărilă Mircea (engineer)                                                       |
 |10|  9. Dec. 2022 |  Tokenizers,<br />Transformers,<br />T5,<br />Multilinguality                |      TBA                |     Bleoţiu Eugen (visionary),<br />Antal Mihaela (reviewer),<br />Istrati Lucian (engineer),<br />Dăscălescu Dana (author)                                                      |
@@ -202,14 +202,15 @@ Stay tuned, will be announced shortly...
 - [**\*Models in huggingface**](https://huggingface.co/docs/transformers/index)
 
 ### Extra Readings on Transformers
-- [GPT-3](https://papers.nips.cc/paper/2020/hash/1457c0d6bfcb4967418bfb8ac142f64a-Abstract.html), 2020
-- [RoBERTa](https://aclanthology.org/2021.ccl-1.108/), 2021
-- [BART](https://aclanthology.org/2020.acl-main.703/), 2020
-- [mBART](https://aclanthology.org/2020.tacl-1.47.pdf), 2020
-- [\*Reformer](https://ai.googleblog.com/2020/01/reformer-efficient-transformer.html), 2020
-- [What Works Best for Zero-Shot](https://proceedings.mlr.press/v162/wang22u/wang22u.pdf), 2022
-- [T5](https://jmlr.org/papers/v21/20-074.html), 2020
-- [M2M-100](https://jmlr.csail.mit.edu/papers/volume22/20-1307/20-1307.pdf), 2021, [model](https://huggingface.co/facebook/m2m100_1.2B)
+- [GPT-3](https://papers.nips.cc/paper/2020/hash/1457c0d6bfcb4967418bfb8ac142f64a-Abstract.html), 2020, [open gpt flavors](https://www.eleuther.ai/)
+- [ELECTRA](https://openreview.net/forum?id=r1xMH1BtvB), 2019, [hgfce](https://huggingface.co/docs/transformers/main/en/model_doc/electra)
+- [RoBERTa](https://aclanthology.org/2021.ccl-1.108/), 2019, [hgfce](https://huggingface.co/docs/transformers/main/en/model_doc/roberta)
+- [BART](https://aclanthology.org/2020.acl-main.703/), 2020, [hgfce](https://huggingface.co/docs/transformers/main/en/model_doc/bart)
+- [mBART](https://aclanthology.org/2020.tacl-1.47.pdf), 2020, [hgfce](https://huggingface.co/docs/transformers/main/en/model_doc/mbart)
+- [\*Reformer](https://ai.googleblog.com/2020/01/reformer-efficient-transformer.html), 2020, [hgfce](https://huggingface.co/docs/transformers/main/en/model_doc/reformer)
+- [What Works Best for Zero-Shot](https://proceedings.mlr.press/v162/wang22u.html), 2022
+- [T5](https://jmlr.org/papers/v21/20-074.html), 2020, [hgfce](https://huggingface.co/docs/transformers/main/en/model_doc/t5#overview), [hgfce](https://huggingface.co/docs/transformers/main/en/model_doc/t5)
+- [M2M-100](https://jmlr.csail.mit.edu/papers/volume22/20-1307/20-1307.pdf), 2021, [model](https://huggingface.co/facebook/m2m100_1.2B), [hgfce](https://huggingface.co/docs/transformers/main/en/model_doc/m2m_100)
 - [**Lab Tutorial:** T5](https://goo.gle/t5-colab)
 
 ### Machine Translation Frameworks
@@ -219,7 +220,7 @@ Stay tuned, will be announced shortly...
 - [JoeyNMT](https://aclanthology.org/D19-3019v1.pdf), 2019
 - [Huggingface seq2seq](https://huggingface.co/docs/transformers/main/en/model_summary#sequencetosequence-models)
 
-### Extra Readings in Machine Translation
+### Extra Readings on Machine Translation
 - [Synchronous Bidirectional Beam Search](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00256/43504/Synchronous-Bidirectional-Neural-Machine), 2019 
 - [Specialized Heads Do the Heavy Lifting](https://aclanthology.org/P19-1580/), [code](https://github.com/lena-voita/the-story-of-heads) 2019
 - [Gender Bias in MT](https://aclanthology.org/P19-1164/), 2019
