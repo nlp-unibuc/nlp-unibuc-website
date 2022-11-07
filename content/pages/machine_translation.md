@@ -40,7 +40,7 @@ tr:nth-child(even) {
 |02| 14. Oct. 2022 | Teaching         |      [reading](#smt)               |                                                            | 
 |03| 21. Oct. 2022 | Teaching         |  [reading](#eval)<br />[MT metrics(video)](https://slideslive.com/38924201/1-metrics-of-mt-quality)                |                                                            | 
 |04| 28. Oct. 2022 | Teaching         |  [reading](#neural)<br />[\*Seq2seq Models Tutorial](https://lena-voita.github.io/nlp_course/seq2seq_and_attention.html)                    |                                                            |
-|05|  4. Nov. 2022 | Teaching         |                      |                                                            |
+|05|  4. Nov. 2022 | Teaching         |  [reading](#trans)<br />[\*Step-by-step debug](https://github.com/pbloem/former/)                    |                                                            |
 |06| 11. Nov. 2022 |  Human and<br />Automatic Evaluation<br />Metrics     |           [🤔**main paper**](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00437/108866/Experts-Errors-and-Context-A-Large-Scale-Study-of)<br />additional readings<br />[BERTScore](https://arxiv.org/pdf/1904.09675.pdf),<br />[WMT2020 Metrics](https://aclanthology.org/2020.wmt-1.77.pdf),<br />[Significance](https://aclanthology.org/D14-1020.pdf)         |     Rebeca Oprea (engineer),<br />Teodor Dumitrescu (author),<br />Chiruț Veronica (reviewer)                                                       |     
 |07| <del>18.</del> ? ?Nov. 2022 |  Data Acquisition            |          [🤔**main paper**](https://arxiv.org/abs/2205.12654)<br />[additional readings](#data)            | 	Ahmad Wali (engineer),<br />Daniel Sava (author),<br />Iordăchescu Anca (reviwer)                                                       |
 |08| 25. Nov. 2022 |  Language and Translation Models,<br />Smoothing,<br />Beam Search            |         TBA             |     Stan Flavius (author),<br />Bazavan Cristian (engineer),<br />Blăgescu Alex (reviewer),<br /> Stegarescu Ana (visionary)                                                       |
@@ -158,6 +158,7 @@ Being present at all the presentations will account for 1 bonus point at the end
 - [Aligned segments from unclean parallel data](http://nl.ijs.si/jtdh20/pdf/JT-DH_2020_Popovic-et-al_Extracting-correctly-aligned-segments-from-unclean-parallel-data-using-character-n-gram-matching.pdf), 2020
 - [Comparison of GIZA++ vs. Neural Word Alignment](https://aclanthology.org/2020.acl-main.146.pdf), 2020
 - [Mining Using Distilled Sentence](https://arxiv.org/abs/2205.12654), 2022, [LASER](https://github.com/facebookresearch/LASER)
+- [MT for the next 1000 Lang](https://arxiv.org/pdf/2205.03983.pdf), 2022
 - [**Lab Notebook:** Using LASER](https://colab.research.google.com/drive/1UP-LxZdaAii7WrUw13GGblhMfas-WRLL?usp=sharing)
 
 
