@@ -256,6 +256,7 @@ Being present at all the presentations will account for 1 bonus point at the end
 <a name="soviet"></a>
 ## Back to the future
 - [Shannon's Autoregressive Language Models](https://sci-hub.se/10.1002/j.1538-7305.1951.tb01366.x), 1950
+- [Statistical Methods and Linguistics](http://www.vinartus.net/spa/95c.pdf), 1995
 - [The Future of MT, seen from 1985](https://aclanthology.org/J85-1001.pdf)
 - [MT in the USSR, 1984](https://www.jstor.org/stable/30199988?seq=1#metadata_info_tab_contents)
 - [Soviet MT overview, Gordin, 2020](https://static1.squarespace.com/static/5275adb7e4b0298e6ac6bc86/t/5ef3eb6693fc2660294da7e2/1593043815386/Gordin-SovietMT.pdf)
