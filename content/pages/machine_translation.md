@@ -29,6 +29,18 @@ tr:nth-child(even) {
     - [Project template](https://www.overleaf.com/read/zbfqccgqcbrx)
 - [Bibliography](#bibliography)
 
+<!--
+- [Statistical Machine Translation & Language Models](#smt)
+- [Evaluation](#eval)
+- [Data Collection, Alignment](#data)
+- [Neural MT with RNNs](#neural)
+- [Neural MT with CNNs](#neural_cnn)
+- [Tokenizers](#tokenizers)
+- [Neural MT with Transformers](#trans)
+- [Neural MT with Diffusion Models](#diffusion)
+- [Back to the future](#soviet)
+- [Other Courses](#courses)
+-->
 
 <a name="schedule"></a>
 # **Schedule of MT classes 2022**
@@ -142,6 +154,7 @@ Being present at all the presentations will account for 1 bonus point at the end
 - [chrF++](https://aclanthology.org/W15-3049/), 2015
 - [Comparison of metrics, Formicheva & Specia](https://aclanthology.org/J19-3004.pdf), 2018
 - [A Call for Clarity in Reporting BLEU Scores](https://aclanthology.org/W18-6319/), 2018, [sacre bleu](https://github.com/mjpost/sacrebleu)
+- [Good translation wrong in context](https://aclanthology.org/P19-1116/), 2019
 - [BERTScore](https://arxiv.org/pdf/1904.09675.pdf), 2020
 - [Scientific Credibility](https://arxiv.org/pdf/2106.15195.pdf), 2021
 - [COMET](https://aclanthology.org/2020.emnlp-main.213/), [more recent paper](https://arxiv.org/abs/2202.05148) 2022 
@@ -194,7 +207,8 @@ Being present at all the presentations will account for 1 bonus point at the end
 - [Byte-Pair Encoding](https://aclanthology.org/P16-1162/), 2015
 - [Sentence Piece](https://aclanthology.org/D18-2012.pdf), 2018
 - [Subword Regularization](https://aclanthology.org/P18-1007/), 2018
-
+- [BPE Dropout](https://aclanthology.org/2020.acl-main.170/), 2020
+- [**Lab Tutorial:**](https://colab.research.google.com/drive/188kcihidA2i3MbPhKW5lDLqoJDIjvSWT?usp=sharing), [sentencepiece only](https://colab.research.google.com/github/google/sentencepiece/blob/master/python/sentencepiece_python_module_example.ipynb)
 
 <a name="trans"></a>
 ## Neural MT with Transformers
@@ -262,7 +276,12 @@ Being present at all the presentations will account for 1 bonus point at the end
 - [Soviet MT overview, Gordin, 2020](https://static1.squarespace.com/static/5275adb7e4b0298e6ac6bc86/t/5ef3eb6693fc2660294da7e2/1593043815386/Gordin-SovietMT.pdf)
 - [Survey of MT in USSR, 2010](https://sci-hub.se/10.1080/0907676X.1997.9961304)
 
-
+<a name="courses"></a>
+## Other Courses
+- [Charles University, Czech Republic](https://ufal.mff.cuni.cz/courses/npfl087#lectures)
+- [Johns Hopkins University](http://mt-class.org/jhu/index.html)
+- [University of Pennsylvania](http://mt-class.org/penn/syllabus.html)
+- [Tartu Ülikool](https://courses.cs.ut.ee/2022/mt/spring/Main/HomePage)
 
 
 
