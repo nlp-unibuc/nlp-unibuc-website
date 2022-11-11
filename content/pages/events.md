@@ -4,9 +4,10 @@ Title: Events
 
 # Invited speakers and special guests at the master's programme.
 
+- 14 November, 2022, 16:00, room 12, ground floor [Andrea Sgarro](https://www.dmi.units.it/~sgarro/) (University of Trieste, Italy): **To the boundaries of syntactic prehistory through a maze of languages**
+
+
 - 6 October, 2022, 18:00, room 220, 2nd floor [Bogdan Iordache]: **On the Influence of Financial News on the Stock Market Trend**
-
-
 
 - 24 November, 2021, 18:00.  [Rada Mihalcea](https://web.eecs.umich.edu/~mihalcea/) (University of Michigan): **The Ups and Downs of Word Embeddings**, [Online access here](https://zoom.us/j/7765926114).
 
