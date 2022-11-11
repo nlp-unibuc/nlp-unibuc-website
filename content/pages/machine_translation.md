@@ -55,7 +55,7 @@ tr:nth-child(even) {
 |05|  4. Nov. 2022 | Teaching         |  [reading](#trans)<br />[\*Step-by-step debug](https://github.com/pbloem/former/)                    |                                                            |
 |06| 11. Nov. 2022 |  Human and<br />Automatic Evaluation<br />Metrics     |           [🤔**main paper**](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00437/108866/Experts-Errors-and-Context-A-Large-Scale-Study-of)<br />additional readings<br />[BERTScore](https://arxiv.org/pdf/1904.09675.pdf),<br />[WMT2020 Metrics](https://aclanthology.org/2020.wmt-1.77.pdf),<br />[Significance](https://aclanthology.org/D14-1020.pdf)         |     Rebeca Oprea (engineer),<br />Teodor Dumitrescu (author),<br />Chiruț Veronica (reviewer)                                                       |     
 |07| <del>18.</del> 22 Nov. 2022 (room 119) |  Data Acquisition            |          [🤔**main paper**](https://arxiv.org/abs/2205.12654)<br />additional **important** readings<br />[training LASER](https://aclanthology.org/Q19-1038/)<br />[teacher-student](https://aclanthology.org/2020.emnlp-main.365.pdf)<br />[references](#data)            | 	Ahmad Wali (engineer),<br />Daniel Sava (author),<br />Iordăchescu Anca (reviwer)                                                       |
-|08| 25. Nov. 2022 |  Language and Translation Models,<br />Smoothing,<br />Beam Search            |         TBA             |     Stan Flavius (author),<br />Bazavan Cristian (engineer),<br />Blăgescu Alex (reviewer),<br /> Stegarescu Ana (visionary)                                                       |
+|08| 25. Nov. 2022 |  Language and Translation Models,<br />Smoothing,<br />Beam Search            |         [🤔**main paper**](https://aclanthology.org/P18-1007/)<br />additional readings<br />[BPE dropout](https://aclanthology.org/2020.acl-main.170/)<br /> references<br />[language models](#smt), [tokenizers](#tokenizers)             |     Stan Flavius (author),<br />Bazavan Cristian (engineer),<br />Blăgescu Alex (reviewer),<br /> Stegarescu Ana (visionary)                                                       |
 |09|  <del>2.</del> 8. Dec. 2022 |  Neural MT,<br />Vocabulary,<br />Attention,<br />Multilingualilty |          TBA           |     Ranete Cristian (reviewer),<br />Nedelcu Mihai (visionary),<br />Ilicea Anca (author),<br />Mărilă Mircea (engineer)                                                       |
 |10|  9. Dec. 2022 |  Tokenizers,<br />Transformers,<br />T5,<br />Multilinguality                |      TBA                |     Bleoţiu Eugen (visionary),<br />Antal Mihaela (reviewer),<br />Istrati Lucian (engineer),<br />Dăscălescu Dana (author)                                                      |
 |11| 16. Dec. 2022 |  Diffusion Models<br />(tentative)                |         TBA             |     Zăvelcă Miruna (engineer),<br />Lazăr Dorian (author),<br />Creanga Claudiu (reviewer),<br />Aldea Gabriela (visionary)                                                       |
@@ -139,8 +139,9 @@ Being present at all the presentations will account for 1 bonus point at the end
 ## Statistical Machine Translation & Language Models
 - [\*Bayes from Scratch](https://allendowney.github.io/ThinkBayes2/)
 - [\*Kevin Knight's Workbook](https://kevincrawfordknight.github.io/papers/wkbk.pdf)
+- [\*Lena Voita's explanations on LM](https://lena-voita.github.io/nlp_course/language_modeling.html)
 - [Koehn's SMT book](https://3lib.net/book/1271436/711d48) (SMT from scratch)
-- [Knesser-Ney smoothing](https://sci-hub.se/10.1109/ICASSP.1995.479394), 1995
+- [Knesser-Ney smoothing](https://sci-hub.se/10.1109/ICASSP.1995.479394), 1995, [\*tutorial](http://www.foldl.me/2014/kneser-ney-smoothing/)
 - [Och's PhD thesis](https://publications.rwth-aachen.de/record/58741/files/58741.pdf#page=22), 2002
 - [Mathematics of SMT](https://aclanthology.org/J93-2003.pdf), 2003
 - [N-gram Language Models, Jurafsky, SLP](https://web.stanford.edu/~jurafsky/slp3/3.pdf)
@@ -206,9 +207,10 @@ Being present at all the presentations will account for 1 bonus point at the end
 - [\*Byte Pair Encoding](https://leimao.github.io/blog/Byte-Pair-Encoding/)
 - [\*Tokenizers](https://blog.floydhub.com/tokenization-nlp/)
 - [\*Understanding Sentencepiece](https://jacky2wong.medium.com/understanding-sentencepiece-under-standing-sentence-piece-ac8da59f6b08)
-- [Byte-Pair Encoding](https://aclanthology.org/P16-1162/), 2015
-- [Sentence Piece](https://aclanthology.org/D18-2012.pdf), 2018
-- [Subword Regularization](https://aclanthology.org/P18-1007/), 2018
+- [Byte-Pair Encoding Compression](http://www.pennelynn.com/Documents/CUJ/HTML/94HTML/19940045.HTM), 1994
+- [Byte-Pair Encoding Tokenization](https://aclanthology.org/P16-1162/), 2015
+- [Unigram LM Tokenizer](https://aclanthology.org/P18-1007/), 2018
+- [sentencepiece](https://aclanthology.org/D18-2012.pdf), 2018
 - [BPE Dropout](https://aclanthology.org/2020.acl-main.170/), 2020
 - [**Lab Tutorial:**](https://colab.research.google.com/drive/188kcihidA2i3MbPhKW5lDLqoJDIjvSWT?usp=sharing), [sentencepiece only](https://colab.research.google.com/github/google/sentencepiece/blob/master/python/sentencepiece_python_module_example.ipynb)
 
@@ -254,7 +256,7 @@ Being present at all the presentations will account for 1 bonus point at the end
 
 ### Extra Readings on Machine Translation
 - [Synchronous Bidirectional Beam Search](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00256/43504/Synchronous-Bidirectional-Neural-Machine), 2019 
-- [Specialized Heads Do the Heavy Lifting](https://aclanthology.org/P19-1580/), [code](https://github.com/lena-voita/the-story-of-heads) 2019
+- [Specialized Heads Do the Heavy Lifting](https://aclanthology.org/P19-1580/), [code](https://github.com/lena-voita/the-story-of-heads), [tutorial](https://lena-voita.github.io/posts/acl19_heads.html) 2019
 - [Gender Bias in MT](https://aclanthology.org/P19-1164/), 2019
 - [MT Domain Robustness](https://aclanthology.org/2020.amta-research.14/), 2019
 - [Fixed Encoder Self-Attention Patterns](https://aclanthology.org/2020.findings-emnlp.49.pdf), 2020
@@ -272,6 +274,7 @@ Being present at all the presentations will account for 1 bonus point at the end
 <a name="soviet"></a>
 ## Back to the future
 - [Shannon's Autoregressive Language Models](https://sci-hub.se/10.1002/j.1538-7305.1951.tb01366.x), 1950
+- [ALPAC report](https://nap.nationalacademies.org/resource/alpac_lm/ARC000005.pdf), 1966, summary [here](https://blog.pangeanic.com/alpac-report)
 - [Statistical Methods and Linguistics](http://www.vinartus.net/spa/95c.pdf), 1995
 - [The Future of MT, seen from 1985](https://aclanthology.org/J85-1001.pdf)
 - [MT in the USSR, 1984](https://www.jstor.org/stable/30199988?seq=1#metadata_info_tab_contents)
@@ -280,12 +283,12 @@ Being present at all the presentations will account for 1 bonus point at the end
 
 <a name="courses"></a>
 ## Other Courses
-- [Charles University, Czech Republic](https://ufal.mff.cuni.cz/courses/npfl087#lectures)
-- [Johns Hopkins University](http://mt-class.org/jhu/index.html)
-- [University of Pennsylvania](http://mt-class.org/penn/syllabus.html)
-- [Tartu Ülikool](https://courses.cs.ut.ee/2022/mt/spring/Main/HomePage)
-
-
+- [MT at Charles University](https://ufal.mff.cuni.cz/courses/npfl087#lectures)
+- [MT at Johns Hopkins University](http://mt-class.org/jhu/index.html)
+- [MT at University of Pennsylvania](http://mt-class.org/penn/syllabus.html)
+- [MT at Tartu Ülikool](https://courses.cs.ut.ee/2022/mt/spring/Main/HomePage)
+- [Lena Voita's NLP Course](https://lena-voita.github.io/nlp_course)
+- [Alfredon Canziani's Deep Learning Course](https://atcold.github.io/didactics.html)
 
 
 
