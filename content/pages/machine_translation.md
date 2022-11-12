@@ -214,9 +214,9 @@ Being present at all the presentations will account for 1 bonus point at the end
 - [BPE Dropout](https://aclanthology.org/2020.acl-main.170/), 2020
 - [**Lab Tutorial:**](https://colab.research.google.com/drive/188kcihidA2i3MbPhKW5lDLqoJDIjvSWT?usp=sharing), [sentencepiece only](https://colab.research.google.com/github/google/sentencepiece/blob/master/python/sentencepiece_python_module_example.ipynb)
 
+
 <a name="trans"></a>
-## Neural MT with Transformers
-### \*Tutorials
+## \*Transformers - Tutorials
 - [Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
 - [Lena Voita's Tutorial](https://lena-voita.github.io/nlp_course/seq2seq_and_attention.html#transformer_intro)
 - [The Annotated Transformer](http://nlp.seas.harvard.edu/annotated-transformer/)
@@ -228,48 +228,59 @@ Being present at all the presentations will account for 1 bonus point at the end
 - [Transformer for people outside NLP](https://data-science-blog.com/blog/2020/12/30/transformer/)
 - [E2ML School Tutorial](https://e2eml.school/transformers.html)
 
-### Essential Readings
+## Transformers - Essential Readings
 - [Attention is all you Need](https://arxiv.org/pdf/1706.03762.pdf), 2017
 - [BERT](https://aclanthology.org/N19-1423.pdf), 2019
 - [GPT-2](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf), 2019
 - [WMT2021 Baselines and Models](https://aclanthology.org/2021.wmt-1.1.pdf#page=34), 2021
 - [**\*Models in huggingface**](https://huggingface.co/docs/transformers/index)
 
-### Extra Readings on Transformers
+
+## Other Transformer Models 
 - [GPT-3](https://papers.nips.cc/paper/2020/hash/1457c0d6bfcb4967418bfb8ac142f64a-Abstract.html), 2020, [open gpt flavors](https://www.eleuther.ai/)
 - [ELECTRA](https://openreview.net/forum?id=r1xMH1BtvB), 2019, [hgfce](https://huggingface.co/docs/transformers/main/en/model_doc/electra)
 - [RoBERTa](https://aclanthology.org/2021.ccl-1.108/), 2019, [hgfce](https://huggingface.co/docs/transformers/main/en/model_doc/roberta)
 - [BART](https://aclanthology.org/2020.acl-main.703/), 2020, [hgfce](https://huggingface.co/docs/transformers/main/en/model_doc/bart)
 - [mBART](https://aclanthology.org/2020.tacl-1.47.pdf), 2020, [hgfce](https://huggingface.co/docs/transformers/main/en/model_doc/mbart)
 - [\*Reformer](https://ai.googleblog.com/2020/01/reformer-efficient-transformer.html), 2020, [hgfce](https://huggingface.co/docs/transformers/main/en/model_doc/reformer)
-- [What Works Best for Zero-Shot](https://proceedings.mlr.press/v162/wang22u.html), 2022
 - [T5](https://jmlr.org/papers/v21/20-074.html), 2020, [hgfce](https://huggingface.co/docs/transformers/main/en/model_doc/t5#overview), [hgfce](https://huggingface.co/docs/transformers/main/en/model_doc/t5)
 - [M2M-100](https://jmlr.csail.mit.edu/papers/volume22/20-1307/20-1307.pdf), 2021, [model](https://huggingface.co/facebook/m2m100_1.2B), [hgfce](https://huggingface.co/docs/transformers/main/en/model_doc/m2m_100)
 - [**Lab Tutorial:** T5](https://goo.gle/t5-colab)
 
-### Machine Translation Frameworks
+## Machine Translation Frameworks
 - [Marian MT](https://aclanthology.org/P18-4020/), 2018
 - [OpenNMT](https://opennmt.net/publications/), 2017
 - [fairseq](https://aclanthology.org/N19-4009.pdf), 2019
 - [JoeyNMT](https://aclanthology.org/D19-3019v1.pdf), 2019
 - [Huggingface seq2seq](https://huggingface.co/docs/transformers/main/en/model_summary#sequencetosequence-models)
 
-### Extra Readings on Machine Translation
-- [Synchronous Bidirectional Beam Search](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00256/43504/Synchronous-Bidirectional-Neural-Machine), 2019 
-- [Specialized Heads Do the Heavy Lifting](https://aclanthology.org/P19-1580/), [code](https://github.com/lena-voita/the-story-of-heads), [tutorial](https://lena-voita.github.io/posts/acl19_heads.html) 2019
+## Extra Readings on Machine Translation
 - [Gender Bias in MT](https://aclanthology.org/P19-1164/), 2019
 - [MT Domain Robustness](https://aclanthology.org/2020.amta-research.14/), 2019
 - [Fixed Encoder Self-Attention Patterns](https://aclanthology.org/2020.findings-emnlp.49.pdf), 2020
 - [Translationese](https://aclanthology.org/2020.acl-main.691.pdf), 2020
 - [Character-level NMT](https://aclanthology.org/2020.acl-main.145.pdf), 2021
-- [Why Beam Search Works](https://aclanthology.org/2020.emnlp-main.170/), 2021
 
+
+## Recent / Interesting Research
+- [Synchronous Bidirectional Beam Search](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00256/43504/Synchronous-Bidirectional-Neural-Machine), 2019 
+- [Specialized Heads Do the Heavy Lifting](https://aclanthology.org/P19-1580/), [code](https://github.com/lena-voita/the-story-of-heads), [tutorial](https://lena-voita.github.io/posts/acl19_heads.html) 2019
+- [Transformer Circuits](https://transformer-circuits.pub/2021/framework/index.html), 2021
+- [Why Beam Search Works](https://aclanthology.org/2020.emnlp-main.170/), 2021
+- [What Works Best for Zero-Shot](https://proceedings.mlr.press/v162/wang22u.html), 2022
+- [Contrastive Text Generation](https://openreview.net/pdf?id=V88BafmH9Pj), 2022, [code](https://github.com/yxuansu/SimCTG)
+- [Induction Heads](https://arxiv.org/abs/2209.11895), 2022
+- [Wide Attention vs Depth](https://arxiv.org/abs/2210.00640), 2022
+- [The 48 params of BERT](https://arxiv.org/abs/2205.11380), 2022
+- [Mixture of Experts](https://arxiv.org/pdf/2112.10684.pdf), 2022
+- [The Importance of Attention](https://arxiv.org/abs/2211.03495), 2022
 
 <a name="diffusion"></a>
 ## Neural MT with Diffusion Models
 - [Translation with DM](https://arxiv.org/abs/2111.01471), 2021
 - [Text Generation](https://openreview.net/pdf?id=T0GpzBQ1Fg6), 2021
 - [DiffuSeq](https://arxiv.org/abs/2210.08933), 2022
+
 
 <a name="soviet"></a>
 ## Back to the future
