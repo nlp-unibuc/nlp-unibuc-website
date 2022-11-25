@@ -53,12 +53,12 @@ tr:nth-child(even) {
 |03| 21. Oct. 2022 | Teaching         |  [reading](#eval)<br />[MT metrics(video)](https://slideslive.com/38924201/1-metrics-of-mt-quality)                |                                                            | 
 |04| 28. Oct. 2022 | Teaching         |  [reading](#neural)<br />[\*Seq2seq Models Tutorial](https://lena-voita.github.io/nlp_course/seq2seq_and_attention.html)                    |                                                            |
 |05|  4. Nov. 2022 | Teaching         |  [reading](#trans)<br />[\*Step-by-step debug](https://github.com/pbloem/former/)                    |                                                            |
-|06| 11. Nov. 2022 |  Human and<br />Automatic Evaluation<br />Metrics     |           [🤔**main paper**](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00437/108866/Experts-Errors-and-Context-A-Large-Scale-Study-of)<br />additional readings<br />[BERTScore](https://arxiv.org/pdf/1904.09675.pdf),<br />[WMT2020 Metrics](https://aclanthology.org/2020.wmt-1.77.pdf),<br />[Significance](https://aclanthology.org/D14-1020.pdf)         |     Rebeca Oprea (engineer),<br />Teodor Dumitrescu (author),<br />Chiruț Veronica (reviewer)                                                       |     
-|07| <del>18.</del> 22 Nov. 2022 (room 119, at 10:00) |  Data Acquisition            |          [🤔**main paper**](https://arxiv.org/abs/2205.12654)<br />additional **important** readings<br />[training LASER](https://aclanthology.org/Q19-1038/)<br />[teacher-student](https://aclanthology.org/2020.emnlp-main.365.pdf)<br />[references](#data)            | 	Ahmad Wali (engineer),<br />Daniel Sava (author),<br />Iordăchescu Anca (reviwer)                                                       |
-|08| 25. Nov. 2022 |  Language Models,<br />Translation Models,<br />Tokenizers            |         [🤔**main paper**](https://aclanthology.org/P18-1007/)<br />additional readings<br />[BPE dropout](https://aclanthology.org/2020.acl-main.170/)<br /> references<br />[language models](#smt), [tokenizers](#tokenizers)             |     Stan Flavius (author),<br />Bazavan Cristian (engineer),<br />Blăgescu Alex (reviewer),<br /> Stegarescu Ana (visionary)                                                       |
-|09|  <del>2.</del> 8. Dec. 2022 (room 119, at 12:00) |  Neural MT,<br />Attention,<br />Multilingualilty |          TBA           |     Ranete Cristian (reviewer),<br />Nedelcu Mihai (visionary),<br />Ilicea Anca (author),<br />Mărilă Mircea (engineer)                                                       |
-|10|  9. Dec. 2022 |  Tokenizers,<br />Transformers,<br />T5,<br />Multilinguality                |      TBA                |     Bleoţiu Eugen (visionary),<br />Antal Mihaela (reviewer),<br />Istrati Lucian (engineer),<br />Dăscălescu Dana (author)                                                      |
-|11| 16. Dec. 2022 |  Diffusion Models<br />(tentative)                |         TBA             |     Zăvelcă Miruna (engineer),<br />Lazăr Dorian (author),<br />Creanga Claudiu (reviewer),<br />Aldea Gabriela (visionary)                                                       |
+|06| 11. Nov. 2022 |  Human and<br />Automatic Evaluation<br />Metrics                                     |         [🤔**main paper**](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00437/108866/Experts-Errors-and-Context-A-Large-Scale-Study-of)<br />additional readings<br />[BERTScore](https://arxiv.org/pdf/1904.09675.pdf),<br />[WMT2020 Metrics](https://aclanthology.org/2020.wmt-1.77.pdf),<br />[Significance](https://aclanthology.org/D14-1020.pdf)         |     Rebeca Oprea (engineer),<br />Teodor Dumitrescu (author),<br />Chiruț Veronica (reviewer)                                                       |     
+|07| <del>18.</del> 22 Nov. 2022 (room 119, at 10:00) |  Data Acquisition                                  |         [🤔**main paper**](https://arxiv.org/abs/2205.12654)<br />additional **important** readings<br />[training LASER](https://aclanthology.org/Q19-1038/)<br />[teacher-student](https://aclanthology.org/2020.emnlp-main.365.pdf)<br />[references](#data)            | 	Ahmad Wali (engineer),<br />Daniel Sava (author),<br />Iordăchescu Anca (reviwer)                                                       |
+|08| 25. Nov. 2022 |  Language Models,<br />Translation Models,<br />Tokenizers                            |         [🤔**main paper**](https://aclanthology.org/P18-1007/)<br />additional readings<br />[BPE dropout](https://aclanthology.org/2020.acl-main.170/)<br /> references<br />[language models](#smt), [tokenizers](#tokenizers)             |     Stan Flavius (author),<br />Bazavan Cristian (engineer),<br />Blăgescu Alex (reviewer),<br /> Stegarescu Ana (visionary)                                                       |
+|09|  <del>2.</del> 8. Dec. 2022 (room 119, at 12:00) |  Neural MT,<br />Attention,<br />Multilingualilty  |         [🤔**main paper**](https://arxiv.org/pdf/1706.03762.pdf)<br />additional readings<br />[Annotated Transformer](http://nlp.seas.harvard.edu/annotated-transformer/),<br /> [Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/),<br /> [Lena Voita's Tutorial](https://lena-voita.github.io/nlp_course/seq2seq_and_attention.html#transformer_intro)        |     Ranete Cristian (reviewer),<br />Nedelcu Mihai (visionary),<br />Ilicea Anca (author),<br />Mărilă Mircea (engineer)                                                       |
+|10|  9. Dec. 2022 |  Tokenizers,<br />Transformers,<br />Explainability                                   |         [🤔**main paper**](https://aclanthology.org/P19-1580/)<br />additional readings<br />[Visualizing Attention](https://arxiv.org/pdf/1904.02679.pdf),<br />[Quantifying Attention Flow in Transformers](https://arxiv.org/pdf/2005.00928.pdf)     |     Bleoţiu Eugen (visionary),<br />Antal Mihaela (reviewer),<br />Zăvelcă Miruna (engineer),<br />Dăscălescu Dana (author)                                                      |
+|11| 16. Dec. 2022 |  Diffusion Models<br />(tentative)                |         TBA             |     Istrati Lucian (engineer),<br />Lazăr Dorian (author),<br />Creanga Claudiu (reviewer),<br />Aldea Gabriela (visionary)                                                       |
 |12| 23. Dec. 2022 | Projects 🌲      |                      |                                                            |
 |13| 13. Jan. 2023 | Projects         |                      |                                                            |
 |14| 20. Jan. 2023 | Projects         |                      |                                                            |
@@ -135,12 +135,37 @@ Being present at all the presentations will account for 1 bonus point at the end
 
 \* blog posts, tutorials, visual explanations 
 
+<a name="prereqs"></a>
+## General ML concepts: blogs, tutorials, beginner level
+- [Linear Algebra](https://codingthematrix.com)
+- [Multivariate Calculus](https://www.khanacademy.org/math/multivariable-calculus/)
+- [Probability Course](https://www.probabilitycourse.com/chapter1/1_4_4_conditional_independence.php)
+- [Beautiful Visualizations - Proba and Stats](https://seeing-theory.brown.edu)
+- [Bayesian Statistics](https://allendowney.github.io/ThinkBayes2/)
+- [Count Bayes Blog](https://www.countbayesie.com/all-posts)
+- [Five Minutes Stats](https://stephens999.github.io/fiveMinuteStats/index.html)
+- [Expectation Maximization (EM) Foundations](https://www.lri.fr/~sebag/COURS/EM_algorithm.pdf)
+- [EM for Gaussian Mixture Models](https://towardsdatascience.com/gaussian-mixture-models-explained-6986aaf5a95)
+- [Hidden Markov Models, EM, and Viterbi](https://web.stanford.edu/~jurafsky/slp3/A.pdf)
+- [Information Theory, Entropy, KL-Divergence](https://colah.github.io/posts/2015-09-Visual-Information/)
+- [Monte Carlo / Metropolis](https://www.algorithm-archive.org/contents/monte_carlo_integration/monte_carlo_integration.html)
+- [DS Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
+
+
+## General ML concepts: books
+- [Pattern Recognition And Machine Learning](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf) - huge book of the early 2000s, excellent coverage of probability distributions, graphical models, Bayesian inference
+- [Statistical Foundations of ML](https://gianluca.bontempi.web.ulb.be//mod_stoch/syl.pdf) - course syllabus, good coverage of probabilities, statistical tests, general treatment of ML methods
+- [Information Theory, Inference, and Learning Algorithms](https://www.inference.org.uk/itprnn/book.pdf) - huge book of the early 2000s, excellent coverage of information theory and probabilistic inference
+- [Math for ML](https://mml-book.github.io/) - when you want to start from the very basics of algebra, geometry, calculus, probabilities
+- [Probabilistic Machine Learning Book 1,2,3](https://probml.github.io/pml-book/) - excellent coverage of foundations, and more advanced topics (like diffusion models)
+- [Deep Learning Book](https://www.deeplearningbook.org) - good place to understand neural networks
+
+
 <a name="smt"></a>
 ## Statistical Machine Translation & Language Models
-- [\*Bayes from Scratch](https://allendowney.github.io/ThinkBayes2/)
 - [\*Kevin Knight's Workbook](https://kevincrawfordknight.github.io/papers/wkbk.pdf)
 - [\*Lena Voita's explanations on LM](https://lena-voita.github.io/nlp_course/language_modeling.html)
-- [Koehn's SMT book](https://3lib.net/book/1271436/711d48) (SMT from scratch)
+- [Koehn's SMT book](https://www2.statmt.org/book/) (SMT from scratch)
 - [Knesser-Ney smoothing](https://sci-hub.se/10.1109/ICASSP.1995.479394), 1995, [\*tutorial](http://www.foldl.me/2014/kneser-ney-smoothing/)
 - [Och's PhD thesis](https://publications.rwth-aachen.de/record/58741/files/58741.pdf#page=22), 2002
 - [Mathematics of SMT](https://aclanthology.org/J93-2003.pdf), 2003
@@ -210,7 +235,7 @@ Being present at all the presentations will account for 1 bonus point at the end
 - [Byte-Pair Encoding Compression](http://www.pennelynn.com/Documents/CUJ/HTML/94HTML/19940045.HTM), 1994
 - [Byte-Pair Encoding Tokenization](https://aclanthology.org/P16-1162/), 2015
 - [Unigram LM Tokenizer](https://aclanthology.org/P18-1007/), 2018
-- [sentencepiece](https://aclanthology.org/D18-2012.pdf), 2018
+- [sentencepiece library](https://aclanthology.org/D18-2012.pdf), 2018, [code](https://github.com/google/sentencepiece/)
 - [BPE Dropout](https://aclanthology.org/2020.acl-main.170/), 2020
 - [**Lab Tutorial:**](https://colab.research.google.com/drive/188kcihidA2i3MbPhKW5lDLqoJDIjvSWT?usp=sharing), [sentencepiece only](https://colab.research.google.com/github/google/sentencepiece/blob/master/python/sentencepiece_python_module_example.ipynb)
 
@@ -247,6 +272,14 @@ Being present at all the presentations will account for 1 bonus point at the end
 - [M2M-100](https://jmlr.csail.mit.edu/papers/volume22/20-1307/20-1307.pdf), 2021, [model](https://huggingface.co/facebook/m2m100_1.2B), [hgfce](https://huggingface.co/docs/transformers/main/en/model_doc/m2m_100)
 - [**Lab Tutorial:** T5](https://goo.gle/t5-colab)
 
+
+## Transformers and Explainability
+- [Visualizing Attention](https://arxiv.org/pdf/1904.02679.pdf), 2019
+- [Is Attention Interpretable?](https://aclanthology.org/P19-1282/), 2019
+- [Quantifying Attention Flow in Transformers](https://arxiv.org/pdf/2005.00928.pdf), 2020
+- [Transformer Interpretability Beyond Attention](https://openaccess.thecvf.com/content/CVPR2021/papers/Chefer_Transformer_Interpretability_Beyond_Attention_Visualization_CVPR_2021_paper.pdf), 2021, [code](https://github.com/hila-chefer/Transformer-Explainability)
+
+
 ## Machine Translation Frameworks
 - [Marian MT](https://aclanthology.org/P18-4020/), 2018
 - [OpenNMT](https://opennmt.net/publications/), 2017
@@ -277,6 +310,7 @@ Being present at all the presentations will account for 1 bonus point at the end
 
 <a name="diffusion"></a>
 ## Neural MT with Diffusion Models
+- [\*Energy-based Models](https://energy-based-model.github.io/Energy-based-Model-MIT/#Home)
 - [Translation with DM](https://arxiv.org/abs/2111.01471), 2021
 - [Text Generation](https://openreview.net/pdf?id=T0GpzBQ1Fg6), 2021
 - [DiffuSeq](https://arxiv.org/abs/2210.08933), 2022
@@ -300,8 +334,8 @@ Being present at all the presentations will account for 1 bonus point at the end
 - [MT at Tartu Ülikool](https://courses.cs.ut.ee/2022/mt/spring/Main/HomePage)
 - [Lena Voita's NLP Course](https://lena-voita.github.io/nlp_course)
 - [Alfredon Canziani's Deep Learning Course](https://atcold.github.io/didactics.html)
-
-
+- [Anil Damle and Kilian Weinberger's intro to ML Course](https://www.cs.cornell.edu/courses/cs4780/2021fa/)
+- Some also in the [prerequisites](#prereqs)
 
 
 
