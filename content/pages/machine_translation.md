@@ -58,7 +58,7 @@ tr:nth-child(even) {
 |08| 25. Nov. 2022 |  Language Models,<br />Translation Models,<br />Tokenizers                            |         [🤔**main paper**](https://aclanthology.org/P18-1007/)<br />additional readings<br />[BPE dropout](https://aclanthology.org/2020.acl-main.170/)<br /> references<br />[language models](#smt), [tokenizers](#tokenizers)             |     Stan Flavius (author),<br />Bazavan Cristian (engineer),<br />Blăgescu Alex (reviewer),<br /> Stegarescu Ana (visionary)                                                       |
 |09|  <del>2.</del> 8. Dec. 2022 (room 119, at 12:00) |  Neural MT,<br />Attention,<br />Multilingualilty  |         [🤔**main paper**](https://arxiv.org/pdf/1706.03762.pdf)<br />additional readings<br />[Annotated Transformer](http://nlp.seas.harvard.edu/annotated-transformer/),<br /> [Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/),<br /> [Lena Voita's Tutorial](https://lena-voita.github.io/nlp_course/seq2seq_and_attention.html#transformer_intro)        |     Ranete Cristian (reviewer),<br />Nedelcu Mihai (visionary),<br />Ilicea Anca (author),<br />Mărilă Mircea (engineer)                                                       |
 |10|  9. Dec. 2022 |  Tokenizers,<br />Transformers,<br />Explainability                                   |         [🤔**main paper**](https://aclanthology.org/P19-1580/)<br />additional readings<br />[Visualizing Attention](https://arxiv.org/pdf/1904.02679.pdf),<br />[Quantifying Attention Flow in Transformers](https://arxiv.org/pdf/2005.00928.pdf)     |     Bleoţiu Eugen (visionary),<br />Antal Mihaela (reviewer),<br />Zăvelcă Miruna (engineer),<br />Dăscălescu Dana (author)                                                      |
-|11| 16. Dec. 2022 |  Diffusion Models<br />(tentative)                |         TBA             |     Istrati Lucian (engineer),<br />Lazăr Dorian (author),<br />Creanga Claudiu (reviewer),<br />Aldea Gabriela (visionary)                                                       |
+|11| 16. Dec. 2022 |  <del> Diffusion Models </del>  ChatGPT                                               |         [🤔**main paper**](https://openai.com/blog/instruction-following/)<br />additional readings<br />[ChatGPT](https://openai.com/blog/chatgpt/)<br />[RLHF](https://openai.com/blog/deep-reinforcement-learning-from-human-preferences/)<br />[BLOOM📖](https://arxiv.org/pdf/2211.05100.pdf)<br />[Galactica](https://galactica.org/static/paper.pdf)          |     Istrati Lucian📖 (engineer),<br />Lazăr Dorian (author),<br />Creanga Claudiu (reviewer),<br />Aldea Gabriela (visionary)                                                       |
 |12| 23. Dec. 2022 | Projects 🌲      |                      |                                                            |
 |13| 13. Jan. 2023 | Projects         |                      |                                                            |
 |14| 20. Jan. 2023 | Projects         |                      |                                                            |
@@ -136,7 +136,7 @@ Being present at all the presentations will account for 1 bonus point at the end
 \* blog posts, tutorials, visual explanations 
 
 <a name="prereqs"></a>
-## General ML concepts: blogs, tutorials, beginner level
+## Prerequisites: general ML concepts, blogs, tutorials
 - [Linear Algebra](https://codingthematrix.com)
 - [Multivariate Calculus](https://www.khanacademy.org/math/multivariable-calculus/)
 - [Probability Course](https://www.probabilitycourse.com/chapter1/1_4_4_conditional_independence.php)
@@ -145,14 +145,14 @@ Being present at all the presentations will account for 1 bonus point at the end
 - [Count Bayes Blog](https://www.countbayesie.com/all-posts)
 - [Five Minutes Stats](https://stephens999.github.io/fiveMinuteStats/index.html)
 - [Expectation Maximization (EM) Foundations](https://www.lri.fr/~sebag/COURS/EM_algorithm.pdf)
-- [EM for Gaussian Mixture Models](https://towardsdatascience.com/gaussian-mixture-models-explained-6986aaf5a95)
+- [EM for Gaussian Mixture Models](https://stackoverflow.com/questions/11808074/what-is-an-intuitive-explanation-of-the-expectation-maximization-technique/43561339#43561339)
 - [Hidden Markov Models, EM, and Viterbi](https://web.stanford.edu/~jurafsky/slp3/A.pdf)
 - [Information Theory, Entropy, KL-Divergence](https://colah.github.io/posts/2015-09-Visual-Information/)
 - [Monte Carlo / Metropolis](https://www.algorithm-archive.org/contents/monte_carlo_integration/monte_carlo_integration.html)
 - [DS Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 
 
-## General ML concepts: books
+## Prerequisites, general ML concepts, books
 - [Pattern Recognition And Machine Learning](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf) - huge book of the early 2000s, excellent coverage of probability distributions, graphical models, Bayesian inference
 - [Statistical Foundations of ML](https://gianluca.bontempi.web.ulb.be//mod_stoch/syl.pdf) - course syllabus, good coverage of probabilities, statistical tests, general treatment of ML methods
 - [Information Theory, Inference, and Learning Algorithms](https://www.inference.org.uk/itprnn/book.pdf) - huge book of the early 2000s, excellent coverage of information theory and probabilistic inference
@@ -232,6 +232,7 @@ Being present at all the presentations will account for 1 bonus point at the end
 - [\*Byte Pair Encoding](https://leimao.github.io/blog/Byte-Pair-Encoding/)
 - [\*Tokenizers](https://blog.floydhub.com/tokenization-nlp/)
 - [\*Understanding Sentencepiece](https://jacky2wong.medium.com/understanding-sentencepiece-under-standing-sentence-piece-ac8da59f6b08)
+- [\*EM, Viterbi, Unigram LM](https://everdark.github.io/k9/notebooks/ml/natural_language_understanding/subword_units/subword_units.nb.html)
 - [Byte-Pair Encoding Compression](http://www.pennelynn.com/Documents/CUJ/HTML/94HTML/19940045.HTM), 1994
 - [Byte-Pair Encoding Tokenization](https://aclanthology.org/P16-1162/), 2015
 - [Unigram LM Tokenizer](https://aclanthology.org/P18-1007/), 2018
