@@ -1,7 +1,7 @@
 ﻿Title: Liviu P. Dinu 
 Slug: people/liviu
 
-<a href="#FundedProjects">Funded Research Projects</a> &nbsp; &nbsp;  <a href="#Publications">Publications</a> &nbsp; &nbsp; <a href="#PhDStudents">PhD Students</a> &nbsp; &nbsp; <a href="#Courses">Courses</a>  &nbsp; &nbsp; <a href="#Contact">Contact</a> <img src="/images/marcus_liviu.jpg" alt="Solomon Marcus and Liviu Dinu" style="width: 200px;float: right;"/>
+<a href="#FundedProjects">Funded Research Projects</a> &nbsp;  <a href="#Publications">Publications</a> &nbsp;  <a href="#PhDStudents">PhD Students</a> &nbsp;  <a href="#Courses">Courses</a>  &nbsp; <a href="#Contact">Contact</a> &nbsp; <a href="../papers/CV-LPDinu-Dec2022.pdf">CV</a> <img src="/images/marcus_liviu.jpg" alt="Solomon Marcus and Liviu Dinu" style="width: 200px;float: right;"/>
 
 # Bio
 
