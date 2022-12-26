@@ -1,14 +1,28 @@
 Title: Sergiu Nisioi 
 Slug: people/snisioi
 
-## About
+## Hello!
 
-- I am currently an Assistant Professor within the Faculty of Mathematics and Computer Science, University of Bucharest
-- my research seeks to understand human language through computational processes, covering topics from psycholinguistics, computational learning theory, machine translation, and text simplification.
-- I'm also interested in sound art, algorithmic compositions, DSP, and modular synthesizers: noize maker as part of [godwana sound project](https://soundcloud.com/godwana_noise), diy ecological research for [chlorophylla.live]( https://chlorophylla.live), and part of [HYPHA.ro](https://hypha.ro/).
+I am currently an Assistant Professor within the Faculty of Mathematics and Computer Science, University of Bucharest.
+
+My work is related to connected areas of computational linguistics, covering topics such as psycholinguistics, computational learning theory, machine translation, and text simplification. In addition to academic research, for the past ten years I have been deploying machine learning pipelines at scale.
+
+I'm also interested in sound art, algorithmic compositions, DSP, and modular synthesizers: noize maker as part of [godwana sound project](https://soundcloud.com/godwana_noise), diy ecological research for [chlorophylla.live]( https://chlorophylla.live), and part of [HYPHA.ro](https://hypha.ro/).
 
 
-### Selected publications
+## Teaching activities
+- [Machine Translation](https://nlp.unibuc.ro/machine_translation.html) role-play course for NLP Master's students
+- [Computer Networks](https://github.com/senisioi/computer-networks) materials using docker and scapy
+
+
+## Contact details
+- room 203, Faculty of Mathematics and Computer Science, University of Bucharest, 14 Academiei Street, Sector 1, 010014, Bucharest, Romania
+- email: [sergiu nisioi at fmi . unibuc . ro](mailto:sergiu.nisioi@fmi.unibuc.ro)
+
+
+
+
+## Selected publications
 - Štajner S, Nisioi S, Hulpuș I, **CoCo: A tool for automatically assessing conceptual complexity of texts**, LREC, 2020, [git](https://github.com/ioanahulpus/cocospa/)
 - Abassi S El, Nisioi S, **MDD@ AMI: Vanilla Classifiers for Misogyny Identification**, EVALITA 2020, [pdf](http://ceur-ws.org/Vol-2765/paper149.pdf)
 - Štajner S, Nisioi S, **A detailed evaluation of neural sequence-to-sequence models for in-domain and cross-domain text simplification**, LREC, 2018, [pdf](https://www.aclweb.org/anthology/L18-1479.pdf)
@@ -23,12 +37,4 @@ Slug: people/snisioi
 - Nisioi, S.: **Feature analysis for native language identification**, CICLing, 2015, [preprint](/papers/nisioi15a.pdf)
 - Nisioi, S.: **On the syllabic structures of Aromanian**, LaTeCH, 2014, [pdf](https://www.aclweb.org/anthology/W/W14/W14-0616.pdf)
 - Nisioi, S. and Dinu, L.P.: **A clustering approach for translationese identification**, RANLP, 2013, [pdf](http://www.aclweb.org/anthology/R13-1070)
-
-## Teaching activities
-- Computer Networks lab materials using docker and scapy, check them out [here](https://github.com/senisioi/computer-networks)
-
-
-## Contact details
-- Faculty of Mathematics and Computer Science, University of Bucharest, 14 Academiei Street, Sector 1, 010014, Bucharest, Romania
-- email: [sergiu nisioi at fmi . unibuc . ro](mailto:sergiu.nisioi@fmi.unibuc.ro)
 
