@@ -23,6 +23,8 @@ I'm also interested in sound art, algorithmic compositions, DSP, and modular syn
 
 
 ## Selected publications
+- Ceausu C, Nisioi S, **Identifying Draft Bills Impacting Existing Legislation: a Case Study on Romanian**, LREC, 2022, [git](https://github.com/senisioi/rolegal)
+- Nisioi S, Uban AS, Dinu LP, **Identifying Source-Language Dialects in Translation**, Natural Language Processing (NLP) and Machine Learning (ML)—Theory and Applications, 10 (9), 1431, [git](https://github.com/senisioi/dialectal_varieties)
 - Štajner S, Nisioi S, Hulpuș I, **CoCo: A tool for automatically assessing conceptual complexity of texts**, LREC, 2020, [git](https://github.com/ioanahulpus/cocospa/)
 - Abassi S El, Nisioi S, **MDD@ AMI: Vanilla Classifiers for Misogyny Identification**, EVALITA 2020, [pdf](http://ceur-ws.org/Vol-2765/paper149.pdf)
 - Štajner S, Nisioi S, **A detailed evaluation of neural sequence-to-sequence models for in-domain and cross-domain text simplification**, LREC, 2018, [pdf](https://www.aclweb.org/anthology/L18-1479.pdf)
