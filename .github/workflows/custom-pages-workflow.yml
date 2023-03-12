@@ -30,8 +30,7 @@ jobs:
       - name: Setup Pages
         uses: actions/configure-pages@v3
       - name: Build with python
-        run: | 
-            apt-get update && apt-get install -y  python3 python3-pip make git
+        run: |
             pip install -r requirements.txt
             make html
             mv output _site
