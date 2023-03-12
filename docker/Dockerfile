@@ -1,21 +1,13 @@
-FROM ubuntu:18.04
+FROM ubuntu:22.04
 
-MAINTAINER Sergiu Nisioi <sergiu.nisioi@fmi.unibuc.ro>
 
-USER root
+RUN apt-get update && apt-get install -y  python3 python3-pip make git
 
-RUN apt-get update 
-RUN apt-get install -y build-essential git
+# RUN git clone --recurse-submodules https://github.com/nlp-unibuc/nlp-unibuc-website.git
+COPY . /nlp-unibuc-website
 
-RUN mkdir /home/nlp
-USER nlp
-ADD . /home/nlp/nlp-unibuc-website
-WORKDIR /home/nlp/nlp-unibuc-website
+WORKDIR /nlp-unibuc-website
 
-RUN git submodule init
-RUN git submodule update
-RUN git remote add deploy https://github.com/nlp-unibuc/nlp-unibuc.github.io.git
-RUN git config remote.deploy.push deploy:master
-RUN pip3 install -r requirements.txt
+RUN pip install -r requirements.txt
 
-# TODO...
+RUN make html

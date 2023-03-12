@@ -4,6 +4,8 @@ Title: Events
 
 # Invited speakers and special guests at the master's programme.
 
+- NitroNLP hackathon, tutorials and conference 20-26 March:  [https://nitronlp.rocks/schedule](https://nitronlp.rocks/schedule)
+
 - 14 November, 2022, 16:00, room 12, ground floor [Andrea Sgarro](https://www.dmi.units.it/~sgarro/) (University of Trieste, Italy): **To the boundaries of syntactic prehistory through a maze of languages**
 
 

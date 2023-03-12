@@ -1,4 +1,4 @@
-version: '2.1'
+version: '3.8'
 
 services:
     nlp:
@@ -6,5 +6,8 @@ services:
             context: docker
             dockerfile: Dockerfile
         volumes:
-            - .:/elocal
+            - .:/nlp-unibuc-website
+        ports:
+            - 8000:8000
+        command: "make serve"
         tty: true
