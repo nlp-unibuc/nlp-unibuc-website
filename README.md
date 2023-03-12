@@ -3,6 +3,11 @@ nlp-unibuc website source
 
 Source code for generating our static website.
 
+- ghp-import is no longer needed; we are currently running a github action that does auto-deploy
+- one can simply change the markdown files, push, and the changes will be visible
+
+## How to test changes locally
+
 You need [Pelican](http://blog.getpelican.com/) and [typogrify](https://pypi.python.org/pypi/typogrify) in order to generate the pages.
 ```
    pip3 install -r requirements.txt
@@ -38,6 +43,17 @@ The output directory contains the generated website.
    make serve
 ```
 
+## Test changes locally with docket
+
+1. install docker and docker compose
+
+2. run docker compose up
+
+3. check your changes on localhost:8000
+
+
+## Pushing changes to the reposotory
+
 
 4. Push the changes in the source repo
 
@@ -48,14 +64,10 @@ The output directory contains the generated website.
    git push origin master   # push to master branch
 ```
 
-5. Push the changes online:
 
-```bash
-   python3 -m ghp_import -r deploy -b gh-pages --force -p output/
 
-   # if make is available
-   make github
-```
+
+
 
 6. Visit http://nlp-unibuc.github.io and enjoy your new changes!
 
