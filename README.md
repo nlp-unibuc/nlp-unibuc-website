@@ -43,13 +43,13 @@ The output directory contains the generated website.
    make serve
 ```
 
-## Test changes locally with docket
+## Test changes locally with docker
 
-1. install docker and docker compose
+1. install `docker` and `docker compose`
 
-2. run docker compose up
+2. run `docker compose up`
 
-3. check your changes on localhost:8000
+3. check your changes on [http://localhost:8000](http://localhost:8000)
 
 
 ## Pushing changes to the reposotory
