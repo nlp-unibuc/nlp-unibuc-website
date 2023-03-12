@@ -11,8 +11,8 @@ I'm also interested in sound art, algorithmic compositions, DSP, and modular syn
 
 
 ## Teaching activities
-- [Machine Translation](https://nlp.unibuc.ro/machine_translation.html) role-play course for NLP Master's students
-- [Computer Networks](https://github.com/senisioi/computer-networks) course materials using docker and scapy
+- [Machine Translation](https://nlp.unibuc.ro/machine_translation.html) role-play course for NLP Master's students;
+- [Computer Networks](https://github.com/senisioi/computer-networks) course materials using docker and scapy;
 
 
 ## Contact details
