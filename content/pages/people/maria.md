@@ -4,7 +4,6 @@ Slug: people/maria
 
 ## Bio
 - 8th grade, Spiru Haret high school 🌋🎹
-- 2nd grade, Martisor school
 - kindergarden graduated
 
 ## Recent conferences
