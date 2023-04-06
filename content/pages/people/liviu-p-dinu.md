@@ -83,10 +83,7 @@ Approaches to Semantic Change. Berlin: Language Science Press, 2021.
 3. Ana Sabina Uban, Alina Maria Cristea, Anca Dinu, Liviu P. Dinu, Simona Georgescu, Laurentiu Zoicas, 2021. Tracking Semantic Change in Cognate Sets for English and Romance Languages. In Proc. 2nd International Workshop on Computational Approaches to Historical Language Change 2021 (co-locatted with ACL-IJCNLP 2021), Online.
 4. Ana-Maria Bucur, Marcos Zampieri and Liviu P. Dinu, 2021. An Exploratory Analysis of the Relation between Offensive Language and Mental Health. In Proc. of The Joint Conference of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing: Findings (ACL-IJCNLP Findings 2021), Online.
 5. Ana Sabina Uban, Cornelia Caragea, and Liviu Dinu. 2021. Studying the Evolution of Scientific Topics and their Relationships. In: Proceedings of The Joint Conference of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing: Findings (ACL-IJCNLP Findings 2021), Online.
-6. Alina Maria Cristea, Liviu P. Dinu, Simona Georgescu, Mihnea-Lucian Mihai and Ana Sabina Uban,
-2021. Automatic Discrimination between Inherited and Borrowed Latin Words in Romance Languages
-In: Proceedings of 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP
-2021- Findings), p. 2845-2855, Punta Cana, Dominican Republic, noiembrie 7-11, 2021.
+6. Alina Maria Cristea, Liviu P. Dinu, Simona Georgescu, Mihnea-Lucian Mihai and Ana Sabina Uban, 2021. Automatic Discrimination between Inherited and Borrowed Latin Words in Romance Languages In: Proceedings of 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP 2021- Findings), p. 2845-2855, Punta Cana, Dominican Republic, noiembrie 7-11, 2021.
 7. Liviu P. Dinu, Ioan-Bogdan Iordache, Ana Sabina Uban and Marcos Zampieri, 2021. A Computational
 Exploration of Pejorative Language in Social Media. In: Proceedings of 2021 Conference on Empirical
 Methods in Natural Language Processing (EMNLP 2021-Findings), p.3493-3498, Punta Cana,
