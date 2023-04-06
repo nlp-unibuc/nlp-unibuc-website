@@ -13,6 +13,7 @@ Slug: people/maria
 ## Research interest
 
 - piano, drums, ballet, painting, Italian, English, swimming, ski.
+- films: [The School For Good And Evil- Capră Ana Cătălina și Dinu Maria](https://youtu.be/HyCwBRQdvI0)
 
 
 
