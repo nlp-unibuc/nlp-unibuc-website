@@ -40,10 +40,7 @@ User-Level Classification of Depression and Gambling Disorder. In Proceedings CL
 Notes), CEUR proceedings, vol. 3180, p. 851-863, Bologna, Italia, september 5-8, 2022
 2. Alina Cristea, Anca Dinu, Liviu P Dinu, Simona Georgescu, Ana Uban, Laurentiu Zoicas, 2022.
 CoToHiLi: Computational Tools for Historical Linguistics. In Proceedings of the Annual Conference of
-the Spanish Association for Natural Language Processing: Projects and Demonstrations (SEPLN-PD
-2022) co-located with the 38th Conference of the Spanish Society for Natural Language Processing
-(SEPLN 2022), CEUR workshop proceedings, vol 3224, p. 31-34, A Coruña, Spania, Septembrie 21-
-23, 2022.
+the Spanish Association for Natural Language Processing: Projects and Demonstrations (SEPLN-PD2022) co-located with the 38th Conference of the Spanish Society for Natural Language Processing (SEPLN 2022), CEUR workshop proceedings, vol 3224, p. 31-34, A Coruña, Spania, Septembrie 21-23, 2022.
 3. Andrei Manea, Liviu P Dinu, 2022. UniRetro at PoliticEs@IberLef 2022: Political Ideology
 Profiling using Language Models. In Proceedings of the Iberian Languages Evaluation Forum
 (IberLEF 2022), co-located with the Conference of the Spanish Society for Natural Language Processing
