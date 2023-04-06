@@ -7,7 +7,7 @@ Slug: people/liviu
 
 - Professor, [Faculty of Mathematics and Computer Science](http://fmi.unibuc.ro/ro/), Computer Science Department, University of
 Bucharest.
-- Honorarry president of Romanian Linguistics Olympics „Solomon Marcus”
+- Honorarry president of Romanian Linguistics Olympics „Solomon Marcus” (2018-2020)
 - Director, [Human Language Technologies Research Center](http://nlp.unibuc.ro/), University of
 Bucharest
 - Dr. habil. (2014), PhD. (2003, supervisor Solomon Marcus) and Bachelors (1994), Faculty of Mathematics
@@ -29,6 +29,53 @@ for more, visit [dblp](http://dblp.uni-trier.de/pers/hc/d/Dinu:Liviu_P=), [schol
 
 # <a name="Papers"></a> Papers:
 
+## 2023
+1. Ana Maria Bucur, Adrian Cosma, Paolo Rosso, Liviu P Dinu, 2023. It's Just a Matter of Time: Detecting
+Depression with Time-Enriched Multimodal Transformers. In Proceedings ECIR 2023 (The 45th
+European Conference on Information Retrieval (ECIR) ), Dublin, Ireland, 2-6 April 2023
+
+## 2022
+1. Ana Maria Bucur, Adrian Cosma, Liviu P Dinu, Paolo Rosso, 2022. An End-to-End Set Transformer for
+User-Level Classification of Depression and Gambling Disorder. In Proceedings CLEF 2022 (Working
+Notes), CEUR proceedings, vol. 3180, p. 851-863, Bologna, Italia, september 5-8, 2022
+2. Alina Cristea, Anca Dinu, Liviu P Dinu, Simona Georgescu, Ana Uban, Laurentiu Zoicas, 2022.
+CoToHiLi: Computational Tools for Historical Linguistics. In Proceedings of the Annual Conference of
+the Spanish Association for Natural Language Processing: Projects and Demonstrations (SEPLN-PD
+2022) co-located with the 38th Conference of the Spanish Society for Natural Language Processing
+(SEPLN 2022), CEUR workshop proceedings, vol 3224, p. 31-34, A Coruña, Spania, Septembrie 21-
+23, 2022.
+3. Andrei Manea, Liviu P Dinu, 2022. UniRetro at PoliticEs@IberLef 2022: Political Ideology
+Profiling using Language Models. In Proceedings of the Iberian Languages Evaluation Forum
+(IberLEF 2022), co-located with the Conference of the Spanish Society for Natural Language Processing
+(SEPLN 2022), CEUR workshop proceedings, vol 3202, A Coruña, Spania, 20 Septembrie 2022.
+4. Alina Maria Cristea, Anca Dinu, Liviu P. Dinu, Simona Georgescu, Ana Sabina Uban and Laurențiu
+Zoicaș, 2022. CoToHiLi at LSCDiscovery: the Role of Linguistic Features in Predicting Semantic
+Change. In Proc. Lexical Semantic Change Discovery in Spanish (Shared task) co-located with ACL 3rd
+International Workshop on Computational Approaches to Historical Language Change 2022, pages 187
+– 192, Dublin, Ireland, Mai 26-27, 2022,
+5. Alina Maria Cristea, Anca Dinu, Liviu P. Dinu, Simona Georgescu, Ana Sabina Uban and Laurențiu
+Zoicaș, 2022. A semantic change time-lapse for Romance languages and English.The25th International
+Conference on Historical Linguistics (ICHL25), Oxford, UK, 1-5 august 2022 (abstract, oral presentation).
+6. Alina Maria Cristea, Anca Dinu, Liviu P. Dinu, Simona Georgescu, Ana Sabina Uban and Laurențiu
+Zoicaș, 2022. Computational approaches for protoword reconstruction. The 25th International
+Conference on Historical Linguistics (ICHL25), Oxford, UK, 1-5 august 2022 (abstract, oral presentation).
+7. Alexandra Ciobotaru, Mihai Vlad Constantinescu, Liviu P. Dinu and Ștefan Dumitrescu, 2022. RED v2:
+Enhancing RED Dataset for Multi-Label Emotion Detection. 13th Conference on Language Resources
+and Evaluation (LREC 2022), p. 1392-1399, Marseille, France, 20-25 iunie 2022.
+8. Ioan-Bogdan Iordache, Ana Sabina Uban, Cătălin Stoean and Liviu P. Dinu, 2022. Investigating the
+Relationship Between Romanian Financial News and Closing Prices from the Bucharest Stock Exchange.
+13th Conference on Language Resources and Evaluation (LREC 2022), p. 5130-5136, Marseille, France,
+20-25 iunie 2022.
+9. Ana-Maria Bucur, Adrian Cosma and Liviu P. Dinu, 2022. Life is not Always Depressing: Exploring the
+Happy Moments of People Diagnosed with Depression. 13th Conference on Language Resources and
+Evaluation (LREC 2022), p. 4186- 4192, Marseille, France, 20-25 iunie 2022.
+10. Ștefan Cobeli, Ioan-Bogdan Iordache, Shweta Yadav, Cornelia Caragea, Liviu P. Dinu and Dragoș
+Iliescu, 2022. Detecting Optimism in Tweets using Knowledge Distillation and Linguistic Analysis of
+Optimism. 13th Conference on Language Resources and Evaluation (LREC 2022), p. 2032-2041,
+Marseille, France, 20-25 iunie 2022.
+11. Sergiu Nisioi, Ana Sabina Uban and Liviu P. Dinu, 2022. Identifying Source-language Dialects in
+Translation. Mathematics 2022, 10(9), Special Issue on Natural Language Processing (NLP) and
+Machine Learning (ML) - Theory and Applications, 2022.
 
 ## 2021
 
@@ -39,6 +86,34 @@ Approaches to Semantic Change. Berlin: Language Science Press, 2021.
 3. Ana Sabina Uban, Alina Maria Cristea, Anca Dinu, Liviu P. Dinu, Simona Georgescu, Laurentiu Zoicas, 2021. Tracking Semantic Change in Cognate Sets for English and Romance Languages. In Proc. 2nd International Workshop on Computational Approaches to Historical Language Change 2021 (co-locatted with ACL-IJCNLP 2021), Online.
 4. Ana-Maria Bucur, Marcos Zampieri and Liviu P. Dinu, 2021. An Exploratory Analysis of the Relation between Offensive Language and Mental Health. In Proc. of The Joint Conference of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing: Findings (ACL-IJCNLP Findings 2021), Online.
 5. Ana Sabina Uban, Cornelia Caragea, and Liviu Dinu. 2021. Studying the Evolution of Scientific Topics and their Relationships. In: Proceedings of The Joint Conference of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing: Findings (ACL-IJCNLP Findings 2021), Online.
+6. Alina Maria Cristea, Liviu P. Dinu, Simona Georgescu, Mihnea-Lucian Mihai and Ana Sabina Uban,
+2021. Automatic Discrimination between Inherited and Borrowed Latin Words in Romance Languages
+In: Proceedings of 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP
+2021- Findings), p. 2845-2855, Punta Cana, Dominican Republic, noiembrie 7-11, 2021.
+7. Liviu P. Dinu, Ioan-Bogdan Iordache, Ana Sabina Uban and Marcos Zampieri, 2021. A Computational
+Exploration of Pejorative Language in Social Media. In: Proceedings of 2021 Conference on Empirical
+Methods in Natural Language Processing (EMNLP 2021-Findings), p.3493-3498, Punta Cana,
+Dominican Republic, noiembrie 7-11, 2021.
+8. Ana-Maria Bucur, Adrian Cosma, Liviu P Dinu, 2021. Sequence-to-Sequence Lexical Normalization
+with Multilingual Transformers. In Proceedings of the 7th Workshop on Noisy User-generated Text
+(WNUT 2021, co-located with EMNLP 2021), p. 473-482, Punta Cana, Dominican Republic, noiembrie
+7-11, 2021.
+9. Ioana R. Podină, Ana-Maria Bucur, Diana Todea, Liviu Fodor, Andreea Luca, Liviu P. Dinu and Rareș
+Boian, 2021. Natural language processing as a tool to identify the Reddit particularities of cancer
+survivors around the time of diagnosis and remission: A pilot study. In The Fifth Widening NLP
+Workshop -WiNLP 2021 (co-locatted with EMNLP 2021), p. 21-24, Punta Cana, Dominican Republic,
+noiembrie 7-11, 2021.
+10. Alina Maria Cristea, Anca Dinu, Liviu P. Dinu, Simona Georgescu, Ana Sabina Uban and Laurențiu
+Zoicaș, 2021. Towards an Etymological Map of Romanian. In Proceedings of Recent Advances in
+Natural Language Processing (RANLP 2021), pages 315-324, septembrie 1–3, 2021.
+11. Alexandra Ciobotaru and Liviu P. Dinu, 2021. RED: A Novel Dataset for Romanian Emotion Detection
+from Tweets. In Proceedings of Recent Advances in Natural Language Processing (RANLP 2021), pages
+291–301, septembrie 1–3, 2021.
+12. Ana-Maria Bucur, Ioana R. Podină, Liviu P Dinu, 2021. A Psychologically Informed Part-of-Speech
+Analysis of Depression in Social Media, 2021. In Proceedings of Recent Advances in Natural Language
+Processing (RANLP 2021), pages 199–207 septembrie 1–3, 2021.
+13. Ana-Maria Bucur, Adrian Cosma and Liviu Dinu, 2021. Early Risk Detection of Pathological Gambling,
+Self-Harm and Depression Using BERT. In Proc. CLEF 2021, p. 938-949, online, 2021.
 
 ## 2020
 
@@ -501,7 +576,8 @@ commission 2.
 
 # <a name="PhDStudents"></a> PhD Students:
 - Join me as a PhD student in computational linguistics, natural language processing, information processing, or in computer science.
-- 7 PhD (Alina Maria Cristea (Ciobanu), Laura Franzoi, Sergiu Nisioi, Maria Octavia Sulea, Ana Uban, Bogdan Dumitru, Andrei Butnaru), 3 ongoing PhD students (Cristina Moise, Daniela Onita, Ana-Maria Bucur).
+- 7 PhD (Alina Maria Cristea (Ciobanu), Laura Franzoi, Sergiu Nisioi, Maria Octavia Sulea, Ana Uban, Bogdan Dumitru, Andrei Butnaru);
+-  Ongoing PhD students: Cristina Moise, Daniela Onita, Alexandra Ciobotaru, Teodor Marchitan, Andrei Hiji (at Computer Science Doctoral School), Ana-Maria Bucur, Andreea Moldovan, Dorin Cucicov, Casiana Fusu (at Interdisciplinary Doctoral School-ISDS).
 
 # <a name="Courses"></a> Courses:
 Prezentări pentru cursuri:
