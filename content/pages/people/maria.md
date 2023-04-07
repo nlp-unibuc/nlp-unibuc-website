@@ -16,5 +16,5 @@ Slug: people/maria
 - films: [The School For Good And Evil- Capră Ana Cătălina și Dinu Maria](https://youtu.be/HyCwBRQdvI0)
 
 ## Essays (in Romanian)
-- [Pofta buna si somn usor!](https://online.fliphtml5.com/hhxls/fgwb/#p=7). In Caietele SPIRUtuale, nr. 4 (decembrie 2022-februarie 2023), Stresul in viata adolescentilor, coordonator Camelia Sapoiu, p. 4-5
+- [Pofta buna si somn usor!](https://online.fliphtml5.com/hhxls/fgwb/#p=7) In Caietele SPIRUtuale, nr. 4 (decembrie 2022-februarie 2023), [Stresul in viata adolescentilor](https://online.fliphtml5.com/hhxls/fgwb/#p=1), coordonator Camelia Sapoiu, p. 4-5.
 
