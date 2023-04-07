@@ -51,6 +51,43 @@ To achieve this goal, the following activities were planned and executed:
 - Harmonization of identified resources
 - Dissemination
 
+#Project objective for 2022: Identificarea imprumuturilor si reconstructia protocuvintelor#
+
+To achieve this goal, the following activities were planned and executed:
+
+ **Activity 2.1:Proiectarea și construcția bazei de date a cuvintelor împrumutate pentru limbile romanice**
+
+- proiectarea bazei de date a cuvintelor împrumutate
+- identificarea perechilor împrumutate
+- analiza lingvistică a datelor obtinute,
+- eliminarea zgomotului
+- obținerea formei fonetice pentru limbile italiană, spaniolă, română
+- diseminare
+
+ **Activity 2.2: Analiza, proiectarea și dezvoltarea unor instrumente asistate de computer pentru
+detectarea împrumuturilor**
+- analiza și proiectarea metodelor adecvate
+- identificarea celor mai buni parametri
+- testarea, evaluarea, îmbunătățirea rezultatelor
+- diseminare
+
+**Activity 2.3: Analiza resurselor existente și proiectarea unora adecvate pentru reconstrucția
+proto-cuvintelor latinești**
+
+- studiu asupra resurselor existente
+- armonizarea resurselor existente
+- proiectarea unor resurse noi, adecvate problemei de cercetare
+- diseminare
+
+**Activity 2.4: Analiza, proiectarea și dezvoltarea unor instrumente asistate de computer pentru
+detectarea proto-cuvintelor latinești**
+
+- analiza și proiectarea resurselor asistate de computer adecvate
+- identificarea celor mai bune metode și a celor mai buni parametri
+- testarea, evaluarea, îmbunătățirea rezultatelor
+- analiza unor ansamble pentru eficientizarea rezultatelor
+- diseminare
+
 # Articles
 
 1. Alina Maria Cristea, Anca Dinu, Liviu P. Dinu, Simona Georgescu, Ana Sabina Uban, Laurențiu Zoicaș, 2022.
