@@ -18,3 +18,6 @@ Slug: people/maria
 ## Essays (in Romanian)
 - [Pofta buna si somn usor!](https://online.fliphtml5.com/hhxls/fgwb/#p=7) In Caietele SPIRUtuale, nr. 4 (decembrie 2022-februarie 2023), [Stresul in viata adolescentilor](https://online.fliphtml5.com/hhxls/fgwb/#p=1), coordonator Camelia Sapoiu, p. 4-5.
 
+## Awards
+
+- first prize, National Olympiad of Linguistics "Solomon Marcus", 2021, 6-th grade (100 points from 100)
