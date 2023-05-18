@@ -4,13 +4,6 @@ Title: Events
 
 # Invited speakers and special guests
 
-**Update:**
-
-One-click zoom meeting: https://oracle.zoom.us/j/4697505451?pwd=dGV5TC81S2xLVS9GZ0lHSGptNkhHQT09
-Meeting ID: 469 750 5451
-Password: 12345678
-
-
 - 15 May, 2023, 16:00. [Ella Rabinovich](https://scholar.google.com/citations?user=x154woMAAAAJ&hl=en), room: 215, second floor, [online access](mailto:sergiu.nisioi@unibuc.ro): **Fifty Shades of Grey: Exploration of the Usage of Color Terms by Color-blind Participants in Online Discussion Platforms**
 
 **Abstract**: Prominent questions about the role of sensory vs. linguistic input in the way we acquire and use language have been extensively studied in the psycholinguistic literature. However, the relative effect of various factors in a person's overall experience on their linguistic system remains unclear. We study this question by making a step forward towards a better understanding of the conceptual perception of colors by color-blind individuals, as reflected in their spontaneous linguistic productions. Using a novel and carefully curated dataset, we show that red-green color-blind speakers use the "red" and "green" color terms in less predictable contexts, and in linguistic environments evoking mental image to a lower extent, when compared to their normal-sighted counterparts. These findings shed some new and interesting light on the role of sensory experience on our linguistic system.
