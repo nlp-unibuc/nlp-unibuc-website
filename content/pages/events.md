@@ -4,11 +4,10 @@ Title: Events
 
 # Invited speakers and special guests
 
--25 May, 2023, 18.00. Invited talk: Jesus Serrano Guerrero, University of Castilla-La Mancha, Spain, Wednesday, May 24 • 18:00 – 19:00 (Ro time, EET)
+- Wednesday, May 24, 2023, 18:00 – 19:00 (Ro time, EET): Jesus Serrano Guerrero, University of Castilla-La Mancha, Spain, Wednesday
 
 Title: Fuzzy logic and Opinion Mining.
 
-Wednesday, May 24 • 18:00 – 19:00 (Ro time, EET)
 Hybride presentation.
 On site:  Titeica Hall, (3rd floor), Faculty of Mathematics and Computer Science, University of Bucharest, Academiei 14, Bucharest
 
