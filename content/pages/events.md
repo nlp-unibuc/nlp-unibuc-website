@@ -4,6 +4,30 @@ Title: Events
 
 # Invited speakers and special guests
 
+-25 May, 2023, 18.00. Invited talk: Jesus Serrano Guerrero, University of Castilla-La Mancha, Spain, Wednesday, May 24 • 18:00 – 19:00 (Ro time, EET)
+
+Title: Fuzzy logic and Opinion Mining.
+
+Wednesday, May 24 • 18:00 – 19:00 (Ro time, EET)
+Hybride presentation.
+On site:  Titeica Hall, (3rd floor), Faculty of Mathematics and Computer Science, University of Bucharest, Academiei 14, Bucharest
+
+Online:
+Google Meet Video call link: https://meet.google.com/xsu-ubfg-osn
+The event will take place as part of the Solomon Marcus HLT research seminars and NLP master, University of Bucharest (https://nlp.unibuc.ro/master_en.html). 
+
+Details: https://nlp.unibuc.ro/events.html
+
+
+
+**Abstract**: Fuzzy logic and Opinion Mining
+
+
+In the last few years, many publications have appeared in the field of Sentiment Analysis and Opinion Mining. Many solutions of these tasks of these fields are based on Soft Computing techniques, primarily leaded by Deep Learning at the present moment. But there are others which still resort to the use of the classic techniques such as Fuzzy logic. This talk will present a short summary of some of the main points where researchers are using fuzzy logic to deal with typical classic Sentiment Analysis tasks.
+
+**Short bio**
+Jesús Serrano-Guerrero is an associate professor of the university of Castilla-La Mancha (Spain). He obtained his doctorate under the supervision of José Angel Olivas, professor of the same university and awarded doctor honoris causa by the university of La Plata (Argentina). His research topics are focused on the different applications of artificial intelligence on fields such as information retrieval, recommender systems or sentiment analysis among others. Especially, in this last topic, he has several publications and special issues on topic-tier journals with highly-cited researchers such as Enrique Herrera-Viedma, Francisco Chiclana or Erik Cambria. Furthermore, he is usual reviewer of many journal (Information Sciences, Knowledge-based Systems, Information Processing and Management ….) and serves on the editorial boards of the Journals such as Applied Soft Computing or Frontiers on Artificial Intelligence.
+
 - 15 May, 2023, 16:00. [Ella Rabinovich](https://scholar.google.com/citations?user=x154woMAAAAJ&hl=en), room: 215, second floor, [online access](mailto:sergiu.nisioi@unibuc.ro): **Fifty Shades of Grey: Exploration of the Usage of Color Terms by Color-blind Participants in Online Discussion Platforms**
 
 **Abstract**: Prominent questions about the role of sensory vs. linguistic input in the way we acquire and use language have been extensively studied in the psycholinguistic literature. However, the relative effect of various factors in a person's overall experience on their linguistic system remains unclear. We study this question by making a step forward towards a better understanding of the conceptual perception of colors by color-blind individuals, as reflected in their spontaneous linguistic productions. Using a novel and carefully curated dataset, we show that red-green color-blind speakers use the "red" and "green" color terms in less predictable contexts, and in linguistic environments evoking mental image to a lower extent, when compared to their normal-sighted counterparts. These findings shed some new and interesting light on the role of sensory experience on our linguistic system.
