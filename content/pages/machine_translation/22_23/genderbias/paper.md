@@ -1,0 +1,1092 @@
+Title: Gender Bias in Machine Translation: a Survey
+Slug: machine_translation/22_23/genderbias
+
+<!DOCTYPE html><html lang="en">
+<head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<title>Gender Bias in Machine Translation: a Survey 1st Semester of 2022-2023</title>
+<!--Generated on Fri May 26 20:42:44 2023 by LaTeXML (version 0.8.7) http://dlmf.nist.gov/LaTeXML/.-->
+
+<link rel="stylesheet" href="LaTeXML.css" type="text/css">
+<link rel="stylesheet" href="ltx-article.css" type="text/css">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+</head>
+<body>
+<div class="ltx_page_main">
+<div class="ltx_page_content">
+<article class="ltx_document ltx_authors_1line">
+<h1 class="ltx_title ltx_title_document" style="font-size:90%;">
+1st Semester of 2022-2023</h1>
+<div class="ltx_authors">
+<span class="ltx_creator ltx_role_author">
+<span class="ltx_personname">Dana Dăscălescu 
+<br class="ltx_break"><span class="ltx_text ltx_font_typewriter">dana.dascalescu</span> 
+<br class="ltx_break"> and <br \> Miruna-Andreea Zăvelcă 
+<br class="ltx_break"><span class="ltx_text ltx_font_typewriter">miruna.zavelca</span> 
+<br class="ltx_break">
+<span class="ltx_text ltx_font_typewriter">@s.unibuc.ro</span>
+</span></span>
+</div>
+
+<div class="ltx_abstract">
+<h6 class="ltx_title ltx_title_abstract">Abstract</h6>
+    
+<p class="ltx_p">Detrimental effects of gender bias on the translation quality of machine translation systems have been shown in numerous studies. Consequently, identifying, reducing, and evaluating gender bias in machine translation systems has become a current area of interest in natural language processing. In this survey, we give a comprehensive review of articles and their reproducibility on gender bias in machine translation, including their theoretical and practical contributions. First, we identify and describe three generic approaches for eliminating gender bias from translations. Then, we present a multi-perspective categorization of several approaches for evaluating neural machine translation systems before they reach production, as well as the importance of ensuring that detrimental biases are eliminated prior to being shown to the end user. Finally, we discuss the current limitations of eliminating gender bias and envision several promising directions for future research. Our code is available on <a href="https://github.com/danadascalescu00/FMI/tree/master/MT/FinalProject" title="" class="ltx_ref ltx_href">GitHub</a>.</p>
+  
+</div>
+<section id="S1" class="ltx_section">
+<h2 class="ltx_title ltx_title_section">
+<span class="ltx_tag ltx_tag_section">1 </span>Introduction</h2>
+
+<div id="S1.p1" class="ltx_para">
+<p class="ltx_p">Due to the increasing demand for multilingual communication and real-time translations, data availability, technological advancements that lead to cost-effectiveness and speed, and its applicability in several areas, machine translation has become a rapidly growing field. Despite the many breakthroughs in the domain, these systems are still highly susceptible to the introduction and perpetuation of unintended gender bias, which is inadequately reflected in their translation (<cite class="ltx_cite ltx_citemacro_citep">Frank<span class="ltx_text ltx_bib_etal"> et al.</span>, <a href="#bib.bib11" title="Gender issues in machine translation" class="ltx_ref">2004</a></cite>; <cite class="ltx_cite ltx_citemacro_citep">Moorkens, <a href="#bib.bib8" title="Ethics and machine translation" class="ltx_ref">2022</a></cite>).</p>
+</div>
+<div id="S1.p2" class="ltx_para">
+<p class="ltx_p">Compared to the extensive resources and efforts devoted to improving state-of-the-art translation quality through the use of word-overlap automatic metrics, little attention has been paid to eliminating the inherent gender bias in these systems. In addition, the field of gender bias in Machine Translation lacks coherence, which results in the absence of a consistent framework, hindering future research in this area. In recent years, however, there has been a growing emphasis on identifying, interpreting, and eliminating gender bias in machine translation systems with the goal of developing more accurate, fair, and inclusive models that benefit all individuals (Figure <a href="#S1.F1" title="Figure 1 ‣ 1 Introduction ‣ Gender Bias in Machine Translation: a Survey 1st Semester of 2022-2023" class="ltx_ref"><span class="ltx_text ltx_ref_tag">1</span></a>), in response to numerous concerns about the societal impact of NLP tools raised both within (<cite class="ltx_cite ltx_citemacro_citep">Zhao<span class="ltx_text ltx_bib_etal"> et al.</span>, <a href="#bib.bib15" title="Gender bias in coreference resolution: evaluation and debiasing methods" class="ltx_ref">2018a</a></cite>; <cite class="ltx_cite ltx_citemacro_citep">Prates<span class="ltx_text ltx_bib_etal"> et al.</span>, <a href="#bib.bib36" title="Assessing gender bias in machine translation: a case study with google translate" class="ltx_ref">2020</a></cite>; <cite class="ltx_cite ltx_citemacro_citep">Bender<span class="ltx_text ltx_bib_etal"> et al.</span>, <a href="#bib.bib34" title="On the dangers of stochastic parrots: can language models be too big?" class="ltx_ref">2021</a></cite>; <cite class="ltx_cite ltx_citemacro_citep">Troles and Schmid, <a href="#bib.bib35" title="Extending challenge sets to uncover gender bias in machine translation: impact of stereotypical verbs and adjectives" class="ltx_ref">2021</a></cite>) and outside (<cite class="ltx_cite ltx_citemacro_citep">Dastin, <a href="#bib.bib41" title="Amazon scraps secret ai recruiting tool that showed bias against women" class="ltx_ref">2018</a></cite>; <cite class="ltx_cite ltx_citemacro_citep">Feast, <a href="#bib.bib40" title="4 ways to address gender bias in ai" class="ltx_ref">2020</a></cite>) the scientific community. Studies in this field have included the creation of benchmarking datasets for bias mitigation (<cite class="ltx_cite ltx_citemacro_citep">Rudinger<span class="ltx_text ltx_bib_etal"> et al.</span>, <a href="#bib.bib55" title="Gender bias in coreference resolution" class="ltx_ref">2018b</a></cite>; <cite class="ltx_cite ltx_citemacro_citep">Stanovsky<span class="ltx_text ltx_bib_etal"> et al.</span>, <a href="#bib.bib23" title="Evaluating gender bias in machine translation" class="ltx_ref">2019</a></cite>; <cite class="ltx_cite ltx_citemacro_citep">Sakaguchi<span class="ltx_text ltx_bib_etal"> et al.</span>, <a href="#bib.bib56" title="WinoGrande: an adversarial winograd schema challenge at scale" class="ltx_ref">2021</a></cite>), the development of algorithms for reducing bias (<cite class="ltx_cite ltx_citemacro_citep">Bolukbasi<span class="ltx_text ltx_bib_etal"> et al.</span>, <a href="#bib.bib13" title="Man is to computer programmer as woman is to homemaker? debiasing word embeddings" class="ltx_ref">2016a</a></cite>; <cite class="ltx_cite ltx_citemacro_citep">Elaraby<span class="ltx_text ltx_bib_etal"> et al.</span>, <a href="#bib.bib60" title="Gender aware spoken language translation applied to english-arabic" class="ltx_ref">2018a</a></cite>; <cite class="ltx_cite ltx_citemacro_citep">Basta<span class="ltx_text ltx_bib_etal"> et al.</span>, <a href="#bib.bib25" title="Towards mitigating gender bias in a decoder-based neural machine translation model by adding contextual information" class="ltx_ref">2020</a></cite>; <cite class="ltx_cite ltx_citemacro_citep">Saunders and Byrne, <a href="#bib.bib29" title="Reducing gender bias in neural machine translation as a domain adaptation problem" class="ltx_ref">2020</a></cite>; <cite class="ltx_cite ltx_citemacro_citep">Kim<span class="ltx_text ltx_bib_etal"> et al.</span>, <a href="#bib.bib61" title="When and why is document-level context useful in neural machine translation?" class="ltx_ref">2019</a></cite>; <cite class="ltx_cite ltx_citemacro_citep">Zhao<span class="ltx_text ltx_bib_etal"> et al.</span>, <a href="#bib.bib62" title="Learning gender-neutral word embeddings" class="ltx_ref">2018b</a></cite>), and the establishment of evaluation measures for assessing the degree of bias present in the learned representations of models (<cite class="ltx_cite ltx_citemacro_citep">Dixon<span class="ltx_text ltx_bib_etal"> et al.</span>, <a href="#bib.bib51" title="Measuring and mitigating unintended bias in text classification" class="ltx_ref">2018</a></cite>; <cite class="ltx_cite ltx_citemacro_citep">Park<span class="ltx_text ltx_bib_etal"> et al.</span>, <a href="#bib.bib48" title="Reducing gender bias in abusive language detection" class="ltx_ref">2018</a></cite>; <cite class="ltx_cite ltx_citemacro_citep">Cho<span class="ltx_text ltx_bib_etal"> et al.</span>, <a href="#bib.bib57" title="On measuring gender bias in translation of gender-neutral pronouns" class="ltx_ref">2019</a></cite>; <cite class="ltx_cite ltx_citemacro_citep">Vanmassenhove<span class="ltx_text ltx_bib_etal"> et al.</span>, <a href="#bib.bib22" title="Getting gender right in neural machine translation" class="ltx_ref">2018</a></cite>; <cite class="ltx_cite ltx_citemacro_citep">Stanovsky<span class="ltx_text ltx_bib_etal"> et al.</span>, <a href="#bib.bib23" title="Evaluating gender bias in machine translation" class="ltx_ref">2019</a></cite>; <cite class="ltx_cite ltx_citemacro_citep">Gonen and Webster, <a href="#bib.bib58" title="Automatically identifying gender issues in machine translation using perturbations" class="ltx_ref">2020</a></cite>; <cite class="ltx_cite ltx_citemacro_citep">Hovy<span class="ltx_text ltx_bib_etal"> et al.</span>, <a href="#bib.bib59" title="“You sound just like your father” commercial machine translation systems include stylistic biases" class="ltx_ref">2020</a></cite>).</p>
+</div>
+<figure id="S1.F1" class="ltx_figure"><img src="mt_papers.png" id="S1.F1.g1" class="ltx_graphics ltx_centering ltx_img_landscape" width="633" height="435" alt="Refer to caption">
+<figcaption class="ltx_caption ltx_centering"><span class="ltx_tag ltx_tag_figure">Figure 1: </span>Number of papers per year</figcaption>
+</figure>
+<div id="S1.p3" class="ltx_para">
+<p class="ltx_p">The feminist approach to technology has long acknowledged the influence of gender bias on machine translation systems, particularly how it silences women’s voices and hinders progress in many areas (<cite class="ltx_cite ltx_citemacro_citep">Tallon, <a href="#bib.bib12" title="A century of “shrill”: how bias in technology has hurt women’s voices" class="ltx_ref">2019</a></cite>; <cite class="ltx_cite ltx_citemacro_citep">Monti, <a href="#bib.bib9" title="Gender issues in machine translation: an unsolved problem?" class="ltx_ref">2020</a></cite>), although the field of machine translation itself has only begun to pay attention to this issue. It wasn’t until 2004 that the issue of gender in machine translation was first tackled from a linguistic and software engineering perspective within the scientific community <cite class="ltx_cite ltx_citemacro_cite">Frank<span class="ltx_text ltx_bib_etal"> et al.</span> (<a href="#bib.bib11" title="Gender issues in machine translation" class="ltx_ref">2004</a>)</cite>. This marked a significant effort to address gender-related issues in language technology and to stress the importance of improving the quality of translations by making them gender-appropriate. Many years passed before the seminal study <cite class="ltx_cite ltx_citemacro_cite">Bolukbasi<span class="ltx_text ltx_bib_etal"> et al.</span> (<a href="#bib.bib13" title="Man is to computer programmer as woman is to homemaker? debiasing word embeddings" class="ltx_ref">2016a</a>)</cite> brought to the forefront of the discourse within the scientific community the issue of overt sexism in word embeddings and the potential for perpetuation of long-attending prejudicies and inequities between men and women in Machine Translation. The ground-breaking research was the first to empirically demonstrate the existence of gender bias in word embeddings trained on a large corpus, specifically in the relation of male-associated terms with career-related words and female-associated terms with family and domestic-related words. The authors also proposed an algorithm for debiasing static word embeddings. Another study, <cite class="ltx_cite ltx_citemacro_cite">Caliskan<span class="ltx_text ltx_bib_etal"> et al.</span> (<a href="#bib.bib14" title="Semantics derived automatically from language corpora contain human-like biases" class="ltx_ref">2017</a>)</cite> which explores human-like semantic biases, similarly found that word embeddings trained on text data exhibit gender biases. Multiple studies (<cite class="ltx_cite ltx_citemacro_citep">Prates<span class="ltx_text ltx_bib_etal"> et al.</span>, <a href="#bib.bib53" title="Assessing gender bias in machine translation – a case study with google translate" class="ltx_ref">2018</a></cite>; <cite class="ltx_cite ltx_citemacro_citep">Hovy<span class="ltx_text ltx_bib_etal"> et al.</span>, <a href="#bib.bib59" title="“You sound just like your father” commercial machine translation systems include stylistic biases" class="ltx_ref">2020</a></cite>) have also shown a tendency toward male defaults in translations, which is only a mirror of controversial societal asymmetries, lending weight to these arguments.</p>
+</div>
+</section>
+<section id="S2" class="ltx_section">
+<h2 class="ltx_title ltx_title_section">
+<span class="ltx_tag ltx_tag_section">2 </span>Understanding Bias and its Impact on Machine Translation Systems</h2>
+
+<div id="S2.p1" class="ltx_para">
+<p class="ltx_p"><cite class="ltx_cite ltx_citemacro_citep">Sun<span class="ltx_text ltx_bib_etal"> et al.</span>, <a href="#bib.bib39" title="Mitigating gender bias in natural language processing: literature review" class="ltx_ref">2019</a></cite> separates gender bias in four categories (Table <a href="#S2.T1" title="Table 1 ‣ 2 Understanding Bias and its Impact on Machine Translation Systems ‣ Gender Bias in Machine Translation: a Survey 1st Semester of 2022-2023" class="ltx_ref"><span class="ltx_text ltx_ref_tag">1</span></a>). As such: "denigration refers to the use of culturally or historically derogatory terms; stereotyping reinforces existing societal stereotypes; recognition bias involves a given algorithm’s inaccuracy in recognition tasks; and under-representation bias is the disproportionately low representation of a specific group." <cite class="ltx_cite ltx_citemacro_cite">Sun<span class="ltx_text ltx_bib_etal"> et al.</span> (<a href="#bib.bib39" title="Mitigating gender bias in natural language processing: literature review" class="ltx_ref">2019</a>)</cite>.
+</p>
+</div>
+<figure id="S2.T1" class="ltx_table">
+<table class="ltx_tabular ltx_centering ltx_align_middle">
+<tbody class="ltx_tbody">
+<tr class="ltx_tr">
+<td class="ltx_td ltx_align_justify ltx_border_l ltx_border_r ltx_border_t" style="width:56.9pt;"><span class="ltx_text ltx_font_bold ltx_align_top">Task</span></td>
+<td class="ltx_td ltx_align_justify ltx_border_r ltx_border_t" style="width:298.8pt;"><span class="ltx_text ltx_font_bold ltx_align_top">Example of Representation Bias in the Context of Gender</span></td>
+<td class="ltx_td ltx_align_center ltx_border_r ltx_border_t">D</td>
+<td class="ltx_td ltx_align_center ltx_border_r ltx_border_t">S</td>
+<td class="ltx_td ltx_align_center ltx_border_r ltx_border_t">R</td>
+<td class="ltx_td ltx_align_center ltx_border_r ltx_border_t">U</td>
+</tr>
+<tr class="ltx_tr">
+<td class="ltx_td ltx_align_justify ltx_border_l ltx_border_r ltx_border_t" style="width:56.9pt;">
+<p class="ltx_p ltx_align_top">Machine Translation</p>
+</td>
+<td class="ltx_td ltx_align_justify ltx_border_r ltx_border_t" style="width:298.8pt;">
+<p class="ltx_p ltx_align_top">Translating “He is a nurse. She is a doctor.” to Hungarian and back to English results in “She is a nurse. He is a doctor.” (<cite class="ltx_cite ltx_citemacro_citep">Douglas, <a href="#bib.bib43" title="AI is not just learning our biases; it is amplifying them." class="ltx_ref">2017</a></cite>; <cite class="ltx_cite ltx_citemacro_citep">Zhao<span class="ltx_text ltx_bib_etal"> et al.</span>, <a href="#bib.bib46" title="Men also like shopping: reducing gender bias amplification using corpus-level constraints" class="ltx_ref">2017</a></cite>; <cite class="ltx_cite ltx_citemacro_citep">Rudinger<span class="ltx_text ltx_bib_etal"> et al.</span>, <a href="#bib.bib47" title="Gender bias in coreference resolution" class="ltx_ref">2018a</a></cite>)</p>
+</td>
+<td class="ltx_td ltx_border_r ltx_border_t"></td>
+<td class="ltx_td ltx_align_center ltx_border_r ltx_border_t">✓</td>
+<td class="ltx_td ltx_align_center ltx_border_r ltx_border_t">✓</td>
+<td class="ltx_td ltx_border_r ltx_border_t"></td>
+</tr>
+<tr class="ltx_tr">
+<td class="ltx_td ltx_align_justify ltx_border_l ltx_border_r ltx_border_t" style="width:56.9pt;">
+<p class="ltx_p ltx_align_top">Caption 
+<br class="ltx_break">Generation</p>
+</td>
+<td class="ltx_td ltx_align_justify ltx_border_r ltx_border_t" style="width:298.8pt;">
+<p class="ltx_p ltx_align_top">An image captioning model incorrectly predicts the agent to be male because there is a computer nearby (<cite class="ltx_cite ltx_citemacro_citep">Burns<span class="ltx_text ltx_bib_etal"> et al.</span>, <a href="#bib.bib44" title="Women also snowboard: overcoming bias in captioning models" class="ltx_ref">2018</a></cite>).</p>
+</td>
+<td class="ltx_td ltx_border_r ltx_border_t"></td>
+<td class="ltx_td ltx_align_center ltx_border_r ltx_border_t">✓</td>
+<td class="ltx_td ltx_align_center ltx_border_r ltx_border_t">✓</td>
+<td class="ltx_td ltx_border_r ltx_border_t"></td>
+</tr>
+<tr class="ltx_tr">
+<td class="ltx_td ltx_align_justify ltx_border_l ltx_border_r ltx_border_t" style="width:56.9pt;">
+<p class="ltx_p ltx_align_top">Speech Recognition</p>
+</td>
+<td class="ltx_td ltx_align_justify ltx_border_r ltx_border_t" style="width:298.8pt;">
+<p class="ltx_p ltx_align_top">Automatic speech detection works better with male voices than female voices <cite class="ltx_cite ltx_citemacro_cite">Tatman (<a href="#bib.bib42" title="Gender and dialect bias in YouTube’s automatic captions" class="ltx_ref">2017</a>)</cite></p>
+</td>
+<td class="ltx_td ltx_border_r ltx_border_t"></td>
+<td class="ltx_td ltx_border_r ltx_border_t"></td>
+<td class="ltx_td ltx_align_center ltx_border_r ltx_border_t">✓</td>
+<td class="ltx_td ltx_align_center ltx_border_r ltx_border_t">✓</td>
+</tr>
+<tr class="ltx_tr">
+<td class="ltx_td ltx_align_justify ltx_border_l ltx_border_r ltx_border_t" style="width:56.9pt;">
+<p class="ltx_p ltx_align_top">Sentiment Analysis</p>
+</td>
+<td class="ltx_td ltx_align_justify ltx_border_r ltx_border_t" style="width:298.8pt;">
+<p class="ltx_p ltx_align_top">Sentiment Analysis Systems rank sentences containing female noun phrases to be indicative of anger more often than sentences containing male noun phrases <cite class="ltx_cite ltx_citemacro_cite">Park<span class="ltx_text ltx_bib_etal"> et al.</span> (<a href="#bib.bib48" title="Reducing gender bias in abusive language detection" class="ltx_ref">2018</a>)</cite>.</p>
+</td>
+<td class="ltx_td ltx_border_r ltx_border_t"></td>
+<td class="ltx_td ltx_align_center ltx_border_r ltx_border_t">✓</td>
+<td class="ltx_td ltx_border_r ltx_border_t"></td>
+<td class="ltx_td ltx_border_r ltx_border_t"></td>
+</tr>
+<tr class="ltx_tr">
+<td class="ltx_td ltx_align_justify ltx_border_l ltx_border_r ltx_border_t" style="width:56.9pt;">
+<p class="ltx_p ltx_align_top">Language Model</p>
+</td>
+<td class="ltx_td ltx_align_justify ltx_border_r ltx_border_t" style="width:298.8pt;">
+<p class="ltx_p ltx_align_top">“He is doctor” has a higher conditional likelihood than “She is doctor” <cite class="ltx_cite ltx_citemacro_cite">Lu<span class="ltx_text ltx_bib_etal"> et al.</span> (<a href="#bib.bib49" title="Gender bias in neural natural language processing" class="ltx_ref">2018</a>)</cite>.</p>
+</td>
+<td class="ltx_td ltx_border_r ltx_border_t"></td>
+<td class="ltx_td ltx_align_center ltx_border_r ltx_border_t">✓</td>
+<td class="ltx_td ltx_align_center ltx_border_r ltx_border_t">✓</td>
+<td class="ltx_td ltx_align_center ltx_border_r ltx_border_t">✓</td>
+</tr>
+<tr class="ltx_tr">
+<td class="ltx_td ltx_align_justify ltx_border_b ltx_border_l ltx_border_r ltx_border_t" style="width:56.9pt;">
+<p class="ltx_p ltx_align_top">Word 
+<br class="ltx_break">Embedding</p>
+</td>
+<td class="ltx_td ltx_align_justify ltx_border_b ltx_border_r ltx_border_t" style="width:298.8pt;">
+<p class="ltx_p ltx_align_top">Analogies such as “man : woman :: computer programmer : homemaker” are automatically generated by models trained on biased word embeddings <cite class="ltx_cite ltx_citemacro_cite">Bolukbasi<span class="ltx_text ltx_bib_etal"> et al.</span> (<a href="#bib.bib50" title="Man is to computer programmer as woman is to homemaker? debiasing word embeddings" class="ltx_ref">2016b</a>)</cite></p>
+</td>
+<td class="ltx_td ltx_align_center ltx_border_b ltx_border_r ltx_border_t">✓</td>
+<td class="ltx_td ltx_align_center ltx_border_b ltx_border_r ltx_border_t">✓</td>
+<td class="ltx_td ltx_align_center ltx_border_b ltx_border_r ltx_border_t">✓</td>
+<td class="ltx_td ltx_align_center ltx_border_b ltx_border_r ltx_border_t">✓</td>
+</tr>
+</tbody>
+</table>
+<figcaption class="ltx_caption ltx_centering"><span class="ltx_tag ltx_tag_table">Table 1: </span>Following the talk by <cite class="ltx_cite ltx_citemacro_cite">Crawford (<a href="#bib.bib38" title="The trouble with bias" class="ltx_ref">2017</a>)</cite>, we categorize representation bias in Machine Translation into the following four categories: (D)enigration, (S)tereotyping, (R)ecognition, (U)nder-representation. Table from <cite class="ltx_cite ltx_citemacro_cite">Sun<span class="ltx_text ltx_bib_etal"> et al.</span> (<a href="#bib.bib39" title="Mitigating gender bias in natural language processing: literature review" class="ltx_ref">2019</a>)</cite></figcaption>
+</figure>
+<div id="S2.p2" class="ltx_para">
+<p class="ltx_p">It is important to understand how bias works and the impact it has in order to be able to mitigate it. There has been a lot of work done on debiasing in recent years, but also a lot of backlash regarding currently used methods. While <cite class="ltx_cite ltx_citemacro_citep">Levesque, <a href="#bib.bib37" title="On our best behaviour" class="ltx_ref">2014</a></cite> condemns neural networks for relying on easy-to-learn shortcuts or "cheap tricks", <cite class="ltx_cite ltx_citemacro_cite">Gonen and Goldberg (<a href="#bib.bib65" title="Lipstick on a pig: debiasing methods cover up systematic gender biases in word embeddings but do not remove them" class="ltx_ref">2019</a>)</cite> states a clear position regarding debiasing as a whole, prominent from title: <span class="ltx_text ltx_font_italic">Lipstick on a pig: Debiasing methods cover up systematic gender biases in word embeddings but do not remove them</span>. It has also been debated whether using methods that deprive systems of some knowledge is the right direction toward developing fairer language models (<cite class="ltx_cite ltx_citemacro_citep">Nissim<span class="ltx_text ltx_bib_etal"> et al.</span>, <a href="#bib.bib66" title="Fair is better than sensational:man is to doctor as woman is to doctor" class="ltx_ref">2019</a></cite>; <cite class="ltx_cite ltx_citemacro_citep">Goldfarb-Tarrant<span class="ltx_text ltx_bib_etal"> et al.</span>, <a href="#bib.bib20" title="Intrinsic bias metrics do not correlate with application bias" class="ltx_ref">2021</a></cite>)</p>
+</div>
+</section>
+<section id="S3" class="ltx_section">
+<h2 class="ltx_title ltx_title_section">
+<span class="ltx_tag ltx_tag_section">3 </span>A Categorization of Approaches for Reducing Bias</h2>
+
+<section id="S3.SS1" class="ltx_subsection">
+<h3 class="ltx_title ltx_title_subsection">
+<span class="ltx_tag ltx_tag_subsection">3.1 </span>Dataset alignment</h3>
+
+<div id="S3.SS1.p1" class="ltx_para">
+<p class="ltx_p">Bias starts from the dataset. While long term we aspire for more balanced datasets, it might take some time before this aspiration will become the norm. <cite class="ltx_cite ltx_citemacro_cite">Costa-jussà and de Jorge (<a href="#bib.bib21" title="Fine-tuning neural machine translation on gender-balanced datasets" class="ltx_ref">2020</a>)</cite> propose a gender-balanced dataset built from Wikipedia biographies. While this generally improves the generation of feminine forms, the approach is not as effective as it does not account for stereotypes that arise from the qualitative different ways in which men and women are portrayed <cite class="ltx_cite ltx_citemacro_cite">Wagner<span class="ltx_text ltx_bib_etal"> et al.</span> (<a href="#bib.bib63" title="It’s a man’s wikipedia? assessing gender inequality in an online encyclopedia" class="ltx_ref">2021</a>)</cite>.</p>
+</div>
+<div id="S3.SS1.p2" class="ltx_para">
+<p class="ltx_p">An alternative approach implies altering already existing datasets so that the model can suppress this bias. According to <cite class="ltx_cite ltx_citemacro_cite">Savoldi<span class="ltx_text ltx_bib_etal"> et al.</span> (<a href="#bib.bib10" title="Gender Bias in Machine Translation" class="ltx_ref">2021</a>)</cite> we can do this by gender tagging the sentences or adding context. We propose a third different category, gender swapping.</p>
+</div>
+<section id="S3.SS1.SSS1" class="ltx_subsubsection">
+<h4 class="ltx_title ltx_title_subsubsection">
+<span class="ltx_tag ltx_tag_subsubsection">3.1.1 </span>Gender tagging</h4>
+
+<div id="S3.SS1.SSS1.p1" class="ltx_para">
+<p class="ltx_p">It was hypothesised (and proven) that integrating gender information into NMT systems improves the gender referential makings of a translation, whether the tagging is made at the sentence-level (<cite class="ltx_cite ltx_citemacro_citep">Vanmassenhove<span class="ltx_text ltx_bib_etal"> et al.</span>, <a href="#bib.bib22" title="Getting gender right in neural machine translation" class="ltx_ref">2018</a></cite>; <cite class="ltx_cite ltx_citemacro_citep">Elaraby<span class="ltx_text ltx_bib_etal"> et al.</span>, <a href="#bib.bib64" title="Gender aware spoken language translation applied to english-arabic" class="ltx_ref">2018b</a></cite>) or at the word-level (<cite class="ltx_cite ltx_citemacro_citep">Stafanovičs<span class="ltx_text ltx_bib_etal"> et al.</span>, <a href="#bib.bib26" title="Mitigating gender bias in machine translation with target gender annotations" class="ltx_ref">2020</a></cite>; <cite class="ltx_cite ltx_citemacro_citep">Saunders<span class="ltx_text ltx_bib_etal"> et al.</span>, <a href="#bib.bib24" title="Neural machine translation doesn’t translate gender coreference right unless you make it" class="ltx_ref">2020</a></cite>).</p>
+</div>
+<div id="S3.SS1.SSS1.p2" class="ltx_para">
+<p class="ltx_p"><cite class="ltx_cite ltx_citemacro_cite">Vanmassenhove<span class="ltx_text ltx_bib_etal"> et al.</span> (<a href="#bib.bib22" title="Getting gender right in neural machine translation" class="ltx_ref">2018</a>)</cite> uses additional metadata in order to prepend a gender tag (M or F) to each input sentence. This proves especially useful for translating sentences from first person English, where there are usually no gender markings, to any language that has them – "I am a nurse" will become either "Je suis un infirmier" or "Je suis une infirmière" in French, depending on the speaker’s gender. However, metadata might not always be available or easy to procure, and an automatic annotation may introduce additional bias.</p>
+</div>
+<div id="S3.SS1.SSS1.p3" class="ltx_para">
+<p class="ltx_p"><cite class="ltx_cite ltx_citemacro_cite">Elaraby<span class="ltx_text ltx_bib_etal"> et al.</span> (<a href="#bib.bib64" title="Gender aware spoken language translation applied to english-arabic" class="ltx_ref">2018b</a>)</cite> defines a set of cross-lingual rules based on POS tagging in an English-Arabic parallel corpus, yet this approach would not be feasible in realistic conditions, as it requires reference translations for the gender tagging.</p>
+</div>
+<div id="S3.SS1.SSS1.p4" class="ltx_para">
+<p class="ltx_p"><cite class="ltx_cite ltx_citemacro_cite">Saunders<span class="ltx_text ltx_bib_etal"> et al.</span> (<a href="#bib.bib24" title="Neural machine translation doesn’t translate gender coreference right unless you make it" class="ltx_ref">2020</a>)</cite> has a particularly interesting approach on word-level gender tags as it explores non-binary translations in an artificial dataset. The dataset contains neutral tags, having the gendered reflections replaced with placeholders.</p>
+</div>
+</section>
+<section id="S3.SS1.SSS2" class="ltx_subsubsection">
+<h4 class="ltx_title ltx_title_subsubsection">
+<span class="ltx_tag ltx_tag_subsubsection">3.1.2 </span>Adding context</h4>
+
+<div id="S3.SS1.SSS2.p1" class="ltx_para">
+<p class="ltx_p">A more accessible approach implies expanding the context of our dataset. As such, multiple methods have been suggested.</p>
+</div>
+<div id="S3.SS1.SSS2.p2" class="ltx_para">
+<p class="ltx_p"><cite class="ltx_cite ltx_citemacro_cite">Basta<span class="ltx_text ltx_bib_etal"> et al.</span> (<a href="#bib.bib25" title="Towards mitigating gender bias in a decoder-based neural machine translation model by adding contextual information" class="ltx_ref">2020</a>)</cite> adopts a generic technique, concatenating each sentence with the preceding one. This slightly reduces bias as it expands the chances of coreference resolution.</p>
+</div>
+<div id="S3.SS1.SSS2.p3" class="ltx_para">
+<p class="ltx_p"><cite class="ltx_cite ltx_citemacro_cite">Stanovsky<span class="ltx_text ltx_bib_etal"> et al.</span> (<a href="#bib.bib23" title="Evaluating gender bias in machine translation" class="ltx_ref">2019</a>)</cite> uses a heuristic morphological tagger to extract the gender of the target entity from the source and from the translation. This is not added <span class="ltx_text ltx_font_italic">per se</span> to the model, but is used for identifying and adding pro-stereotypical adjectives – <span class="ltx_text ltx_font_italic">fighting bias with bias</span>. Thus, the sentence "The doctor asked the nurse to help her in the operation" becomes "The <span class="ltx_text ltx_font_italic">pretty</span> doctor asked the nurse to help her in the operation". The authors wanted to test whether mixing signals ("doctor" biases towards a male translation, while "pretty" has female inflections) corrects the model.</p>
+</div>
+<div id="S3.SS1.SSS2.p4" class="ltx_para">
+<p class="ltx_p">Lastly, <cite class="ltx_cite ltx_citemacro_cite">Sharma<span class="ltx_text ltx_bib_etal"> et al.</span> (<a href="#bib.bib27" title="How sensitive are translation systems to extra contexts? mitigating gender bias in neural machine translation models through relevant contexts" class="ltx_ref">2022</a>)</cite> expands knowledge through relevant context using a template based on morphological taggers. The template is used greedily from a set of 87 possibilities in the form of "The occupation in the following sentence is excellent at m/f-pos-prn job.".</p>
+</div>
+</section>
+<section id="S3.SS1.SSS3" class="ltx_subsubsection">
+<h4 class="ltx_title ltx_title_subsubsection">
+<span class="ltx_tag ltx_tag_subsubsection">3.1.3 </span>Gender swapping</h4>
+
+<div id="S3.SS1.SSS3.p1" class="ltx_para">
+<p class="ltx_p">Gender swapping is characterized by swapping all genders in a sentence and adding it to the dataset. While it might seem like a simple approach for creating a balanced dataset, it has the risk of creating nonsensical sentences (swapping "she gave birth" to "he gave birth") or removing relevant bias (women and men tend to express themselves differently) <cite class="ltx_cite ltx_citemacro_cite">Madaan<span class="ltx_text ltx_bib_etal"> et al.</span> (<a href="#bib.bib54" title="Analyze, detect and remove gender stereotyping from bollywood movies" class="ltx_ref">2018</a>)</cite>. This subject has been tested by (<cite class="ltx_cite ltx_citemacro_citep">Zhao<span class="ltx_text ltx_bib_etal"> et al.</span>, <a href="#bib.bib15" title="Gender bias in coreference resolution: evaluation and debiasing methods" class="ltx_ref">2018a</a></cite>; <cite class="ltx_cite ltx_citemacro_citep">Lu<span class="ltx_text ltx_bib_etal"> et al.</span>, <a href="#bib.bib49" title="Gender bias in neural natural language processing" class="ltx_ref">2018</a></cite>; <cite class="ltx_cite ltx_citemacro_citep">Kiritchenko and Mohammad, <a href="#bib.bib52" title="Examining gender and race bias in two hundred sentiment analysis systems" class="ltx_ref">2018</a></cite>).
+</p>
+</div>
+</section>
+</section>
+<section id="S3.SS2" class="ltx_subsection">
+<h3 class="ltx_title ltx_title_subsection">
+<span class="ltx_tag ltx_tag_subsection">3.2 </span>Model Debiasing</h3>
+
+<div id="S3.SS2.p1" class="ltx_para">
+<ul id="S3.I1" class="ltx_itemize">
+<li id="S3.I1.i1" class="ltx_item" style="list-style-type:none;">
+<span class="ltx_tag ltx_tag_item">•</span> 
+<div id="S3.I1.i1.p1" class="ltx_para">
+<p class="ltx_p">Equalizing Gender Bias in Neural Machine Translation with Word Embeddings Techniques <cite class="ltx_cite ltx_citemacro_cite">Escudé Font and Costa-jussà (<a href="#bib.bib19" title="Equalizing gender bias in neural machine translation with word embeddings techniques" class="ltx_ref">2019</a>)</cite></p>
+</div>
+</li>
+</ul>
+</div>
+<section id="S3.SS2.SSS1" class="ltx_subsubsection">
+<h4 class="ltx_title ltx_title_subsubsection">
+<span class="ltx_tag ltx_tag_subsubsection">3.2.1 </span>Debiasing Static Word Embeddings</h4>
+
+<div id="S3.SS2.SSS1.p1" class="ltx_para">
+<ul id="S3.I2" class="ltx_itemize">
+<li id="S3.I2.i1" class="ltx_item" style="list-style-type:none;">
+<span class="ltx_tag ltx_tag_item">•</span> 
+<div id="S3.I2.i1.p1" class="ltx_para">
+<p class="ltx_p">Man is to Computer Programmer as Woman is to Homemaker <cite class="ltx_cite ltx_citemacro_cite">Bolukbasi<span class="ltx_text ltx_bib_etal"> et al.</span> (<a href="#bib.bib50" title="Man is to computer programmer as woman is to homemaker? debiasing word embeddings" class="ltx_ref">2016b</a>)</cite></p>
+</div>
+</li>
+<li id="S3.I2.i2" class="ltx_item" style="list-style-type:none;">
+<span class="ltx_tag ltx_tag_item">•</span> 
+<div id="S3.I2.i2.p1" class="ltx_para">
+<p class="ltx_p">Gender Bias in Coreference Resolution: Evaluation and Debiasing Methods <cite class="ltx_cite ltx_citemacro_cite">Zhao<span class="ltx_text ltx_bib_etal"> et al.</span> (<a href="#bib.bib15" title="Gender bias in coreference resolution: evaluation and debiasing methods" class="ltx_ref">2018a</a>)</cite></p>
+</div>
+</li>
+<li id="S3.I2.i3" class="ltx_item" style="list-style-type:none;">
+<span class="ltx_tag ltx_tag_item">•</span> 
+<div id="S3.I2.i3.p1" class="ltx_para">
+<p class="ltx_p">Adversarial Removal of Demographic Attributes from Text Data <cite class="ltx_cite ltx_citemacro_cite">Elazar and Goldberg (<a href="#bib.bib16" title="Adversarial removal of demographic attributes from text data" class="ltx_ref">2018</a>)</cite></p>
+</div>
+</li>
+</ul>
+</div>
+</section>
+<section id="S3.SS2.SSS2" class="ltx_subsubsection">
+<h4 class="ltx_title ltx_title_subsubsection">
+<span class="ltx_tag ltx_tag_subsubsection">3.2.2 </span>Debiasing Contextual Word Embeddings</h4>
+
+<div id="S3.SS2.SSS2.p1" class="ltx_para">
+<ul id="S3.I3" class="ltx_itemize">
+<li id="S3.I3.i1" class="ltx_item" style="list-style-type:none;">
+<span class="ltx_tag ltx_tag_item">•</span> 
+<div id="S3.I3.i1.p1" class="ltx_para">
+<p class="ltx_p">Gender Bias in Contextualized Word Embeddings <cite class="ltx_cite ltx_citemacro_cite">Zhao<span class="ltx_text ltx_bib_etal"> et al.</span> (<a href="#bib.bib17" title="Gender bias in contextualized word embeddings" class="ltx_ref">2019</a>)</cite></p>
+</div>
+</li>
+<li id="S3.I3.i2" class="ltx_item" style="list-style-type:none;">
+<span class="ltx_tag ltx_tag_item">•</span> 
+<div id="S3.I3.i2.p1" class="ltx_para">
+<p class="ltx_p">Debiasing Pre-trained Contextualised Embeddings <cite class="ltx_cite ltx_citemacro_cite">Kaneko and Bollegala (<a href="#bib.bib18" title="Debiasing pre-trained contextualised embeddings" class="ltx_ref">2021</a>)</cite></p>
+</div>
+</li>
+</ul>
+</div>
+</section>
+</section>
+<section id="S3.SS3" class="ltx_subsection">
+<h3 class="ltx_title ltx_title_subsection">
+<span class="ltx_tag ltx_tag_subsection">3.3 </span>Debiasing through External Components via Inference-time</h3>
+
+<div id="S3.SS3.p1" class="ltx_para">
+<p class="ltx_p">Instead of directly debiasing the Machine Translation model, we can intervene with an external component at inference time. This approach has the benefit that we don’t have to retrain time-consuming models, but comes with the drawbacks specific to maintaining and handling a separate model that needs to be integrated with the previous results.</p>
+</div>
+<div id="S3.SS3.p2" class="ltx_para">
+<p class="ltx_p">According to <cite class="ltx_cite ltx_citemacro_cite">Savoldi<span class="ltx_text ltx_bib_etal"> et al.</span> (<a href="#bib.bib10" title="Gender Bias in Machine Translation" class="ltx_ref">2021</a>)</cite>, debiasing through external components can be split into three categories: black-box injection, lattice re-scoring and gender re-inflection.</p>
+</div>
+<section id="S3.SS3.SSS1" class="ltx_subsubsection">
+<h4 class="ltx_title ltx_title_subsubsection">
+<span class="ltx_tag ltx_tag_subsubsection">3.3.1 </span>Black-box Injection</h4>
+
+<div id="S3.SS3.SSS1.p1" class="ltx_para">
+<p class="ltx_p">Black-box injection doesn’t take into account anything related to the dataset or the models’ bias. <cite class="ltx_cite ltx_citemacro_cite">Moryossef<span class="ltx_text ltx_bib_etal"> et al.</span> (<a href="#bib.bib28" title="Filling gender &amp; number gaps in neural machine translation with black-box context injection" class="ltx_ref">2019</a>)</cite> attempts to control the production of feminine and plural references by adding a prepended construction ("<span class="ltx_text ltx_font_italic">she</span> said to <span class="ltx_text ltx_font_italic">them</span>") to the source sentences and then removing it from the output.
+</p>
+</div>
+</section>
+<section id="S3.SS3.SSS2" class="ltx_subsubsection">
+<h4 class="ltx_title ltx_title_subsubsection">
+<span class="ltx_tag ltx_tag_subsubsection">3.3.2 </span>Lattice Re-scoring</h4>
+
+<div id="S3.SS3.SSS2.p1" class="ltx_para">
+<p class="ltx_p">Unlike the previous approach, lattice re-scoring is a post-processing technique based on analyzing the dataset and producing a second lattice with differently scored gender-marked words. In <cite class="ltx_cite ltx_citemacro_cite">Saunders and Byrne (<a href="#bib.bib29" title="Reducing gender bias in neural machine translation as a domain adaptation problem" class="ltx_ref">2020</a>)</cite> the gender marked words are mapped to all their possible inflectional variants and the sentences corresponding to the paths in the lattice are re-scored with a gender debiased model. Then, the highest probability sentences are chosen as the new output. This lead to an increase in the accuracy of gender form selection but a decrease in the generic translation quality.
+</p>
+</div>
+</section>
+<section id="S3.SS3.SSS3" class="ltx_subsubsection">
+<h4 class="ltx_title ltx_title_subsubsection">
+<span class="ltx_tag ltx_tag_subsubsection">3.3.3 </span>Gender Re-inflection</h4>
+
+<div id="S3.SS3.SSS3.p1" class="ltx_para">
+<p class="ltx_p">Finally, gender re-inflection implies changing first person references into masculine / feminine forms. <cite class="ltx_cite ltx_citemacro_cite">Alhafni<span class="ltx_text ltx_bib_etal"> et al.</span> (<a href="#bib.bib30" title="Gender-aware reinflection using linguistically enhanced neural models" class="ltx_ref">2020</a>)</cite> feeds to the component the preferred gender of the speaker together with the translated Arabic sentence, while <cite class="ltx_cite ltx_citemacro_cite">Habash<span class="ltx_text ltx_bib_etal"> et al.</span> (<a href="#bib.bib31" title="Automatic gender identification and reinflection in Arabic" class="ltx_ref">2019</a>)</cite> attempts two approaches: i) a two-step system that first identifies the gender of 1st person references in an MT output, and then re-inflects them in the opposite form and ii) a single-step system that always produces both forms from an MT output.
+</p>
+</div>
+</section>
+</section>
+</section>
+<section id="S4" class="ltx_section">
+<h2 class="ltx_title ltx_title_section">
+<span class="ltx_tag ltx_tag_section">4 </span>Limitations</h2>
+
+<div id="S4.p1" class="ltx_para">
+<p class="ltx_p">There are a number of limitations that can arise when addressing gender bias. Some of the main limitations include:</p>
+</div>
+<div id="S4.p2" class="ltx_para">
+<ol id="S4.I1" class="ltx_enumerate">
+<li id="S4.I1.i1" class="ltx_item" style="list-style-type:none;">
+<span class="ltx_tag ltx_tag_item">1.</span> 
+<div id="S4.I1.i1.p1" class="ltx_para">
+<p class="ltx_p"><span class="ltx_text ltx_font_bold">Data availability:</span> Gender bias can be difficult to detect and measure, particularly if data on gender is not collected or is not easily accessible.</p>
+</div>
+</li>
+<li id="S4.I1.i2" class="ltx_item" style="list-style-type:none;">
+<span class="ltx_tag ltx_tag_item">2.</span> 
+<div id="S4.I1.i2.p1" class="ltx_para">
+<p class="ltx_p"><span class="ltx_text ltx_font_bold">Selection bias:</span> Studies may be affected by selection bias, which occurs when the sample of participants is not representative of the population being studied. This can make it difficult to generalize findings to other groups.</p>
+</div>
+</li>
+<li id="S4.I1.i3" class="ltx_item" style="list-style-type:none;">
+<span class="ltx_tag ltx_tag_item">3.</span> 
+<div id="S4.I1.i3.p1" class="ltx_para">
+<p class="ltx_p"><span class="ltx_text ltx_font_bold">Confounding variables:</span> Gender bias may be confounded with other factors, such as socioeconomic status or race, making it difficult to isolate the effects of gender.</p>
+</div>
+</li>
+<li id="S4.I1.i4" class="ltx_item" style="list-style-type:none;">
+<span class="ltx_tag ltx_tag_item">4.</span> 
+<div id="S4.I1.i4.p1" class="ltx_para">
+<p class="ltx_p"><span class="ltx_text ltx_font_bold">Lack of consensus on how to measure bias:</span> There is currently no consensus on how to measure or define gender bias, which can lead to inconsistent findings and conclusions.</p>
+</div>
+</li>
+<li id="S4.I1.i5" class="ltx_item" style="list-style-type:none;">
+<span class="ltx_tag ltx_tag_item">5.</span> 
+<div id="S4.I1.i5.p1" class="ltx_para">
+<p class="ltx_p"><span class="ltx_text ltx_font_bold">Implicit bias:</span> People may have implicit biases, which are unconscious attitudes or beliefs that can affect their behavior and decision-making. These biases are difficult to detect and measure.</p>
+</div>
+</li>
+<li id="S4.I1.i6" class="ltx_item" style="list-style-type:none;">
+<span class="ltx_tag ltx_tag_item">6.</span> 
+<div id="S4.I1.i6.p1" class="ltx_para">
+<p class="ltx_p"><span class="ltx_text ltx_font_bold">Difficulty in disentangling bias from structural inequalities:</span> Gender bias is often intertwined with structural inequalities, such as discrimination and lack of representation in certain fields, making it hard to separate the effects of bias from those of inequality.</p>
+</div>
+</li>
+<li id="S4.I1.i7" class="ltx_item" style="list-style-type:none;">
+<span class="ltx_tag ltx_tag_item">7.</span> 
+<div id="S4.I1.i7.p1" class="ltx_para">
+<p class="ltx_p"><span class="ltx_text ltx_font_bold">Limited understanding of intersectionality:</span> Gender bias often interacts with other forms of bias, such as race and class, making it important to consider intersectionality when studying gender bias.</p>
+</div>
+</li>
+</ol>
+</div>
+</section>
+<!--
+<section id="S5" class="ltx_section">
+<h2 class="ltx_title ltx_title_section">
+<span class="ltx_tag ltx_tag_section">5 </span>Conclusions and Future Work</h2>
+
+<div id="S5.p1" class="ltx_para">
+<p class="ltx_p">In this paper we present a short overview over debiasing methods currently used in literature, together with their benefits and drawbacks.</p>
+</div>
+</section>
+-->
+<section id="Sx1" class="ltx_section">
+<h2 class="ltx_title ltx_title_section">Ethical Statement</h2>
+
+<div id="Sx1.p1" class="ltx_para">
+<p class="ltx_p">This study relies on data that includes sexism and hate speech. The examples provided for identifying gender bias include instances of sexism which might be disturbing for certain individuals. Reader discretion is advised. The authors vehemently oppose the use of any derogatory language against women.</p>
+</div>
+</section>
+<section id="bib" class="ltx_bibliography">
+<h2 class="ltx_title ltx_title_bibliography">References</h2>
+
+<ul id="bib.L1" class="ltx_biblist">
+<li id="bib.bib30" class="ltx_bibitem ltx_bib_inproceedings">
+<span class="ltx_tag ltx_bib_author-year ltx_role_refnum ltx_tag_bibitem">B. Alhafni, N. Habash, and H. Bouamor (2020)</span>
+<span class="ltx_bibblock"><span class="ltx_text ltx_bib_title">Gender-aware reinflection using linguistically enhanced neural models</span>.
+</span>
+<span class="ltx_bibblock">In <span class="ltx_text ltx_bib_inbook">Proceedings of the Second Workshop on Gender Bias in Natural Language Processing</span>,
+</span>
+<span class="ltx_bibblock"><span class="ltx_text ltx_bib_place">Barcelona, Spain (Online)</span>, <span class="ltx_text ltx_bib_pages"> pp. 139–150</span>.
+</span>
+<span class="ltx_bibblock">External Links: <span class="ltx_text ltx_bib_links"><a href="https://aclanthology.org/2020.gebnlp-1.12" title="" class="ltx_ref ltx_bib_external">Link</a></span>
+</span>
+<span class="ltx_bibblock ltx_bib_cited">Cited by: <a href="#S3.SS3.SSS3.p1" title="3.3.3 Gender Re-inflection ‣ 3.3 Debiasing through External Components via Inference-time ‣ 3 A Categorization of Approaches for Reducing Bias ‣ Gender Bias in Machine Translation: a Survey 1st Semester of 2022-2023" class="ltx_ref"><span class="ltx_text ltx_ref_tag">§3.3.3</span></a>.
+</span>
+</li>
+<li id="bib.bib25" class="ltx_bibitem ltx_bib_inproceedings">
+<span class="ltx_tag ltx_bib_author-year ltx_role_refnum ltx_tag_bibitem">C. Basta, M. R. Costa-jussà, and J. A. R. Fonollosa (2020)</span>
+<span class="ltx_bibblock"><span class="ltx_text ltx_bib_title">Towards mitigating gender bias in a decoder-based neural machine translation model by adding contextual information</span>.
+</span>
+<span class="ltx_bibblock">In <span class="ltx_text ltx_bib_inbook">Proceedings of the The Fourth Widening Natural Language Processing Workshop</span>,
+</span>
+<span class="ltx_bibblock"><span class="ltx_text ltx_bib_place">Seattle, USA</span>, <span class="ltx_text ltx_bib_pages"> pp. 99–102</span>.
+</span>
+<span class="ltx_bibblock">External Links: <span class="ltx_text ltx_bib_links"><a href="https://aclanthology.org/2020.winlp-1.25" title="" class="ltx_ref ltx_bib_external">Link</a>,
+<a href="https://dx.doi.org/10.18653/v1/2020.winlp-1.25" title="" class="ltx_ref doi ltx_bib_external">Document</a></span>
+</span>
+<span class="ltx_bibblock ltx_bib_cited">Cited by: <a href="#S1.p2" title="1 Introduction ‣ Gender Bias in Machine Translation: a Survey 1st Semester of 2022-2023" class="ltx_ref"><span class="ltx_text ltx_ref_tag">§1</span></a>,
+<a href="#S3.SS1.SSS2.p2" title="3.1.2 Adding context ‣ 3.1 Dataset alignment ‣ 3 A Categorization of Approaches for Reducing Bias ‣ Gender Bias in Machine Translation: a Survey 1st Semester of 2022-2023" class="ltx_ref"><span class="ltx_text ltx_ref_tag">§3.1.2</span></a>.
+</span>
+</li>
+<li id="bib.bib34" class="ltx_bibitem ltx_bib_inproceedings">
+<span class="ltx_tag ltx_bib_author-year ltx_role_refnum ltx_tag_bibitem">E. M. Bender, T. Gebru, A. McMillan-Major, and S. Shmitchell (2021)</span>
+<span class="ltx_bibblock"><span class="ltx_text ltx_bib_title">On the dangers of stochastic parrots: can language models be too big?</span>.
+</span>
+<span class="ltx_bibblock">In <span class="ltx_text ltx_bib_inbook">Proceedings of the 2021 ACM Conference on Fairness, Accountability, and Transparency</span>,
+</span>
+<span class="ltx_bibblock"><span class="ltx_text ltx_bib_series">FAccT ’21</span>, <span class="ltx_text ltx_bib_place">New York, NY, USA</span>, <span class="ltx_text ltx_bib_pages"> pp. 610–623</span>.
+</span>
+<span class="ltx_bibblock">External Links: <span class="ltx_text ltx_bib_links"><span class="ltx_text isbn ltx_bib_external">ISBN 9781450383097</span>,
+<a href="https://doi.org/10.1145/3442188.3445922" title="" class="ltx_ref ltx_bib_external">Link</a>,
+<a href="https://dx.doi.org/10.1145/3442188.3445922" title="" class="ltx_ref doi ltx_bib_external">Document</a></span>
+</span>
+<span class="ltx_bibblock ltx_bib_cited">Cited by: <a href="#S1.p2" title="1 Introduction ‣ Gender Bias in Machine Translation: a Survey 1st Semester of 2022-2023" class="ltx_ref"><span class="ltx_text ltx_ref_tag">§1</span></a>.
+</span>
+</li>
+<li id="bib.bib13" class="ltx_bibitem ltx_bib_misc">
+<span class="ltx_tag ltx_bib_author-year ltx_role_refnum ltx_tag_bibitem">T. Bolukbasi, K. Chang, J. Zou, V. Saligrama, and A. Kalai (2016a)</span>
+<span class="ltx_bibblock"><span class="ltx_text ltx_bib_title">Man is to computer programmer as woman is to homemaker? debiasing word embeddings</span>.
+</span>
+<span class="ltx_bibblock"> <span class="ltx_text ltx_bib_publisher">arXiv</span>.
+</span>
+<span class="ltx_bibblock">External Links: <span class="ltx_text ltx_bib_links"><a href="https://dx.doi.org/10.48550/ARXIV.1607.06520" title="" class="ltx_ref doi ltx_bib_external">Document</a>,
+<a href="https://arxiv.org/abs/1607.06520" title="" class="ltx_ref ltx_bib_external">Link</a></span>
+</span>
+<span class="ltx_bibblock ltx_bib_cited">Cited by: <a href="#S1.p2" title="1 Introduction ‣ Gender Bias in Machine Translation: a Survey 1st Semester of 2022-2023" class="ltx_ref"><span class="ltx_text ltx_ref_tag">§1</span></a>,
+<a href="#S1.p3" title="1 Introduction ‣ Gender Bias in Machine Translation: a Survey 1st Semester of 2022-2023" class="ltx_ref"><span class="ltx_text ltx_ref_tag">§1</span></a>.
+</span>
+</li>
+<li id="bib.bib50" class="ltx_bibitem ltx_bib_inproceedings">
+<span class="ltx_tag ltx_bib_author-year ltx_role_refnum ltx_tag_bibitem">T. Bolukbasi, K. Chang, J. Y. Zou, V. Saligrama, and A. T. Kalai (2016b)</span>
+<span class="ltx_bibblock"><span class="ltx_text ltx_bib_title">Man is to computer programmer as woman is to homemaker? debiasing word embeddings</span>.
+</span>
+<span class="ltx_bibblock">In <span class="ltx_text ltx_bib_inbook">Advances in Neural Information Processing Systems</span>,  <span class="ltx_text ltx_bib_editor">D. Lee, M. Sugiyama, U. Luxburg, I. Guyon, and R. Garnett (Eds.)</span>,
+</span>
+<span class="ltx_bibblock">Vol. <span class="ltx_text ltx_bib_volume">29</span>, <span class="ltx_text ltx_bib_pages"> pp. </span>.
+</span>
+<span class="ltx_bibblock">External Links: <span class="ltx_text ltx_bib_links"><a href="https://proceedings.neurips.cc/paper/2016/file/a486cd07e4ac3d270571622f4f316ec5-Paper.pdf" title="" class="ltx_ref ltx_bib_external">Link</a></span>
+</span>
+<span class="ltx_bibblock ltx_bib_cited">Cited by: <a href="#S2.T1" title="Table 1 ‣ 2 Understanding Bias and its Impact on Machine Translation Systems ‣ Gender Bias in Machine Translation: a Survey 1st Semester of 2022-2023" class="ltx_ref"><span class="ltx_text ltx_ref_tag">Table 1</span></a>,
+<a href="#S3.I2.i1.p1" title="1st item ‣ 3.2.1 Debiasing Static Word Embeddings ‣ 3.2 Model Debiasing ‣ 3 A Categorization of Approaches for Reducing Bias ‣ Gender Bias in Machine Translation: a Survey 1st Semester of 2022-2023" class="ltx_ref"><span class="ltx_text ltx_ref_tag">1st item</span></a>.
+</span>
+</li>
+<li id="bib.bib44" class="ltx_bibitem ltx_bib_misc">
+<span class="ltx_tag ltx_bib_author-year ltx_role_refnum ltx_tag_bibitem">K. Burns, L. A. Hendricks, K. Saenko, T. Darrell, and A. Rohrbach (2018)</span>
+<span class="ltx_bibblock"><span class="ltx_text ltx_bib_title">Women also snowboard: overcoming bias in captioning models</span>.
+</span>
+<span class="ltx_bibblock"> <span class="ltx_text ltx_bib_publisher">arXiv</span>.
+</span>
+<span class="ltx_bibblock">External Links: <span class="ltx_text ltx_bib_links"><a href="https://dx.doi.org/10.48550/ARXIV.1803.09797" title="" class="ltx_ref doi ltx_bib_external">Document</a>,
+<a href="https://arxiv.org/abs/1803.09797" title="" class="ltx_ref ltx_bib_external">Link</a></span>
+</span>
+<span class="ltx_bibblock ltx_bib_cited">Cited by: <a href="#S2.T1" title="Table 1 ‣ 2 Understanding Bias and its Impact on Machine Translation Systems ‣ Gender Bias in Machine Translation: a Survey 1st Semester of 2022-2023" class="ltx_ref"><span class="ltx_text ltx_ref_tag">Table 1</span></a>.
+</span>
+</li>
+<li id="bib.bib14" class="ltx_bibitem ltx_bib_article">
+<span class="ltx_tag ltx_bib_author-year ltx_role_refnum ltx_tag_bibitem">A. Caliskan, J. J. Bryson, and A. Narayanan (2017)</span>
+<span class="ltx_bibblock"><span class="ltx_text ltx_bib_title">Semantics derived automatically from language corpora contain human-like biases</span>.
+</span>
+<span class="ltx_bibblock"><span class="ltx_text ltx_bib_journal">Science</span> <span class="ltx_text ltx_bib_volume">356</span> (<span class="ltx_text ltx_bib_number">6334</span>), <span class="ltx_text ltx_bib_pages"> pp. 183–186</span>.
+</span>
+<span class="ltx_bibblock">External Links: <span class="ltx_text ltx_bib_links"><a href="https://dx.doi.org/10.1126/science.aal4230" title="" class="ltx_ref doi ltx_bib_external">Document</a>,
+<a href="https://doi.org/10.1126%2Fscience.aal4230" title="" class="ltx_ref ltx_bib_external">Link</a></span>
+</span>
+<span class="ltx_bibblock ltx_bib_cited">Cited by: <a href="#S1.p3" title="1 Introduction ‣ Gender Bias in Machine Translation: a Survey 1st Semester of 2022-2023" class="ltx_ref"><span class="ltx_text ltx_ref_tag">§1</span></a>.
+</span>
+</li>
+<li id="bib.bib57" class="ltx_bibitem ltx_bib_misc">
+<span class="ltx_tag ltx_bib_author-year ltx_role_refnum ltx_tag_bibitem">W. I. Cho, J. W. Kim, S. M. Kim, and N. S. Kim (2019)</span>
+<span class="ltx_bibblock"><span class="ltx_text ltx_bib_title">On measuring gender bias in translation of gender-neutral pronouns</span>.
+</span>
+<span class="ltx_bibblock"> <span class="ltx_text ltx_bib_publisher">arXiv</span>.
+</span>
+<span class="ltx_bibblock">External Links: <span class="ltx_text ltx_bib_links"><a href="https://dx.doi.org/10.48550/ARXIV.1905.11684" title="" class="ltx_ref doi ltx_bib_external">Document</a>,
+<a href="https://arxiv.org/abs/1905.11684" title="" class="ltx_ref ltx_bib_external">Link</a></span>
+</span>
+<span class="ltx_bibblock ltx_bib_cited">Cited by: <a href="#S1.p2" title="1 Introduction ‣ Gender Bias in Machine Translation: a Survey 1st Semester of 2022-2023" class="ltx_ref"><span class="ltx_text ltx_ref_tag">§1</span></a>.
+</span>
+</li>
+<li id="bib.bib21" class="ltx_bibitem ltx_bib_inproceedings">
+<span class="ltx_tag ltx_bib_author-year ltx_role_refnum ltx_tag_bibitem">M. R. Costa-jussà and A. de Jorge (2020)</span>
+<span class="ltx_bibblock"><span class="ltx_text ltx_bib_title">Fine-tuning neural machine translation on gender-balanced datasets</span>.
+</span>
+<span class="ltx_bibblock">In <span class="ltx_text ltx_bib_inbook">Proceedings of the Second Workshop on Gender Bias in Natural Language Processing</span>,
+</span>
+<span class="ltx_bibblock"><span class="ltx_text ltx_bib_place">Barcelona, Spain (Online)</span>, <span class="ltx_text ltx_bib_pages"> pp. 26–34</span>.
+</span>
+<span class="ltx_bibblock">External Links: <span class="ltx_text ltx_bib_links"><a href="https://aclanthology.org/2020.gebnlp-1.3" title="" class="ltx_ref ltx_bib_external">Link</a></span>
+</span>
+<span class="ltx_bibblock ltx_bib_cited">Cited by: <a href="#S3.SS1.p1" title="3.1 Dataset alignment ‣ 3 A Categorization of Approaches for Reducing Bias ‣ Gender Bias in Machine Translation: a Survey 1st Semester of 2022-2023" class="ltx_ref"><span class="ltx_text ltx_ref_tag">§3.1</span></a>.
+</span>
+</li>
+<li id="bib.bib38" class="ltx_bibitem ltx_bib_misc">
+<span class="ltx_tag ltx_bib_author-year ltx_role_refnum ltx_tag_bibitem">K. Crawford (2017)</span>
+<span class="ltx_bibblock"><span class="ltx_text ltx_bib_title">The trouble with bias</span>.
+</span>
+<span class="ltx_bibblock ltx_bib_cited">Cited by: <a href="#S2.T1" title="Table 1 ‣ 2 Understanding Bias and its Impact on Machine Translation Systems ‣ Gender Bias in Machine Translation: a Survey 1st Semester of 2022-2023" class="ltx_ref"><span class="ltx_text ltx_ref_tag">Table 1</span></a>.
+</span>
+</li>
+<li id="bib.bib41" class="ltx_bibitem ltx_bib_misc">
+<span class="ltx_tag ltx_bib_author-year ltx_role_refnum ltx_tag_bibitem">J. Dastin (2018)</span>
+<span class="ltx_bibblock"><span class="ltx_text ltx_bib_title">Amazon scraps secret ai recruiting tool that showed bias against women</span>.
+</span>
+<span class="ltx_bibblock"> <span class="ltx_text ltx_bib_publisher">Thomson Reuters</span>.
+</span>
+<span class="ltx_bibblock">External Links: <span class="ltx_text ltx_bib_links"><a href="https://www.reuters.com/article/us-amazon-com-jobs-automation-insight-idUSKCN1MK08G" title="" class="ltx_ref ltx_bib_external">Link</a></span>
+</span>
+<span class="ltx_bibblock ltx_bib_cited">Cited by: <a href="#S1.p2" title="1 Introduction ‣ Gender Bias in Machine Translation: a Survey 1st Semester of 2022-2023" class="ltx_ref"><span class="ltx_text ltx_ref_tag">§1</span></a>.
+</span>
+</li>
+<li id="bib.bib51" class="ltx_bibitem ltx_bib_misc">
+<span class="ltx_tag ltx_bib_author-year ltx_role_refnum ltx_tag_bibitem">L. Dixon, J. Li, J. Sorensen, N. Thain, and L. Vasserman (2018)</span>
+<span class="ltx_bibblock"><span class="ltx_text ltx_bib_title">Measuring and mitigating unintended bias in text classification</span>.
+</span>
+<span class="ltx_bibblock">External Links: <span class="ltx_text ltx_bib_links"><a href="https://dx.doi.org/10.1145/3278721.3278729" title="" class="ltx_ref doi ltx_bib_external">Document</a></span>
+</span>
+<span class="ltx_bibblock ltx_bib_cited">Cited by: <a href="#S1.p2" title="1 Introduction ‣ Gender Bias in Machine Translation: a Survey 1st Semester of 2022-2023" class="ltx_ref"><span class="ltx_text ltx_ref_tag">§1</span></a>.
+</span>
+</li>
+<li id="bib.bib43" class="ltx_bibitem ltx_bib_article">
+<span class="ltx_tag ltx_bib_author-year ltx_role_refnum ltx_tag_bibitem">L. Douglas (2017)</span>
+<span class="ltx_bibblock"><span class="ltx_text ltx_bib_title">AI is not just learning our biases; it is amplifying them.</span>.
+</span>
+<span class="ltx_bibblock"><span class="ltx_text ltx_bib_journal">Medium</span>.
+</span>
+<span class="ltx_bibblock">External Links: <span class="ltx_text ltx_bib_links"><a href="https://medium.com/@laurahelendouglas/ai-is-not-just-learning-our-biases-it-is-amplifying-them-4d0dee75931d" title="" class="ltx_ref ltx_bib_external">Link</a></span>
+</span>
+<span class="ltx_bibblock ltx_bib_cited">Cited by: <a href="#S2.T1" title="Table 1 ‣ 2 Understanding Bias and its Impact on Machine Translation Systems ‣ Gender Bias in Machine Translation: a Survey 1st Semester of 2022-2023" class="ltx_ref"><span class="ltx_text ltx_ref_tag">Table 1</span></a>.
+</span>
+</li>
+<li id="bib.bib60" class="ltx_bibitem ltx_bib_inproceedings">
+<span class="ltx_tag ltx_bib_author-year ltx_role_refnum ltx_tag_bibitem">M. Elaraby, A. Y. Tawfik, M. Khaled, H. Hassan, and A. Osama (2018a)</span>
+<span class="ltx_bibblock"><span class="ltx_text ltx_bib_title">Gender aware spoken language translation applied to english-arabic</span>.
+</span>
+<span class="ltx_bibblock">In <span class="ltx_text ltx_bib_inbook">2018 2nd International Conference on Natural Language and Speech Processing (ICNLSP)</span>,
+</span>
+<span class="ltx_bibblock"><span class="ltx_text ltx_bib_pages"> pp. 1–6</span>.
+</span>
+<span class="ltx_bibblock ltx_bib_cited">Cited by: <a href="#S1.p2" title="1 Introduction ‣ Gender Bias in Machine Translation: a Survey 1st Semester of 2022-2023" class="ltx_ref"><span class="ltx_text ltx_ref_tag">§1</span></a>.
+</span>
+</li>
+<li id="bib.bib64" class="ltx_bibitem ltx_bib_inproceedings">
+<span class="ltx_tag ltx_bib_author-year ltx_role_refnum ltx_tag_bibitem">M. Elaraby, A. Y. Tawfik, M. Khaled, H. Hassan, and A. Osama (2018b)</span>
+<span class="ltx_bibblock"><span class="ltx_text ltx_bib_title">Gender aware spoken language translation applied to english-arabic</span>.
+</span>
+<span class="ltx_bibblock">In <span class="ltx_text ltx_bib_inbook">2018 2nd International Conference on Natural Language and Speech Processing (ICNLSP)</span>,
+</span>
+<span class="ltx_bibblock">Vol. <span class="ltx_text ltx_bib_volume"></span>, <span class="ltx_text ltx_bib_pages"> pp. 1–6</span>.
+</span>
+<span class="ltx_bibblock">External Links: <span class="ltx_text ltx_bib_links"><a href="https://dx.doi.org/10.1109/ICNLSP.2018.8374387" title="" class="ltx_ref doi ltx_bib_external">Document</a></span>
+</span>
+<span class="ltx_bibblock ltx_bib_cited">Cited by: <a href="#S3.SS1.SSS1.p1" title="3.1.1 Gender tagging ‣ 3.1 Dataset alignment ‣ 3 A Categorization of Approaches for Reducing Bias ‣ Gender Bias in Machine Translation: a Survey 1st Semester of 2022-2023" class="ltx_ref"><span class="ltx_text ltx_ref_tag">§3.1.1</span></a>,
+<a href="#S3.SS1.SSS1.p3" title="3.1.1 Gender tagging ‣ 3.1 Dataset alignment ‣ 3 A Categorization of Approaches for Reducing Bias ‣ Gender Bias in Machine Translation: a Survey 1st Semester of 2022-2023" class="ltx_ref"><span class="ltx_text ltx_ref_tag">§3.1.1</span></a>.
+</span>
+</li>
+<li id="bib.bib16" class="ltx_bibitem ltx_bib_inproceedings">
+<span class="ltx_tag ltx_bib_author-year ltx_role_refnum ltx_tag_bibitem">Y. Elazar and Y. Goldberg (2018)</span>
+<span class="ltx_bibblock"><span class="ltx_text ltx_bib_title">Adversarial removal of demographic attributes from text data</span>.
+</span>
+<span class="ltx_bibblock">In <span class="ltx_text ltx_bib_inbook">Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing</span>,
+</span>
+<span class="ltx_bibblock"><span class="ltx_text ltx_bib_place">Brussels, Belgium</span>, <span class="ltx_text ltx_bib_pages"> pp. 11–21</span>.
+</span>
+<span class="ltx_bibblock">External Links: <span class="ltx_text ltx_bib_links"><a href="https://aclanthology.org/D18-1002" title="" class="ltx_ref ltx_bib_external">Link</a>,
+<a href="https://dx.doi.org/10.18653/v1/D18-1002" title="" class="ltx_ref doi ltx_bib_external">Document</a></span>
+</span>
+<span class="ltx_bibblock ltx_bib_cited">Cited by: <a href="#S3.I2.i3.p1" title="3rd item ‣ 3.2.1 Debiasing Static Word Embeddings ‣ 3.2 Model Debiasing ‣ 3 A Categorization of Approaches for Reducing Bias ‣ Gender Bias in Machine Translation: a Survey 1st Semester of 2022-2023" class="ltx_ref"><span class="ltx_text ltx_ref_tag">3rd item</span></a>.
+</span>
+</li>
+<li id="bib.bib19" class="ltx_bibitem ltx_bib_inproceedings">
+<span class="ltx_tag ltx_bib_author-year ltx_role_refnum ltx_tag_bibitem">J. Escudé Font and M. R. Costa-jussà (2019)</span>
+<span class="ltx_bibblock"><span class="ltx_text ltx_bib_title">Equalizing gender bias in neural machine translation with word embeddings techniques</span>.
+</span>
+<span class="ltx_bibblock">In <span class="ltx_text ltx_bib_inbook">Proceedings of the First Workshop on Gender Bias in Natural Language Processing</span>,
+</span>
+<span class="ltx_bibblock"><span class="ltx_text ltx_bib_place">Florence, Italy</span>, <span class="ltx_text ltx_bib_pages"> pp. 147–154</span>.
+</span>
+<span class="ltx_bibblock">External Links: <span class="ltx_text ltx_bib_links"><a href="https://aclanthology.org/W19-3821" title="" class="ltx_ref ltx_bib_external">Link</a>,
+<a href="https://dx.doi.org/10.18653/v1/W19-3821" title="" class="ltx_ref doi ltx_bib_external">Document</a></span>
+</span>
+<span class="ltx_bibblock ltx_bib_cited">Cited by: <a href="#S3.I1.i1.p1" title="1st item ‣ 3.2 Model Debiasing ‣ 3 A Categorization of Approaches for Reducing Bias ‣ Gender Bias in Machine Translation: a Survey 1st Semester of 2022-2023" class="ltx_ref"><span class="ltx_text ltx_ref_tag">1st item</span></a>.
+</span>
+</li>
+<li id="bib.bib40" class="ltx_bibitem ltx_bib_misc">
+<span class="ltx_tag ltx_bib_author-year ltx_role_refnum ltx_tag_bibitem">J. Feast (2020)</span>
+<span class="ltx_bibblock"><span class="ltx_text ltx_bib_title">4 ways to address gender bias in ai</span>.
+</span>
+<span class="ltx_bibblock">External Links: <span class="ltx_text ltx_bib_links"><a href="https://hbr.org/2019/11/4-ways-to-address-gender-bias-in-ai" title="" class="ltx_ref ltx_bib_external">Link</a></span>
+</span>
+<span class="ltx_bibblock ltx_bib_cited">Cited by: <a href="#S1.p2" title="1 Introduction ‣ Gender Bias in Machine Translation: a Survey 1st Semester of 2022-2023" class="ltx_ref"><span class="ltx_text ltx_ref_tag">§1</span></a>.
+</span>
+</li>
+<li id="bib.bib11" class="ltx_bibitem ltx_bib_misc">
+<span class="ltx_tag ltx_bib_author-year ltx_role_refnum ltx_tag_bibitem">A. Frank, C. Hoffmann, and M. S. Strobel (2004)</span>
+<span class="ltx_bibblock"><span class="ltx_text ltx_bib_title">Gender issues in machine translation</span>.
+</span>
+<span class="ltx_bibblock ltx_bib_cited">Cited by: <a href="#S1.p1" title="1 Introduction ‣ Gender Bias in Machine Translation: a Survey 1st Semester of 2022-2023" class="ltx_ref"><span class="ltx_text ltx_ref_tag">§1</span></a>,
+<a href="#S1.p3" title="1 Introduction ‣ Gender Bias in Machine Translation: a Survey 1st Semester of 2022-2023" class="ltx_ref"><span class="ltx_text ltx_ref_tag">§1</span></a>.
+</span>
+</li>
+<li id="bib.bib20" class="ltx_bibitem ltx_bib_inproceedings">
+<span class="ltx_tag ltx_bib_author-year ltx_role_refnum ltx_tag_bibitem">S. Goldfarb-Tarrant, R. Marchant, R. Muñoz Sánchez, M. Pandya, and A. Lopez (2021)</span>
+<span class="ltx_bibblock"><span class="ltx_text ltx_bib_title">Intrinsic bias metrics do not correlate with application bias</span>.
+</span>
+<span class="ltx_bibblock">In <span class="ltx_text ltx_bib_inbook">Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (Volume 1: Long Papers)</span>,
+</span>
+<span class="ltx_bibblock"><span class="ltx_text ltx_bib_place">Online</span>, <span class="ltx_text ltx_bib_pages"> pp. 1926–1940</span>.
+</span>
+<span class="ltx_bibblock">External Links: <span class="ltx_text ltx_bib_links"><a href="https://aclanthology.org/2021.acl-long.150" title="" class="ltx_ref ltx_bib_external">Link</a>,
+<a href="https://dx.doi.org/10.18653/v1/2021.acl-long.150" title="" class="ltx_ref doi ltx_bib_external">Document</a></span>
+</span>
+<span class="ltx_bibblock ltx_bib_cited">Cited by: <a href="#S2.p2" title="2 Understanding Bias and its Impact on Machine Translation Systems ‣ Gender Bias in Machine Translation: a Survey 1st Semester of 2022-2023" class="ltx_ref"><span class="ltx_text ltx_ref_tag">§2</span></a>.
+</span>
+</li>
+<li id="bib.bib65" class="ltx_bibitem ltx_bib_misc">
+<span class="ltx_tag ltx_bib_author-year ltx_role_refnum ltx_tag_bibitem">H. Gonen and Y. Goldberg (2019)</span>
+<span class="ltx_bibblock"><span class="ltx_text ltx_bib_title">Lipstick on a pig: debiasing methods cover up systematic gender biases in word embeddings but do not remove them</span>.
+</span>
+<span class="ltx_bibblock"> <span class="ltx_text ltx_bib_publisher">arXiv</span>.
+</span>
+<span class="ltx_bibblock">External Links: <span class="ltx_text ltx_bib_links"><a href="https://dx.doi.org/10.48550/ARXIV.1903.03862" title="" class="ltx_ref doi ltx_bib_external">Document</a>,
+<a href="https://arxiv.org/abs/1903.03862" title="" class="ltx_ref ltx_bib_external">Link</a></span>
+</span>
+<span class="ltx_bibblock ltx_bib_cited">Cited by: <a href="#S2.p2" title="2 Understanding Bias and its Impact on Machine Translation Systems ‣ Gender Bias in Machine Translation: a Survey 1st Semester of 2022-2023" class="ltx_ref"><span class="ltx_text ltx_ref_tag">§2</span></a>.
+</span>
+</li>
+<li id="bib.bib58" class="ltx_bibitem ltx_bib_article">
+<span class="ltx_tag ltx_bib_author-year ltx_role_refnum ltx_tag_bibitem">H. Gonen and K. Webster (2020)</span>
+<span class="ltx_bibblock"><span class="ltx_text ltx_bib_title">Automatically identifying gender issues in machine translation using perturbations</span>.
+</span>
+<span class="ltx_bibblock"><span class="ltx_text ltx_bib_journal">arXiv preprint arXiv:2004.14065</span>.
+</span>
+<span class="ltx_bibblock ltx_bib_cited">Cited by: <a href="#S1.p2" title="1 Introduction ‣ Gender Bias in Machine Translation: a Survey 1st Semester of 2022-2023" class="ltx_ref"><span class="ltx_text ltx_ref_tag">§1</span></a>.
+</span>
+</li>
+<li id="bib.bib31" class="ltx_bibitem ltx_bib_inproceedings">
+<span class="ltx_tag ltx_bib_author-year ltx_role_refnum ltx_tag_bibitem">N. Habash, H. Bouamor, and C. Chung (2019)</span>
+<span class="ltx_bibblock"><span class="ltx_text ltx_bib_title">Automatic gender identification and reinflection in Arabic</span>.
+</span>
+<span class="ltx_bibblock">In <span class="ltx_text ltx_bib_inbook">Proceedings of the First Workshop on Gender Bias in Natural Language Processing</span>,
+</span>
+<span class="ltx_bibblock"><span class="ltx_text ltx_bib_place">Florence, Italy</span>, <span class="ltx_text ltx_bib_pages"> pp. 155–165</span>.
+</span>
+<span class="ltx_bibblock">External Links: <span class="ltx_text ltx_bib_links"><a href="https://aclanthology.org/W19-3822" title="" class="ltx_ref ltx_bib_external">Link</a>,
+<a href="https://dx.doi.org/10.18653/v1/W19-3822" title="" class="ltx_ref doi ltx_bib_external">Document</a></span>
+</span>
+<span class="ltx_bibblock ltx_bib_cited">Cited by: <a href="#S3.SS3.SSS3.p1" title="3.3.3 Gender Re-inflection ‣ 3.3 Debiasing through External Components via Inference-time ‣ 3 A Categorization of Approaches for Reducing Bias ‣ Gender Bias in Machine Translation: a Survey 1st Semester of 2022-2023" class="ltx_ref"><span class="ltx_text ltx_ref_tag">§3.3.3</span></a>.
+</span>
+</li>
+<li id="bib.bib59" class="ltx_bibitem ltx_bib_inproceedings">
+<span class="ltx_tag ltx_bib_author-year ltx_role_refnum ltx_tag_bibitem">D. Hovy, F. Bianchi, and T. Fornaciari (2020)</span>
+<span class="ltx_bibblock"><span class="ltx_text ltx_bib_title">“You sound just like your father” commercial machine translation systems include stylistic biases</span>.
+</span>
+<span class="ltx_bibblock">In <span class="ltx_text ltx_bib_inbook">Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics</span>,
+</span>
+<span class="ltx_bibblock"><span class="ltx_text ltx_bib_pages"> pp. 1686–1690</span>.
+</span>
+<span class="ltx_bibblock ltx_bib_cited">Cited by: <a href="#S1.p2" title="1 Introduction ‣ Gender Bias in Machine Translation: a Survey 1st Semester of 2022-2023" class="ltx_ref"><span class="ltx_text ltx_ref_tag">§1</span></a>,
+<a href="#S1.p3" title="1 Introduction ‣ Gender Bias in Machine Translation: a Survey 1st Semester of 2022-2023" class="ltx_ref"><span class="ltx_text ltx_ref_tag">§1</span></a>.
+</span>
+</li>
+<li id="bib.bib18" class="ltx_bibitem ltx_bib_inproceedings">
+<span class="ltx_tag ltx_bib_author-year ltx_role_refnum ltx_tag_bibitem">M. Kaneko and D. Bollegala (2021)</span>
+<span class="ltx_bibblock"><span class="ltx_text ltx_bib_title">Debiasing pre-trained contextualised embeddings</span>.
+</span>
+<span class="ltx_bibblock">In <span class="ltx_text ltx_bib_inbook">Proceedings of the 16th Conference of the European Chapter of the Association for Computational Linguistics: Main Volume</span>,
+</span>
+<span class="ltx_bibblock"><span class="ltx_text ltx_bib_place">Online</span>, <span class="ltx_text ltx_bib_pages"> pp. 1256–1266</span>.
+</span>
+<span class="ltx_bibblock">External Links: <span class="ltx_text ltx_bib_links"><a href="https://aclanthology.org/2021.eacl-main.107" title="" class="ltx_ref ltx_bib_external">Link</a>,
+<a href="https://dx.doi.org/10.18653/v1/2021.eacl-main.107" title="" class="ltx_ref doi ltx_bib_external">Document</a></span>
+</span>
+<span class="ltx_bibblock ltx_bib_cited">Cited by: <a href="#S3.I3.i2.p1" title="2nd item ‣ 3.2.2 Debiasing Contextual Word Embeddings ‣ 3.2 Model Debiasing ‣ 3 A Categorization of Approaches for Reducing Bias ‣ Gender Bias in Machine Translation: a Survey 1st Semester of 2022-2023" class="ltx_ref"><span class="ltx_text ltx_ref_tag">2nd item</span></a>.
+</span>
+</li>
+<li id="bib.bib61" class="ltx_bibitem ltx_bib_article">
+<span class="ltx_tag ltx_bib_author-year ltx_role_refnum ltx_tag_bibitem">Y. Kim, D. T. Tran, and H. Ney (2019)</span>
+<span class="ltx_bibblock"><span class="ltx_text ltx_bib_title">When and why is document-level context useful in neural machine translation?</span>.
+</span>
+<span class="ltx_bibblock"><span class="ltx_text ltx_bib_journal">arXiv preprint arXiv:1910.00294</span>.
+</span>
+<span class="ltx_bibblock ltx_bib_cited">Cited by: <a href="#S1.p2" title="1 Introduction ‣ Gender Bias in Machine Translation: a Survey 1st Semester of 2022-2023" class="ltx_ref"><span class="ltx_text ltx_ref_tag">§1</span></a>.
+</span>
+</li>
+<li id="bib.bib52" class="ltx_bibitem ltx_bib_misc">
+<span class="ltx_tag ltx_bib_author-year ltx_role_refnum ltx_tag_bibitem">S. Kiritchenko and S. M. Mohammad (2018)</span>
+<span class="ltx_bibblock"><span class="ltx_text ltx_bib_title">Examining gender and race bias in two hundred sentiment analysis systems</span>.
+</span>
+<span class="ltx_bibblock"> <span class="ltx_text ltx_bib_publisher">arXiv</span>.
+</span>
+<span class="ltx_bibblock">External Links: <span class="ltx_text ltx_bib_links"><a href="https://dx.doi.org/10.48550/ARXIV.1805.04508" title="" class="ltx_ref doi ltx_bib_external">Document</a>,
+<a href="https://arxiv.org/abs/1805.04508" title="" class="ltx_ref ltx_bib_external">Link</a></span>
+</span>
+<span class="ltx_bibblock ltx_bib_cited">Cited by: <a href="#S3.SS1.SSS3.p1" title="3.1.3 Gender swapping ‣ 3.1 Dataset alignment ‣ 3 A Categorization of Approaches for Reducing Bias ‣ Gender Bias in Machine Translation: a Survey 1st Semester of 2022-2023" class="ltx_ref"><span class="ltx_text ltx_ref_tag">§3.1.3</span></a>.
+</span>
+</li>
+<li id="bib.bib37" class="ltx_bibitem ltx_bib_article">
+<span class="ltx_tag ltx_bib_author-year ltx_role_refnum ltx_tag_bibitem">H. J. Levesque (2014)</span>
+<span class="ltx_bibblock"><span class="ltx_text ltx_bib_title">On our best behaviour</span>.
+</span>
+<span class="ltx_bibblock"><span class="ltx_text ltx_bib_journal">Artificial Intelligence</span> <span class="ltx_text ltx_bib_volume">212</span>, <span class="ltx_text ltx_bib_pages"> pp. 27–35</span>.
+</span>
+<span class="ltx_bibblock">External Links: <span class="ltx_text ltx_bib_links"><span class="ltx_text issn ltx_bib_external">ISSN 0004-3702</span>,
+<a href="https://dx.doi.org/https%3A//doi.org/10.1016/j.artint.2014.03.007" title="" class="ltx_ref doi ltx_bib_external">Document</a>,
+<a href="https://www.sciencedirect.com/science/article/pii/S0004370214000356" title="" class="ltx_ref ltx_bib_external">Link</a></span>
+</span>
+<span class="ltx_bibblock ltx_bib_cited">Cited by: <a href="#S2.p2" title="2 Understanding Bias and its Impact on Machine Translation Systems ‣ Gender Bias in Machine Translation: a Survey 1st Semester of 2022-2023" class="ltx_ref"><span class="ltx_text ltx_ref_tag">§2</span></a>.
+</span>
+</li>
+<li id="bib.bib49" class="ltx_bibitem ltx_bib_misc">
+<span class="ltx_tag ltx_bib_author-year ltx_role_refnum ltx_tag_bibitem">K. Lu, P. Mardziel, F. Wu, P. Amancharla, and A. Datta (2018)</span>
+<span class="ltx_bibblock"><span class="ltx_text ltx_bib_title">Gender bias in neural natural language processing</span>.
+</span>
+<span class="ltx_bibblock"> <span class="ltx_text ltx_bib_publisher">arXiv</span>.
+</span>
+<span class="ltx_bibblock">External Links: <span class="ltx_text ltx_bib_links"><a href="https://dx.doi.org/10.48550/ARXIV.1807.11714" title="" class="ltx_ref doi ltx_bib_external">Document</a>,
+<a href="https://arxiv.org/abs/1807.11714" title="" class="ltx_ref ltx_bib_external">Link</a></span>
+</span>
+<span class="ltx_bibblock ltx_bib_cited">Cited by: <a href="#S2.T1" title="Table 1 ‣ 2 Understanding Bias and its Impact on Machine Translation Systems ‣ Gender Bias in Machine Translation: a Survey 1st Semester of 2022-2023" class="ltx_ref"><span class="ltx_text ltx_ref_tag">Table 1</span></a>,
+<a href="#S3.SS1.SSS3.p1" title="3.1.3 Gender swapping ‣ 3.1 Dataset alignment ‣ 3 A Categorization of Approaches for Reducing Bias ‣ Gender Bias in Machine Translation: a Survey 1st Semester of 2022-2023" class="ltx_ref"><span class="ltx_text ltx_ref_tag">§3.1.3</span></a>.
+</span>
+</li>
+<li id="bib.bib54" class="ltx_bibitem ltx_bib_inproceedings">
+<span class="ltx_tag ltx_bib_author-year ltx_role_refnum ltx_tag_bibitem">N. Madaan, S. Mehta, T. S. Agrawaal, V. Malhotra, A. Aggarwal, Y. Gupta, and M. Saxena (2018)</span>
+<span class="ltx_bibblock"><span class="ltx_text ltx_bib_title">Analyze, detect and remove gender stereotyping from bollywood movies</span>.
+</span>
+<span class="ltx_bibblock">In <span class="ltx_text ltx_bib_inbook">FAT</span>,
+</span>
+<span class="ltx_bibblock ltx_bib_cited">Cited by: <a href="#S3.SS1.SSS3.p1" title="3.1.3 Gender swapping ‣ 3.1 Dataset alignment ‣ 3 A Categorization of Approaches for Reducing Bias ‣ Gender Bias in Machine Translation: a Survey 1st Semester of 2022-2023" class="ltx_ref"><span class="ltx_text ltx_ref_tag">§3.1.3</span></a>.
+</span>
+</li>
+<li id="bib.bib9" class="ltx_bibitem ltx_bib_incollection">
+<span class="ltx_tag ltx_bib_author-year ltx_role_refnum ltx_tag_bibitem">J. Monti (2020)</span>
+<span class="ltx_bibblock"><span class="ltx_text ltx_bib_title">Gender issues in machine translation: an unsolved problem?</span>.
+</span>
+<span class="ltx_bibblock">In <span class="ltx_text ltx_bib_inbook">The Routledge Handbook of Translation, Feminism and Gender</span>,
+</span>
+<span class="ltx_bibblock"><span class="ltx_text ltx_bib_pages"> pp. 457–468</span>.
+</span>
+<span class="ltx_bibblock ltx_bib_cited">Cited by: <a href="#S1.p3" title="1 Introduction ‣ Gender Bias in Machine Translation: a Survey 1st Semester of 2022-2023" class="ltx_ref"><span class="ltx_text ltx_ref_tag">§1</span></a>.
+</span>
+</li>
+<li id="bib.bib8" class="ltx_bibitem ltx_bib_article">
+<span class="ltx_tag ltx_bib_author-year ltx_role_refnum ltx_tag_bibitem">J. Moorkens (2022)</span>
+<span class="ltx_bibblock"><span class="ltx_text ltx_bib_title">Ethics and machine translation</span>.
+</span>
+<span class="ltx_bibblock"><span class="ltx_text ltx_bib_journal">Machine translation for everyone: Empowering users in the age of artificial intelligence</span> <span class="ltx_text ltx_bib_volume">18</span>, <span class="ltx_text ltx_bib_pages"> pp. 121</span>.
+</span>
+<span class="ltx_bibblock ltx_bib_cited">Cited by: <a href="#S1.p1" title="1 Introduction ‣ Gender Bias in Machine Translation: a Survey 1st Semester of 2022-2023" class="ltx_ref"><span class="ltx_text ltx_ref_tag">§1</span></a>.
+</span>
+</li>
+<li id="bib.bib28" class="ltx_bibitem ltx_bib_inproceedings">
+<span class="ltx_tag ltx_bib_author-year ltx_role_refnum ltx_tag_bibitem">A. Moryossef, R. Aharoni, and Y. Goldberg (2019)</span>
+<span class="ltx_bibblock"><span class="ltx_text ltx_bib_title">Filling gender &amp; number gaps in neural machine translation with black-box context injection</span>.
+</span>
+<span class="ltx_bibblock">In <span class="ltx_text ltx_bib_inbook">Proceedings of the First Workshop on Gender Bias in Natural Language Processing</span>,
+</span>
+<span class="ltx_bibblock"><span class="ltx_text ltx_bib_place">Florence, Italy</span>, <span class="ltx_text ltx_bib_pages"> pp. 49–54</span>.
+</span>
+<span class="ltx_bibblock">External Links: <span class="ltx_text ltx_bib_links"><a href="https://aclanthology.org/W19-3807" title="" class="ltx_ref ltx_bib_external">Link</a>,
+<a href="https://dx.doi.org/10.18653/v1/W19-3807" title="" class="ltx_ref doi ltx_bib_external">Document</a></span>
+</span>
+<span class="ltx_bibblock ltx_bib_cited">Cited by: <a href="#S3.SS3.SSS1.p1" title="3.3.1 Black-box Injection ‣ 3.3 Debiasing through External Components via Inference-time ‣ 3 A Categorization of Approaches for Reducing Bias ‣ Gender Bias in Machine Translation: a Survey 1st Semester of 2022-2023" class="ltx_ref"><span class="ltx_text ltx_ref_tag">§3.3.1</span></a>.
+</span>
+</li>
+<li id="bib.bib66" class="ltx_bibitem ltx_bib_misc">
+<span class="ltx_tag ltx_bib_author-year ltx_role_refnum ltx_tag_bibitem">M. Nissim, R. van Noord, and R. van der Goot (2019)</span>
+<span class="ltx_bibblock"><span class="ltx_text ltx_bib_title">Fair is better than sensational:man is to doctor as woman is to doctor</span>.
+</span>
+<span class="ltx_bibblock"> <span class="ltx_text ltx_bib_publisher">arXiv</span>.
+</span>
+<span class="ltx_bibblock">External Links: <span class="ltx_text ltx_bib_links"><a href="https://dx.doi.org/10.48550/ARXIV.1905.09866" title="" class="ltx_ref doi ltx_bib_external">Document</a>,
+<a href="https://arxiv.org/abs/1905.09866" title="" class="ltx_ref ltx_bib_external">Link</a></span>
+</span>
+<span class="ltx_bibblock ltx_bib_cited">Cited by: <a href="#S2.p2" title="2 Understanding Bias and its Impact on Machine Translation Systems ‣ Gender Bias in Machine Translation: a Survey 1st Semester of 2022-2023" class="ltx_ref"><span class="ltx_text ltx_ref_tag">§2</span></a>.
+</span>
+</li>
+<li id="bib.bib48" class="ltx_bibitem ltx_bib_inproceedings">
+<span class="ltx_tag ltx_bib_author-year ltx_role_refnum ltx_tag_bibitem">J. H. Park, J. Shin, and P. Fung (2018)</span>
+<span class="ltx_bibblock"><span class="ltx_text ltx_bib_title">Reducing gender bias in abusive language detection</span>.
+</span>
+<span class="ltx_bibblock">In <span class="ltx_text ltx_bib_inbook">Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing</span>,
+</span>
+<span class="ltx_bibblock"><span class="ltx_text ltx_bib_place">Brussels, Belgium</span>, <span class="ltx_text ltx_bib_pages"> pp. 2799–2804</span>.
+</span>
+<span class="ltx_bibblock">External Links: <span class="ltx_text ltx_bib_links"><a href="https://aclanthology.org/D18-1302" title="" class="ltx_ref ltx_bib_external">Link</a>,
+<a href="https://dx.doi.org/10.18653/v1/D18-1302" title="" class="ltx_ref doi ltx_bib_external">Document</a></span>
+</span>
+<span class="ltx_bibblock ltx_bib_cited">Cited by: <a href="#S1.p2" title="1 Introduction ‣ Gender Bias in Machine Translation: a Survey 1st Semester of 2022-2023" class="ltx_ref"><span class="ltx_text ltx_ref_tag">§1</span></a>,
+<a href="#S2.T1" title="Table 1 ‣ 2 Understanding Bias and its Impact on Machine Translation Systems ‣ Gender Bias in Machine Translation: a Survey 1st Semester of 2022-2023" class="ltx_ref"><span class="ltx_text ltx_ref_tag">Table 1</span></a>.
+</span>
+</li>
+<li id="bib.bib53" class="ltx_bibitem ltx_bib_misc">
+<span class="ltx_tag ltx_bib_author-year ltx_role_refnum ltx_tag_bibitem">M. O. R. Prates, P. H. C. Avelar, and L. Lamb (2018)</span>
+<span class="ltx_bibblock"><span class="ltx_text ltx_bib_title">Assessing gender bias in machine translation – a case study with google translate</span>.
+</span>
+<span class="ltx_bibblock"> <span class="ltx_text ltx_bib_publisher">arXiv</span>.
+</span>
+<span class="ltx_bibblock">External Links: <span class="ltx_text ltx_bib_links"><a href="https://dx.doi.org/10.48550/ARXIV.1809.02208" title="" class="ltx_ref doi ltx_bib_external">Document</a>,
+<a href="https://arxiv.org/abs/1809.02208" title="" class="ltx_ref ltx_bib_external">Link</a></span>
+</span>
+<span class="ltx_bibblock ltx_bib_cited">Cited by: <a href="#S1.p3" title="1 Introduction ‣ Gender Bias in Machine Translation: a Survey 1st Semester of 2022-2023" class="ltx_ref"><span class="ltx_text ltx_ref_tag">§1</span></a>.
+</span>
+</li>
+<li id="bib.bib36" class="ltx_bibitem ltx_bib_article">
+<span class="ltx_tag ltx_bib_author-year ltx_role_refnum ltx_tag_bibitem">M. O. Prates, P. H. Avelar, and L. C. Lamb (2020)</span>
+<span class="ltx_bibblock"><span class="ltx_text ltx_bib_title">Assessing gender bias in machine translation: a case study with google translate</span>.
+</span>
+<span class="ltx_bibblock"><span class="ltx_text ltx_bib_journal">Neural Computing and Applications</span> <span class="ltx_text ltx_bib_volume">32</span>, <span class="ltx_text ltx_bib_pages"> pp. 6363–6381</span>.
+</span>
+<span class="ltx_bibblock ltx_bib_cited">Cited by: <a href="#S1.p2" title="1 Introduction ‣ Gender Bias in Machine Translation: a Survey 1st Semester of 2022-2023" class="ltx_ref"><span class="ltx_text ltx_ref_tag">§1</span></a>.
+</span>
+</li>
+<li id="bib.bib47" class="ltx_bibitem ltx_bib_inproceedings">
+<span class="ltx_tag ltx_bib_author-year ltx_role_refnum ltx_tag_bibitem">R. Rudinger, J. Naradowsky, B. Leonard, and B. Van Durme (2018a)</span>
+<span class="ltx_bibblock"><span class="ltx_text ltx_bib_title">Gender bias in coreference resolution</span>.
+</span>
+<span class="ltx_bibblock">In <span class="ltx_text ltx_bib_inbook">Proceedings of the 2018 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 2 (Short Papers)</span>,
+</span>
+<span class="ltx_bibblock"><span class="ltx_text ltx_bib_place">New Orleans, Louisiana</span>, <span class="ltx_text ltx_bib_pages"> pp. 8–14</span>.
+</span>
+<span class="ltx_bibblock">External Links: <span class="ltx_text ltx_bib_links"><a href="https://aclanthology.org/N18-2002" title="" class="ltx_ref ltx_bib_external">Link</a>,
+<a href="https://dx.doi.org/10.18653/v1/N18-2002" title="" class="ltx_ref doi ltx_bib_external">Document</a></span>
+</span>
+<span class="ltx_bibblock ltx_bib_cited">Cited by: <a href="#S2.T1" title="Table 1 ‣ 2 Understanding Bias and its Impact on Machine Translation Systems ‣ Gender Bias in Machine Translation: a Survey 1st Semester of 2022-2023" class="ltx_ref"><span class="ltx_text ltx_ref_tag">Table 1</span></a>.
+</span>
+</li>
+<li id="bib.bib55" class="ltx_bibitem ltx_bib_inproceedings">
+<span class="ltx_tag ltx_bib_author-year ltx_role_refnum ltx_tag_bibitem">R. Rudinger, J. Naradowsky, B. Leonard, and B. Van Durme (2018b)</span>
+<span class="ltx_bibblock"><span class="ltx_text ltx_bib_title">Gender bias in coreference resolution</span>.
+</span>
+<span class="ltx_bibblock">In <span class="ltx_text ltx_bib_inbook">Proceedings of the 2018 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies</span>,
+</span>
+<span class="ltx_bibblock"><span class="ltx_text ltx_bib_place">New Orleans, Louisiana</span>.
+</span>
+<span class="ltx_bibblock ltx_bib_cited">Cited by: <a href="#S1.p2" title="1 Introduction ‣ Gender Bias in Machine Translation: a Survey 1st Semester of 2022-2023" class="ltx_ref"><span class="ltx_text ltx_ref_tag">§1</span></a>.
+</span>
+</li>
+<li id="bib.bib56" class="ltx_bibitem ltx_bib_article">
+<span class="ltx_tag ltx_bib_author-year ltx_role_refnum ltx_tag_bibitem">K. Sakaguchi, R. L. Bras, C. Bhagavatula, and Y. Choi (2021)</span>
+<span class="ltx_bibblock"><span class="ltx_text ltx_bib_title">WinoGrande: an adversarial winograd schema challenge at scale</span>.
+</span>
+<span class="ltx_bibblock"><span class="ltx_text ltx_bib_journal">Commun. ACM</span> <span class="ltx_text ltx_bib_volume">64</span> (<span class="ltx_text ltx_bib_number">9</span>), <span class="ltx_text ltx_bib_pages"> pp. 99–106</span>.
+</span>
+<span class="ltx_bibblock">External Links: <span class="ltx_text ltx_bib_links"><span class="ltx_text issn ltx_bib_external">ISSN 0001-0782</span>,
+<a href="https://doi.org/10.1145/3474381" title="" class="ltx_ref ltx_bib_external">Link</a>,
+<a href="https://dx.doi.org/10.1145/3474381" title="" class="ltx_ref doi ltx_bib_external">Document</a></span>
+</span>
+<span class="ltx_bibblock ltx_bib_cited">Cited by: <a href="#S1.p2" title="1 Introduction ‣ Gender Bias in Machine Translation: a Survey 1st Semester of 2022-2023" class="ltx_ref"><span class="ltx_text ltx_ref_tag">§1</span></a>.
+</span>
+</li>
+<li id="bib.bib29" class="ltx_bibitem ltx_bib_inproceedings">
+<span class="ltx_tag ltx_bib_author-year ltx_role_refnum ltx_tag_bibitem">D. Saunders and B. Byrne (2020)</span>
+<span class="ltx_bibblock"><span class="ltx_text ltx_bib_title">Reducing gender bias in neural machine translation as a domain adaptation problem</span>.
+</span>
+<span class="ltx_bibblock">In <span class="ltx_text ltx_bib_inbook">Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics</span>,
+</span>
+<span class="ltx_bibblock"><span class="ltx_text ltx_bib_place">Online</span>, <span class="ltx_text ltx_bib_pages"> pp. 7724–7736</span>.
+</span>
+<span class="ltx_bibblock">External Links: <span class="ltx_text ltx_bib_links"><a href="https://aclanthology.org/2020.acl-main.690" title="" class="ltx_ref ltx_bib_external">Link</a>,
+<a href="https://dx.doi.org/10.18653/v1/2020.acl-main.690" title="" class="ltx_ref doi ltx_bib_external">Document</a></span>
+</span>
+<span class="ltx_bibblock ltx_bib_cited">Cited by: <a href="#S1.p2" title="1 Introduction ‣ Gender Bias in Machine Translation: a Survey 1st Semester of 2022-2023" class="ltx_ref"><span class="ltx_text ltx_ref_tag">§1</span></a>,
+<a href="#S3.SS3.SSS2.p1" title="3.3.2 Lattice Re-scoring ‣ 3.3 Debiasing through External Components via Inference-time ‣ 3 A Categorization of Approaches for Reducing Bias ‣ Gender Bias in Machine Translation: a Survey 1st Semester of 2022-2023" class="ltx_ref"><span class="ltx_text ltx_ref_tag">§3.3.2</span></a>.
+</span>
+</li>
+<li id="bib.bib24" class="ltx_bibitem ltx_bib_inproceedings">
+<span class="ltx_tag ltx_bib_author-year ltx_role_refnum ltx_tag_bibitem">D. Saunders, R. Sallis, and B. Byrne (2020)</span>
+<span class="ltx_bibblock"><span class="ltx_text ltx_bib_title">Neural machine translation doesn’t translate gender coreference right unless you make it</span>.
+</span>
+<span class="ltx_bibblock">In <span class="ltx_text ltx_bib_inbook">Proceedings of the Second Workshop on Gender Bias in Natural Language Processing</span>,
+</span>
+<span class="ltx_bibblock"><span class="ltx_text ltx_bib_place">Barcelona, Spain (Online)</span>, <span class="ltx_text ltx_bib_pages"> pp. 35–43</span>.
+</span>
+<span class="ltx_bibblock">External Links: <span class="ltx_text ltx_bib_links"><a href="https://aclanthology.org/2020.gebnlp-1.4" title="" class="ltx_ref ltx_bib_external">Link</a></span>
+</span>
+<span class="ltx_bibblock ltx_bib_cited">Cited by: <a href="#S3.SS1.SSS1.p1" title="3.1.1 Gender tagging ‣ 3.1 Dataset alignment ‣ 3 A Categorization of Approaches for Reducing Bias ‣ Gender Bias in Machine Translation: a Survey 1st Semester of 2022-2023" class="ltx_ref"><span class="ltx_text ltx_ref_tag">§3.1.1</span></a>,
+<a href="#S3.SS1.SSS1.p4" title="3.1.1 Gender tagging ‣ 3.1 Dataset alignment ‣ 3 A Categorization of Approaches for Reducing Bias ‣ Gender Bias in Machine Translation: a Survey 1st Semester of 2022-2023" class="ltx_ref"><span class="ltx_text ltx_ref_tag">§3.1.1</span></a>.
+</span>
+</li>
+<li id="bib.bib10" class="ltx_bibitem ltx_bib_article">
+<span class="ltx_tag ltx_bib_author-year ltx_role_refnum ltx_tag_bibitem">B. Savoldi, M. Gaido, L. Bentivogli, M. Negri, and M. Turchi (2021)</span>
+<span class="ltx_bibblock"><span class="ltx_text ltx_bib_title">Gender Bias in Machine Translation</span>.
+</span>
+<span class="ltx_bibblock"><span class="ltx_text ltx_bib_journal">Transactions of the Association for Computational Linguistics</span> <span class="ltx_text ltx_bib_volume">9</span>, <span class="ltx_text ltx_bib_pages"> pp. 845–874</span>.
+</span>
+<span class="ltx_bibblock">External Links: <span class="ltx_text ltx_bib_links"><span class="ltx_text issn ltx_bib_external">ISSN 2307-387X</span>,
+<a href="https://dx.doi.org/10.1162/tacl%5Fa%5F00401" title="" class="ltx_ref doi ltx_bib_external">Document</a>,
+<a href="https://doi.org/10.1162/tacl%5C_a%5C_00401" title="" class="ltx_ref ltx_bib_external">Link</a>,
+<span class="ltx_text ltx_bib_external">https://direct.mit.edu/tacl/article-pdf/doi/10.1162/tacl_a_00401/1957705/tacl_a_00401.pdf</span></span>
+</span>
+<span class="ltx_bibblock ltx_bib_cited">Cited by: <a href="#S3.SS1.p2" title="3.1 Dataset alignment ‣ 3 A Categorization of Approaches for Reducing Bias ‣ Gender Bias in Machine Translation: a Survey 1st Semester of 2022-2023" class="ltx_ref"><span class="ltx_text ltx_ref_tag">§3.1</span></a>,
+<a href="#S3.SS3.p2" title="3.3 Debiasing through External Components via Inference-time ‣ 3 A Categorization of Approaches for Reducing Bias ‣ Gender Bias in Machine Translation: a Survey 1st Semester of 2022-2023" class="ltx_ref"><span class="ltx_text ltx_ref_tag">§3.3</span></a>.
+</span>
+</li>
+<li id="bib.bib27" class="ltx_bibitem ltx_bib_misc">
+<span class="ltx_tag ltx_bib_author-year ltx_role_refnum ltx_tag_bibitem">S. Sharma, M. Dey, and K. Sinha (2022)</span>
+<span class="ltx_bibblock"><span class="ltx_text ltx_bib_title">How sensitive are translation systems to extra contexts? mitigating gender bias in neural machine translation models through relevant contexts</span>.
+</span>
+<span class="ltx_bibblock"> <span class="ltx_text ltx_bib_publisher">arXiv</span>.
+</span>
+<span class="ltx_bibblock">External Links: <span class="ltx_text ltx_bib_links"><a href="https://dx.doi.org/10.48550/ARXIV.2205.10762" title="" class="ltx_ref doi ltx_bib_external">Document</a>,
+<a href="https://arxiv.org/abs/2205.10762" title="" class="ltx_ref ltx_bib_external">Link</a></span>
+</span>
+<span class="ltx_bibblock ltx_bib_cited">Cited by: <a href="#S3.SS1.SSS2.p4" title="3.1.2 Adding context ‣ 3.1 Dataset alignment ‣ 3 A Categorization of Approaches for Reducing Bias ‣ Gender Bias in Machine Translation: a Survey 1st Semester of 2022-2023" class="ltx_ref"><span class="ltx_text ltx_ref_tag">§3.1.2</span></a>.
+</span>
+</li>
+<li id="bib.bib26" class="ltx_bibitem ltx_bib_inproceedings">
+<span class="ltx_tag ltx_bib_author-year ltx_role_refnum ltx_tag_bibitem">A. Stafanovičs, T. Bergmanis, and M. Pinnis (2020)</span>
+<span class="ltx_bibblock"><span class="ltx_text ltx_bib_title">Mitigating gender bias in machine translation with target gender annotations</span>.
+</span>
+<span class="ltx_bibblock">In <span class="ltx_text ltx_bib_inbook">Proceedings of the Fifth Conference on Machine Translation</span>,
+</span>
+<span class="ltx_bibblock"><span class="ltx_text ltx_bib_place">Online</span>, <span class="ltx_text ltx_bib_pages"> pp. 629–638</span>.
+</span>
+<span class="ltx_bibblock">External Links: <span class="ltx_text ltx_bib_links"><a href="https://aclanthology.org/2020.wmt-1.73" title="" class="ltx_ref ltx_bib_external">Link</a></span>
+</span>
+<span class="ltx_bibblock ltx_bib_cited">Cited by: <a href="#S3.SS1.SSS1.p1" title="3.1.1 Gender tagging ‣ 3.1 Dataset alignment ‣ 3 A Categorization of Approaches for Reducing Bias ‣ Gender Bias in Machine Translation: a Survey 1st Semester of 2022-2023" class="ltx_ref"><span class="ltx_text ltx_ref_tag">§3.1.1</span></a>.
+</span>
+</li>
+<li id="bib.bib23" class="ltx_bibitem ltx_bib_inproceedings">
+<span class="ltx_tag ltx_bib_author-year ltx_role_refnum ltx_tag_bibitem">G. Stanovsky, N. A. Smith, and L. Zettlemoyer (2019)</span>
+<span class="ltx_bibblock"><span class="ltx_text ltx_bib_title">Evaluating gender bias in machine translation</span>.
+</span>
+<span class="ltx_bibblock">In <span class="ltx_text ltx_bib_inbook">Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics</span>,
+</span>
+<span class="ltx_bibblock"><span class="ltx_text ltx_bib_place">Florence, Italy</span>, <span class="ltx_text ltx_bib_pages"> pp. 1679–1684</span>.
+</span>
+<span class="ltx_bibblock">External Links: <span class="ltx_text ltx_bib_links"><a href="https://aclanthology.org/P19-1164" title="" class="ltx_ref ltx_bib_external">Link</a>,
+<a href="https://dx.doi.org/10.18653/v1/P19-1164" title="" class="ltx_ref doi ltx_bib_external">Document</a></span>
+</span>
+<span class="ltx_bibblock ltx_bib_cited">Cited by: <a href="#S1.p2" title="1 Introduction ‣ Gender Bias in Machine Translation: a Survey 1st Semester of 2022-2023" class="ltx_ref"><span class="ltx_text ltx_ref_tag">§1</span></a>,
+<a href="#S3.SS1.SSS2.p3" title="3.1.2 Adding context ‣ 3.1 Dataset alignment ‣ 3 A Categorization of Approaches for Reducing Bias ‣ Gender Bias in Machine Translation: a Survey 1st Semester of 2022-2023" class="ltx_ref"><span class="ltx_text ltx_ref_tag">§3.1.2</span></a>.
+</span>
+</li>
+<li id="bib.bib39" class="ltx_bibitem ltx_bib_inproceedings">
+<span class="ltx_tag ltx_bib_author-year ltx_role_refnum ltx_tag_bibitem">T. Sun, A. Gaut, S. Tang, Y. Huang, M. ElSherief, J. Zhao, D. Mirza, E. Belding, K. Chang, and W. Y. Wang (2019)</span>
+<span class="ltx_bibblock"><span class="ltx_text ltx_bib_title">Mitigating gender bias in natural language processing: literature review</span>.
+</span>
+<span class="ltx_bibblock">In <span class="ltx_text ltx_bib_inbook">Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics</span>,
+</span>
+<span class="ltx_bibblock"><span class="ltx_text ltx_bib_place">Florence, Italy</span>, <span class="ltx_text ltx_bib_pages"> pp. 1630–1640</span>.
+</span>
+<span class="ltx_bibblock">External Links: <span class="ltx_text ltx_bib_links"><a href="https://aclanthology.org/P19-1159" title="" class="ltx_ref ltx_bib_external">Link</a>,
+<a href="https://dx.doi.org/10.18653/v1/P19-1159" title="" class="ltx_ref doi ltx_bib_external">Document</a></span>
+</span>
+<span class="ltx_bibblock ltx_bib_cited">Cited by: <a href="#S2.T1" title="Table 1 ‣ 2 Understanding Bias and its Impact on Machine Translation Systems ‣ Gender Bias in Machine Translation: a Survey 1st Semester of 2022-2023" class="ltx_ref"><span class="ltx_text ltx_ref_tag">Table 1</span></a>,
+<a href="#S2.p1" title="2 Understanding Bias and its Impact on Machine Translation Systems ‣ Gender Bias in Machine Translation: a Survey 1st Semester of 2022-2023" class="ltx_ref"><span class="ltx_text ltx_ref_tag">§2</span></a>.
+</span>
+</li>
+<li id="bib.bib12" class="ltx_bibitem ltx_bib_article">
+<span class="ltx_tag ltx_bib_author-year ltx_role_refnum ltx_tag_bibitem">T. Tallon (2019)</span>
+<span class="ltx_bibblock"><span class="ltx_text ltx_bib_title">A century of “shrill”: how bias in technology has hurt women’s voices</span>.
+</span>
+<span class="ltx_bibblock"><span class="ltx_text ltx_bib_journal">The New Yorker</span>.
+</span>
+<span class="ltx_bibblock ltx_bib_cited">Cited by: <a href="#S1.p3" title="1 Introduction ‣ Gender Bias in Machine Translation: a Survey 1st Semester of 2022-2023" class="ltx_ref"><span class="ltx_text ltx_ref_tag">§1</span></a>.
+</span>
+</li>
+<li id="bib.bib42" class="ltx_bibitem ltx_bib_inproceedings">
+<span class="ltx_tag ltx_bib_author-year ltx_role_refnum ltx_tag_bibitem">R. Tatman (2017)</span>
+<span class="ltx_bibblock"><span class="ltx_text ltx_bib_title">Gender and dialect bias in YouTube’s automatic captions</span>.
+</span>
+<span class="ltx_bibblock">In <span class="ltx_text ltx_bib_inbook">Proceedings of the First ACL Workshop on Ethics in Natural Language Processing</span>,
+</span>
+<span class="ltx_bibblock"><span class="ltx_text ltx_bib_place">Valencia, Spain</span>, <span class="ltx_text ltx_bib_pages"> pp. 53–59</span>.
+</span>
+<span class="ltx_bibblock">External Links: <span class="ltx_text ltx_bib_links"><a href="https://aclanthology.org/W17-1606" title="" class="ltx_ref ltx_bib_external">Link</a>,
+<a href="https://dx.doi.org/10.18653/v1/W17-1606" title="" class="ltx_ref doi ltx_bib_external">Document</a></span>
+</span>
+<span class="ltx_bibblock ltx_bib_cited">Cited by: <a href="#S2.T1" title="Table 1 ‣ 2 Understanding Bias and its Impact on Machine Translation Systems ‣ Gender Bias in Machine Translation: a Survey 1st Semester of 2022-2023" class="ltx_ref"><span class="ltx_text ltx_ref_tag">Table 1</span></a>.
+</span>
+</li>
+<li id="bib.bib35" class="ltx_bibitem ltx_bib_misc">
+<span class="ltx_tag ltx_bib_author-year ltx_role_refnum ltx_tag_bibitem">J. Troles and U. Schmid (2021)</span>
+<span class="ltx_bibblock"><span class="ltx_text ltx_bib_title">Extending challenge sets to uncover gender bias in machine translation: impact of stereotypical verbs and adjectives</span>.
+</span>
+<span class="ltx_bibblock"> <span class="ltx_text ltx_bib_publisher">arXiv</span>.
+</span>
+<span class="ltx_bibblock">External Links: <span class="ltx_text ltx_bib_links"><a href="https://dx.doi.org/10.48550/ARXIV.2107.11584" title="" class="ltx_ref doi ltx_bib_external">Document</a>,
+<a href="https://arxiv.org/abs/2107.11584" title="" class="ltx_ref ltx_bib_external">Link</a></span>
+</span>
+<span class="ltx_bibblock ltx_bib_cited">Cited by: <a href="#S1.p2" title="1 Introduction ‣ Gender Bias in Machine Translation: a Survey 1st Semester of 2022-2023" class="ltx_ref"><span class="ltx_text ltx_ref_tag">§1</span></a>.
+</span>
+</li>
+<li id="bib.bib22" class="ltx_bibitem ltx_bib_inproceedings">
+<span class="ltx_tag ltx_bib_author-year ltx_role_refnum ltx_tag_bibitem">E. Vanmassenhove, C. Hardmeier, and A. Way (2018)</span>
+<span class="ltx_bibblock"><span class="ltx_text ltx_bib_title">Getting gender right in neural machine translation</span>.
+</span>
+<span class="ltx_bibblock">In <span class="ltx_text ltx_bib_inbook">Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing</span>,
+</span>
+<span class="ltx_bibblock"><span class="ltx_text ltx_bib_place">Brussels, Belgium</span>, <span class="ltx_text ltx_bib_pages"> pp. 3003–3008</span>.
+</span>
+<span class="ltx_bibblock">External Links: <span class="ltx_text ltx_bib_links"><a href="https://aclanthology.org/D18-1334" title="" class="ltx_ref ltx_bib_external">Link</a>,
+<a href="https://dx.doi.org/10.18653/v1/D18-1334" title="" class="ltx_ref doi ltx_bib_external">Document</a></span>
+</span>
+<span class="ltx_bibblock ltx_bib_cited">Cited by: <a href="#S1.p2" title="1 Introduction ‣ Gender Bias in Machine Translation: a Survey 1st Semester of 2022-2023" class="ltx_ref"><span class="ltx_text ltx_ref_tag">§1</span></a>,
+<a href="#S3.SS1.SSS1.p1" title="3.1.1 Gender tagging ‣ 3.1 Dataset alignment ‣ 3 A Categorization of Approaches for Reducing Bias ‣ Gender Bias in Machine Translation: a Survey 1st Semester of 2022-2023" class="ltx_ref"><span class="ltx_text ltx_ref_tag">§3.1.1</span></a>,
+<a href="#S3.SS1.SSS1.p2" title="3.1.1 Gender tagging ‣ 3.1 Dataset alignment ‣ 3 A Categorization of Approaches for Reducing Bias ‣ Gender Bias in Machine Translation: a Survey 1st Semester of 2022-2023" class="ltx_ref"><span class="ltx_text ltx_ref_tag">§3.1.1</span></a>.
+</span>
+</li>
+<li id="bib.bib63" class="ltx_bibitem ltx_bib_article">
+<span class="ltx_tag ltx_bib_author-year ltx_role_refnum ltx_tag_bibitem">C. Wagner, D. Garcia, M. Jadidi, and M. Strohmaier (2021)</span>
+<span class="ltx_bibblock"><span class="ltx_text ltx_bib_title">It’s a man’s wikipedia? assessing gender inequality in an online encyclopedia</span>.
+</span>
+<span class="ltx_bibblock"><span class="ltx_text ltx_bib_journal">Proceedings of the International AAAI Conference on Web and Social Media</span> <span class="ltx_text ltx_bib_volume">9</span> (<span class="ltx_text ltx_bib_number">1</span>), <span class="ltx_text ltx_bib_pages"> pp. 454–463</span>.
+</span>
+<span class="ltx_bibblock">External Links: <span class="ltx_text ltx_bib_links"><a href="https://ojs.aaai.org/index.php/ICWSM/article/view/14628" title="" class="ltx_ref ltx_bib_external">Link</a>,
+<a href="https://dx.doi.org/10.1609/icwsm.v9i1.14628" title="" class="ltx_ref doi ltx_bib_external">Document</a></span>
+</span>
+<span class="ltx_bibblock ltx_bib_cited">Cited by: <a href="#S3.SS1.p1" title="3.1 Dataset alignment ‣ 3 A Categorization of Approaches for Reducing Bias ‣ Gender Bias in Machine Translation: a Survey 1st Semester of 2022-2023" class="ltx_ref"><span class="ltx_text ltx_ref_tag">§3.1</span></a>.
+</span>
+</li>
+<li id="bib.bib17" class="ltx_bibitem ltx_bib_inproceedings">
+<span class="ltx_tag ltx_bib_author-year ltx_role_refnum ltx_tag_bibitem">J. Zhao, T. Wang, M. Yatskar, R. Cotterell, V. Ordonez, and K. Chang (2019)</span>
+<span class="ltx_bibblock"><span class="ltx_text ltx_bib_title">Gender bias in contextualized word embeddings</span>.
+</span>
+<span class="ltx_bibblock">In <span class="ltx_text ltx_bib_inbook">Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 1 (Long and Short Papers)</span>,
+</span>
+<span class="ltx_bibblock"><span class="ltx_text ltx_bib_place">Minneapolis, Minnesota</span>, <span class="ltx_text ltx_bib_pages"> pp. 629–634</span>.
+</span>
+<span class="ltx_bibblock">External Links: <span class="ltx_text ltx_bib_links"><a href="https://aclanthology.org/N19-1064" title="" class="ltx_ref ltx_bib_external">Link</a>,
+<a href="https://dx.doi.org/10.18653/v1/N19-1064" title="" class="ltx_ref doi ltx_bib_external">Document</a></span>
+</span>
+<span class="ltx_bibblock ltx_bib_cited">Cited by: <a href="#S3.I3.i1.p1" title="1st item ‣ 3.2.2 Debiasing Contextual Word Embeddings ‣ 3.2 Model Debiasing ‣ 3 A Categorization of Approaches for Reducing Bias ‣ Gender Bias in Machine Translation: a Survey 1st Semester of 2022-2023" class="ltx_ref"><span class="ltx_text ltx_ref_tag">1st item</span></a>.
+</span>
+</li>
+<li id="bib.bib46" class="ltx_bibitem ltx_bib_inproceedings">
+<span class="ltx_tag ltx_bib_author-year ltx_role_refnum ltx_tag_bibitem">J. Zhao, T. Wang, M. Yatskar, V. Ordonez, and K. Chang (2017)</span>
+<span class="ltx_bibblock"><span class="ltx_text ltx_bib_title">Men also like shopping: reducing gender bias amplification using corpus-level constraints</span>.
+</span>
+<span class="ltx_bibblock">In <span class="ltx_text ltx_bib_inbook">Proceedings of the 2017 Conference on Empirical Methods in Natural Language Processing</span>,
+</span>
+<span class="ltx_bibblock"><span class="ltx_text ltx_bib_place">Copenhagen, Denmark</span>, <span class="ltx_text ltx_bib_pages"> pp. 2979–2989</span>.
+</span>
+<span class="ltx_bibblock">External Links: <span class="ltx_text ltx_bib_links"><a href="https://aclanthology.org/D17-1323" title="" class="ltx_ref ltx_bib_external">Link</a>,
+<a href="https://dx.doi.org/10.18653/v1/D17-1323" title="" class="ltx_ref doi ltx_bib_external">Document</a></span>
+</span>
+<span class="ltx_bibblock ltx_bib_cited">Cited by: <a href="#S2.T1" title="Table 1 ‣ 2 Understanding Bias and its Impact on Machine Translation Systems ‣ Gender Bias in Machine Translation: a Survey 1st Semester of 2022-2023" class="ltx_ref"><span class="ltx_text ltx_ref_tag">Table 1</span></a>.
+</span>
+</li>
+<li id="bib.bib15" class="ltx_bibitem ltx_bib_inproceedings">
+<span class="ltx_tag ltx_bib_author-year ltx_role_refnum ltx_tag_bibitem">J. Zhao, T. Wang, M. Yatskar, V. Ordonez, and K. Chang (2018a)</span>
+<span class="ltx_bibblock"><span class="ltx_text ltx_bib_title">Gender bias in coreference resolution: evaluation and debiasing methods</span>.
+</span>
+<span class="ltx_bibblock">In <span class="ltx_text ltx_bib_inbook">Proceedings of the 2018 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 2 (Short Papers)</span>,
+</span>
+<span class="ltx_bibblock"><span class="ltx_text ltx_bib_place">New Orleans, Louisiana</span>, <span class="ltx_text ltx_bib_pages"> pp. 15–20</span>.
+</span>
+<span class="ltx_bibblock">External Links: <span class="ltx_text ltx_bib_links"><a href="https://aclanthology.org/N18-2003" title="" class="ltx_ref ltx_bib_external">Link</a>,
+<a href="https://dx.doi.org/10.18653/v1/N18-2003" title="" class="ltx_ref doi ltx_bib_external">Document</a></span>
+</span>
+<span class="ltx_bibblock ltx_bib_cited">Cited by: <a href="#S1.p2" title="1 Introduction ‣ Gender Bias in Machine Translation: a Survey 1st Semester of 2022-2023" class="ltx_ref"><span class="ltx_text ltx_ref_tag">§1</span></a>,
+<a href="#S3.I2.i2.p1" title="2nd item ‣ 3.2.1 Debiasing Static Word Embeddings ‣ 3.2 Model Debiasing ‣ 3 A Categorization of Approaches for Reducing Bias ‣ Gender Bias in Machine Translation: a Survey 1st Semester of 2022-2023" class="ltx_ref"><span class="ltx_text ltx_ref_tag">2nd item</span></a>,
+<a href="#S3.SS1.SSS3.p1" title="3.1.3 Gender swapping ‣ 3.1 Dataset alignment ‣ 3 A Categorization of Approaches for Reducing Bias ‣ Gender Bias in Machine Translation: a Survey 1st Semester of 2022-2023" class="ltx_ref"><span class="ltx_text ltx_ref_tag">§3.1.3</span></a>.
+</span>
+</li>
+<li id="bib.bib62" class="ltx_bibitem ltx_bib_article">
+<span class="ltx_tag ltx_bib_author-year ltx_role_refnum ltx_tag_bibitem">J. Zhao, Y. Zhou, Z. Li, W. Wang, and K. Chang (2018b)</span>
+<span class="ltx_bibblock"><span class="ltx_text ltx_bib_title">Learning gender-neutral word embeddings</span>.
+</span>
+<span class="ltx_bibblock"><span class="ltx_text ltx_bib_journal">arXiv preprint arXiv:1809.01496</span>.
+</span>
+<span class="ltx_bibblock ltx_bib_cited">Cited by: <a href="#S1.p2" title="1 Introduction ‣ Gender Bias in Machine Translation: a Survey 1st Semester of 2022-2023" class="ltx_ref"><span class="ltx_text ltx_ref_tag">§1</span></a>.
+</span>
+</li>
+</ul>
+</section>
+</article>
+</div>
+<footer class="ltx_page_footer">
+<div class="ltx_page_logo">Generated  on Fri May 26 20:42:44 2023 by <a href="http://dlmf.nist.gov/LaTeXML/" class="ltx_LaTeXML_logo"><span style="letter-spacing:-0.2em; margin-right:0.1em;">L<span style="font-size:70%;position:relative; bottom:2.2pt;">A</span>T<span style="position:relative; bottom:-0.4ex;">E</span></span><span class="ltx_font_smallcaps">xml</span><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAsAAAAOCAYAAAD5YeaVAAAAAXNSR0IArs4c6QAAAAZiS0dEAP8A/wD/oL2nkwAAAAlwSFlzAAALEwAACxMBAJqcGAAAAAd0SU1FB9wKExQZLWTEaOUAAAAddEVYdENvbW1lbnQAQ3JlYXRlZCB3aXRoIFRoZSBHSU1Q72QlbgAAAdpJREFUKM9tkL+L2nAARz9fPZNCKFapUn8kyI0e4iRHSR1Kb8ng0lJw6FYHFwv2LwhOpcWxTjeUunYqOmqd6hEoRDhtDWdA8ApRYsSUCDHNt5ul13vz4w0vWCgUnnEc975arX6ORqN3VqtVZbfbTQC4uEHANM3jSqXymFI6yWazP2KxWAXAL9zCUa1Wy2tXVxheKA9YNoR8Pt+aTqe4FVVVvz05O6MBhqUIBGk8Hn8HAOVy+T+XLJfLS4ZhTiRJgqIoVBRFIoric47jPnmeB1mW/9rr9ZpSSn3Lsmir1fJZlqWlUonKsvwWwD8ymc/nXwVBeLjf7xEKhdBut9Hr9WgmkyGEkJwsy5eHG5vN5g0AKIoCAEgkEkin0wQAfN9/cXPdheu6P33fBwB4ngcAcByHJpPJl+fn54mD3Gg0NrquXxeLRQAAwzAYj8cwTZPwPH9/sVg8PXweDAauqqr2cDjEer1GJBLBZDJBs9mE4zjwfZ85lAGg2+06hmGgXq+j3+/DsixYlgVN03a9Xu8jgCNCyIegIAgx13Vfd7vdu+FweG8YRkjXdWy329+dTgeSJD3ieZ7RNO0VAXAPwDEAO5VKndi2fWrb9jWl9Esul6PZbDY9Go1OZ7PZ9z/lyuD3OozU2wAAAABJRU5ErkJggg==" alt="[LOGO]"></a>
+</div></footer>
+</div>
+</body>
+</html>
