@@ -53,9 +53,7 @@ Slug: machine_translation/22_23/hu_ro
 <span class="ltx_creator ltx_role_author">
 <span class="ltx_personname">Dumitrescu Teodor 
 <br class="ltx_break"><span class="ltx_text ltx_font_typewriter">teodor.dumitrescu</span> 
-<br class="ltx_break">
-Sava Daniel 
-<br class="ltx_break">
+<br class="ltx_break">Sava Daniel 
 <br class="ltx_break"><span class="ltx_text ltx_font_typewriter">vasile.sava</span> 
 <br class="ltx_break"><span class="ltx_text ltx_font_typewriter">@s.unibuc.ro</span>
 </span></span>
