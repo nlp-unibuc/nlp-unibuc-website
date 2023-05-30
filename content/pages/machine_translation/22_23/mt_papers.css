@@ -1,0 +1,59 @@
+:root,
+[data-theme="light"] {
+  /* fonts */
+  --headings-font-family: "Noto Sans", sans-serif;
+  --text-font-family: "Noto Serif", serif;
+  --math-font-family: "STIX Two Math", "Cambria Math", math;
+  /* Should we do anything special for caligraphic?
+     e.g. "Lucida Calligraphy","Zapf Chancery","URW Chancery L", TeX Gyre Termes...*/
+  --math-caligraphic-font-family: "STIX Two Math", "Cambria Math", math;
+  --code-font-family: "Noto Sans Mono", monospace;
+  /* default color theme is light */
+  --background-color: white;
+  --text-color: #292929;
+  --border-color: #292929;
+  --border-light-color: grey;
+  --image-color: black;
+  --image-background-color: white;
+  --link-text-color: #212121;
+  --email-link-color: #026ecb;
+  --note-mark-color: #026ecb; /* color: #3f88c5; */
+  --note-highlight-color: #ffffd4;
+  --info-text-color: #01719d;
+  --warning-text-color: #d09e05;
+  --error-text-color: #D8000C;
+  --fatal-text-color: #D8000C;
+  --index-ref-color: #026ecb;
+}
+
+body {
+  margin:0;
+  height: 100%;
+  width: 100%;
+  color: black;
+  background-color: white;
+  font-family: var(--text-font-family);
+  font-size: 1rem;
+}
+
+.ltx_font_serif      { font-family: var(--text-font-family); }
+.ltx_font_sansserif  { font-family: var(--headings-font-family); }
+.ltx_font_typewriter { font-family: var(--code-font-family); }
+/* dingbats should be converted to unicode? */
+/* Math font families handled within math: script, symbol, fraktur, blackboard ? */
+/* Font Series => font-weight */
+.ltx_font_bold       { font-weight: bold; }
+.ltx_font_medium     { font-weight: normal; }
+/* Font Shapes => font-style or font-variant */
+.ltx_font_italic     {
+  font-style: italic; }
+.ltx_font_upright    {
+  font-style: normal;
+  font-variant:normal; }
+.ltx_font_slanted    {
+  font-style: oblique; }
+.ltx_font_smallcaps  {
+  font-variant: small-caps;
+  font-style:normal; }
+.ltx_font_mathcaligraphic {
+  font-family: var(--math-caligraphic-font-family); }
