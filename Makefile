@@ -49,7 +49,7 @@ clean:
 regenerate: clean
 	$(PELICAN) -r $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS)
 
-serve:
+serve: html
 	cd $(OUTPUTDIR) && python3 -m http.server
 
 devserver:

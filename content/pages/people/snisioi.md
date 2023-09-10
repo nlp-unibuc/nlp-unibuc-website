@@ -5,14 +5,28 @@ Slug: people/snisioi
 
 I am currently an Assistant Professor within the Faculty of Mathematics and Computer Science, University of Bucharest.
 
-My work is related to connected areas of computational linguistics, covering topics such as psycholinguistics, computational learning theory, machine translation, and text simplification. In addition to academic research, for the past ten years I have been deploying machine learning pipelines at scale.
+My work is related to various areas of computational linguistics, covering topics such as psycholinguistics, computational learning theory, bias, machine translation, and text simplification. In addition to academic research, for the past ten years I have been deploying machine learning pipelines in production.
 
-I'm also interested in sound art, algorithmic compositions, DSP, and modular synthesizers: noize maker as part of [godwana sound project](https://soundcloud.com/godwana_noise), diy ecological research for [chlorophylla.live]( https://chlorophylla.live), and part of [HYPHA.ro](https://hypha.ro/).
+I'm also interested in sound art, algorithmic compositions, DSP, and modular synthesizers: former noize maker as part of [godwana sound project](https://soundcloud.com/godwana_noise), diy ecological research for [chlorophylla.live](https://chlorophylla.live), and part of [HYPHA.ro](https://hypha.ro/) initiative for digital autonomy.
 
 
-## Teaching activities
-- [Machine Translation](https://nlp.unibuc.ro/machine_translation.html) role-play course for NLP Master's students;
-- [Computer Networks](https://github.com/senisioi/computer-networks) course materials using docker and scapy;
+## Projects, Research Interests
+- [Machine Translation](https://nlp.unibuc.ro/machine_translation.html) Research Group
+- Large Language Model Evaluation
+- [Legal Document Processing](https://github.com/senisioi/rolegal) and automatic [Legislative Screening](https://github.com/scrapperorg/ocr) for Romanian.
+- EEG signal processing for Architecture Data, together with the [University of Architecture](https://www.uauim.ro)  and [CINETic](https://cinetic.arts.ro/en/home/) lab, partial info [here](https://ilds.ro/latent-space-curation-through-hybrid-metaheuristics/)
+- Language Complexity and the Development of Psycholinguistic Resources for Romanian, some old info [here](https://nlp.unibuc.ro/projects/langtherapy).
+- Europarl Corpus of [Dialectal Varieties and Translations](https://github.com/senisioi/dialectal_varieties) from the British Isles
+- Europarl Corpus of Native and Non-native [Texts](https://github.com/senisioi/enntt-release)
+- Named Entity Linking and Entity Recognition
+- Ludwig Wittgenstein's [Tractatus Network](http://tractatus.gitlab.io/) in collaboration with [Anca Bucur](https://ancabucur.net/)
+
+
+## Teaching
+- [Machine Translation](https://nlp.unibuc.ro/machine_translation.html) role-play course for NLP Master's students
+- [Computer Networks](https://networks.hypha.ro/) packet crafting course materials using docker and scapy [git repo here](https://github.com/senisioi/computer-networks)
+- Archaeology of Intelligent Machines, tba
+- Artificial Intelligence, tba
 
 
 ## Contact details
@@ -21,10 +35,11 @@ I'm also interested in sound art, algorithmic compositions, DSP, and modular syn
 
 
 
-
 ## Selected publications
+- Mihalcea, D.S., Nisioi S, **Clark Kent at SemEval-2023 Task 5: SVMs, Transformers, and Pixels for Clickbait Spoiling**, SemEval2023, [pdf](https://aclanthology.org/2023.semeval-1.167.pdf)
 - Ceausu C, Nisioi S, **Identifying Draft Bills Impacting Existing Legislation: a Case Study on Romanian**, LREC, 2022, [git](https://github.com/senisioi/rolegal)
 - Nisioi S, Uban AS, Dinu LP, **Identifying Source-Language Dialects in Translation**, Natural Language Processing (NLP) and Machine Learning (ML)—Theory and Applications, 10 (9), 1431, [git](https://github.com/senisioi/dialectal_varieties)
+- Nisioi S. **A Computational Exploration of Natural Language Varieties**, 2020, [pdf](https://rei.gov.ro/teza-doctorat-document/86113760eeb1b92ed1a-t.teza-de-doctorat-in-format-electronic.pdf)
 - Štajner S, Nisioi S, Hulpuș I, **CoCo: A tool for automatically assessing conceptual complexity of texts**, LREC, 2020, [git](https://github.com/ioanahulpus/cocospa/)
 - Abassi S El, Nisioi S, **MDD@ AMI: Vanilla Classifiers for Misogyny Identification**, EVALITA 2020, [pdf](http://ceur-ws.org/Vol-2765/paper149.pdf)
 - Štajner S, Nisioi S, **A detailed evaluation of neural sequence-to-sequence models for in-domain and cross-domain text simplification**, LREC, 2018, [pdf](https://www.aclweb.org/anthology/L18-1479.pdf)

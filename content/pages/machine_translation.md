@@ -1,11 +1,8 @@
-Title: Machine Translation Course, Information, Yearly Results
+Title: Machine Translation Research Group
 Slug: machine_translation
-
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 
-
-# Academic year 2022-2023
 
 \\[ T(f \rightarrow e) = \arg \max_{e} P(e)P(f|e) \\]
 
@@ -16,7 +13,19 @@ tr:nth-child(even) {
 }
 </style>
 
+Our goal is to increase the amount of research and resources for Eastern Europeean and less resourced languages.
+
+# Machine Translation Series
+- [Romanian-Hungarian Machine Translation](https://nlp.unibuc.ro/machine_translation/22_23/hu_ro.html)
+- [Gender Bias Overview](https://nlp.unibuc.ro/machine_translation/22_23/genderbias.html)
+- [Machine Translation for Mental Health](https://nlp.unibuc.ro/machine_translation/22_23/mental_health) 
+- [Dialectal Machine Translation](https://github.com/lucianistrati/Machine-Translation-Romanian-Dialects)
+- [Evaluation of MT](https://github.com/eu3neuom/machine-translation/blob/main/paper.pdf)
+
+
+
 # Contents
+
 - [Schedule 2022](#schedule)
 - [Roles](#roles)
     - [Author](#role_aut)

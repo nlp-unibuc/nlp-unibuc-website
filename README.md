@@ -1,10 +1,8 @@
 nlp-unibuc website source
 =========================
 
-Source code for generating our static website.
+- one can simply change the markdown files, push, and the changes will be visible at nlp.unibuc.ro
 
-- ghp-import is no longer needed; we are currently running a github action that does auto-deploy
-- one can simply change the markdown files, push, and the changes will be visible
 
 ## How to test changes locally
 
@@ -15,13 +13,10 @@ You need [Pelican](http://blog.getpelican.com/) and [typogrify](https://pypi.pyt
 In order to deploy the website, if you have commit rights to the organization,
 the easy way to set up is as follows:
 
-1. Do this step once:
+1. Clone the repo:
 
 ```bash
-   git submodule init
-   git submodule update
-   git remote add deploy git@github.com:nlp-unibuc/nlp-unibuc.github.io.git
-   git config remote.deploy.push deploy:master
+   git clone --recurse-submodules git@github.com:nlp-unibuc/nlp-unibuc-website.git
 ```
 
 2. Generate the website locally:
@@ -63,10 +58,6 @@ The output directory contains the generated website.
    git commit -m "done!"    # add some pretty message
    git push origin master   # push to master branch
 ```
-
-
-
-
 
 
 6. Visit http://nlp-unibuc.github.io and enjoy your new changes!
