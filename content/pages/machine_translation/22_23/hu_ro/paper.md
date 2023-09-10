@@ -651,12 +651,13 @@ Tianyi Zhang, Varsha Kishore, Felix Wu, Kilian Q. Weinberger, Yoav Artzi (2019) 
 </html>
 
 ```
-@techreport{nlpunibuc-2022-mt-genderbias,
+@techreport{nlpunibuc-2022-mt-hu-ro,
     author = "Dumitrescu Teodor and Sava Daniel",
     title = "Machine Translation Hungarian to Romanian",
     year = "2023",
-    month = May,
+    month = "May",
     url = "https://nlp.unibuc.ro/machine_translation/22_23/hu_ro",
+    institution = "Human Language Technologies Research Center, University of Bucharest",
     editor = "lect. dr. Sergiu Nisioi",
     organization = "University of Bucharest",
     publisher = "Machine Translation Series",

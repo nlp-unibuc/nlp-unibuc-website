@@ -1120,3 +1120,19 @@ the English approaches and the native methods.</figcaption>
 </div>
 </body>
 </html>
+
+
+```
+@techreport{nlpunibuc-2022-mt-mental-health,
+    author = "Iordachescu Anca-Mihaela and Stan Flavius-Stefan",
+    title = "An Evaluation of Machine Translation for Multilingual Mental Health Detection",
+    year = "2023",
+    month = "May",
+    institution = "Human Language Technologies Research Center, University of Bucharest",
+    url = "https://nlp.unibuc.ro/machine_translation/22_23/mental_health",
+    editor = "lect. dr. Sergiu Nisioi",
+    organization = "University of Bucharest",
+    publisher = "Machine Translation Series",
+    note = "Machine Translation Research Group - Online access."
+}
+```
