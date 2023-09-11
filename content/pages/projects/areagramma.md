@@ -1,4 +1,4 @@
-Title: Area Gramma: Automatic Text Simplification Resources for Romanian
+Title: Text Simplification, Language Complexity, and the development of Psycholinguistic Resources for Romanian
 Slug: projects/langtherapy
 
 
