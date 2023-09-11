@@ -10,20 +10,20 @@ My work is related to various areas of computational linguistics, covering topic
 I'm also interested in sound art, algorithmic compositions, DSP, and modular synthesizers: former noize maker as part of [godwana sound project](https://soundcloud.com/godwana_noise), diy ecological research for [chlorophylla.live](https://chlorophylla.live), and part of [HYPHA.ro](https://hypha.ro/) initiative for digital autonomy.
 
 
-## Projects, Research Interests
-- [Machine Translation](https://nlp.unibuc.ro/machine_translation.html) Research Group
-- Large Language Model Evaluation
+## Projects and Research
+- [Machine Translation](/machine_translation.html) Research Group
+- Cognitive Evaluation of Language Models
 - [Legal Document Processing](https://github.com/senisioi/rolegal) and automatic [Legislative Screening](https://github.com/scrapperorg/ocr) for Romanian.
 - EEG signal processing for Architecture Data, together with the [University of Architecture](https://www.uauim.ro)  and [CINETic](https://cinetic.arts.ro/en/home/) lab, partial info [here](https://ilds.ro/latent-space-curation-through-hybrid-metaheuristics/)
-- Language Complexity and the Development of Psycholinguistic Resources for Romanian, some old info [here](https://nlp.unibuc.ro/projects/langtherapy).
+- Text Simplification, Language Complexity, and the development of Psycholinguistic Resources for Romanian, some old info [here](/projects/langtherapy.html).
 - Europarl Corpus of [Dialectal Varieties and Translations](https://github.com/senisioi/dialectal_varieties) from the British Isles
 - Europarl Corpus of Native and Non-native [Texts](https://github.com/senisioi/enntt-release)
-- Named Entity Linking and Entity Recognition
+- Entity Linking and Entity Recognition
 - Ludwig Wittgenstein's [Tractatus Network](http://tractatus.gitlab.io/) in collaboration with [Anca Bucur](https://ancabucur.net/)
 
 
 ## Teaching
-- [Machine Translation](https://nlp.unibuc.ro/machine_translation.html) role-play course for NLP Master's students
+- [Machine Translation](/machine_translation.html) role-play course for NLP Master's students
 - [Computer Networks](https://networks.hypha.ro/) packet crafting course materials using docker and scapy [git repo here](https://github.com/senisioi/computer-networks)
 - Archaeology of Intelligent Machines, tba
 - Artificial Intelligence, tba

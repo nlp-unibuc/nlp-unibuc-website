@@ -2,7 +2,7 @@ Title: Area Gramma: Automatic Text Simplification Resources for Romanian
 Slug: projects/langtherapy
 
 
-# Our Goal
+## Our Goal
 To build resources for Text Simplification in Romanian with the purpose of aiding people with cognitive impairments. For more info, contact [sergiu.nisioi](mailto:sergiu.nisioi@unibuc.ro).
 
 
