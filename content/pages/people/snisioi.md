@@ -13,7 +13,7 @@ I'm also interested in sound art, algorithmic compositions, DSP, and modular syn
 ## Projects and Research
 - [Machine Translation](/machine_translation.html) Research Group
 - Cognitive Evaluation of Language Models
-- [Legal Document Processing](https://github.com/senisioi/rolegal) and automatic [Legislative Screening](https://github.com/scrapperorg/ocr) for Romanian.
+- [Legal Document Processing](https://pypi.org/project/ro-legal-fl) and automatic [Legislative Screening](https://github.com/scrapperorg/ocr) for Romanian.
 - EEG signal processing for Architecture Data, together with the [University of Architecture](https://www.uauim.ro)  and [CINETic](https://cinetic.arts.ro/en/home/) lab, partial info [here](https://ilds.ro/latent-space-curation-through-hybrid-metaheuristics/)
 - Text Simplification, Language Complexity, and the development of Psycholinguistic Resources for Romanian, some old info [here](/projects/langtherapy.html).
 - Europarl Corpus of [Dialectal Varieties and Translations](https://github.com/senisioi/dialectal_varieties) from the British Isles
