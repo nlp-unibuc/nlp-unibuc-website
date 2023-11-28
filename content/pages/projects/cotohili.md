@@ -121,9 +121,11 @@ To achieve this goal, the following activities were planned and executed:
 
 # Articles
 
-1. Liviu P Dinu, Ioan-Bogdan Iordache, and Ana Sabina Uban. "CoToHiLi at SIGTYP 2023: Ensemble Models for Cognate and Derivative Words Detection." Proceedings of the 4th Workshop on Research in Computational Linguistic Typology and Multilingual NLP (co-located with EACL 2023), Dubrovnik, Croatia. Association for Computational Linguistics. 2023.
-2. Alina Maria Cristea, Anca Dinu, Liviu P. Dinu, Simona Georgescu, Ana Sabina Uban, Laurențiu Zoicaș, 2022.
-   CoToHiLi at LSCDiscovery: the Role of Linguistic Features inPredicting Semantic Change.
+1. Liviu P. Dinu, Ana Uban, Alina Maria Cristea, Anca Dinu, Bogdan Iordache, Simona Georgescu, Laurențiu Zoicaș, 2023. "RoBoCoP: A Comprehensive ROmance BOrrowing COgnate Package and Benchmark for Multilingual Cognate Identification." In Proceedings of the 2023
+Conference on Empirical Methods in Natural Language Processing (EMNLP 2023).
+2. Liviu P Dinu, Ioan-Bogdan Iordache, and Ana Sabina Uban. "CoToHiLi at SIGTYP 2023: Ensemble Models for Cognate and Derivative Words Detection." Proceedings of the 4th Workshop on Research in Computational Linguistic Typology and Multilingual NLP (co-located with EACL 2023), Dubrovnik, Croatia. Association for Computational Linguistics. 2023.
+3. Alina Maria Cristea, Anca Dinu, Liviu P. Dinu, Simona Georgescu, Ana Sabina Uban, Laurențiu Zoicaș, 2022.
+   CoToHiLi at LSCDiscovery: the Role of Linguistic Features in Predicting Semantic Change.
    In Proceedings of the 3rd Workshop on Computational Approaches to Historical Language Change (LChange @ ACL 2022), pages 187-192, May 26-27, 2022, Dublin, Ireland.
    [[PDF](https://aclanthology.org/2022.lchange-1.20.pdf)]
 2. Alina Maria Cristea, Anca Dinu, Liviu P Dinu, Simona Georgescu, Ana Uban, Laurențiu Zoicaș, 2022.
