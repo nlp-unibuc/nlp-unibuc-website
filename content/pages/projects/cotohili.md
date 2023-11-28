@@ -123,7 +123,10 @@ To achieve this goal, the following activities were planned and executed:
 
 # Articles
 
-1. Liviu P. Dinu, Ana Uban, Alina Maria Cristea, Anca Dinu, Bogdan Iordache, Simona Georgescu, Laurențiu Zoicaș, 2023. "RoBoCoP: A Comprehensive ROmance BOrrowing COgnate Package and Benchmark for Multilingual Cognate Identification." In Proceedings of the 2023
+1. Simona Georgescu, 2023 "Organigrama semántico de una familia etimológica: el esp. maca ‘señal que queda en la fruta por algún daño recibido’ y sus cognados románicos", Cuadernos del Instituto Historia de la Lengua, 16/2023
+2. Simona Georgescu, Alina Maria Cristea, Anca Dinu, Bogdan Iordache, Simona Georgescu, Ana Sabina Uban, Laurențiu Zoicaș, 2023. "Resurse digitale pentru analiza lexicului de origine latină în limbile romanice", in Studii și cercetări lingvistice, p 65-76, LXXIV (1).
+3. Liviu P Dinu, Alina Maria Cristea, Anca Dinu,  Simona Georgescu, Bogdan Iordache, Ana Sabina Uban, Laurențiu Zoicaș. "Computational Approaches for Romance Related Words Discrimination". The 26th International Conference on Historical Linguistics (ICHL 2023), Heidelberg, Germany, September 4-8 2023 (abstract, oral presentation)
+4. Liviu P. Dinu, Ana Uban, Alina Maria Cristea, Anca Dinu, Bogdan Iordache, Simona Georgescu, Laurențiu Zoicaș, 2023. "RoBoCoP: A Comprehensive ROmance BOrrowing COgnate Package and Benchmark for Multilingual Cognate Identification." In Proceedings of the 2023
 Conference on Empirical Methods in Natural Language Processing (EMNLP 2023).
 2. Liviu P Dinu, Ioan-Bogdan Iordache, and Ana Sabina Uban. "CoToHiLi at SIGTYP 2023: Ensemble Models for Cognate and Derivative Words Detection." Proceedings of the 4th Workshop on Research in Computational Linguistic Typology and Multilingual NLP (co-located with EACL 2023), Dubrovnik, Croatia. Association for Computational Linguistics. 2023.
 3. Alina Maria Cristea, Anca Dinu, Liviu P. Dinu, Simona Georgescu, Ana Sabina Uban, Laurențiu Zoicaș, 2022.
