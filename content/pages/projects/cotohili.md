@@ -51,42 +51,73 @@ To achieve this goal, the following activities were planned and executed:
 - Harmonization of identified resources
 - Dissemination
 
-#Project objective for 2022: Identificarea imprumuturilor si reconstructia protocuvintelor#
+#Project objective for 2022: Borrowing detection and proto-word reconstruction#
 
 To achieve this goal, the following activities were planned and executed:
 
- **Activity 2.1:Proiectarea și construcția bazei de date a cuvintelor împrumutate pentru limbile romanice**
+ **Activity 2.1:Designing and building a database of borrowings for Romance languages**
 
-- proiectarea bazei de date a cuvintelor împrumutate
-- identificarea perechilor împrumutate
-- analiza lingvistică a datelor obtinute,
-- eliminarea zgomotului
-- obținerea formei fonetice pentru limbile italiană, spaniolă, română
-- diseminare
+- designing the borrowings database
+- identifying borrowing pairs
+- linguistic analysis of the obtained data
+- cleaning the data
+- extracting phonetic transcriptions for the words in the database for Italiană, Spanish, Romanian
+- dissemination
 
- **Activity 2.2: Analiza, proiectarea și dezvoltarea unor instrumente asistate de computer pentru
-detectarea împrumuturilor**
-- analiza și proiectarea metodelor adecvate
-- identificarea celor mai buni parametri
-- testarea, evaluarea, îmbunătățirea rezultatelor
-- diseminare
+ **Activity 2.2: Analysis, design and development of computer-assisted tools for detecting borrowings**
+- analysis and design of appropriate methods
+- identifying optimal parameters for the models
+- testing, evaluation, result improvement and refinement
+- dissemination
 
-**Activity 2.3: Analiza resurselor existente și proiectarea unora adecvate pentru reconstrucția
-proto-cuvintelor latinești**
+**Activity 2.3: Analysis of existing resources and designing new adequate resources for latin proto-word reconstruction**
 
 - studiu asupra resurselor existente
 - armonizarea resurselor existente
 - proiectarea unor resurse noi, adecvate problemei de cercetare
 - diseminare
 
-**Activity 2.4: Analiza, proiectarea și dezvoltarea unor instrumente asistate de computer pentru
-detectarea proto-cuvintelor latinești**
+**Activity 2.4: Analysis, design and development of computer-assisted tools for detecting latin proto-words**
 
-- analiza și proiectarea resurselor asistate de computer adecvate
-- identificarea celor mai bune metode și a celor mai buni parametri
-- testarea, evaluarea, îmbunătățirea rezultatelor
-- analiza unor ansamble pentru eficientizarea rezultatelor
-- diseminare
+- analysis and design of appropriate computer-assisted resources
+- identifying the optimal methods and parameters
+- testing, evaluation, result improvement
+- analyzing ensemble methods for optimizing the efficiency of the solution
+- dissemination
+
+#Project objective for 2023: Analysis of semantic divergence and model evaluation.#
+
+To achieve this goal, the following activities were planned and executed:
+
+**Activity 3.1: Analyzing and enriching relevant resources and reviewing existing methods and problems in semantic divergence detection**
+
+- designing a database of borrowings
+- method analysis
+- identifying existing problems
+- reviewing and evaluating existing data and resources
+- enriching existing resources
+- dissemination
+
+**Activity 3.2: Computer-assisted analysis of semantic change of cognate words in the considered languages**
+
+- analysis and design of a computer-assisted method for detecting semantic change of words
+- construction and analysis of a lexicon of cognate words which suffered semantic changes
+- testing, evaluation, result improvement
+- dissemination
+
+**Activity 3.3: Identifying and analyzing statistical and linguistic patterns present in words which suffered semantic changes in the considered languages**
+
+- identifying quantitative patterns
+- analyzing linguistic factors which contribute to semantic change
+- analyzing identified semantic changes
+- dissemination
+
+**Activity 3.4: Finalizing models, analyzing models and evaluating results, dissemination of results and identifying new research directions**
+
+- finalizing models
+- analyzing models and evaluating results
+- analyzing results and identifying future research directions
+- dissemination
 
 # Articles
 
