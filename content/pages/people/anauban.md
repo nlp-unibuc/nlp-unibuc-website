@@ -2,11 +2,12 @@
 Slug: people/anauban
 
 ## Bio
-- Ph. D. student, Faculty of Mathematics
- and Computer Science, University of Bucharest
+- Assistant Professor, Faculty of Mathematics and Computer Science, University of Bucharest. Obtained my Ph.D in Computer Science in 2020 with the thesis "Distributional aspects of natural language. Semantic and stylistic dimensions of text".
 
-## Publications
-**Research interests**: semantic similarity, word embeddings applications, text classification, multilinguality, machine learning, authorship attribution and profiling.
+**Research interests**: historical computational lingusitics, lexical semantics, semantic change, multilinguality, mental health disorder detection.
+
+## Selected Publications
+
 
 **Finding a Character’s Voice: Stylome Classification on Literary Characters**, *Liviu P. Dinu, Ana Sabina Uban*
 In Proceedings of the Joint SIGHUM Workshop on Computational Linguistics for Cultural Heritage,

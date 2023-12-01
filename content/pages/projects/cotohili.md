@@ -3,6 +3,8 @@ Slug: projects/cotohili
 
 Project PN-III-P4-ID-PCE-2020-1544, funded by the Romanian National Authority for Scientific Research and Innovation, UEFISCDI: "Dezvoltarea de sisteme automate suport pentru lingvistica istorică".
 
+[Scientific Project Report](https://drive.google.com/file/d/1R4aox30pJyMTevtgOqJwpL_BXgRP7iPf/view?usp=drive_link)
+
 # Abstract
 
 This project represents a computational framework for historical linguistics ("Computational Tools for Historical Linguistics" – CoToHiLi). The general purpose of the CoToHiLi project is to integrate expert knowledge and computational power to address the following topics: cognate identification, cognate-borrowing discrimination, Latin protoword
@@ -51,48 +53,84 @@ To achieve this goal, the following activities were planned and executed:
 - Harmonization of identified resources
 - Dissemination
 
-#Project objective for 2022: Identificarea imprumuturilor si reconstructia protocuvintelor#
+#Project objective for 2022: Borrowing detection and proto-word reconstruction#
 
 To achieve this goal, the following activities were planned and executed:
 
- **Activity 2.1:Proiectarea și construcția bazei de date a cuvintelor împrumutate pentru limbile romanice**
+ **Activity 2.1:Designing and building a database of borrowings for Romance languages**
 
-- proiectarea bazei de date a cuvintelor împrumutate
-- identificarea perechilor împrumutate
-- analiza lingvistică a datelor obtinute,
-- eliminarea zgomotului
-- obținerea formei fonetice pentru limbile italiană, spaniolă, română
-- diseminare
+- designing the borrowings database
+- identifying borrowing pairs
+- linguistic analysis of the obtained data
+- cleaning the data
+- extracting phonetic transcriptions for the words in the database for Italiană, Spanish, Romanian
+- dissemination
 
- **Activity 2.2: Analiza, proiectarea și dezvoltarea unor instrumente asistate de computer pentru
-detectarea împrumuturilor**
-- analiza și proiectarea metodelor adecvate
-- identificarea celor mai buni parametri
-- testarea, evaluarea, îmbunătățirea rezultatelor
-- diseminare
+ **Activity 2.2: Analysis, design and development of computer-assisted tools for detecting borrowings**
+- analysis and design of appropriate methods
+- identifying optimal parameters for the models
+- testing, evaluation, result improvement and refinement
+- dissemination
 
-**Activity 2.3: Analiza resurselor existente și proiectarea unora adecvate pentru reconstrucția
-proto-cuvintelor latinești**
+**Activity 2.3: Analysis of existing resources and designing new adequate resources for latin proto-word reconstruction**
 
 - studiu asupra resurselor existente
 - armonizarea resurselor existente
 - proiectarea unor resurse noi, adecvate problemei de cercetare
 - diseminare
 
-**Activity 2.4: Analiza, proiectarea și dezvoltarea unor instrumente asistate de computer pentru
-detectarea proto-cuvintelor latinești**
+**Activity 2.4: Analysis, design and development of computer-assisted tools for detecting latin proto-words**
 
-- analiza și proiectarea resurselor asistate de computer adecvate
-- identificarea celor mai bune metode și a celor mai buni parametri
-- testarea, evaluarea, îmbunătățirea rezultatelor
-- analiza unor ansamble pentru eficientizarea rezultatelor
-- diseminare
+- analysis and design of appropriate computer-assisted resources
+- identifying the optimal methods and parameters
+- testing, evaluation, result improvement
+- analyzing ensemble methods for optimizing the efficiency of the solution
+- dissemination
+
+#Project objective for 2023: Analysis of semantic divergence and model evaluation.#
+
+To achieve this goal, the following activities were planned and executed:
+
+**Activity 3.1: Analyzing and enriching relevant resources and reviewing existing methods and problems in semantic divergence detection**
+
+- designing a database of borrowings
+- method analysis
+- identifying existing problems
+- reviewing and evaluating existing data and resources
+- enriching existing resources
+- dissemination
+
+**Activity 3.2: Computer-assisted analysis of semantic change of cognate words in the considered languages**
+
+- analysis and design of a computer-assisted method for detecting semantic change of words
+- construction and analysis of a lexicon of cognate words which suffered semantic changes
+- testing, evaluation, result improvement
+- dissemination
+
+**Activity 3.3: Identifying and analyzing statistical and linguistic patterns present in words which suffered semantic changes in the considered languages**
+
+- identifying quantitative patterns
+- analyzing linguistic factors which contribute to semantic change
+- analyzing identified semantic changes
+- dissemination
+
+**Activity 3.4: Finalizing models, analyzing models and evaluating results, dissemination of results and identifying new research directions**
+
+- finalizing models
+- analyzing models and evaluating results
+- analyzing results and identifying future research directions
+- dissemination
 
 # Articles
 
-1. Liviu P Dinu, Ioan-Bogdan Iordache, and Ana Sabina Uban. "CoToHiLi at SIGTYP 2023: Ensemble Models for Cognate and Derivative Words Detection." Proceedings of the 4th Workshop on Research in Computational Linguistic Typology and Multilingual NLP (co-located with EACL 2023), Dubrovnik, Croatia. Association for Computational Linguistics. 2023.
-2. Alina Maria Cristea, Anca Dinu, Liviu P. Dinu, Simona Georgescu, Ana Sabina Uban, Laurențiu Zoicaș, 2022.
-   CoToHiLi at LSCDiscovery: the Role of Linguistic Features inPredicting Semantic Change.
+1. Simona Georgescu, 2023 "Organigrama semántico de una familia etimológica: el esp. maca ‘señal que queda en la fruta por algún daño recibido’ y sus cognados románicos", Cuadernos del Instituto Historia de la Lengua, 16/2023
+2. Simona Georgescu, Alina Maria Cristea, Anca Dinu, Bogdan Iordache, Simona Georgescu, Ana Sabina Uban, Laurențiu Zoicaș, 2023. "Resurse digitale pentru analiza lexicului de origine latină în limbile romanice", in Studii și cercetări lingvistice, p 65-76, LXXIV (1).
+3. Liviu P Dinu, Alina Maria Cristea, Anca Dinu,  Simona Georgescu, Bogdan Iordache, Ana Sabina Uban, Laurențiu Zoicaș. "Computational Approaches for Romance Related Words Discrimination". The 26th International Conference on Historical Linguistics (ICHL 2023), Heidelberg, Germany, September 4-8 2023 (abstract, oral presentation)
+4. Liviu P. Dinu, Ana Uban, Alina Maria Cristea, Anca Dinu, Bogdan Iordache, Simona Georgescu, Laurențiu Zoicaș, 2023. "RoBoCoP: A Comprehensive ROmance BOrrowing COgnate Package and Benchmark for Multilingual Cognate Identification." In Proceedings of the 2023
+Conference on Empirical Methods in Natural Language Processing (EMNLP 2023).
+2. Liviu P Dinu, Ioan-Bogdan Iordache, and Ana Sabina Uban. "CoToHiLi at SIGTYP 2023: Ensemble Models for Cognate and Derivative Words Detection." Proceedings of the 4th Workshop on Research in Computational Linguistic Typology and Multilingual NLP (co-located with EACL 2023), Dubrovnik, Croatia. Association for Computational Linguistics. 2023.
+3. Alina Maria Cristea, Anca Dinu, Liviu P. Dinu, Simona Georgescu, Ana Sabina Uban, Laurențiu Zoicaș, 2022.
+   CoToHiLi at LSCDiscovery: the Role of Linguistic Features in Predicting Semantic Change.
    In Proceedings of the 3rd Workshop on Computational Approaches to Historical Language Change (LChange @ ACL 2022), pages 187-192, May 26-27, 2022, Dublin, Ireland.
    [[PDF](https://aclanthology.org/2022.lchange-1.20.pdf)]
 2. Alina Maria Cristea, Anca Dinu, Liviu P Dinu, Simona Georgescu, Ana Uban, Laurențiu Zoicaș, 2022.
@@ -205,25 +243,34 @@ Madalina Chitez, Liviu Dinu and Mihnea Dobre (eds.), Peter Lang, (252 p), 2022
 
 # Talks
 
-1. Liviu P. Dinu, 2023. Computer-assisted tools for generating and discriminating related words in historical linguistics.
-Oberseminar, University of Tubingen, Department of Linguistics, January 23, 2023
-2. Anca Dinu, 2022. A semantic change time-lapse for Romance languages and English. 25th
-International Conference on Historical Linguistics (ICHL25), August 2, 2022, Oxford, UK.
-3. Liviu P. Dinu. Computational approaches for protoword reconstruction. 25th International
-Conference on Historical Linguistics (ICHL25), August 2, 2022, Oxford, UK. 
-4. Liviu P Dinu, 2022. NLP-based methods în deception detection. Corpul de control al guvernului,
-Guvernul României, sala Transilvania, November 3, 2022.
-5. Liviu P. Dinu, 2022. Computational Tools in Historical Linguistics for cognate detection, borrowing discrimination and protoword reconstruction. Cardamom Seminar, National University of Ireland Galway, October 31, 2022.
-6. Liviu P. Dinu, 2022. On the Romance languages similarity: a syllabic-based approach. Programa de Doctorado de Sistemas Inteligentes, UNED, Madrid, Spain, June 13, 2022.
-7. Liviu P. Dinu, 2022. An old-fashion investigator. Interdisciplinary School of Doctoral Studies, University of Bucharest, March 17, 2022.
-8. Marcus și schimbarea stilistică. Universitatea Apolonia, Iași, March 1, 2022.
-9. Liviu P. Dinu, 2021. Are computational approaches viable solutions for borrowing and semantic change problems? Invited talk, Working group Language variation, interaction, pragmatics, Language In The Human-Machine Era, Online, October 20, 2021.
-10. Simona Georgescu, 2021. Ce pot învăța lingviștii de la computere și computerele de la lingviști? Colocviul Internațional Discurs critic și variație lingvistică, "Abordări inter- și transdisciplinare ale trecutului și prezentului", Universitatea din Suceava, July 8-9, 2021.
-11. Simona Georgescu, 2021. Herramientas computacionalespara la lingüística histórica. Congreso Internacional "Ciencia, Tecnología y Lenguajes", Universidad Complutense de Madrid, July 1-2, 2021.
-12. Liviu P. Dinu, 2021. Marcus și timpurile sale. Facultatea de sociologie, Universitatea din Bucuresti, seria “Conceptualizări ale timpului în practica cercetării științifice. Dialoguri interdisciplinare”, June 10, 2021.
-13. Liviu P. Dinu, 2021. EthicAI, Goethe-Institut Bulgaria, EthicAI Linguistics workshop, June 8, 2021.
-14. Liviu P. Dinu, 2021. Etica si lingvistica computationala. Comisia Naționala a României pentru UNESCO, June 3, 2021.
-15. Liviu P. Dinu, 2021. Timpul și cuvintele. University of Bucharest, seria "Conceptualizări ale timpului în practica cercetării științifice. Dialoguri interdisciplinare", May 13, 2021.
-16. Liviu P. Dinu, 2021.Cu un kil de carne de vacă nu mori de foame, cu un litru de vin nu mori de sete. Interdisciplinary School of Doctoral Studies, University of Bucharest, March 4, 2021.
-17. Liviu P. Dinu, 2021. From Classical to Computational Approaches in Historical Linguistics. Universitatea Apolonia, Iași, March 1, 2021.
-18. Liviu P. Dinu, 2021. O analiză computațională a discursului politic în Parlamentul European. Universitatea Apolonia, Iași, March 1, 2021.
+1. Simona Georgescu. „Rom. încă, it. anche, etc. : a new etymological insight”, Romance Linguistics Seminar, University of Cambridge), ianuarie 4, 2023, Cambridge UK.
+2. Liviu P Dinu. Computational Approaches for Romance Related Words Discrimination. 26th International Conference on Historical Linguistics, Heidelberg, Germany, 6 septembrie 2023
+3. Liviu P Dinu. Computational approaches to natural languages similarities. Universita degli studi di Modena e Reggio Emilia, 31 Martie 2023.
+4. Anca Dinu, Digital Humanities: una nuova rivoluzione tecnologica, Biblioteca Statale Stelio Crise di Trieste, Trieste, Italy, 9 May 2023.
+5. Anca Dinu, Measuring semantic change for Romance languages and English, Universita
+degli studi di Modena e Reggio Emilia, Reggio Emilia, 31 March 2023.
+6. Liviu P Dinu. On the Romanian evolution via computational approaches. Smart Diaspora 2023, Universitatea de Vest, Timisoara, 10 aprilie 2023.
+7. Liviu P Dinu. Sunt abordările computaționale soluții viabile pentru lingvistica istorică? Seminarul de cercetare al Facultatii de Limbi și Literaturi Straine, Universitatea din Bucuresti, 25 aprilie 2023.
+8. Liviu P Dinu. On the Romanian evolution via computational approaches. Smart Diaspora 2023, Universitatea de Vest, Timisoara, 11 aprilie, 2023.
+9. Liviu P Dinu. Marcus și etimologiile limbii romane. Universitatea Apollonia, Iași, 3 martie 2023
+10. Liviu P Dinu RoBoCoP@UniBuc (ROmance BOrrowings COgnates Package @ University of Bucharest). Conferinţa Anuală de Comunicare a Rezultatelor Cercetării la Universitatea din București, ediţia a II-a, 16 noiembrie 2023.
+11. Liviu P Dinu Computational tools and resources for Romance historical linguistics. Recent Advances in Digital Humanities (2nd edition), Universitatea de Vest, Timisoara, 17 noiembrie 2023.
+12. Liviu P Dinu Computational Approaches in Historical Linguistics (Keynote speaker). The 18th International Conference on Linguistic Resources and Tools for Natural Language Processing – ConsILR-2023 –/ Universitatea Transilvania, Brașov, 13 decembrie 2023.
+13. Liviu P. Dinu, 2023. Computer-assisted tools for generating and discriminating related words in historical linguistics. Oberseminar, University of Tubingen, Department of Linguistics, January 23, 2023
+14. Anca Dinu, 2022. A semantic change time-lapse for Romance languages and English. 25th International Conference on Historical Linguistics (ICHL25), August 2, 2022, Oxford, UK.
+15. Liviu P. Dinu. Computational approaches for protoword reconstruction. 25th International Conference on Historical Linguistics (ICHL25), August 2, 2022, Oxford, UK.
+16. Liviu P Dinu, 2022. NLP-based methods în deception detection. Corpul de control al guvernului, Guvernul României, sala Transilvania, November 3, 2022.
+17. Liviu P. Dinu, 2022. Computational Tools in Historical Linguistics for cognate detection, borrowing discrimination and protoword reconstruction. Cardamom Seminar, National University of Ireland Galway, October 31, 2022.
+18. Liviu P. Dinu, 2022. On the Romance languages similarity: a syllabic-based approach. Programa de Doctorado de Sistemas Inteligentes, UNED, Madrid, Spain, June 13, 2022.
+19. Liviu P. Dinu, 2022. An old-fashion investigator. Interdisciplinary School of Doctoral Studies, University of Bucharest, March 17, 2022.
+20. Marcus și schimbarea stilistică. Universitatea Apolonia, Iași, March 1, 2022.
+21. Liviu P. Dinu, 2021. Are computational approaches viable solutions for borrowing and semantic change problems? Invited talk, Working group Language variation, interaction, pragmatics, Language In The Human-Machine Era, Online, October 20, 2021.
+22. Simona Georgescu, 2021. Ce pot învăța lingviștii de la computere și computerele de la lingviști? Colocviul Internațional Discurs critic și variație lingvistică, "Abordări inter- și transdisciplinare ale trecutului și prezentului", Universitatea din Suceava, July 8-9, 2021.
+23. Simona Georgescu, 2021. Herramientas computacionalespara la lingüística histórica. Congreso Internacional "Ciencia, Tecnología y Lenguajes", Universidad Complutense de Madrid, July 1-2, 2021.
+24. Liviu P. Dinu, 2021. Marcus și timpurile sale. Facultatea de sociologie, Universitatea din Bucuresti, seria “Conceptualizări ale timpului în practica cercetării științifice. Dialoguri interdisciplinare”, June 10, 2021.
+25. Liviu P. Dinu, 2021. EthicAI, Goethe-Institut Bulgaria, EthicAI Linguistics workshop, June 8, 2021.
+26. Liviu P. Dinu, 2021. Etica si lingvistica computationala. Comisia Naționala a României pentru UNESCO, June 3, 2021.
+27. Liviu P. Dinu, 2021. Timpul și cuvintele. University of Bucharest, seria "Conceptualizări ale timpului în practica cercetării științifice. Dialoguri interdisciplinare", May 13, 2021.
+28. Liviu P. Dinu, 2021.Cu un kil de carne de vacă nu mori de foame, cu un litru de vin nu mori de sete. Interdisciplinary School of Doctoral Studies, University of Bucharest, March 4, 2021.
+29. Liviu P. Dinu, 2021. From Classical to Computational Approaches in Historical Linguistics. Universitatea Apolonia, Iași, March 1, 2021.
+30. Liviu P. Dinu, 2021. O analiză computațională a discursului politic în Parlamentul European. Universitatea Apolonia, Iași, March 1, 2021.
