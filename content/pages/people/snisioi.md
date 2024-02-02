@@ -5,7 +5,7 @@ Slug: people/snisioi
 
 <img src="https://avatars.githubusercontent.com/u/1649296" alt="ASCIIIIII" style="width: 200px;float: right;"/>
 
-I am an Assistant Professor within the Faculty of Mathematics and Computer Science, University of Bucharest.
+I am an <s>Assistant</s> Associate Professor (since Febr. 2024) within the Faculty of Mathematics and Computer Science, University of Bucharest.
 
 My research is related to various areas of computational linguistics, covering topics such as computational psycholinguistics, computational learning theory, bias, machine translation, and text simplification. In addition to academic research, for the past ten years I have been deploying machine learning pipelines in production. Some projects are visible on [GitHub](https://github.com/senisioi) and on [semantic](https://www.semanticscholar.org/author/Sergiu-Nisioi/1983107) [scholar](https://scholar.google.com/citations?user=0bqBJo8AAAAJ).
 
