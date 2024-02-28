@@ -4,7 +4,20 @@ Title: Events
 
 # Invited speakers and special guests
 
-- Wednesday, May 24, 2023, 18:00 – 19:00 (Ro time, EET): Jesus Serrano Guerrero, University of Castilla-La Mancha, Spain, Wednesday
+- 4 March 2024, 17:00, [Preslav Nakov](https://mbzuai.ac.ae/study/faculty/preslav-nakov/), Mohamed bin Zayed University of Artificial Intelligence Masdar City, Abu Dhabi. The event will take place in Amphiteather Țițeica 3rd floor, Faculty of Mathematics and Computer Science.
+
+
+### Title: **Factuality Challenges in the Era of Large Language Models**
+
+**Abstract:**
+We will discuss the risks, the challenges, and the opportunities that Large Language Models (LLMs) bring regarding factuality. We will then delve into our recent work on using LLMs to assist fact-checking (e.g., claim normalization, stance detection, question-guided fact-checking, program-guided reasoning, and synthetic data generation for fake news and propaganda identification), on checking and correcting the output of LLMs, on detecting machine-generated text (blackbox and whitebox), and on fighting the ongoing misinformation pollution with LLMs. Finally, we will discuss work on safeguarding LLMs, and the safety mechanisms we incorporated in Jais-chat, the world's best open Arabic-centric foundation and instruction-tuned LLM.
+
+**Short Bio:**
+Preslav Nakov is Professor at Mohamed bin Zayed University of Artificial Intelligence. Previously, he was Principal Scientist at the Qatar Computing Research Institute, HBKU, where he led the Tanbih mega-project, developed in collaboration with MIT, which aims to limit the impact of "fake news", propaganda and media bias by making users aware of what they are reading, thus promoting media literacy and critical thinking. He received his PhD degree in Computer Science from the University of California at Berkeley, supported by a Fulbright grant. He is Chair-Elect of the European Chapter of the Association for Computational Linguistics (EACL), Secretary of ACL SIGSLAV, and Secretary of the Truth and Trust Online board of trustees. Formerly, he was PC chair of ACL 2022, and President of ACL SIGLEX. He is also member of the editorial board of several journals including Computational Linguistics, TACL, ACM TOIS, IEEE TASL, IEEE TAC, CS&L, NLE, AI Communications, and Frontiers in AI. He authored a Morgan & Claypool book on Semantic Relations between Nominals, two books on computer algorithms, and 250+ research papers. He received a Best Paper Award at ACM WebSci'2022, a Best Long Paper Award at CIKM'2020, a Best Demo Paper Award (Honorable Mention) at ACL'2020, a Best Task Paper Award (Honorable Mention) at SemEval'2020, a Best Poster Award at SocInfo'2019, and the Young Researcher Award at RANLP’2011. He was also the first to receive the Bulgarian President's John Atanasoff award, named after the inventor of the first automatic electronic digital computer. His research was featured by over 100 news outlets, including Forbes, Boston Globe, Aljazeera, DefenseOne, Business Insider, MIT Technology Review, Science Daily, Popular Science, Fast Company, The Register, WIRED, and Engadget, among others.
+
+
+
+- Wednesday, May 24, 2023, 18:00 – 19:00 (Ro time, EET): Jesus Serrano Guerrero, University of Castilla-La Mancha, Spain
 
 Title: Fuzzy logic and Opinion Mining.
 
