@@ -4,7 +4,7 @@ Title: Events
 
 # Invited speakers and special guests
 
-- 4 March 2024, 17:00, [Preslav Nakov](https://mbzuai.ac.ae/study/faculty/preslav-nakov/), Mohamed bin Zayed University of Artificial Intelligence Masdar City, Abu Dhabi. The event will take place in Amphiteather Țițeica 3rd floor, Faculty of Mathematics and Computer Science.
+- 4 March 2024, 17:00, [Preslav Nakov](https://mbzuai.ac.ae/study/faculty/preslav-nakov/) & Aigerim Alibek, Mohamed bin Zayed University of Artificial Intelligence Masdar City, Abu Dhabi. The event will take place in Amphiteather Țițeica 3rd floor, Faculty of Mathematics and Computer Science.
 
 
 ### Title: **Factuality Challenges in the Era of Large Language Models**
