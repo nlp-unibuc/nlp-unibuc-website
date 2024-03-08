@@ -4,6 +4,13 @@ Title: Events
 
 # Invited speakers and special guests
 
+- 11 March 2024, 17:00, [Andrea Sgarro](https://www.dmi.units.it/~sgarro/). The event will take place in  room 216, 2nd floor, Faculty of Mathematics and Computer Science, University of Bucharest, Academiei 14, Bucharest.
+
+### Title: **The two Cultures: from the Arithmetic of Possibilities to Baroque Flutes**
+
+**Short Bio:**
+Andrea Sgarro este cercetător la Universitatea din Trieste, (Italia) și profesor de Cibernetică și Informatică. Se ocupă de teoria informației, criptografie, fuzzy logic și lingvistică computațională. Este directorul secției Scienza e tecnologia a Circolo della Cultura e delle Arti din Trieste în același timp fiind foarte activ în diseminarea și comunicarea științifică.  Cartea sa, *Codici segreti, Oscar Mondadori*, a oferit pentru prima dată o nouă criptografie unui public de limba italiană. Lingvistica computațională, la care a fost introdus de Solomon Marcus, este în momentul de față principala sa preocupare. Este de asemenea un poliglot pasionat și canta la flaut traversier baroc.
+
 - 4 March 2024, 17:00, [Preslav Nakov](https://mbzuai.ac.ae/study/faculty/preslav-nakov/) & Aigerim Alibek, Mohamed bin Zayed University of Artificial Intelligence Masdar City, Abu Dhabi. The event will take place in Amphiteather Țițeica 3rd floor, Faculty of Mathematics and Computer Science.
 
 
