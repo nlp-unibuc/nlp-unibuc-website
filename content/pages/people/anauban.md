@@ -3,6 +3,7 @@ Slug: people/anauban
 
 ## Bio
 - Assistant Professor, Faculty of Mathematics and Computer Science, University of Bucharest. Obtained my Ph.D in Computer Science in 2020 with the thesis "Distributional aspects of natural language. Semantic and stylistic dimensions of text".
+- [CV](https://drive.google.com/file/d/13E6V0qoxYuypnehyTNmupRfmJqOpR0jV/view?usp=sharing)
 
 **Research interests**: historical computational lingusitics, lexical semantics, semantic change, multilinguality, mental health disorder detection.
 
