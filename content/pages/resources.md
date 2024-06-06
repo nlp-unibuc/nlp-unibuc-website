@@ -8,7 +8,8 @@
 - <a href="#SpeechText">Comparing Speech and Text Classification of Native and Non-native English</a>
 - <a href="#LangSim">Degrees of Similarity Between Romanian and Related Languages</a>
 - <a href="#NER">Cross-lingual Named Entity Recognition</a> 
-- <a href="#pejor">A Computational Exploration of Pejorative Language in Social Media</a> 
+- <a href="#pejor">A Computational Exploration of Pejorative Language in Social Media</a>
+- <a href="#multiredditdep"> multiRedditDep: a Multimodal Dataset for Depression Detection from Social Media</a>
 
 -------
 
@@ -87,4 +88,7 @@
 - the dataset can be downloaded via this [link](https://drive.google.com/file/d/1ArQLZCbCpb9eHudqetapCv3oN0nA5Tc_).
 
 
-
+<a name="multiredditdep"></a>
+## [multiRedditDep: a Multimodal Dataset for Depression Detection on Social Media](https://link.springer.com/chapter/10.1007/978-3-031-04431-1_13)
+- More details about this resource can be found in Uban, Ana-Sabina, Berta Chulvi, and Paolo Rosso. "Explainability of depression detection on social media: From deep learning models to psychological interpretations and multimodality." Early Detection of Mental Health Disorders by Social Media Monitoring: The First Five Years of the eRisk Project. Cham: Springer International Publishing, 2022. 289-320.
+- Please email Ana Uban for access to the dataset.
