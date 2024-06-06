@@ -3,7 +3,7 @@ Slug: people/anauban
 
 ## Bio
 
-<img src="https://avatars.githubusercontent.com/u/1269090?v=4" alt="altme" style="width: 200;float: right;"/>
+<img src="https://avatars.githubusercontent.com/u/1269090?v=4" alt="altme" style="width: 100px;float: right;"/>
 
 [CV](https://drive.google.com/file/d/13E6V0qoxYuypnehyTNmupRfmJqOpR0jV/view?usp=sharing)
 
