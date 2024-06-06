@@ -3,7 +3,7 @@ Slug: people/anauban
 
 ## Bio
 
-<img src="https://avatars.githubusercontent.com/u/1269090?v=4" alt="altme" style="width: 100px;float: right;"/>
+<img src="https://avatars.githubusercontent.com/u/1269090?v=4" alt="altme" style="width: 200px;float: right;"/>
 
 [CV](https://drive.google.com/file/d/13E6V0qoxYuypnehyTNmupRfmJqOpR0jV/view?usp=sharing)
 
@@ -63,3 +63,5 @@ Currently teaching the following classes:
 - **Artificial Intelligence** - Bachelor's level course for Mathematics students (FMI)
 - **Practical Introduction to Machine Learning** (English) - Master's level course for Digital Humanities students (FLLS)
 - Teaching labs and coordinating student projects for the following master's level courses for Computer Science students: **Natural Language Processing 1**, **Natural Language Processing 2**
+
+[Some class materials here](https://github.com/ananana/Class-materials)
