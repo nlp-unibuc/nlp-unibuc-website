@@ -15,7 +15,7 @@
 - [Andrea Sgarro (Professor, Ph.D)](http://www.dmi.units.it/~sgarro/) (University of Trieste)
 - [Alin Stefanescu (Professor, Ph.D)](http://alin.stefanescu.eu/)
 - [Octavia-Maria Șulea (Ph.D)](/people/omsulea.html)
-- [Ana Sabina Uban (Ph.D)](/people/anauban.html)
+- [Ana Sabina Uban (Assistant Professor, Ph.D)](/people/anauban.html)
 - Ioana Vlad (Ph.D st.)
 
 # External collaborators

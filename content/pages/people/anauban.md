@@ -2,11 +2,18 @@
 Slug: people/anauban
 
 ## Bio
-- Assistant Professor, Faculty of Mathematics and Computer Science, University of Bucharest. Obtained my Ph.D in Computer Science in 2020 with the thesis "Distributional aspects of natural language. Semantic and stylistic dimensions of text".
 
-**Research interests**: historical computational lingusitics, lexical semantics, semantic change, multilinguality, mental health disorder detection.
+<img src="https://avatars.githubusercontent.com/u/1269090?v=4" alt="altme" style="width: 200px;float: right;"/>
 
-## Publications
+Assistant Professor, Faculty of Mathematics and Computer Science, University of Bucharest. Obtained my Ph.D in Computer Science in 2020 with the thesis "Distributional aspects of natural language. Semantic and stylistic dimensions of text" (advisor Liviu Dinu).
+
+[CV](https://drive.google.com/file/d/13E6V0qoxYuypnehyTNmupRfmJqOpR0jV/view?usp=sharing)
+
+**Contact**: auban at fmi . unibuc . ro
+
+## Research & Publications
+
+**Interests**: Strongly interdisciplinary, NLP in psychology and linguistics: historical computational linguisitics, distributional semantics, multilingualism; cognitive aspects of AI models and explainability; mental health disorder detection.
 
 ### Book Chapters
 
@@ -48,16 +55,6 @@ In _Proceedings of the Joint SIGHUM Workshop on Computational Linguistics for Cu
 Social Sciences, Humanities and Literature_, p 78-82
 Co-located with _ACL 2017_, Vancouver, Canada, 4 August 2017
 
-**Hard Synonymy and Applications in Automatic Detection of Synonyms and Machine Translation**, Ana Sabina Uban
-In _Proceeedings BUCC, 9th Workshop on Building and Using Comparable Corpora_, p 34-37
-Co-located with _LREC 2016_, Portoroz, Slovenia, 23 May 2016
-
-**Light: a Multilingual Distributional Analysis in Religious and Political Texts**, Liviu P. Dinu, Ion Resceanu, Ana Sabina Uban
-In _Proceeedings Comsymbol_, Montpellier, France, 9-10 November 2016
-
-**Cross-lingual Synonymy Overlap**, Anca Dinu, Liviu P. Dinu, Ana Sabina Uban
-In_ Proceeedings Recent Advances in Natural Language Processing_, p 147–152, Hissar, Bulgaria,
-5-11 September 2015
 
 ## Teaching
 
@@ -67,3 +64,5 @@ Currently teaching the following classes:
 - **Artificial Intelligence** - Bachelor's level course for Mathematics students (FMI)
 - **Practical Introduction to Machine Learning** (English) - Master's level course for Digital Humanities students (FLLS)
 - Teaching labs and coordinating student projects for the following master's level courses for Computer Science students: **Natural Language Processing 1**, **Natural Language Processing 2**
+
+[Some class materials here](https://github.com/ananana/Class-materials)

@@ -4,7 +4,7 @@ Title: Events
 
 # Invited speakers and special guests
 
-- 11 March 2024, 17:00, [Andrea Sgarro](https://www.dmi.units.it/~sgarro/). The event will take place in  room 216, 2nd floor, Faculty of Mathematics and Computer Science, University of Bucharest, Academiei 14, Bucharest.
+- 11 March 2024, 17:00, [Andrea Sgarro](https://www.dmi.units.it/~sgarro/). The event will take place in  **room 215**, 2nd floor, Faculty of Mathematics and Computer Science, University of Bucharest, Academiei 14, Bucharest.
 
 ### Title: **The two Cultures: from the Arithmetic of Possibilities to Baroque Flutes**
 
