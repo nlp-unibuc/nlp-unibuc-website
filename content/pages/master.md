@@ -30,30 +30,29 @@ Masteratul se bazează pe un puternic și modern corp profesoral, cu prezențe c
 ### Titlul programului de studii: **Natural Language Processing**
 ### Tipul programului de studii: **masterat de cercetare, zi**
 ### Durata programului de studii: **4 semestre / 120 ECTS**
-### Anul în care urmează să devină operaţional: **2020-2021**
-### Admitere: Iulie &amp; Septembrie 2020: **30 locuri buget**
+### Admitere: Iulie &amp; Septembrie: **30 locuri buget**
 
 <a name="admission"></a>
 ## **Admitere**
 Probele de concurs sunt: 
 
 1. analiza dosarului 
-2. interviu individual pe baza lucrării de licență. 
+2. interviu individual pe baza lucrării de licență. 
 
-Candidații a căror lucrare de licență nu se încadrează în domeniile Informatică, Matematică, Calculatoare și Tehnologia Informației, vor pregăti o listă de 4 subiecte din domeniul masterului. 
+Candidații a căror lucrare de licență nu se încadrează în domeniile Informatică, Matematică, Calculatoare și Tehnologia Informației, vor pregăti o listă de 4 subiecte din domeniul masterului. 
 
-Candidații trebuie să dețină un certificat de competență lingvistică pentru limba engleza eliberat de către instituțiile abilitate. Aceste certificate pot fi eliberate si de [Centrul de Limbi Străine al Universității din București](https://unibuc.ro/studii/centre-de-limbi-straine/centrul-de-limbi-straine-al-universitatii-din-bucuresti/). Daca doriți să sustineti examenul online în perioada crizei, o puteți contacta pe [Dna. Prof. Diana Ioniță](https://unibuc.ro/studii/centre-de-limbi-straine/centrul-de-limbi-straine-al-universitatii-din-bucuresti/).
+Candidații trebuie să dețină un certificat de competență lingvistică pentru limba engleza eliberat de către instituțiile abilitate. Aceste certificate pot fi eliberate si de [Centrul de Limbi Străine al Universității din București](https://unibuc.ro/studii/centre-de-limbi-straine/centrul-de-limbi-straine-al-universitatii-din-bucuresti/). Daca doriți să sustineti examenul online în perioada crizei, o puteți contacta pe [Dna. Prof. Diana Ioniță](https://unibuc.ro/studii/centre-de-limbi-straine/centrul-de-limbi-straine-al-universitatii-din-bucuresti/).
 
-Pentru mai multe informații [consultati pagina facultății](https://fmi.unibuc.ro/admitere/admitere-master/).
+Pentru mai multe informații [consultati pagina facultății](https://fmi.unibuc.ro/admitere/admitere-master/).
 
-Informații pentru studenții străini pot fi găsite [aici](https://unibuc.ro/international/studenti-internationali/admitere-studenti-internationali/?lang=en).
+Informații pentru studenții străini pot fi găsite [aici](https://unibuc.ro/international/studenti-internationali/admitere-studenti-internationali/?lang=en).
 
 ---
 <a name="contact"></a> 
 ## **Contact**
 - **Coordonator**: Prof. dr. habil. [Liviu P. Dinu](http://nlp.unibuc.ro/people/liviu.html) email: liviu.p.dinu @ gmail.com, tel. +40 761 146 148
 - Prof. dr. habil. [Florentina Hristea](http://fmi.unibuc.ro/en/cv.php/cs/hristea_florentina_en) email: fhristea @ fmi.unibuc.ro
-- Asist. Drd. [Sergiu Nisioi](http://nlp.unibuc.ro/people/snisioi.html) email: sergiu.nisioi @ unibuc.ro
+- Conf. Dr. [Sergiu Nisioi](http://nlp.unibuc.ro/people/snisioi.html) email: sergiu.nisioi @ unibuc.ro
 ---
 
 <a name="cursuri"></a> 
@@ -61,12 +60,12 @@ Informații pentru studenții străini pot fi găsite [aici](https://unibuc.ro
 - Linguistics for Computer Science 
 - Practical Machine Learning 
 - Natural Language Processing
-- Advanced Machine Learning 
-- Cognitive Computing (in collaboration with IBM) 
+- Bio-NLP 
+- Advanced Machine Learning  
 - Information Retrieval and Text Mining 
 - Machine Translation 
 - Special Topics in Computational Linguistics 
-- Bio-NLP 
+- Cognitive Computing
 - Special Topics in NLP and HLT 
 
 <a name="optionale"></a> 
@@ -77,7 +76,7 @@ Informații pentru studenții străini pot fi găsite [aici](https://unibuc.ro
 ### **Alegerea cursurilor opționale**
 Lista cursurilor opționale pentru fiecare semestru va fi stabilită anual, pe baza cursurilor existente și a opțiunilor studenților (la cerere, și in limita posibilităților, vor fi asigurate și cursuri care nu se găsesc acum în programă). Pentru alegerea cursulurilor opționale fiecare student prezintă opţiunea sa nominalizând, în ordinea descrescătoare a preferinţelor sale, [dintr-o listă de cursuri](http://fmi.unibuc.ro/ro/pdf/2019/optionale/Cerere_optionale_master_info_I_2019-2020.pdf).
 
-1. Exemple de opțiuni pentru alegerea cursului opțional din semestrul I: **Knowledge Representation and Reasoning**, **Logic for Computer Science** sau alte cursuri din planul de învățământ al celorlalte mastere din facultate.
+1. Exemple de opțiuni pentru alegerea cursului opțional din semestrul I: **LLMs and Cognition**, **Knowledge Representation and Reasoning**, **Logic for Computer Science** sau alte cursuri din planul de învățământ al celorlalte mastere din facultate.
 1. Exemple de opțiuni pentru alegerea cursului opțional din semestrul II: **Big Data**, **Statistics for Data Science** sau alte cursuri din planul de învățământ al celorlalte mastere din facultate.
 1. Exemple de optiuni pentru alegerea cursului opțional din semestrul III: **Deep Learning**, **Modern Technologies for Information Security** sau alte cursuri din planul de învățământ al celorlalte mastere din facultate.
 1. Exemple de optiuni pentru alegerea cursului opțional din semestrul IV: **Information Visualization**, **Special Topics in Artificial Intelligence** sau alte cursuri din planul de învățământ al celorlalte mastere din facultate.
@@ -105,7 +104,7 @@ centre de cercetare din Spania, Italia, Germania, Marea Britanie, Elveția, Fran
 
 
 <a name="structura"></a> 
-## **Anul universitar 2020-2021 (anul I) – 60 ECTS**
+## **First Year – 60 ECTS**
 | Nr. | Cursuri obligatorii | C | S/L | E/V | ECTS | C | S/L | E/V | ECTS |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | | | <td colspan=4> Sem. I (14 săpt.) <td colspan=4> Sem. II (14 săpt.) |
@@ -116,7 +115,7 @@ centre de cercetare din Spania, Italia, Germania, Marea Britanie, Elveția, Fran
 | 5 | Industry/Research Practice | - | 2 | V | 6 | - | - | - | - |
 | 6 | Advanced Machine Learning | - | - | - | - | 2 | 1 | E | 6 |
 | 7 | Natural Language Processing 1 | - | - | - | - | 2 | 1 | E | 6 |
-| 8 | Cognitive Computing (in collaboration with IBM) | - | - | - | - | 1 | 2 | E | 6 |
+| 8 | Bio-medical NLP | - | - | - | - | 1 | 2 | E | 6 |
 | 9 | Opțional |   |   |   |   | 2 | 1 | E | 6 |
 | 10 | Industry/Research Practice | - | - | - | - | - | 2 | V | 6 |
 | **TOTAL** | **8** | **6** | **4E1V** | **30** | **7** | **7** | **4E1V** | **30** |
@@ -124,20 +123,21 @@ centre de cercetare din Spania, Italia, Germania, Marea Britanie, Elveția, Fran
 C = curs; S = seminar/laborator; Ob.xx = obligatoriu; Op.xx = opțional;
 EV = evaluare; E = examen; V = verificare; ECTS = număr de credite europene transferabile;
 
-## **Anul universitar 2021-2022 (anul II) – 60 ECTS**
+## **Second Year – 60 ECTS**
 | Nr. | Cursuri obligatorii | C | S/L | E/V | ECTS | C | S/L | E/V | ECTS |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | | | <td colspan=4> Sem. I (14 săpt.) <td colspan=4> Sem. II (14 săpt.) |
 | 1 | Information Retrieval and Text Mining | 2 | 1 | E | 6 | - | - | - | - |
-| 2 | Machine Translation | 2 | 1 | E | 6 | - | - | - | - |
+| 2 | [Machine Translation](https://nlp.unibuc.ro/machine_translation.html) | 2 | 1 | E | 6 | - | - | - | - |
 | 3 | Special Topics in Computational Linguistics | 2 | 1 | E | 6 | - | - | - | - |
 | 4 | Opțional | 2 | 1 | E | 6 | - | - | - | - |
 | 5 | Disertation Research | - | 2 | V | 6 | - | - | - | - |
-| 6 | Bio-medical NLP | - | - | - | - | 1 | 2 | E | 6 |
+| 6 | Cognitive Computing  | - | - | - | - | 1 | 2 | E | 6 |
 | 7 | Special Topics in NLP and HLT | - | - | - | - | 2 | 1 | E | 6 |
 | 8 | Opțional | - | - | - | - | 2 | 1 | E | 6 |
 | 9 | Disertation Research | - | - | - | - | - | 5 | V | 12 |
 | **TOTAL** | **8** | **6** | **4E1V** | **30** | **5** | **9** | **3E1V** | **30** |
+
 
 - **NB1.** Ultimele două săptămâni din semestrul IV vor fi dedicate finalizării lucrării de disertație, fiind normate cu 14 ore fiecare săptămână.
 - **NB2.** Cursurile opționale vor fi alese dintre cursurile obligatorii ale celorlalte programe de mastere ale Facultății de Matematică și Informatică.

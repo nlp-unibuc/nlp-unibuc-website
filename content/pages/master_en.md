@@ -18,7 +18,7 @@ Slug: master_en
 <a name="news"></a>
 ## **News**
 
-- [Invited speakers and special guests](master_speakers.html) presenting their latest research at our master's programme.
+- [Invited speakers and special guests](events.html) presenting their latest research at our master's programme.
 
 ---
 
@@ -36,10 +36,10 @@ The first year curriculum contains 6 fundamental disciplines, preparatory for th
 The program is based on a powerful and modern teaching staff, with constant presence in the main NLP journals and conferences. We will promote a modern, open and collegial atmosphere, based on the mutual respect and recognition of each member of the community. The Master's Degree is addressed to all members interested in Natural Language Processing and Computational Linguistics, will promote gender equality, and will not tolerate any discrimination, regardless of its nature (gender, religion, race, ethnicity, age, etc.).
 
 ### Main Domain: **Computer Science**
-### Type of program: **full time research master**
+### Type of program: **full-time research master**
 ### Schedule: **4 semesters / 120 ECTS**
-### Academic year: **2020-2021**
-### Admission: July &amp; September 2020: **30 state-sponsored grants**
+### Academic year: starts in **october** and ends in **june** next year
+### Admission: July &amp; September: **limited state-sponsored grants available**
 
 ---
 
@@ -57,7 +57,7 @@ A general guide and information for international students is available [here](h
 ## **Contact**
 - **Course Director**: Prof. dr. habil. [Liviu P. Dinu](http://nlp.unibuc.ro/people/liviu.html) email: liviu.p.dinu @ gmail.com, tel. +40 761 146 148
 - Prof. dr. habil. [Florentina Hristea](http://fmi.unibuc.ro/en/cv.php/cs/hristea_florentina_en) email: fhristea @ fmi.unibuc.ro
-- Asist. Drd. [Sergiu Nisioi](http://nlp.unibuc.ro/people/snisioi.html) email: sergiu.nisioi @ unibuc.ro
+- Conf. dr. [Sergiu Nisioi](http://nlp.unibuc.ro/people/snisioi.html) email: sergiu.nisioi @ unibuc.ro
 
 ### International Relations and Foreign Students Office
 Telephone: +4021 305.46.42 +4021 305.46.41
@@ -71,11 +71,11 @@ Schedule: Monday - Thursday: 11:00 – 13:00 EE(S)T
 - Practical Machine Learning 
 - Natural Language Processing
 - Advanced Machine Learning 
-- Cognitive Computing (in collaboration with IBM) 
+- Bio-NLP 
 - Information Retrieval and Text Mining 
 - Machine Translation 
 - Special Topics in Computational Linguistics 
-- Bio-NLP 
+- Cognitive Computing
 - Special Topics in NLP and HLT 
 
 <a name="optionale"></a> 
@@ -86,7 +86,7 @@ Schedule: Monday - Thursday: 11:00 – 13:00 EE(S)T
 
 The list of the optional courses will be updated annually according to the dynamics of the field, the programs of the existing masters in the faculty and the interaction with the companies interested in offering specialized practical training within the master.
 
-1. Example Optional courses for smester I: **Knowledge Representation and Reasoning**, **Logic for Computer Science**.
+1. Example Optional courses for smester I: **LLMs and Cognition**, **Knowledge Representation and Reasoning**, **Logic for Computer Science**.
 1. Example Optional courses for semester II: **Big Data**, **Statistics for Data Science**.
 1. Example Optional courses for semester III: **Deep Learning**, **Modern Technologies for Information Security**
 1. Example Optional courses for smester IV: **Information Visualization**, **Special Topics in Artificial Intelligence**.
@@ -112,7 +112,7 @@ This module can be done within:
 ---
 
 <a name="structura"></a> 
-## **Anul universitar 2020-2021 (anul I) – 60 ECTS**
+## **First Year – 60 ECTS**
 | Nr. | Cursuri obligatorii | C | S/L | E/V | ECTS | C | S/L | E/V | ECTS |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | | | <td colspan=4> Sem. I (14 săpt.) <td colspan=4> Sem. II (14 săpt.) |
@@ -123,7 +123,7 @@ This module can be done within:
 | 5 | Industry/Research Practice | - | 2 | V | 6 | - | - | - | - |
 | 6 | Advanced Machine Learning | - | - | - | - | 2 | 1 | E | 6 |
 | 7 | Natural Language Processing 1 | - | - | - | - | 2 | 1 | E | 6 |
-| 8 | Cognitive Computing (in collaboration with IBM) | - | - | - | - | 1 | 2 | E | 6 |
+| 8 | Bio-medical NLP | - | - | - | - | 1 | 2 | E | 6 |
 | 9 | Opțional |   |   |   |   | 2 | 1 | E | 6 |
 | 10 | Industry/Research Practice | - | - | - | - | - | 2 | V | 6 |
 | **TOTAL** | **8** | **6** | **4E1V** | **30** | **7** | **7** | **4E1V** | **30** |
@@ -131,16 +131,16 @@ This module can be done within:
 C = curs; S = seminar/laborator; Ob.xx = obligatoriu; Op.xx = opțional;
 EV = evaluare; E = examen; V = verificare; ECTS = număr de credite europene transferabile;
 
-## **Anul universitar 2021-2022 (anul II) – 60 ECTS**
+## **Second Year – 60 ECTS**
 | Nr. | Cursuri obligatorii | C | S/L | E/V | ECTS | C | S/L | E/V | ECTS |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | | | <td colspan=4> Sem. I (14 săpt.) <td colspan=4> Sem. II (14 săpt.) |
 | 1 | Information Retrieval and Text Mining | 2 | 1 | E | 6 | - | - | - | - |
-| 2 | Machine Translation | 2 | 1 | E | 6 | - | - | - | - |
+| 2 | [Machine Translation](https://nlp.unibuc.ro/machine_translation.html) | 2 | 1 | E | 6 | - | - | - | - |
 | 3 | Special Topics in Computational Linguistics | 2 | 1 | E | 6 | - | - | - | - |
 | 4 | Opțional | 2 | 1 | E | 6 | - | - | - | - |
 | 5 | Disertation Research | - | 2 | V | 6 | - | - | - | - |
-| 6 | Bio-medical NLP | - | - | - | - | 1 | 2 | E | 6 |
+| 6 | Cognitive Computing  | - | - | - | - | 1 | 2 | E | 6 |
 | 7 | Special Topics in NLP and HLT | - | - | - | - | 2 | 1 | E | 6 |
 | 8 | Opțional | - | - | - | - | 2 | 1 | E | 6 |
 | 9 | Disertation Research | - | - | - | - | - | 5 | V | 12 |
@@ -148,3 +148,4 @@ EV = evaluare; E = examen; V = verificare; ECTS = număr de credite europene tra
 
 - **NB1.** The last two weeks of semester IV will be dedicated to finalize the dissertation.
 - **NB2.** Optional courses will be chosen from a list of available courses from other master's programmes within the Faculty of Mathematics and Computer Science.
+
