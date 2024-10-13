@@ -19,9 +19,9 @@ Our goal is to increase the amount of research and resources for Eastern Europee
 
 - [Course](machine_translation/course.html)
 - [Lab Projects](machine_translation/course.html#projects)
-- [Course Schedule 2023](machine_translation/schedule_24_25.html)
-- <s>[Course Schedule 2023](machine_translation/schedule_23_24.html)</s>
-- <s>[Course Schedule 2022](machine_translation/schedule_22_23.html)</s>
+- [Course Schedule 2024-2025](machine_translation/schedule_24_25.html)
+- <s>[Course Schedule 2023-2024](machine_translation/schedule_23_24.html)</s>
+- <s>[Course Schedule 2022-2023](machine_translation/schedule_22_23.html)</s>
 - [MT Learning and Bibliography](machine_translation/bibliography.html)
 
 
