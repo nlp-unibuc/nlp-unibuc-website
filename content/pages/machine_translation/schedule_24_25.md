@@ -1,0 +1,21 @@
+Title: Schedule of MT classes 2024-2025
+Slug: machine_translation/schedule_24_25
+
+
+
+|Week |    **Date**   |     **Topic**    | **Materials** |                       **Presenters**                       |
+:|:-------------:|:----------------:|:--------------------:|:----------------------------------------------------------:|
+|01|  4. Oct. 2024 | <del>Teaching + Lab</del>      |   -   |                                                            | 
+|02| 11. Oct. 2024 | Teaching         |      intro               |                                                            | 
+|03| 18. Oct. 2024 | Teaching + Lab         |  [reading](#eval)<br />[MT metrics(video)](https://slideslive.com/38924201/1-metrics-of-mt-quality)                |                                                            | 
+|04| 25. Oct. 2024 | Teaching         |  [reading](#neural)<br />[\*Seq2seq Models Tutorial](https://lena-voita.github.io/nlp_course/seq2seq_and_attention.html)                    |                                                            |
+|05|  1. Nov. 2024 | Teaching + Lab         |  [reading](#trans)<br />[\*Step-by-step debug](https://github.com/pbloem/former/)                    |                                                            |
+|06|  8. Nov. 2024 |  Human and<br />Automatic Evaluation<br />Metrics                                     |    [🤔**main paper**](tba)<br />additional readings<br />[BERTScore](https://arxiv.org/pdf/1904.09675.pdf),<br />[WMT2020 Metrics](https://www2.statmt.org/wmt24/metrics-task.html),<br />[Significance](https://aclanthology.org/D14-1020.pdf)         |     |     
+|07| 15. Nov. 2024 |  Data Acquisition  + Lab                                    |        [🤔**main paper**](tba)<br />additional **important** readings<br />[references](#data)   |                  |
+|08| 22. Nov. 2024 |  Language Models,<br />Translation Models,<br />Tokenizers     |    [🤔**main paper**](tba) <br />additional **important** readings<br /> [Pixels](https://openreview.net/forum?id=FkSp8VW8RjH) <br />       |                   |
+|09| 29. Nov. 2024 |  Transformers,<br />Attention,<br /> + Lab                   |     [🤔**main paper**](tba)     |   |
+|10|  6. Dec. 2024 |  Tokenizers,<br />Transformers,<br />Explainability                                   |        [🤔**main paper**](tba)    |  |
+|11| 13. Dec. 2024 |  Current Issues + Lab                                   |        [🤔**main paper**](tba)   |                            |
+|12| 20. Dec. 2024 | Projects 🌲      |                      |                                                            |
+|13| 10. Jan. 2025 | Projects         |                      |                                                            |
+|14| 15. Jan. 2025 | Projects         |                      |             

@@ -67,7 +67,7 @@ Being present at all the presentations will account for 1 bonus point at the end
 <a name="projects"></a>
 # **Lab Projects**
 1. gather some colleagues and make a team of **maximum 3 people**
-2. choose an MT topic that you would like to research (see [the project list on the website](https://cryptpad.fr/kanban/#/2/kanban/view/L8OSOIlxNvs+FEt0AIcnISNJClOk436hOQxZJb6zYD8/embed/) or propose your own)
+2. choose an MT topic that you would like to research (see [the project list on the website](https://cryptpad.fr/kanban/#/2/kanban/view/L8OSOIlxNvs+FEt0AIcnISNJClOk436hOQxZJb6zYD8/) or propose your own)
 3. make sure your topic does not overlap with other topics that are in progress and that have been chosen by your colleagues
 4. email sergiu to announce your team, your proposal and to discuss how to approach it
 5. after you obtain the approval, mark it as being in progress on the kanban list and start working on it

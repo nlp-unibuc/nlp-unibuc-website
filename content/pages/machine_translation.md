@@ -19,12 +19,13 @@ Our goal is to increase the amount of research and resources for Eastern Europee
 
 - [Course](machine_translation/course.html)
 - [Lab Projects](machine_translation/course.html#projects)
-- [Course Schedule 2023](machine_translation/schedule_23_24.html)
+- [Course Schedule 2023](machine_translation/schedule_24_25.html)
+- <s>[Course Schedule 2023](machine_translation/schedule_23_24.html)</s>
 - <s>[Course Schedule 2022](machine_translation/schedule_22_23.html)</s>
 - [MT Learning and Bibliography](machine_translation/bibliography.html)
 
 
-# Results, Reports, Resources
+# Results, Reports, Resources from Previous Years
 - [Romanian-Hungarian Machine Translation](machine_translation/22_23/hu_ro.html)
 - [Gender Bias Overview](machine_translation/22_23/genderbias.html)
 - [Machine Translation for Mental Health](machine_translation/22_23/mental_health.html) 
