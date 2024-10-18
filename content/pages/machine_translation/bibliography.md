@@ -68,7 +68,7 @@ Slug: machine_translation/bibliography
 - [BERTScore](https://arxiv.org/pdf/1904.09675.pdf), 2020
 - [Scientific Credibility](https://arxiv.org/pdf/2106.15195.pdf), 2021
 - [COMET](https://aclanthology.org/2020.emnlp-main.213/), [more recent paper](https://arxiv.org/abs/2202.05148) 2022 
-- [**Lab Notebook:** MT Evaluation](https://colab.research.google.com/drive/1ZdILLE7kituJlZA-AVUOgq1pM0Ub5kTy?usp=sharing)
+- **Lab Notebook:** [MT Eval 1](https://colab.research.google.com/drive/1ZdILLE7kituJlZA-AVUOgq1pM0Ub5kTy?usp=sharing), [MT Eval 2](https://colab.research.google.com/drive/1uhgaGRq6skLO-X4wLTUFREFIG6qMcx9d?usp=sharing)
 
 
 <a name="data"></a>
