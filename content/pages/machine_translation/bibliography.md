@@ -101,7 +101,7 @@ Slug: machine_translation/bibliography
 - [RNN Encoder-Decoder](http://emnlp2014.org/papers/pdf/EMNLP2014179.pdf), 2014
 - [Seq2seq with Attention](https://arxiv.org/abs/1409.0473), 2015
 - [More Types of Attention](https://arxiv.org/abs/1508.04025), 2015
-- [**Lab Tutorial:** Training an RNN seq2seq](https://colab.research.google.com/drive/1SI4N_-qwM-aWjyKf6kKgVPnp0R6jf-2g?usp=sharing)
+- [**Lab Tutorial:** Training an RNN seq2seq](https://colab.research.google.com/drive/1SI4N_-qwM-aWjyKf6kKgVPnp0R6jf-2g?usp=sharing), Generic LLM training using [Axolotl](https://github.com/axolotl-ai-cloud/axolotl/blob/main/examples/colab-notebooks/colab-axolotl-example.ipynb), [Unbabel models](https://huggingface.co/Unbabel)
 
 
 <a name="neural_cnn"></a>
