@@ -17,11 +17,11 @@ Our goal is to increase the amount of research and resources for Eastern Europee
 
 # Machine Translation Course, 2nd year, NLP-Master
 
-- [Course](machine_translation/course.html)
+- [Learning and Bibliography](machine_translation/bibliography.html)
+- [About the Course](machine_translation/course.html)
+- [Course Schedule 2024-2025](machine_translation/schedule_24_25.html)
 - [Lab Projects](machine_translation/course.html#projects)
 - [Lab Project Ideas](https://cryptpad.fr/kanban/#/2/kanban/view/L8OSOIlxNvs+FEt0AIcnISNJClOk436hOQxZJb6zYD8/)
-- [Course Schedule 2024-2025](machine_translation/schedule_24_25.html)
-- [MT Learning and Bibliography](machine_translation/bibliography.html)
 - <s>[Course Schedule 2023-2024](machine_translation/schedule_23_24.html)</s>
 - <s>[Course Schedule 2022-2023](machine_translation/schedule_22_23.html)</s>
 

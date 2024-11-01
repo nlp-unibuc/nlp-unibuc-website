@@ -208,6 +208,7 @@ Slug: machine_translation/bibliography
 - [Statistical Methods and Linguistics](http://www.vinartus.net/spa/95c.pdf), 1995
 - [The Future of MT, seen from 1985](https://aclanthology.org/J85-1001.pdf)
 - [MT in the USSR, 1984](https://www.jstor.org/stable/30199988?seq=1#metadata_info_tab_contents)
+- [Early MT in Romania](https://aclanthology.org/J74-3003.pdf)
 - [Soviet MT overview, Gordin, 2020](https://static1.squarespace.com/static/5275adb7e4b0298e6ac6bc86/t/5ef3eb6693fc2660294da7e2/1593043815386/Gordin-SovietMT.pdf)
 - [Survey of MT in USSR, 2010](https://sci-hub.se/10.1080/0907676X.1997.9961304)
 
