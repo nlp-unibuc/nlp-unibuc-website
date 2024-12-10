@@ -16,6 +16,7 @@
 - [Alin Stefanescu (Professor, Ph.D)](http://alin.stefanescu.eu/)
 - [Octavia-Maria Șulea (Ph.D)](/people/omsulea.html)
 - [Ana Sabina Uban (Assistant Professor, Ph.D)](/people/anauban.html)
+- [Claudiu Creanga (Assistant Professor, Ph.D)](/people/claudiu-creanga.html)
 - Ioana Vlad (Ph.D st.)
 
 # External collaborators
