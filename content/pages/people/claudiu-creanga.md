@@ -37,3 +37,4 @@ Ana-Maria Bucur, Proceedings of the 18th International Workshop on Semantic Eval
 Detection**, Claudiu Creanga and Teodor-George Marchitan, Proceedings of the 18th International Workshop on Semantic Evaluation, 2024
 **Fine-Tuning Models for Biomedical Relation Extraction**, PROCS48529, Procedia Computer
 Science 2100-2109, Claudiu Creanga, Liviu Dinu
+**Qwen it detect machine-generated text?**, Claudiu Creanga, Teodor-George Marchitan, Liviu Dinu, The 31st International Conference on Computational Linguistics, 2025
