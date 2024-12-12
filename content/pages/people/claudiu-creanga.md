@@ -10,11 +10,11 @@ I am an Teaching Assistant within the Faculty of Mathematics and Computer Scienc
 [CV](https://claudiucreanga.github.io/Claudiu-Creanga-CV.pdf)
 
 ## Projects and Research
-AI and Genomics
-BioNLP
-Ethics in AI and Alignment
-Detection of AI generated text
-More on [personal website](https://claudiucreanga.github.io/)
+- AI and Genomics
+- BioNLP
+- Ethics in AI and Alignment
+- Detection of AI generated text
+- More on [personal website](https://claudiucreanga.github.io/)
 
 ## Teaching
 - Introduction to AI 
