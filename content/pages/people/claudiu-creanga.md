@@ -5,7 +5,7 @@ Slug: people/claudiu-creanga
 
 <img src="/images/claudiu.png" alt="Claudiu biciclind prin Japonia" style="width: 200px;float: right;"/>
 
-I am an Teaching Assistant within the Faculty of Mathematics and Computer Science, University of Bucharest.
+I am a Teaching Assistant within the Faculty of Mathematics and Computer Science, University of Bucharest.
 
 [CV](https://claudiucreanga.github.io/Claudiu-Creanga-CV.pdf)
 
