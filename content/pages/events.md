@@ -10,7 +10,7 @@ Seminarul „Solomon Marcus” este un seminar dedicat, în general, lingvistici
 În acest an, intenționăm ca seminarul să devină itinerant, pentru ca Solomon Marcus să fie (re)descoperit de un număr cât mai mare de oameni. 
 
 Următorii invitați: Oliviero Stock (Trento, Italia), Andrea Sgarro (Trieste, Italia), Alexandra Cornilescu (București, România), Rada Mihalcea (Michigan, USA), Carlos Martn Vide (Tarragona, Spania), etc.
-
+Organizator: Liviu P. Dinu, Universitatea din București (ldinu@fmi.unibuc.ro)
 
 <a name="bsuceava"></a>
 ##  **Povestind despre matematică și literatură: amintiri despre Solomon Marcus**, [seminar](#solomon_marcus)
