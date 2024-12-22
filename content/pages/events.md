@@ -19,7 +19,7 @@ Organizator: Liviu P. Dinu, Universitatea din București (ldinu@fmi.unibuc.ro)
 
 
 **Abstract**:
-Mulți dintre studenții profesorului Solomon Marcus au beneficiat de-a lungul anilor de îndrumarea sale. În prezentarea noastră vom evoca o serie de dialoguri purtate în perioada 1989-2015 cu dl Solomon Marcus despre spațiile Barbilian, invarianți de curbură, literatură, rolul matematicii în societate, felul cum matematica ar trebui prezentată publicului larg, unde ar trebui publicată matematica și cum ar trebui să răspundem procesului editorial. Vom împărtăși o serie de imagini și de schimburi de mesaje despre aceste subiecte, cu speranța că invităm la o profundă reflecție despre dimensiunea umanistă a matematicilor.
+Mulți dintre studenții profesorului Solomon Marcus au beneficiat de-a lungul anilor de îndrumarea domniei sale. În prezentarea noastră vom evoca o serie de dialoguri purtate în perioada 1989-2015 cu dl Solomon Marcus despre spațiile Barbilian, invarianți de curbură, literatură, rolul matematicii în societate, felul cum matematica ar trebui prezentată publicului larg, unde ar trebui publicată matematica și cum ar trebui să răspundem procesului editorial. Vom împărtăși o serie de imagini și de schimburi de mesaje despre aceste subiecte, cu speranța că invităm la o profundă reflecție despre dimensiunea umanistă a matematicilor.
 
 În  anul 2025, la propunerea CNR UNESCO, cu ocazia centenarului, Solomon Marcus este aniversat de cele 194 de state membre ale UNESCO. Moderat de profesorul Liviu P. Dinu, evenimentul va găzdui evocări realizate de Marian Preda, rector al Universității din București, Madlen Șerban, secretar general al CNR UNESCO, Ionel Urdea Marcus, apropiat colaborator al lui Solomon Marcus.
 
