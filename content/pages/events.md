@@ -2,6 +2,37 @@ Title: Events
 
 ### To get updates on future events, please [subscribe to our newsletter](/subscribe.html).
 
+<a name="solomon_marcus"></a>
+# Solomon Marcus seminar in Computational Linguistics 2024-2025
+- Jan-13-2025, [Povestind despre matematică și literatură: amintiri despre Solomon Marcus](#bsuceava) (in Romanian)
+
+Seminarul „Solomon Marcus” este un seminar dedicat, în general, lingvisticii matematice și computaționale, precum și procesării limbajului natural. În anul 2025, seminarul va fi dedicat personalității lui Solomon Marcus, unul dintre pionierii lingvisticii matematice și computaționale la nivel mondial, și se va desfășura sub egida UNESCO, care, în 2025, îl va celebra pe Solomon Marcus cu ocazia centenarului nașterii sale. 
+În acest an, intenționăm ca seminarul să devină itinerant, pentru ca Solomon Marcus să fie (re)descoperit de un număr cât mai mare de oameni. 
+
+Următorii invitați: Oliviero Stock (Trento, Italia), Andrea Sgarro (Trieste, Italia), Alexandra Cornilescu (București, România), Rada Mihalcea (Michigan, USA), Carlos Martn Vide (Tarragona, Spania), etc.
+
+
+<a name="bsuceava"></a>
+##  **Povestind despre matematică și literatură: amintiri despre Solomon Marcus**, [seminar](#solomon_marcus)
+- 13 ianuarie 2025, ora 17:00, sala Google (etaj 2), Facultatea de Matematică și Informatică
+
+
+
+**Abstract**:
+Mulți dintre studenții profesorului Solomon Marcus au beneficiat de-a lungul anilor de îndrumarea sale. În prezentarea noastră vom evoca o serie de dialoguri purtate în perioada 1989-2015 cu dl Solomon Marcus despre spațiile Barbilian, invarianți de curbură, literatură, rolul matematicii în societate, felul cum matematica ar trebui prezentată publicului larg, unde ar trebui publicată matematica și cum ar trebui să răspundem procesului editorial. Vom împărtăși o serie de imagini și de schimburi de mesaje despre aceste subiecte, cu speranța că invităm la o profundă reflecție despre dimensiunea umanistă a matematicilor.
+
+În  anul 2025, la propunerea CNR UNESCO, cu ocazia centenarului, Solomon Marcus este aniversat de cele 194 de state membre ale UNESCO. Moderat de profesorul Liviu P. Dinu, evenimentul va găzdui evocări realizate de Marian Preda, rector al Universității din București, Madlen Șerban, secretar general al CNR UNESCO, Ionel Urdea Marcus, apropiat colaborator al lui Solomon Marcus.
+
+
+
+**Short Bio**:
+Bogdan Suceavă, născut la 27 septembrie 1969, la Curtea de Argeş. Studii în matematică la Universitatea din Bucureşti (licenţă 1989‑1994, master 1994‑1995) şi la Michigan State University (doctorat, 1996‑2002). Din august 2002, profesor în cadrul Departamentului de Matematică al California State University, Fullerton, SUA. În 2020 a primit premiul „George Pólya” din partea Asociaţiei Americane de Matematică pentru articolul „Eclectic illuminism: Applications of affine geometry” („Un iluminism eclectic: aplicaţii ale geometriei afine”), scris împreună cu A. Glesser, M. Rathbun şi I.M. Serrano. Lucrări de matematică publicate în Notices of the American Mathematical Society,  Houston Journal of Mathematics, Taiwanese Journal of Mathematics, American Mathematical Monthly, Mathematical Intelligencer, Beiträge zur Algebra und Geometrie, Differential Geometry and Its Applications, Czechoslovak Mathematical Journal, Publicationes Mathematicae, Results in Mathematics, Tsukuba Journal of Mathematics, Contemporary Mathematics, Historia Mathematica, și altele.
+Autor a 20 de volume scrise în limba română, între care: Venea din timpul diez (roman, Polirom, 2004, 2010, 2014; tradus în maghiară, bulgară, engleză și cehă; pentru această ediţie, Jiří Našinec a primit premiul „Josef Jungmann” pentru cea mai bună traducere în limba cehă din anul 2014), Miruna, o poveste (Curtea Veche, 2007, 2008; Polirom, 2017, tradusă în engleză, italiană, slovenă și persană), Noaptea când cineva a murit pentru tine (Polirom, 2010; tradusă în maghiară), Adâncul acestei calme creste. Programul de la Erlangen şi poetica Jocului secund (eseu, Polirom, 2022; premiul Agenției de Carte și premiul Societății Leibniz 2022). Cel mai recent volum este 'Furtuna barocă', Polirom, 2024.
+
+
+
+
+
 # Invited speakers and special guests
 
 - 11 March 2024, 17:00, [Andrea Sgarro](https://www.dmi.units.it/~sgarro/). The event will take place in  **room 215**, 2nd floor, Faculty of Mathematics and Computer Science, University of Bucharest, Academiei 14, Bucharest.
