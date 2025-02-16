@@ -216,6 +216,7 @@ Slug: machine_translation/bibliography
 
 <a name="courses"></a>
 ## Other Courses
+- [ACL2023 Tutorial](https://github.com/AI4Bharat/aacl23-mnmt-tutorial)
 - [MT at Charles University](https://ufal.mff.cuni.cz/courses/npfl087#lectures)
 - [MT at Johns Hopkins University](http://mt-class.org/jhu/index.html)
 - [MT at University of Pennsylvania](http://mt-class.org/penn/syllabus.html)
