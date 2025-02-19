@@ -5,8 +5,8 @@ Title: Events
 <a name="solomon_marcus25"></a>
 # Solomon Marcus seminar in Computational Linguistics 2024-2025
 - TBA
-- Mar-05-2025, [Numitorul Comun  (Omagiu lui Solomon Marcus)](#maiam) (in Romanian)
-- Jan-13-2025, [Povestind despre matematică și literatură: amintiri despre Solomon Marcus](#bsuceava) (in Romanian)
+- Mar-05-2025, Maia Morgenstern, [Numitorul Comun  (Omagiu lui Solomon Marcus)](#maiam) (in Romanian)
+- Jan-13-2025, Bogdan Suceavă, [Povestind despre matematică și literatură: amintiri despre Solomon Marcus](#bsuceava) (in Romanian)
 - [Former Invited Speakers and Special Guests](#former)
 
 
@@ -29,7 +29,7 @@ Organizator: Liviu P. Dinu, Universitatea din București (ldinu@fmi.unibuc.ro)
 ---
 
 <a name="maiam"></a>
-##  **Numitorul Comun  (Omagiu lui Solomon Marcus)**, [seminar](#solomon_marcus25)
+##  Maia Morgenstern - **Numitorul Comun  (Omagiu lui Solomon Marcus)**, [seminar](#solomon_marcus25)
 - 05 martie 2025, ora 16:00, Amf. Haret (parter), Facultatea de Matematică și Informatică
 
 **Bio**
@@ -46,7 +46,7 @@ Premii şi distincţii (selectie): Premiul pentru cea mai bună actriţă la Fes
 
 
 <a name="bsuceava"></a>
-##  **Povestind despre matematică și literatură: amintiri despre Solomon Marcus**, [seminar](#solomon_marcus25)
+## Bogdan Suceavă  **Povestind despre matematică și literatură: amintiri despre Solomon Marcus**, [seminar](#solomon_marcus25)
 - 13 ianuarie 2025, ora 17:00, sala Google (etaj 2), Facultatea de Matematică și Informatică
 
 
