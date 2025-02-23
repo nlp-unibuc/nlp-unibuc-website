@@ -5,7 +5,9 @@ Slug: people/anauban
 
 <img src="https://avatars.githubusercontent.com/u/1269090?v=4" alt="altme" style="width: 200px;float: right;"/>
 
-Assistant Professor, Faculty of Mathematics and Computer Science, University of Bucharest. Obtained my Ph.D in Computer Science in 2020 with the thesis "Distributional aspects of natural language. Semantic and stylistic dimensions of text" (advisor Liviu Dinu).
+Associate Professor, Faculty of Mathematics and Computer Science, University of Bucharest. 
+
+Obtained my Ph.D in Computer Science in 2020 with the thesis "Distributional aspects of natural language. Semantic and stylistic dimensions of text" (advisor Liviu Dinu).
 
 [CV](https://drive.google.com/file/d/13E6V0qoxYuypnehyTNmupRfmJqOpR0jV/view?usp=sharing)
 
@@ -13,7 +15,7 @@ Assistant Professor, Faculty of Mathematics and Computer Science, University of 
 
 ## Research & Publications
 
-**Interests**: Strongly interdisciplinary, NLP in psychology and linguistics: historical computational linguisitics, distributional semantics, multilingualism; cognitive aspects of AI models and explainability; mental health disorder detection.
+**Interests**: Strongly interdisciplinary, NLP in psychology and linguistics: historical computational linguistics, distributional semantics, multilingualism; cognitive aspects of AI models and explainability; mental health disorder detection.
 
 ### Book Chapters
 
