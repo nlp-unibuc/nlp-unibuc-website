@@ -4,6 +4,8 @@ Title: Projects
 
 ### Lead by group members
 
+- [SiRoLa](/projects/sirola.html): 
+
 - [CoToHiLi](/projects/cotohili.html): Computational Tools for Historical Linguistics (Dezvoltarea de Sisteme Automate Suport pentru Lingvistica Istorică). Project PN-III-P4-ID-PCE-2020-1544, funded by the Romanian National Authority for Scientific Research and Innovation, UEFISCDI.
 
 - [Machine Translation Research Group](/machine_translation.html): Our aim is to contribute to Machine Translation research for Eastern Europeean and less-resourced languages.
