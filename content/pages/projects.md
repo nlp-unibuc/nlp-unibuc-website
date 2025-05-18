@@ -4,15 +4,17 @@ Title: Projects
 
 ### Lead by group members
 
-- [SiRoLa](/projects/sirola.html): 
+- [SiRoLa](/projects/sirola.html): Dezvoltarea de sisteme automate suport pentru lingvistica istorică
 
-- [CoToHiLi](/projects/cotohili.html): Computational Tools for Historical Linguistics (Dezvoltarea de Sisteme Automate Suport pentru Lingvistica Istorică). Project PN-III-P4-ID-PCE-2020-1544, funded by the Romanian National Authority for Scientific Research and Innovation, UEFISCDI.
+- [InstRead](/projects/instread.html): Research Instruments for Text Complexity, Simplification and Readability Assessment 
 
 - [Machine Translation Research Group](/machine_translation.html): Our aim is to contribute to Machine Translation research for Eastern Europeean and less-resourced languages.
 
 ## Completed projects
 
 ### Lead by group members
+
+- [CoToHiLi](/projects/cotohili.html): Computational Tools for Historical Linguistics (Dezvoltarea de Sisteme Automate Suport pentru Lingvistica Istorică). Project PN-III-P4-ID-PCE-2020-1544, funded by the Romanian National Authority for Scientific Research and Innovation, UEFISCDI.
 
 - [SIGAR](/projects/sigar.html):  Sistem inteligent de generare automata a raspunsurilor (Intelligent Systems for Automatic Response Generation).
   Head: Liviu P. Dinu.

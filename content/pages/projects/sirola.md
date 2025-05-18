@@ -1,4 +1,5 @@
 Title: SiRoLa
+Slug: projects/sirola
 
 Project PN-III-P4-ID-PCE-2020-1544, funded by the Romanian National Authority for Scientific Research and Innovation, UEFISCDI: "Dezvoltarea de sisteme automate suport pentru lingvistica istorică".
 
