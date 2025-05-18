@@ -5,6 +5,7 @@ Title: Events
 <a name="solomon_marcus25"></a>
 # Solomon Marcus seminar in Computational Linguistics 2024-2025
 - TBA
+- May-28-2025, 17:00-19:00, Andrea Sgarro (Trieste, Italia) and  Oliviero Stock (Trento, Italia)[An Italian Tribute to Solomon Marcus](#sgarrostock)
 - Mar-05-2025, Maia Morgenstern, [Numitorul Comun  (Omagiu lui Solomon Marcus)](#maiam) (in Romanian)
 - Jan-13-2025, Bogdan Suceavă, [Povestind despre matematică și literatură: amintiri despre Solomon Marcus](#bsuceava) (in Romanian)
 - [Former Invited Speakers and Special Guests](#former)
@@ -24,6 +25,19 @@ Seminarul „Solomon Marcus” este un seminar dedicat, în general, lingvistici
 Următorii invitați: Oliviero Stock (Trento, Italia), Andrea Sgarro (Trieste, Italia), Alexandra Cornilescu (București, România), Rada Mihalcea (Michigan, USA), Carlos Martn Vide (Tarragona, Spania), etc.
 Organizator: Liviu P. Dinu, Universitatea din București (ldinu@fmi.unibuc.ro)
 
+
+<a name="sgarrostock"></a>
+## Andrea Sgarro (Trieste, Italia) and  Oliviero Stock (Trento, Italia) **An Italian Tribute to Solomon Marcus** 
+
+The event will take place in hall Spiru Haret, ground floor, Faculty of Mathematics and Computer Science, University of Bucharest, Academiei 14, Bucharest, Romania
+
+- Part 1: Machina poetica (Andrea Sgarro)
+- Part 2: Lingvistica matematica: some strange consequence (Oliviero Stock)
+- Part 3: Better artificial than nothing (Andrea interviewing Oliviero about his book: Meglio artificiale che niente, ed. Guerini ed associati, 2024)
+
+**Abstract:**
+An Italian tribute to Solomon Marcus
+Two "indirect" Italian pupils of Solomon Marcus, Oliviero Stock and Andrea Sgarro, will talk about how they first "met" him in an era when Romania was a locked-up country and Marcus had to disseminate his message across borders through his letters and his books. This had a durable impact on research in mathematical linguistics in the country of the two talkers; Oliviero Stock has recently published a book on the development of Artificial Intelligence in Italy ("Better artificial than nothing") which emphasizes Marcus' role. For both talkers the possibility of at last actually meeting Solomon Marcus and experiencing his human kindness was a magical moment and a milestone in their lives.
 
 
 ---
