@@ -12,12 +12,11 @@ Our approach aims to 1) build and collect a corpus of lexical complexity assessm
 ### Core Team
 
 - Sergiu Nisioi, Principal Investigator, PhD
-- Claudiu Creangă, PhD candidate <!--  at the Interdisciplinary School of Doctoral Studies, University of Bucharest -->
-- Ana Sabina Uban, PhD <!--, Assoc. Prof. at the Faculty of Mathematics and Computer Science, University of Bucharest -->
-- Adina Camelia Bleotu, PhD <!--, Assistant Prof. at the Faculty of Foreign Languages and Literatures
--->
-- Mihai Dascălu, PhD <!--, Full Prof. at the National University of Science and Technology POLITEHNICA -->
-- Bogdan Mustață, PhD <!--, CINETic Laboratory, Assoc. Prof. at the I. L. Caragiale National University of Theatre and Film -->
+- Claudiu Creangă, PhD candidate at the Interdisciplinary School of Doctoral Studies, University of Bucharest 
+- Ana Sabina Uban, PhD , Assoc. Prof. at the Faculty of Mathematics and Computer Science, University of Bucharest 
+- Adina Camelia Bleotu, PhD , Assistant Prof. at the Faculty of Foreign Languages and Literatures
+- Mihai Dascălu, PhD , Full Prof. at the National University of Science and Technology POLITEHNICA 
+- Bogdan Mustață, PhD , CINETic Laboratory, Assoc. Prof. at the I. L. Caragiale National University of Theatre and Film 
 
 ### Partners: Psychological Research and Professional Training Laboratory
 - Adrian Luca, PhD, Faculty of Psychology and Educational Studies 
