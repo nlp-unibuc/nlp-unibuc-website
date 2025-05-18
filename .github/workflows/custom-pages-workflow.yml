@@ -23,7 +23,7 @@ concurrency:
 jobs:
   # Build job
   build:
-    runs-on: python:3.11.12-bookworm
+    runs-on: ubuntu-24.04
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -33,7 +33,11 @@ jobs:
         uses: actions/configure-pages@v4
       - name: Build with python
         run: |
-            pip install -r requirements.txt 
+            python -m venv ./venv
+            source ./venv/bin/activate
+            echo "PATH=${PATH}" >> "${GITHUB_ENV}"
+            python -m pip install --upgrade pip
+            python -m pip install --requirement requirements.txt
             make html
             mv output _site
       - name: Upload artifact
