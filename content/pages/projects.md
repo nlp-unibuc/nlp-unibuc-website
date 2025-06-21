@@ -4,9 +4,9 @@ Title: Projects
 
 ### Lead by group members
 
-- [SiRoLa](/projects/sirola.html): Dezvoltarea de sisteme automate suport pentru lingvistica istorică
-
 - [InstRead](/projects/instread.html): Research Instruments for Text Complexity, Simplification and Readability Assessment 
+
+- [SiRoLa](/projects/sirola.html): Dezvoltarea de sisteme automate suport pentru lingvistica istorică
 
 - [Machine Translation Research Group](/machine_translation.html): Our aim is to contribute to Machine Translation research for Eastern Europeean and less-resourced languages.
 

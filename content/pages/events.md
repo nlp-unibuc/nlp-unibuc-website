@@ -4,7 +4,7 @@ Title: Events
 
 <a name="solomon_marcus25"></a>
 # Solomon Marcus seminar in Computational Linguistics 2024-2025
-- TBA
+- June-24-2025, 10:00-12:00, Sorin Istrail (Brown University), [Eric Davidson's Regulatory Genome and Causality in Gene Regulatory Networks](#istrail) 
 - May-28-2025, 17:00-19:00, Andrea Sgarro (Trieste, Italia) and  Oliviero Stock (Trento, Italia)[An Italian Tribute to Solomon Marcus](#sgarrostock)
 - Mar-05-2025, Maia Morgenstern, [Numitorul Comun  (Omagiu lui Solomon Marcus)](#maiam) (in Romanian)
 - Jan-13-2025, Bogdan Suceavă, [Povestind despre matematică și literatură: amintiri despre Solomon Marcus](#bsuceava) (in Romanian)
@@ -24,6 +24,32 @@ Seminarul „Solomon Marcus” este un seminar dedicat, în general, lingvistici
 
 Următorii invitați: Oliviero Stock (Trento, Italia), Andrea Sgarro (Trieste, Italia), Alexandra Cornilescu (București, România), Rada Mihalcea (Michigan, USA), Carlos Martn Vide (Tarragona, Spania), etc.
 Organizator: Liviu P. Dinu, Universitatea din București (ldinu@fmi.unibuc.ro)
+
+
+<a name="istrail"></a>
+##  Sorin Istrail (Brown University): **Eric Davidson's Regulatory Genome and Causality in Gene Regulatory Networks**
+
+- Tuesday, June 24,  2025, 10:00-12:00 (RO time) 
+- The event will take place in  Clădirea Administrativă a Grădinii Botanice „Dimitrie Brândză”, University of Bucharest, Șoseaua Cotroceni nr. 32, hall P04,  Bucharest, Romania
+- Details: https://icub.unibuc.ro/profesorul-sorin-istrail-despre-contributia-informaticii-la-studiul-genomului-reglator-intr-un-nou-eveniment-organizat-la-ub-sub-egida-centenarului-solomon-marcus/,  https://nlp.unibuc.ro/events.html
+- Organizers: Carmen Chifiriuc, Liviu P Dinu
+
+
+**Abstract:**
+We will discuss several computer science problems, inspired by our 15-year-long collaboration with Prof. Eric Davidson, focusing on computer science contributions to the study of the regulatory genome. Our joint study was inspired by his lifetime trailblazing research program rooted in causal gene regulatory networks (GRNs), system completeness, genomic Boolean logic, and genomically encoded regulatory information. We present the first four inspiring questions that Eric Davidson asked, and the follow-up, namely, seven technical problems, fully or partially resolved with the methods of computer science. At the center, and unifying the intellectual backbone of those technical challenges, stands “Causality.” Our collaboration produced the causality-inferred cisGRN-Lexicon database, containing the cis-regulatory architecture (CRA) of 600+ transcription factor (TF)-encoding genes and other regulatory genes, in eight species: human, mouse, fruit fly, sea urchin, nematode, rat, chicken, and zebrafish. These CRAs are causality-inferred regulatory regions of genes, derived experimentally through the experimental method called “cis-regulatory analysis” (also known as the “Davidson criteria”). In this research program, causality challenges for computer science show up in two components: (1) how to define data structures that represent the causality-inferred, by the Davidson criteria, DNA structure data and to define a versatile software system to host them; and (2) how to identify by automated software for text analysis the experimental technical articles applying the Davidson criteria to the analysis to genes. We next present the cisGRN-Lexicon Meta-Analysis (Part I). We conclude with some reflections on epistemology and philosophy themes concerning the role of causality, logic, and proof in the emerging elegant mathematical theory and practice of the regulatory genome.
+
+It is challenging to explain what “explanation” is, and to understand what “understanding” is, when the technical task is to “prove” system-level causality completeness of a 50-gene causal GRN. Within the Peter-Davidson Boolean GRN model, the Peter-Davidson completeness “theorem” provides a seminal answer: Experimental causality system completeness = Computational exact prediction completeness.
+
+
+Joint work with Eric Davidson (California Institute of Technology)  (1937-2015)
+
+
+**Short Bio** 
+Sorin Istrail is the Julie Nguyen Brown Professor of Computational and Mathematical Science and former Director of the Center for Computational Molecular Biology at Brown University. Before joining Brown, he was the Senior Director of Computational Biology at Celera Genomics where his group played a central role in the construction of the Sequence of the Human Genome. In 2000, he solved a long-standing open problem in statistical mechanics: the negative solution (computational intractability) of the three-dimensional Ising Model for every 3D model. He is Professor Honoris Causa of the “Alexandru Ioan Cuza” University, Iași, Romania.
+
+
+
+
 
 
 <a name="sgarrostock"></a>

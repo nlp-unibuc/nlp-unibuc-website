@@ -1,7 +1,7 @@
 Title: InstRead: Research Instruments for Text Complexity, Simplification and Readability Assessment 
 Slug: projects/instread
 
-Project PN-IV-P2-2.1-TE-2023-2007, funded by the Romanian National Authority for Scientific Research and Innovation, UEFISCDI: "Research Instruments for Text Complexity, Simplification and Readability Assessment ".
+Project PN-IV-P2-2.1-TE-2023-2007, funded by the Romanian National Authority for Scientific Research and Innovation, UEFISCDI: "Research Instruments for Text Complexity, Simplification and Readability Assessment".
 
 # Abstract
 
