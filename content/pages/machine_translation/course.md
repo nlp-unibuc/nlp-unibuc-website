@@ -4,6 +4,7 @@ Slug: machine_translation/course
 
 - [Roles](#roles)
     - [Author](#role_aut)
+    - [Data Scientist](#ds)
     - [Scientific reviewer](#role_sci)
     - [Engineer](#role_ing)
     - [Visionary](#role_vis)
