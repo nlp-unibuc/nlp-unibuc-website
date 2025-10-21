@@ -22,7 +22,7 @@ Consider taking these roles seriously as they account for half of your grade.
 Since December, 2 is during a public holiday, we can postpone the presentations for Thursday, December, 8.
 
 <a name="role_aut"></a>
-## **Author**
+## **Author (A)**
 Pretend you are the main author of the papers, prepare a presentation and talk about:
 
 - Problem definition: present what problems the authors intend to solve and present the context and necessity of why it is important to adress the problems.
@@ -30,8 +30,13 @@ Pretend you are the main author of the papers, prepare a presentation and talk a
 - Experimental findings: present the main results, how they compare with previous work.
 - Get into as many details as possible; the appendices in the paper should also be covered.
 
+<a name="ds"></a>
+## **Data Scientist (DS)**
+Find the dataset used in the paper, prepare a dataset description. Take the entire dataset or a subsample (if it’s too large) and prepare a notebook, some tabels and a series of plotly plots with an Exploratory Data Analysis (statistics, number of words, type-token ratio, number of sentences, means and standard deviations, distribution plots, tokenizer fertility, perplexity etc.). This is role requires code, plots, analyses.
+
+
 <a name="role_sci"></a>
-## **Scientific reviewer**
+## **Scientific reviewer (R)**
 You must make a critical evaluation of the paper, not necessarily negative; read the guidelines  and examples from [NIPS](https://neurips.cc/Conferences/2020/PaperInformation/ReviewerGuidelines#Examples)
 
 - Summary and contributions: Briefly summarize the paper and its contributions
@@ -43,7 +48,7 @@ You must make a critical evaluation of the paper, not necessarily negative; read
 - Overall score
 
 <a name="role_ing"></a>
-## **Engineer**
+## **Engineer (E)**
 Implement something related to the paper either on the same dataset or on a new one;  prepare to share the code and some empirical intuition behind the paper.
 
 - Reproducibility: If the original authors already provide the code, try to run it on a new dataset.
@@ -51,7 +56,7 @@ Implement something related to the paper either on the same dataset or on a new 
 - Efficiency: Measure the time it takes to run the code, provide an assement of how suitable the approach is for being run at scale.
 
 <a name="role_vis"></a>
-## **Visionary**
+## **Visionary (V)**
 Propose a follow-up research project or a new application; take into account the previous work and existing work being done; take into account ethics and the socio-economic impact:
 
 - Relation to prior work: Is it clearly discussed how this work differs from previous contributions?
