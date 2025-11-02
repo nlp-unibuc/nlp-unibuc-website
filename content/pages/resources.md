@@ -1,7 +1,7 @@
 ﻿Title: Resources
 
 - <a href="#HistoricalLinguistics">Resources and Tools for Computational Historical Linguistics</a> 
-- <a href="#NeuralTS">Neural Text Simplification Models</a> 
+- <a href="#TextSimplification">Text Simplification Models</a> 
 - <a href="#ENNTT">Europarl Corpus of Native, Non-native and Translated Texts - ENNTT</a> 
 - <a href="#Wittgenstein">A Visual Representation of Wittgenstein's Tractatus Logico-Philosophicus</a> 
 - <a href="#RoDet">Romanian Determiners Lexicon - RoDetLexicon 1.1</a>  
@@ -21,7 +21,12 @@
 
 -------
 
-<a name="NeuralTS"></a>
+<a name="TextSimplification"></a>
+## [RALS: Resources and Baselines for Romanian Automatic Lexical Simplification](https://github.com/senisioi/RALS)
+
+[This repository](https://github.com/senisioi/RALS) accompanies the paper "RALS: Resources and Baselines for Romanian Automatic Lexical Simplification", which introduces the first set of resources and baseline systems for Lexical Complexity Prediction (LCP) and Lexical Simplification (LS) in Romanian. The project provides new datasets, new evaluation protocols, and several baseline systems.
+
+
 ## [Neural Text Simplification Models](https://github.com/senisioi/NeuralTextSimplification)
 - We present the first attempt at using sequence to sequence neural networks to model text simplification (TS). Unlike the previously proposed automated methods, our neural text simplification (NTS) systems are able to simultaneously perform lexical simplification and content reduction. An extensive human evaluation of the output has shown that NTS systems achieve good grammaticality and meaning preservation of output sentences and higher level of simplification than the state-of-the-art automated TS systems.
 - Follow the steps, in order to generate simplified text:
