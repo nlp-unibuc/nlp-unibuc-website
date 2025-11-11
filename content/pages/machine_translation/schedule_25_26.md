@@ -3,7 +3,7 @@ Slug: machine_translation/schedule_25_26
 
 
 
-| Week | Date            | Topic                                   | Materials | Presenters |
+| **Week** | **Date**            | **Topic**                                   | **Materials** | **Presenters** |
 |:----:|:---------------:|:-----------------------------------------|:----------|:-----------|
 | 01   | 3 Oct 2025      | <del>Teaching</del>                     | –         |            |
 | 02   | 10 Oct 2025     | Teaching                                 | intro     |            |
