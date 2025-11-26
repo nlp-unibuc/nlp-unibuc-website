@@ -25,6 +25,7 @@ I am a Teaching Assistant within the Faculty of Mathematics and Computer Science
 - email: [danut-claudiu.creanga at g.unibuc.ro](mailto:danut-claudiu.creanga@g.unibuc.ro)
 
 ## Selected publications
+- **RALS: Resources and Baselines for Romanian Automatic Lexical Simplification**, F. Anghel, Cristea Petru-Theodor, Claudiu Creanga, Sergiu Nisioi, Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing (🏆 SAC Highlights Award)
 - **Automated Text Identification Using CNN and Training Dynamics**, Iberian Languages
 Evaluation Forum 2023 3496 (1613-0073), 1-4
 - **Transformer based neural networks for emotion recognition in conversations**, Claudiu
@@ -40,6 +41,5 @@ Science 2100-2109, Claudiu Creanga, Liviu Dinu
 - **Qwen it detect machine-generated text?**, Claudiu Creanga, Teodor-George Marchitan, Liviu Dinu, The 31st International Conference on Computational Linguistics, 2025
 - **Team Unibuc-NLP at SemEval-2025 Task 11: Few-shot text-based emotion detection**, Claudiu Creanga, Teodor-George Marchitan, Liviu P. Dinu, Proceedings of the 19th International Workshop on Semantic Evaluation, 2025
 - **Unibuc-NLP at “Voight-Kampff” generative AI detection PAN 2025**, Teodor-George Marchitan, Claudiu Creanga, Liviu P. Dinu, Working Notes of CLEF, 2025
-- **RALS: Resources and Baselines for Romanian Automatic Lexical Simplification**, F. Anghel, Cristea Petru-Theodor, Claudiu Creanga, Sergiu Nisioi, Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing (🏆 SAC Highlights Award)
 - **Unmasking Propaganda: A Comparative Analysis of Masked and Causal Language Models**, Claudiu Creanga, Liviu P. Dinu, Proceedings of the 18th ACM International Conference on PErvasive Technologies Related to Assistive Environments (PETRA), 2025
 - **Benchmarking Large Language Models for Biomedical Relation Extraction**, Claudiu Creanga, Teodor-George Marchitan, Liviu P. Dinu, Procedia Computer Science 270, 592-601, 2025
