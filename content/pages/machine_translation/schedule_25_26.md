@@ -15,7 +15,7 @@ Slug: machine_translation/schedule_25_26
 | 08   | 21 Nov 2025     | QE and Literary Translations             | [🤔 **main paper 1**](https://aclanthology.org/2025.emnlp-main.924/) and [🤔 **main paper 2**](https://aclanthology.org/2025.naacl-long.548/) | |
 | 09   | 28 Nov 2025     | MT, MBR                                  | [🤔 **main paper 1**](https://aclanthology.org/2021.acl-long.22/) and [🤔 **main paper 2**](https://aclanthology.org/2025.acl-long.1410/) | [tutorial](https://suzyahyah.github.io/bayesian%20inference/machine%20translation/2022/02/15/mbr-decoding.html) <br> [paper](https://aclanthology.org/N04-1022.pdf) <br> [Instruction following](https://arxiv.org/pdf/2410.02902)  |
 | 10   | 5 Dec 2025      | Translationese                           | [🤔 **main paper 1**](https://aclanthology.org/P17-1049/) [🤔 **main paper 2**](https://aclanthology.org/2025.acl-long.630/)<br>additional **important** readings:<br> [T-Index](https://aclanthology.org/2025.emnlp-main.633/) | |
-| 11   | 12 Dec 2025     | Interpretability                         | [🤔 **main paper**]() | |
+| 11   | 12 Dec 2025     |  LLMs | [🤔 **main paper 1**](https://aclanthology.org/2025.acl-long.762/) and [🤔 **main paper 2**](https://aclanthology.org/2025.acl-long.565/) | |
 | 12   | 19 Dec 2025     | Projects 🌲                              |            | |
 | 13   | 9 Jan 2026      | Projects                                 |            | |
 | 14   | 16 Jan 2026     | Projects                                 |            | |
