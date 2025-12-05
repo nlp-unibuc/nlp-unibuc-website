@@ -57,12 +57,14 @@ In _Proceedings of the Joint SIGHUM Workshop on Computational Linguistics for Cu
 Social Sciences, Humanities and Literature_, p 78-82
 Co-located with _ACL 2017_, Vancouver, Canada, 4 August 2017
 
+Full list of publications [here](https://scholar.google.com/citations?hl=en&user=ji7tE0oAAAAJ&view_op=list_works&sortby=pubdate).
 
 ## Teaching
 
 Currently teaching the following classes:
 
 - **Bio-medical NLP** (English) - Computer Science Master's level course (FMI)
+- **LLMs and Cognition** (English) - Computer Science Master's level course (FMI)
 - **Artificial Intelligence** - Bachelor's level course for Mathematics students (FMI)
 - **Practical Introduction to Machine Learning** (English) - Master's level course for Digital Humanities students (FLLS)
 - Teaching labs and coordinating student projects for the following master's level courses for Computer Science students: **Natural Language Processing 1**, **Natural Language Processing 2**
