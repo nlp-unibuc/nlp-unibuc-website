@@ -2,6 +2,10 @@ Title: Events
 
 ### To get updates on future events, please [subscribe to our newsletter](/subscribe.html).
 
+<a name="ameye"></a>
+## [WG1: Workshop on the Multilingual Annotation of the MultiplEYE Texts (AMEYE)](/events/ameye.html)
+
+
 <a name="solomon_marcus25"></a>
 # Solomon Marcus seminar in Computational Linguistics 2024-2025
 - June-24-2025, 10:00-12:00, Sorin Istrail (Brown University), [Eric Davidson's Regulatory Genome and Causality in Gene Regulatory Networks](#istrail) 
