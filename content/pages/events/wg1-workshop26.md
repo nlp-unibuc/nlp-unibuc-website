@@ -1,4 +1,4 @@
-Title: WG1: Workshop on the Multilingual Annotation of the MultiplEYE Texts (AMEYE) 
+Title: WG1 Workshop on the Multilingual Annotation of the MultiplEYE Texts (AMEYE) 
 Slug: events/ameye
 
 
