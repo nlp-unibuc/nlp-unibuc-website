@@ -78,7 +78,7 @@ There are also plenty of sutff around Piața Amzei, Calea Victoriei, or The Old 
 - Obor Market 
 - A Walk in the Modernist Socialist neighboorhood [Drumul Taberei](https://theblacksea.eu/stories/drumul-taberei-utopia-interrupted/), check the peasant's market and park witht the same name
 - People's House or the Palace of Parliament
-- Sinaia and Bușteni are nice mountain resorts just 2h away by train; there you can take a [gondola](https://maps.app.goo.gl/qY1sX981Nj15Bzpy9) up 2000m, visit [Peleș Castle](https://maps.app.goo.gl/33JitkoNEb8afc5W9); if you want to hike in the woods, check out touristic trails and consider installing [ro-bear app](https://ro-bear.ro/).
+- Sinaia and Bușteni are nice mountain resorts just 2h away by train; there you can take a [gondola](https://maps.app.goo.gl/qY1sX981Nj15Bzpy9) up 2000m or visit the [Peleș Castle](https://maps.app.goo.gl/33JitkoNEb8afc5W9); if you want to hike in the woods, check out touristic trails and consider installing [ro-bear app](https://ro-bear.ro/).
 
 
 
