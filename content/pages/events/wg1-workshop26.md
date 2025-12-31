@@ -2,9 +2,11 @@ Title: WG1 Workshop on the Multilingual Annotation of the MultiplEYE Texts (AMEY
 Slug: events/ameye
 
 
+### Faculty of Mathematics and Computer Science, University of Bucharest
 
 
 ## Dates:
+
 - 2-5 February 2025, Bucharest, Romania
 
 ## Program
@@ -28,11 +30,11 @@ From the airport you can take a train to the central station (Gara de Nord), the
 
 
 ## Where to Stay
-There are plenty of hotels around with rates up to 100 eur/night. If you wish to stay further from the venue, make sure to check public transport options, prefferably the [blue metro line](https://visitbucharest.today/bucharest-metro/) that can get you to Piața Romană. 
+There are plenty of hotels around the venue with rates up to 100 eur/night. If you wish to stay further from the venue, make sure to check public transport options, prefferably the [blue metro line](https://visitbucharest.today/bucharest-metro/) that can get you to Piața Romană. 
 
 When booking hotels, make sure to check the lowest-ranking reviews both on booking and google maps. For those who like to sleep, avoid hotels in the Old Town, the area is packed with nightclubs.
 
-If you're in for a budget, please contact us and we will try to find a really cheap and not-so-fancy option (20 eur/night) at the [University Hotel](https://unibuc.ro/despre-ub/recreere-si-timp-liber/academica-hotel/?lang=en).
+If you're in for a budget, please contact us and we will try to find a really cheap and not-so-fancy accommodation (20 eur/night) at the [University Hotel](https://unibuc.ro/despre-ub/recreere-si-timp-liber/academica-hotel/?lang=en).
 
 
 ## Where to Go Out
@@ -76,7 +78,7 @@ There are also plenty of sutff around Piața Amzei, Calea Victoriei, or The Old 
 - Obor Market 
 - A Walk in the Modernist Socialist neighboorhood [Drumul Taberei](https://theblacksea.eu/stories/drumul-taberei-utopia-interrupted/), check the peasant's market and park witht the same name
 - People's House or the Palace of Parliament
-- Sinaia and Bușteni are nice mountain resorts just 2h away by train; there you can take a [gondola](https://maps.app.goo.gl/qY1sX981Nj15Bzpy9) up 2000m, visit [Peleș Castle](https://maps.app.goo.gl/33JitkoNEb8afc5W9); if you want to hike in the woods, check touristic trails and make sure to install [ro-bear app](https://ro-bear.ro/).
+- Sinaia and Bușteni are nice mountain resorts just 2h away by train; there you can take a [gondola](https://maps.app.goo.gl/qY1sX981Nj15Bzpy9) up 2000m, visit [Peleș Castle](https://maps.app.goo.gl/33JitkoNEb8afc5W9); if you want to hike in the woods, check out touristic trails and consider installing [ro-bear app](https://ro-bear.ro/).
 
 
 
@@ -87,8 +89,8 @@ There are also plenty of sutff around Piața Amzei, Calea Victoriei, or The Old 
 - Mircea Mihai Marin / mircea-mihai.marin at unibuc . ro
 
 
-## Supported by
-The workshop is sponsored the MultiplEYE COST Action. The workshop will provide financial support to cover travel expenses for a limited number of participants. Priority will be given to junior researchers.
+## Funding
+The workshop is funded by the MultiplEYE COST Action. The workshop will provide financial support to cover travel expenses for a limited number of participants. Priority will be given to junior researchers.
 
 
 <style>
@@ -119,14 +121,16 @@ The workshop is sponsored the MultiplEYE COST Action. The workshop will provide 
         <a href="https://multipleye.eu/"><img class="logo" src="/images/logo_multipleye.png" alt="MultiplEYE" ></a>
     </div>
     <div class="organizer">
-      <img class="logo" src="/images/logo_cost.png" alt="COST" >
+      <img class="logo" style="height: 59px" src="/images/logo_cost.png" alt="COST" >
     </div>
     <div class="organizer">
-      <img class="logo" src="/images/logo_funded_eu.png" alt="EU" >
+      <img class="logo" style="height: 59px" src="/images/logo_funded_eu.png" alt="EU" >
     </div>
     <div class="organizer">
-      <a href="https://nlp.unibuc.ro/projects/instread.html"><img class="logo" src="/images/logo_instread.png" alt="InstRead: Research Instruments for Text Complexity, Simplification and Readability Assessment" >
-    </div></a>
+      <a href="https://nlp.unibuc.ro/projects/instread.html">
+        <img class="logo" src="/images/logo_instread.png" alt="InstRead: Research Instruments for Text Complexity, Simplification and Readability Assessment" >
+      </a>
+    </div>
 </div>
 
 
