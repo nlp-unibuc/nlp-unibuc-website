@@ -20,7 +20,7 @@ The building is called University House and it is located in the city center on 
 
 The closest metro station is [Piața Romană](https://maps.app.goo.gl/hz9BZ58rsKSPb1QA6) and the metro station [Universitate](https://maps.app.goo.gl/6QrVEvpeERa5RD4g9) is also in a walkable distance.
 
-Bucharest is a very crowded city during rush hours (08:00-10:00, 16:00-19:30, sometimes noon), taking the metro or walking can be faster than a car. If your flight leaves around the rush hours, make sure to leave early as it could take over an hour to get to the airport by car.
+Bucharest is a very crowded city during rush hours (08:00-10:00, 16:00-19:30, sometimes noon), taking the metro or walking can be faster than a car. If your flight leaves around the rush hours, make sure to leave early because it could take over an hour to get to the airport by car.
 
 Bolt and Uber are the most popular ride sharing apps, taxies are generaly cheaper.
 
@@ -75,10 +75,10 @@ There are also plenty of sutff around Piața Amzei, Calea Victoriei, or The Old 
 - Grigore Antipa National Museum of Natural History
 - A Walk in the Park Cișmigiu or Herăstrău
 - National Village Museum
-- Obor Market 
-- A Walk in the Modernist Socialist neighboorhood [Drumul Taberei](https://theblacksea.eu/stories/drumul-taberei-utopia-interrupted/), check the peasant's market and park witht the same name
+- Obor Farmer's Market 
+- A Walk in the [Socialist Modernist](https://socialistmodernism.com) neighboorhood [Drumul Taberei](https://theblacksea.eu/stories/drumul-taberei-utopia-interrupted/), check the peasant's market and park witht the same name
 - People's House or the Palace of Parliament
-- Sinaia and Bușteni are nice mountain resorts just 2h away by train; there you can take a [gondola](https://maps.app.goo.gl/qY1sX981Nj15Bzpy9) up 2000m or visit the [Peleș Castle](https://maps.app.goo.gl/33JitkoNEb8afc5W9); if you want to hike in the woods, check out touristic trails and consider installing [ro-bear app](https://ro-bear.ro/).
+- Sinaia and Bușteni are nice mountain resorts just 2h away by train; there you can take a [gondola](https://maps.app.goo.gl/qY1sX981Nj15Bzpy9) up to 2000m or visit the [Peleș Castle](https://maps.app.goo.gl/33JitkoNEb8afc5W9); if you want to hike in the woods, check out touristic trails and consider installing [ro-bear app](https://ro-bear.ro/).
 
 
 
