@@ -83,10 +83,17 @@ There are also plenty of sutff around Piața Amzei, Calea Victoriei, or The Old 
 
 
 ## Contact us for absolutely anything:
-
+### Local Organizers
 - Sergiu Nisioi / sergiu.nisioi at unibuc . ro
 - Sasha Kuvshynova / oleksandra.kuvshynova at unibuc . ro
 - Mircea Mihai Marin / mircea-mihai.marin at unibuc . ro
+
+### MultiplEYE Co-organizers
+- Anna Bondar
+- Ana Matić Škorić
+- Eva Pavlinusic Vilus
+- Lena Ann Jäger
+- Maja Stegenwallner-Schütz
 
 
 ## Funding
