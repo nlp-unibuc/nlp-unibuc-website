@@ -1,6 +1,5 @@
-Title: WG1 Workshop on the Multilingual Annotation of the MultiplEYE Texts (AMEYE) 
+Title: Workshop on the Multilingual Annotation of the MultiplEYE Texts (WG1 AMEYE) 
 Slug: events/ameye
-
 
 ### Faculty of Mathematics and Computer Science, University of Bucharest
 
