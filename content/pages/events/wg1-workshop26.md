@@ -10,12 +10,12 @@ Slug: events/ameye
 
 ## Program
 
-<img style="width:600px" src="/images/schedule.png" alt="Schedule" >
+<img style="width:790px" src="/images/schedule.png" alt="Schedule" >
 
 
-On Day 4 at 10:30 sharp we will have a guided tour at the People's House (Palace of Parliament). The price of the guided tour is 85 lei (~17 eur) cash/card and it is paid on the spot. Access to the Museum requires an ID or passport (driving license is not accepted) and there are airport-like security checks (no water, no weapons, you know it). The tour takes 1.5 hours and the entrance is the middle door across the Izvor Park: https://maps.app.goo.gl/N5aWU6jpJr83xaG8A
+On Day 4 at 10:30 sharp we will have a guided tour at the People's House (Palace of Parliament). The price of the guided tour is 85 lei (~17 eur) cash/card and it is paid on the spot. Access to the Museum requires an ID or passport (driving license is not accepted) and there are airport-like security checks (no water, no weapons, you know it). The tour takes 1.5 hours and the entrance is the middle door [across the Izvor Park](https://maps.app.goo.gl/N5aWU6jpJr83xaG8A)
 
-Afterwards we will go to lunch and maybe keep discussing future work at Hanul Berarilor Casa Oprea Soare: https://maps.app.goo.gl/nnYBMHGMTZZwW1286
+Afterwards we will go to lunch and maybe keep discussing future work at [Hanul Berarilor Casa Oprea Soare](https://maps.app.goo.gl/nnYBMHGMTZZwW1286)
 
 
 
