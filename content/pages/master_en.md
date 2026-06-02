@@ -56,8 +56,8 @@ A general guide and information for international students is available [here](h
 <a name="contact"></a> 
 ## **Contact**
 - **Course Director**: Prof. dr. habil. [Liviu P. Dinu](http://nlp.unibuc.ro/people/liviu.html) email: liviu.p.dinu @ gmail.com, tel. +40 761 146 148
-- Prof. dr. habil. [Florentina Hristea](http://fmi.unibuc.ro/en/cv.php/cs/hristea_florentina_en) email: fhristea @ fmi.unibuc.ro
 - Conf. dr. [Sergiu Nisioi](http://nlp.unibuc.ro/people/snisioi.html) email: sergiu.nisioi @ unibuc.ro
+- Prof. dr. habil. [Florentina Hristea](http://fmi.unibuc.ro/en/cv.php/cs/hristea_florentina_en) email: fhristea @ fmi.unibuc.ro
 
 ### International Relations and Foreign Students Office
 Telephone: +4021 305.46.42 +4021 305.46.41
@@ -95,7 +95,7 @@ The list of the optional courses will be updated annually according to the dynam
 ## **Industry/Research Practice**
 This module can be done within:
 
-- NLP groups from local or international companies (IBM, UiPath, Oracle, etc);
+- NLP groups from local or international companies
 - the Human Language Technologies Research Center or in other partner centers
 - NLP research teams or by working for a research paper, guide or tutorial 
 - summer schools (ESSLLI), workshops, exchanges etc.
@@ -115,35 +115,35 @@ This module can be done within:
 ## **First Year – 60 ECTS**
 | Nr. | Cursuri obligatorii | C | S/L | E/V | ECTS | C | S/L | E/V | ECTS |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| | | <td colspan=4> Sem. I (14 săpt.) <td colspan=4> Sem. II (14 săpt.) |
+| | | <td colspan=4> Sem. I (14 weeks) <td colspan=4> Sem. II (14 weeks) |
 | 1 | Linguistics for Computer Science | 2 | 1 | E | 6 | - | - | - | - |
 | 2 | Practical Machine Learning | 2 | 1 | E | 6 | - | - | - | - |
 | 3 | Foundations of Natural Language Processing 1 | 2 | 1 | E | 6 | - | - | - | - |
-| 4 | Opțional | 2 | 1 | E | 6 | - | - | - | - |
+| 4 | Optional | 2 | 1 | E | 6 | - | - | - | - |
 | 5 | Industry/Research Practice | - | 2 | V | 6 | - | - | - | - |
 | 6 | Advanced Machine Learning | - | - | - | - | 2 | 1 | E | 6 |
 | 7 | Natural Language Processing 1 | - | - | - | - | 2 | 1 | E | 6 |
 | 8 | Bio-medical NLP | - | - | - | - | 1 | 2 | E | 6 |
-| 9 | Opțional |   |   |   |   | 2 | 1 | E | 6 |
+| 9 | Optional |   |   |   |   | 2 | 1 | E | 6 |
 | 10 | Industry/Research Practice | - | - | - | - | - | 2 | V | 6 |
 | **TOTAL** | **8** | **6** | **4E1V** | **30** | **7** | **7** | **4E1V** | **30** |
 
-C = curs; S = seminar/laborator; Ob.xx = obligatoriu; Op.xx = opțional;
+C = curs; S = seminar/laborator; Ob.xx = obligatoriu; Op.xx = Optional;
 EV = evaluare; E = examen; V = verificare; ECTS = număr de credite europene transferabile;
 
 ## **Second Year – 60 ECTS**
 | Nr. | Cursuri obligatorii | C | S/L | E/V | ECTS | C | S/L | E/V | ECTS |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| | | <td colspan=4> Sem. I (14 săpt.) <td colspan=4> Sem. II (14 săpt.) |
+| | | <td colspan=4> Sem. I (14 weeks) <td colspan=4> Sem. II (14 weeks) |
 | 1 | Information Retrieval and Text Mining | 2 | 1 | E | 6 | - | - | - | - |
 | 2 | [Machine Translation](https://nlp.unibuc.ro/machine_translation.html) | 2 | 1 | E | 6 | - | - | - | - |
 | 3 | Special Topics in Computational Linguistics | 2 | 1 | E | 6 | - | - | - | - |
-| 4 | Opțional | 2 | 1 | E | 6 | - | - | - | - |
-| 5 | Disertation Research | - | 2 | V | 6 | - | - | - | - |
+| 4 | Optional | 2 | 1 | E | 6 | - | - | - | - |
+| 5 | Dissertation Research | - | 2 | V | 6 | - | - | - | - |
 | 6 | Cognitive Computing  | - | - | - | - | 1 | 2 | E | 6 |
 | 7 | Special Topics in NLP and HLT | - | - | - | - | 2 | 1 | E | 6 |
-| 8 | Opțional | - | - | - | - | 2 | 1 | E | 6 |
-| 9 | Disertation Research | - | - | - | - | - | 5 | V | 12 |
+| 8 | Optional | - | - | - | - | 2 | 1 | E | 6 |
+| 9 | Dissertation Research | - | - | - | - | - | 5 | V | 12 |
 | **TOTAL** | **8** | **6** | **4E1V** | **30** | **5** | **9** | **3E1V** | **30** |
 
 - **NB1.** The last two weeks of semester IV will be dedicated to finalize the dissertation.
