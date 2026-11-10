@@ -18,35 +18,21 @@ Slug: machine_translation/course
 # **Course Roles**
 
 Each person is assigned a role (almost randomly) and must prepare the reading from the **Materials** 
-column from the row where their name is added. Materials will be announced shortly.
-Consider taking these roles seriously as they account for half of your grade.
-Since December, 2 is during a public holiday, we can postpone the presentations for Thursday, December, 8.
+column from the row where their name is added. 
 
 <a name="role_aut"></a>
 ## **Author (A)**
 Pretend you are the main author of the papers, prepare a presentation and talk about:
 
-- Problem definition: present what problems the authors intend to solve and present the context and necessity of why it is important to adress the problems.
+- The Problem definition: present what problems the authors intend to solve and present the context and necessity of why it is important to adress the problems.
 - Methodology: present the methodology, the mathematical foundations; find an explanation for why this methodology is suitable for the problems at hand.
 - Experimental findings: present the main results, how they compare with previous work.
 - Get into as many details as possible; the appendices in the paper should also be covered.
 
 <a name="ds"></a>
 ## **Data Scientist (DS)**
-Find the dataset used in the paper, prepare a dataset description. Take the entire dataset or a subsample (if it’s too large) and prepare a notebook, some tabels and a series of plotly plots with an Exploratory Data Analysis (statistics, number of words, type-token ratio, number of sentences, means and standard deviations, distribution plots, tokenizer fertility, perplexity etc.). This is role requires code, plots, analyses.
+Find the dataset used in the paper, prepare a dataset description. Take the entire dataset or a subsample (if it’s too large) and prepare a notebook, some tabels and a series of plotly plots with an Exploratory Data Analysis (statistics, number of words, type-token ratio, number of sentences, means and standard deviations, distribution plots, tokenizer fertility, perplexity etc.). This is role requires code, plots, analyses. The role also requires you to know exactly the data sources, how it has been created, by whom, whether it is representative for the intended use.
 
-
-<a name="role_sci"></a>
-## **Scientific reviewer (R)**
-You must make a critical evaluation of the paper, not necessarily negative; read the guidelines  and examples from [NIPS](https://neurips.cc/Conferences/2020/PaperInformation/ReviewerGuidelines#Examples)
-
-- Summary and contributions: Briefly summarize the paper and its contributions
-- Strengths: Describe the strengths of the work. Typical criteria include: soundness of the claims (theoretical grounding, empirical evaluation), significance and novelty of the contribution, and relevance to the Machine Translatiion community.
-- Weaknesses: Explain the limitations of this work along the same axes as above.
-- Correctness: Are the claims and method correct? Is the empirical methodology correct?
-- Clarity: Is the paper well written?
-- Additional feedback, comments, suggestions for improvement and questions for the authors
-- Overall score
 
 <a name="role_ing"></a>
 ## **Engineer (E)**
@@ -55,6 +41,7 @@ Implement something related to the paper either on the same dataset or on a new 
 - Reproducibility: If the original authors already provide the code, try to run it on a new dataset.
 - Comments: Are there enough details to reproduce the major results of this work?
 - Efficiency: Measure the time it takes to run the code, provide an assement of how suitable the approach is for being run at scale.
+
 
 <a name="role_vis"></a>
 ## **Visionary (V)**
