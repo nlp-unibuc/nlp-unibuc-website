@@ -1,5 +1,5 @@
-Title: Schedule of MT classes 2025-2026
-Slug: machine_translation/schedule_25_26
+Title: Schedule of MT classes 2026-2027
+Slug: machine_translation/schedule_26_27
 
 
 
