@@ -83,6 +83,7 @@ Accepted papers are published by Springer in *Lecture Notes in Computer Science*
 - Ana Sabina Uban, University of Bucharest
 - Ana-Maria Bucur, Università della Svizzera Italiana
 - Anca Dinu, University of Bucharest
+- Ciprian Ceaușescu, University of Bucharest
 - Claudiu Creanga, University of Bucharest
 - Constantin Orăsan, University of Surrey
 - Cornelia Caragea, University of Illinois Chicago
